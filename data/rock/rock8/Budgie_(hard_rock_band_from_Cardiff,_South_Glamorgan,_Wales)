@@ -1,0 +1,669 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Budgie - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="hard rock band from Cardiff, South Glamorgan, Wales, Type: Group, Founded: 1967 in Cardiff, Dissolved: 2010, Area: United Kingdom"/><script type="application/ld+json">{"member":[{"roleName":[],"member":{"name":"John Thomas","@id":"https://musicbrainz.org/artist/2a405f96-926b-4bec-ab98-a5bbae774b92","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/783d0cbf-e8e9-4833-9845-c87f17bdd2e6","name":"Ray Phillips","@type":["Person","MusicGroup"]},"roleName":[]},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bdad361f-3a99-4c0d-8237-66afe1d117a0","name":"Burke Shelley"},"roleName":[]},{"@type":"OrganizationRole","member":{"name":"Tony Bourge","@id":"https://musicbrainz.org/artist/d1fdace4-30a8-404a-a237-360f60927557","@type":["Person","MusicGroup"]},"roleName":[]}],"foundingDate":"1967","location":{"name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country"},"dissolutionDate":"2010","groupOrigin":{"@id":"https://musicbrainz.org/area/f0b226db-8e22-40e6-9a53-d839cfec6228","name":"Cardiff","containedIn":{"@type":"AdministrativeArea","name":"Wales","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"@id":"https://musicbrainz.org/area/8297708c-5743-47d6-a5ac-f40a41c49ad9"},"@type":"City"},"sameAs":["http://en.wikipedia.org/wiki/Budgie_(band)","http://www.allmusic.com/artist/mn0000623985","http://www.budgie.uk.com/","http://www.metal-archives.com/bands/Budgie/1039","http://www.musik-sammler.de/artist/3049","https://rateyourmusic.com/artist/budgie","https://www.discogs.com/artist/267214","https://www.wikidata.org/wiki/Q508678"],"@context":"http://schema.org","name":"Budgie","album":[{"@id":"https://musicbrainz.org/release-group/966ca955-3513-3b72-b66b-3916a9dd757e","byArtist":{"@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie","@type":"MusicGroup"},"name":"Budgie","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Budgie","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c25c1785-5c9c-3a74-b683-ff449865b877","byArtist":{"@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie","@type":"MusicGroup"},"name":"Squawk"},{"creditedTo":"Budgie","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"name":"Never Turn Your Back on a Friend","@id":"https://musicbrainz.org/release-group/58ea61fb-af46-3af2-88fd-e1743afc8064"},{"byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"name":"In for the Kill","@id":"https://musicbrainz.org/release-group/2efaddc9-beec-3a30-8b97-ca645b91a4e0","creditedTo":"Budgie","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Budgie","@id":"https://musicbrainz.org/release-group/55cf5b66-38b9-388d-b4a4-0509eac30826","name":"Bandolier","byArtist":{"@type":"MusicGroup","name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09"}},{"@id":"https://musicbrainz.org/release-group/530446f8-3275-318e-9202-ea480bd79783","name":"If I Were Brittania I'd Waive the Rules","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Budgie"},{"name":"Impeckable","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie"},"@id":"https://musicbrainz.org/release-group/455dd3c0-fa03-3a70-b321-07614061fd19","@type":"MusicAlbum","creditedTo":"Budgie","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/951a5455-1f58-3759-bef6-ce18fe66e07e","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"name":"Power Supply"},{"@type":"MusicAlbum","creditedTo":"Budgie","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Nightflight","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/b62f1bcd-f4b2-3c81-ae1a-cf81851e381f"},{"name":"Deliver Us From Evil","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/98a42683-4e95-33c0-9bae-67c618ecabf2","@type":"MusicAlbum","creditedTo":"Budgie","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"You're All Living in Cuckooland","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie"},"@id":"https://musicbrainz.org/release-group/bafde6ab-6221-3e7a-bc13-212b05d5d5ec","@type":"MusicAlbum","creditedTo":"Budgie","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Budgie","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie","@type":"MusicGroup"},"name":"Budgie","@id":"https://musicbrainz.org/release-group/659aae5e-649e-4040-bbdf-8d687369e687"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/75893948-0de8-4956-8354-f701b6386835","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie"},"name":"Best of Budgie"},{"@id":"https://musicbrainz.org/release-group/7774ebad-e201-3f32-a3e8-ca0be6c19d99","name":"The Definitive Anthology: An Ecstasy of Fumbling","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie"},"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Budgie"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d8956286-dc8a-396c-945c-9071f18da59a","byArtist":{"@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie","@type":"MusicGroup"},"name":"The Very Best of Budgie"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8e5657be-a419-4b46-8532-917380160d49","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"name":"The Last Stage"},{"@id":"https://musicbrainz.org/release-group/3ce60e26-3a36-4451-8bb0-e5691455f994","byArtist":{"@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie","@type":"MusicGroup"},"name":"The MCA Albums 1973-1975","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Budgie","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/88f45486-1b27-3e4f-ae3a-3084a025ffc7","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"name":"Best of"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/38923855-80db-3fb5-97e5-f32689a8fe33","byArtist":{"@type":"MusicGroup","name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09"},"name":"Greatest Hits"},{"@id":"https://musicbrainz.org/release-group/d6eccd93-ca0f-3789-a2fd-bcd76307369d","name":"Heavier Than Air: Rarest Eggs","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"Budgie"},{"@id":"https://musicbrainz.org/release-group/62569aa6-b26b-3634-bfd2-5cfc5b5822e1","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"name":"Life in San Antonio","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Budgie","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/83105212-e817-35dd-a815-61882c440a7c","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie"},"name":"The BBC Recordings","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Budgie","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Budgie","@id":"https://musicbrainz.org/release-group/e16425b8-7f7a-332a-989d-6696466ee61e","name":"We Came, We Saw","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","name":"Budgie"}},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","creditedTo":"Budgie","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e4a99c6c-2a3b-483b-89a9-85d7310778ec","byArtist":{"name":"Budgie","@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"},"name":"If Swallowed, Do Not Induce Vomitting"}],"@id":"https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09","@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F517566c5-3d43-4a81-8f78-9a78f3209e09">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F517566c5-3d43-4a81-8f78-9a78f3209e09">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Budgie</bdi></a> <span class="comment">(<bdi>hard rock band from Cardiff, South Glamorgan, Wales</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09" title="Budgie – Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/releases" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/recordings" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/works" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Works</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/events" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Events</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/relationships" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/aliases" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/tags" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/details" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Details</bdi></a></li>            <li><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/edit" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Budgie</b> are a Welsh hard rock band from Cardiff. They are described by author Garry Sharpe-Young as one of the earliest heavy metal bands and a seminal influence to many acts of that scene, with fast, heavy rock (an influence on the new wave of British heavy metal (NWOBHM) and acts such as Metallica) being played as early as 1971. The band has been noted as "among the heaviest metal of its day".</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Budgie_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=54632" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/966ca955-3513-3b72-b66b-3916a9dd757e"><bdi>Budgie</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/c25c1785-5c9c-3a74-b683-ff449865b877"><bdi>Squawk</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/58ea61fb-af46-3af2-88fd-e1743afc8064"><bdi>Never Turn Your Back on a Friend</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/2efaddc9-beec-3a30-8b97-ca645b91a4e0"><bdi>In for the Kill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/55cf5b66-38b9-388d-b4a4-0509eac30826"><bdi>Bandolier</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/530446f8-3275-318e-9202-ea480bd79783"><bdi>If I Were Brittania I'd Waive the Rules</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/455dd3c0-fa03-3a70-b321-07614061fd19"><bdi>Impeckable</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/951a5455-1f58-3759-bef6-ce18fe66e07e"><bdi>Power Supply</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/b62f1bcd-f4b2-3c81-ae1a-cf81851e381f"><bdi>Nightflight</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/98a42683-4e95-33c0-9bae-67c618ecabf2"><bdi>Deliver Us From Evil</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bafde6ab-6221-3e7a-bc13-212b05d5d5ec"><bdi>You're All Living in Cuckooland</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/659aae5e-649e-4040-bbdf-8d687369e687"><bdi>Budgie</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/75893948-0de8-4956-8354-f701b6386835"><bdi>Best of Budgie</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/7774ebad-e201-3f32-a3e8-ca0be6c19d99"><bdi>The Definitive Anthology: An Ecstasy of Fumbling</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/d8956286-dc8a-396c-945c-9071f18da59a"><bdi>The Very Best of Budgie</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/8e5657be-a419-4b46-8532-917380160d49"><bdi>The Last Stage</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/3ce60e26-3a36-4451-8bb0-e5691455f994"><bdi>The MCA Albums 1973-1975</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/88f45486-1b27-3e4f-ae3a-3084a025ffc7"><bdi>Best of</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/38923855-80db-3fb5-97e5-f32689a8fe33"><bdi>Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/d6eccd93-ca0f-3789-a2fd-bcd76307369d"><bdi>Heavier Than Air: Rarest Eggs</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/62569aa6-b26b-3634-bfd2-5cfc5b5822e1"><bdi>Life in San Antonio</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/83105212-e817-35dd-a815-61882c440a7c"><bdi>The BBC Recordings</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e16425b8-7f7a-332a-989d-6696466ee61e"><bdi>We Came, We Saw</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/e4a99c6c-2a3b-483b-89a9-85d7310778ec"><bdi>If Swallowed, Do Not Induce Vomitting</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/517566c5-3d43-4a81-8f78-9a78f3209e09?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Budgie_Burke_Shelley_Live.jpg/250px-Budgie_Burke_Shelley_Live.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Budgie Burke Shelley Live.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1967</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f0b226db-8e22-40e6-9a53-d839cfec6228"><bdi>Cardiff</bdi></a>, <a href="/area/8297708c-5743-47d6-a5ac-f40a41c49ad9"><bdi>Wales</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2010 (43 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/ratings" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/heavy%20metal"><bdi>heavy metal</bdi></a>, <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/classic%20pop%20and%20rock"><bdi>classic pop and rock</bdi></a>, <a href="/tag/metal"><bdi>metal</bdi></a>, <a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/tags" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.budgie.uk.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000623985">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/267214">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/budgie">Rateyourmusic</a>
+          
+          
+        </li>               <li class="metalarchives-favicon">
+          
+          
+          <a href="http://www.metal-archives.com/bands/Budgie/1039">Metal Archives</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/3049">Musik-Sammler</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q508678">Q508678</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Budgie_(band)">en: Budgie (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/517566c5-3d43-4a81-8f78-9a78f3209e09/relationships" title="Budgie (hard rock band from Cardiff, South Glamorgan, Wales)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F517566c5-3d43-4a81-8f78-9a78f3209e09">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-07-17 04:38 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

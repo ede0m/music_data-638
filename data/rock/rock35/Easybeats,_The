@@ -1,0 +1,623 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Easybeats - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1964 in Sydney, Dissolved: 1969, Area: Australia"/><script type="application/ld+json">{"groupOrigin":{"@type":"City","@id":"https://musicbrainz.org/area/3f179da4-83c6-4a28-a627-e46b4a8ff1ed","name":"Sydney","containedIn":{"containedIn":{"@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e","name":"Australia","@type":"Country"},"name":"New South Wales","@id":"https://musicbrainz.org/area/ee8fe1ca-7455-485d-afbc-064844f5ee43","@type":"AdministrativeArea"}},"dissolutionDate":"1969","sameAs":["http://en.wikipedia.org/wiki/The_Easybeats","https://musicbrainz.org/artist/328c2c2f-4fab-4a8f-bdd3-362dc05caa94","https://www.discogs.com/artist/293531","https://www.wikidata.org/wiki/Q1545459"],"member":[{"member":{"@id":"https://musicbrainz.org/artist/58f3848a-08da-4c0b-9379-c6dbb5186983","name":"George Young","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/813fbc62-134a-4f01-85ad-c78b1c7869c5","name":"Stevie Wright"},"roleName":[]},{"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/bb285e2f-9667-4388-b330-3b8129c8c1b5","name":"Harry Vanda","@type":["Person","MusicGroup"]},"roleName":[]}],"location":{"@type":"Country","@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e","name":"Australia"},"foundingDate":"1964","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","@context":"http://schema.org","name":"The Easybeats","album":[{"byArtist":{"name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","@type":"MusicGroup"},"name":"Easy","@id":"https://musicbrainz.org/release-group/bf17005b-d504-3056-86bd-e3d6ae0b7c8f","creditedTo":"The Easybeats","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"The Easybeats","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"It's 2 Easy","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats"},"@id":"https://musicbrainz.org/release-group/22174985-bdde-39b2-aef1-7afd064103a6"},{"@type":"MusicAlbum","creditedTo":"The Easybeats","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Volume 3","byArtist":{"@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/5bb17b2c-b135-34e0-b424-d9b1acf65054"},{"byArtist":{"@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats","@type":"MusicGroup"},"name":"Good Friday","@id":"https://musicbrainz.org/release-group/d0c22e8e-46f7-3252-8bc7-5ec5a4315001","creditedTo":"The Easybeats","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/416b19bd-39ea-3623-93f4-6fe451c27509","name":"Vigil","byArtist":{"@type":"MusicGroup","name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"The Easybeats"},{"name":"The Best of the Easybeats \u002b Pretty Girl","byArtist":{"@type":"MusicGroup","name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372"},"@id":"https://musicbrainz.org/release-group/23c8e9d3-55f8-37c4-8fad-d7cdb43470c4","@type":"MusicAlbum","creditedTo":"The Easybeats","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/0d7396c2-f38d-37c9-9039-25c1a3468bef","byArtist":{"name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","@type":"MusicGroup"},"name":"Best of the Easybeats, Volume 2","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"The Easybeats","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"The Easybeats","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Best of the Easybeats Featuring Friday on My Mind","byArtist":{"@type":"MusicGroup","name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372"},"@id":"https://musicbrainz.org/release-group/304a25e3-bdcf-4104-9cc3-3054d2f8de9e"},{"@id":"https://musicbrainz.org/release-group/a7264acf-95a3-3ceb-802e-7b9c07b75a28","name":"Absolute Anthology: 1965-1969","byArtist":{"@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"The Easybeats"},{"@id":"https://musicbrainz.org/release-group/a44c68af-4d38-32e4-9120-3c51313acb7f","name":"Friday on My Mind","byArtist":{"name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"The Easybeats"},{"name":"The Best of...","byArtist":{"name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/388a604c-1fd7-3390-b5f3-fa89890e4a67","@type":"MusicAlbum","creditedTo":"The Easybeats","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats"},"name":"The Definitive Anthology: Aussie Beat That Shook the World","@id":"https://musicbrainz.org/release-group/9b6ee9b9-d78f-322b-819e-8771f5fe471e","creditedTo":"The Easybeats","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Gonna Have a Good Time","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats"},"@id":"https://musicbrainz.org/release-group/ada650a2-2232-4ec8-b524-125645bc032a","@type":"MusicAlbum","creditedTo":"The Easybeats","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","@type":"MusicGroup"},"name":"The Singles As \u0026 Bs","@id":"https://musicbrainz.org/release-group/5436fba6-06e0-4a2d-a94f-7ac4454f4a48","creditedTo":"The Easybeats","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"The Easybeats","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/b833ce60-ec11-32cd-b19a-5ccae7b05d41","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats"},"name":"Friday on My Mind"},{"creditedTo":"The Easybeats","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372"},"name":"The Definitive Series","@id":"https://musicbrainz.org/release-group/15969fcd-f90e-35fd-ac68-cc56b2ca9a1e"},{"@type":"MusicAlbum","creditedTo":"The Easybeats","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Wedding Ring","byArtist":{"name":"The Easybeats","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/49cbcec8-c258-3432-8b16-94e53b5931e7"},{"name":"Friday on My Mind","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats"},"@id":"https://musicbrainz.org/release-group/4fe9c2bf-9188-4b40-b270-58c06b3af149","@type":"MusicAlbum","creditedTo":"The Easybeats","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats"},"name":"Easyfever","@id":"https://musicbrainz.org/release-group/3a85830f-8d30-3061-848c-3f8675c8ecfc","creditedTo":"The Easybeats","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/044febdf-eb59-479b-8b20-1643178beebf","name":"Shame Just Drained","byArtist":{"@id":"https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372","name":"The Easybeats","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"The Easybeats"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fdff0eebd-dbc3-4a60-aeee-842bde2c1372">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fdff0eebd-dbc3-4a60-aeee-842bde2c1372">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372" title="Easybeats, The"><bdi>The Easybeats</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372" title="The Easybeats – Easybeats, The"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/releases" title="Easybeats, The"><bdi>Releases</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/recordings" title="Easybeats, The"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/works" title="Easybeats, The"><bdi>Works</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/events" title="Easybeats, The"><bdi>Events</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/relationships" title="Easybeats, The"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/aliases" title="Easybeats, The"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/tags" title="Easybeats, The"><bdi>Tags</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/details" title="Easybeats, The"><bdi>Details</bdi></a></li>            <li><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/edit" title="Easybeats, The"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>The Easybeats</b> were an Australian rock band which formed in Sydney, Australia, in late 1964, and disbanded at the end of 1969. Regarded as the greatest pop band hailing from Australia in the 1960s, they were the antipodean echo to the style and sound of the Beatles in Britain, and the first rock and roll act from Australia to score an international pop hit with the 1966 single, "Friday on My Mind".</p>
+<p>The band's line-up exemplified the influence of post-war migration on Australian society. All five founding members were from families that had migrated to Australia from Europe: lead singer Stevie Wright and drummer Gordon "Snowy" Fleet were from England; rhythm guitarist George Young was from Scotland; lead guitarist Harry Vanda and bassist Dick Diamonde were from the Netherlands.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/The_Easybeats">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=58678" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1965</td>
+        <td><a href="/release-group/bf17005b-d504-3056-86bd-e3d6ae0b7c8f"><bdi>Easy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/22174985-bdde-39b2-aef1-7afd064103a6"><bdi>It's 2 Easy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/5bb17b2c-b135-34e0-b424-d9b1acf65054"><bdi>Volume 3</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1967</td>
+        <td><a href="/release-group/d0c22e8e-46f7-3252-8bc7-5ec5a4315001"><bdi>Good Friday</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1968</td>
+        <td><a href="/release-group/416b19bd-39ea-3623-93f4-6fe451c27509"><bdi>Vigil</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1967</td>
+        <td><a href="/release-group/23c8e9d3-55f8-37c4-8fad-d7cdb43470c4"><bdi>The Best of the Easybeats + Pretty Girl</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/0d7396c2-f38d-37c9-9039-25c1a3468bef"><bdi>Best of the Easybeats, Volume 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/304a25e3-bdcf-4104-9cc3-3054d2f8de9e"><bdi>Best of the Easybeats Featuring Friday on My Mind</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/a7264acf-95a3-3ceb-802e-7b9c07b75a28"><bdi>Absolute Anthology: 1965-1969</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/a44c68af-4d38-32e4-9120-3c51313acb7f"><bdi>Friday on My Mind</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/388a604c-1fd7-3390-b5f3-fa89890e4a67"><bdi>The Best of...</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/9b6ee9b9-d78f-322b-819e-8771f5fe471e"><bdi>The Definitive Anthology: Aussie Beat That Shook the World</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/ada650a2-2232-4ec8-b524-125645bc032a"><bdi>Gonna Have a Good Time</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5436fba6-06e0-4a2d-a94f-7ac4454f4a48"><bdi>The Singles As &amp; Bs</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/b833ce60-ec11-32cd-b19a-5ccae7b05d41"><bdi>Friday on My Mind</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/15969fcd-f90e-35fd-ac68-cc56b2ca9a1e"><bdi>The Definitive Series</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1965</td>
+        <td><a href="/release-group/49cbcec8-c258-3432-8b16-94e53b5931e7"><bdi>Wedding Ring</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/4fe9c2bf-9188-4b40-b270-58c06b3af149"><bdi>Friday on My Mind</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/3a85830f-8d30-3061-848c-3f8675c8ecfc"><bdi>Easyfever</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/044febdf-eb59-479b-8b20-1643178beebf"><bdi>Shame Just Drained</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Easybeats.png/250px-The_Easybeats.png"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:The Easybeats.png">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Easybeats, The</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1964</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/3f179da4-83c6-4a28-a627-e46b4a8ff1ed"><bdi>Sydney</bdi></a>, <a href="/area/ee8fe1ca-7455-485d-afbc-064844f5ee43"><bdi>New South Wales</bdi></a>, <span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>1969 (5 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/ratings" title="Easybeats, The"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/australian"><bdi>australian</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/rock%20and%20roll"><bdi>rock and roll</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/293531">Discogs</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1545459">Q1545459</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/The_Easybeats">en: The Easybeats</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/dff0eebd-dbc3-4a60-aeee-842bde2c1372/relationships" title="Easybeats, The"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fdff0eebd-dbc3-4a60-aeee-842bde2c1372">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-10-27 19:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

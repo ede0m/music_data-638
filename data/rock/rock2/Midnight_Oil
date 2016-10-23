@@ -1,0 +1,836 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Midnight Oil - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1975, Dissolved: 2002-12-02, Area: Australia"/><script type="application/ld+json">{"@type":"MusicGroup","name":"Midnight Oil","album":[{"@type":"MusicAlbum","creditedTo":"Midnight Oil","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Midnight Oil","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/2acf2967-607c-3d54-8dfb-a674e0d696fd"},{"@id":"https://musicbrainz.org/release-group/330b9d67-ca83-35ee-8fc8-f72d7d210f84","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"name":"Head Injuries","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"creditedTo":"Midnight Oil","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"name":"Place Without a Postcard","@id":"https://musicbrainz.org/release-group/e1a98fd8-adf7-36e7-a973-d73487c01e95"},{"@id":"https://musicbrainz.org/release-group/118442bf-531a-39fc-9e47-1a9b63dc175e","name":"10,9,8,7,6,5,4,3,2,1","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Midnight Oil"},{"name":"Red Sails in the Sunset","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"},"@id":"https://musicbrainz.org/release-group/bba3c2f7-f91c-366f-8914-d27c62c45636","@type":"MusicAlbum","creditedTo":"Midnight Oil","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Diesel and Dust","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/31627a1a-3bc8-3da1-b106-d264ea4ac339","@type":"MusicAlbum","creditedTo":"Midnight Oil","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Midnight Oil","@id":"https://musicbrainz.org/release-group/8f76245e-6d7f-3f86-a9ce-ca6b1d724d2c","name":"Blue Sky Mining","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"},"name":"Earth and Sun and Moon","@id":"https://musicbrainz.org/release-group/ed265ee7-9f3c-3bbe-a8c4-7383a9a2bf86","creditedTo":"Midnight Oil","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"},"name":"Breathe","@id":"https://musicbrainz.org/release-group/e8eb0dfa-2394-322a-9ea3-104b241313c8","creditedTo":"Midnight Oil","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"Midnight Oil","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Redneck Wonderland","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/4e331a61-6fc1-3c1e-82f3-a8cf43455d0d"},{"@type":"MusicAlbum","creditedTo":"Midnight Oil","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Capricornia","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"},"@id":"https://musicbrainz.org/release-group/15f367dd-067c-3b17-9d72-69fc78f916f7"},{"@id":"https://musicbrainz.org/release-group/fabba5d8-cfaa-393f-855e-2682556ecf64","name":"20,000 Watt R.S.L.","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Midnight Oil"},{"@id":"https://musicbrainz.org/release-group/c4a3f7a6-86f9-38d3-bd59-4412986ba52e","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"},"name":"The Best of the B‐Sides","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Midnight Oil","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c223ac3c-aafb-4d59-bd7e-30bb30d87e8e","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"name":"The Collection"},{"@id":"https://musicbrainz.org/release-group/01ddfe04-d97a-4116-a43a-3ad92c91f4b0","byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"name":"Les Indispensables De Midnight Oil","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Midnight Oil","@id":"https://musicbrainz.org/release-group/7bbc5d9e-e017-3825-8303-eb018ea2f60c","name":"Flat Chat","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"}},{"creditedTo":"Midnight Oil","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"name":"Essential Oils","@id":"https://musicbrainz.org/release-group/2d4fda28-9a1e-488c-8aa3-8259fee64e54"},{"@id":"https://musicbrainz.org/release-group/1afe7a59-6076-3151-9c46-5d4147160beb","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"name":"Scream in Blue: Live","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Midnight Oil","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Real Thing","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"},"@id":"https://musicbrainz.org/release-group/a6629914-1b72-3e65-8734-3e0097d2ce80"},{"@id":"https://musicbrainz.org/release-group/819dee39-f25d-3cd4-83e5-460a37549970","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"},"name":"Best of Both Worlds","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/0c472437-5951-3f11-a0f6-b90de8c70441","name":"Power and the Passion","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Midnight Oil"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Midnight Oil","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/4781169e-f675-3fb8-a719-35e7e8c2669f","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"name":"Beds Are Burning"},{"@id":"https://musicbrainz.org/release-group/3c57cc70-dae0-4065-bd4c-0fe292886f70","byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"name":"Put Down That Weapon","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Midnight Oil","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/f5d93a3d-d092-3bbf-b480-2eb4995e6e5f","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"},"name":"The Dead Heart"},{"creditedTo":"Midnight Oil","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"name":"Beds Are Burning / The Dead Heart","@id":"https://musicbrainz.org/release-group/8676ea09-e828-4d42-9003-8b212a50320c"},{"@type":"MusicAlbum","creditedTo":"Midnight Oil","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Beds Are Burning","byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"@id":"https://musicbrainz.org/release-group/f249aeda-bf34-4205-994f-e828cf356f6b"},{"@id":"https://musicbrainz.org/release-group/d6f721e8-3122-3bad-89d6-10ea03160c5c","name":"Forgotten Years","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Midnight Oil"},{"@id":"https://musicbrainz.org/release-group/2fe47ea8-9fde-354e-8aec-06de6bbe903d","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"},"name":"Blue Sky Mine","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Midnight Oil","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8eeca95e-f3ef-3d74-bf27-1d85cd2b396e","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"},"name":"My Country"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Midnight Oil","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/aa823e91-7771-3797-97c0-041af1c4f3c7","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"name":"Outbreak of Love"},{"byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"name":"Truganini","@id":"https://musicbrainz.org/release-group/97655a80-399c-375f-a162-cff6dd192837","creditedTo":"Midnight Oil","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Midnight Oil","@id":"https://musicbrainz.org/release-group/8ec2fdd8-02aa-4afd-9c63-480fc2d18914","name":"Underwater","byArtist":{"@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Midnight Oil","@id":"https://musicbrainz.org/release-group/e26b96ba-4e0f-320a-b09c-8aacf00c825b","name":"Redneck Wonderland","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","name":"Midnight Oil"}},{"@id":"https://musicbrainz.org/release-group/899f47bd-067e-3b0d-8634-1a739076b1db","byArtist":{"@type":"MusicGroup","name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a"},"name":"No Man’s Land","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Midnight Oil","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Midnight Oil","@id":"https://musicbrainz.org/release-group/8f9daf4e-ad86-3c88-ba7d-b9590ce17c46","name":"Bird Noises","byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"}},{"byArtist":{"name":"Midnight Oil","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","@type":"MusicGroup"},"name":"Species Deceases","@id":"https://musicbrainz.org/release-group/a884b86c-3fc0-33d7-9d26-e19951599f0f","creditedTo":"Midnight Oil","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"}],"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a","member":[{"roleName":"electric bass guitar","member":{"name":"Dwayne \"Bones\" Hillman","@id":"https://musicbrainz.org/artist/38120de8-b745-4c2d-9c3f-bb500219eddc","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","startDate":"1987-11"},{"member":{"@type":["Person","MusicGroup"],"name":"Jim Moginie","@id":"https://musicbrainz.org/artist/5875ee63-d2de-47d5-b298-f4bdac1f8ead"},"endDate":"2002-12-02","@type":"OrganizationRole","roleName":[],"startDate":"1975"},{"endDate":"1987-11","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Peter Gifford","@id":"https://musicbrainz.org/artist/5bb62090-f140-44ae-b555-cb48ddd08536"},"roleName":"electric bass guitar","startDate":"1980"},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/61797c6a-5510-4f85-9d7a-e89a42421989","name":"Martin Rotsey"},"@type":"OrganizationRole","roleName":[]},{"startDate":"1975","roleName":"electric bass guitar","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/77711d0b-5cfb-4e46-a35d-14c24e49b6f8","name":"Andrew James"},"endDate":"1980","@type":"OrganizationRole"},{"roleName":[],"member":{"name":"Peter Garrett","@id":"https://musicbrainz.org/artist/7c383967-13fb-4c8c-95e2-c3e6da961e8c","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"endDate":"2002","@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/943a556c-6866-4912-8af5-95f967fcf50f","name":"Bones Hillman","@type":["Person","MusicGroup"]},"roleName":[],"startDate":"1987"},{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/be512ae4-7061-42ca-855a-e7d78701d287","name":"Rob Hirst","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"}],"foundingDate":"1975","location":{"name":"Australia","@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e","@type":"Country"},"sameAs":["http://en.wikipedia.org/wiki/Midnight_Oil","http://rateyourmusic.com/artist/midnight_oil","http://www.allmusic.com/artist/mn0000405903","http://www.bbc.co.uk/music/artists/05072650-4b05-4e8b-83d0-dba2576e306a","http://www.last.fm/music/Midnight\u002bOil","http://www.midnightoil.com/","http://www.whosampled.com/Midnight-Oil/","https://www.discogs.com/artist/92734","https://www.wikidata.org/wiki/Q48284"],"dissolutionDate":"2002-12-02"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F05072650-4b05-4e8b-83d0-dba2576e306a">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F05072650-4b05-4e8b-83d0-dba2576e306a">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a" title="Midnight Oil"><bdi>Midnight Oil</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a" title="Midnight Oil – Midnight Oil"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/releases" title="Midnight Oil"><bdi>Releases</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/recordings" title="Midnight Oil"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/works" title="Midnight Oil"><bdi>Works</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/events" title="Midnight Oil"><bdi>Events</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/relationships" title="Midnight Oil"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/aliases" title="Midnight Oil"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/tags" title="Midnight Oil"><bdi>Tags</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/details" title="Midnight Oil"><bdi>Details</bdi></a></li>            <li><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/edit" title="Midnight Oil"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Midnight Oil</b> (also known informally as "<b>The Oils</b>" to fans) are an Australian rock band, who originally performed as <b>Farm</b> from 1972 with drummer Rob Hirst, bass guitarist Andrew James and keyboard player/lead guitarist Jim Moginie. While vocalist Peter Garrett was studying at Australian National University in Canberra, he answered an advertisement for a spot in Farm, and by 1975 the band was touring the east coast. By late 1976, Garrett moved to Sydney to complete his law degree, and Farm changed its name to Midnight Oil by drawing the name out of a hat.</p>
+<p>Important to their development was manager Gary Morris who was able to negotiate favourable contracts with tour promoters and record companies and frustrate rock journalists. Guitarist Martin Rotsey joined in 1977 and Midnight Oil, with Morris, established their own record label Powderworks, which released their debut eponymous album in November 1978, and their first single "Run by Night" followed in December. Founding bass guitarist James, forced to leave due to illness in 1980, was replaced by Peter Gifford. Gifford was himself replaced by Bones Hillman in 1987. Through a long and distinguished career, the band became known for its driving hard-rock sound, intense live performances and political activism, particularly in aid of anti-nuclear, environmentalist and indigenous causes.</p>
+<p>Midnight Oil's albums which peaked in the Australian Top Ten were <i>10, 9, 8, 7, 6, 5, 4, 3, 2, 1</i>, <i>Red Sails in the Sunset</i>, <i>Species Deceases</i>, <i>Diesel and Dust</i>, <i>Blue Sky Mining</i>, <i>Scream in Blue (Live)</i>, <i>Earth and Sun and Moon</i>, <i>Breathe</i>, <i>20,000 Watt R.S.L.</i>, <i>Redneck Wonderland</i>, <i>The Real Thing</i>, <i>Capricornia</i> and <i>Flat Chat</i>. Australian Top Ten singles were "Power and the Passion", "The Dead Heart", "Beds Are Burning" and "Blue Sky Mine". Aside from chart success, both "Power and the Passion" and "Beds Are Burning" were listed by Australasian Performing Right Association (APRA) in the Top 30 best Australian songs of all time in 2001, a chart in which Midnight Oil are the only artists to feature twice. In December 2002, Garrett announced that he would seek to further his political career and Midnight Oil disbanded. But they would reform for two warm-up shows in Canberra leading up to their performance at one of the "Sound Relief" charity concerts, in honour of the victims of the 2009 "Black Saturday" fires in Victoria and floods in Queensland.</p>
+<p>Midnight Oil won eleven Australian Recording Industry Association (ARIA) Awards during its career, including induction into the Hall of Fame in 2006. At the induction, ARIA chairman Denis Handlin described Midnight Oil as true legends that always led by example in a uniquely Australian way with music that is powerful, uncompromising, inspiring, entertaining and enduring.</p>
+<p>In 2010, their album <i>Diesel and Dust</i> ranked no. 1 in the book <i>The 100 Best Australian Albums</i> by Toby Creswell, Craig Mathieson and John O'Donnell.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Midnight_Oil">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=9240" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/2acf2967-607c-3d54-8dfb-a674e0d696fd"><bdi>Midnight Oil</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/330b9d67-ca83-35ee-8fc8-f72d7d210f84"><bdi>Head Injuries</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/e1a98fd8-adf7-36e7-a973-d73487c01e95"><bdi>Place Without a Postcard</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/118442bf-531a-39fc-9e47-1a9b63dc175e"><bdi>10,9,8,7,6,5,4,3,2,1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/bba3c2f7-f91c-366f-8914-d27c62c45636"><bdi>Red Sails in the Sunset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/31627a1a-3bc8-3da1-b106-d264ea4ac339"><bdi>Diesel and Dust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:65%;">3.25</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/8f76245e-6d7f-3f86-a9ce-ca6b1d724d2c"><bdi>Blue Sky Mining</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/ed265ee7-9f3c-3bbe-a8c4-7383a9a2bf86"><bdi>Earth and Sun and Moon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/e8eb0dfa-2394-322a-9ea3-104b241313c8"><bdi>Breathe</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/4e331a61-6fc1-3c1e-82f3-a8cf43455d0d"><bdi>Redneck Wonderland</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/15f367dd-067c-3b17-9d72-69fc78f916f7"><bdi>Capricornia</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/fabba5d8-cfaa-393f-855e-2682556ecf64"><bdi>20,000 Watt R.S.L.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/c4a3f7a6-86f9-38d3-bd59-4412986ba52e"><bdi>The Best of the B‐Sides</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/c223ac3c-aafb-4d59-bd7e-30bb30d87e8e"><bdi>The Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/01ddfe04-d97a-4116-a43a-3ad92c91f4b0"><bdi>Les Indispensables De Midnight Oil</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/7bbc5d9e-e017-3825-8303-eb018ea2f60c"><bdi>Flat Chat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/2d4fda28-9a1e-488c-8aa3-8259fee64e54"><bdi>Essential Oils</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/1afe7a59-6076-3151-9c46-5d4147160beb"><bdi>Scream in Blue: Live</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/a6629914-1b72-3e65-8734-3e0097d2ce80"><bdi>The Real Thing</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/819dee39-f25d-3cd4-83e5-460a37549970"><bdi>Best of Both Worlds</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/0c472437-5951-3f11-a0f6-b90de8c70441"><bdi>Power and the Passion</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/4781169e-f675-3fb8-a719-35e7e8c2669f"><bdi>Beds Are Burning</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/3c57cc70-dae0-4065-bd4c-0fe292886f70"><bdi>Put Down That Weapon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/f5d93a3d-d092-3bbf-b480-2eb4995e6e5f"><bdi>The Dead Heart</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/8676ea09-e828-4d42-9003-8b212a50320c"><bdi>Beds Are Burning / The Dead Heart</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/f249aeda-bf34-4205-994f-e828cf356f6b"><bdi>Beds Are Burning</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/d6f721e8-3122-3bad-89d6-10ea03160c5c"><bdi>Forgotten Years</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/2fe47ea8-9fde-354e-8aec-06de6bbe903d"><bdi>Blue Sky Mine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/8eeca95e-f3ef-3d74-bf27-1d85cd2b396e"><bdi>My Country</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/aa823e91-7771-3797-97c0-041af1c4f3c7"><bdi>Outbreak of Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/97655a80-399c-375f-a162-cff6dd192837"><bdi>Truganini</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/8ec2fdd8-02aa-4afd-9c63-480fc2d18914"><bdi>Underwater</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/e26b96ba-4e0f-320a-b09c-8aacf00c825b"><bdi>Redneck Wonderland</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/899f47bd-067e-3b0d-8634-1a739076b1db"><bdi>No Man’s Land</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/8f9daf4e-ad86-3c88-ba7d-b9590ce17c46"><bdi>Bird Noises</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/a884b86c-3fc0-33d7-9d26-e19951599f0f"><bdi>Species Deceases</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ac.garrett1.jpg/250px-Ac.garrett1.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Ac.garrett1.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1975</dd>
+<dt>Dissolved:</dt>
+<dd>2002-12-02 (27 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:95%;">4.75</span>    </span>
+</span>    (<a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/ratings" title="Midnight Oil"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/australian"><bdi>australian</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/australia"><bdi>australia</bdi></a>, <a href="/tag/australie"><bdi>australie</bdi></a>, <a href="/tag/australien"><bdi>australien</bdi></a>, <a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/tags" title="Midnight Oil"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.midnightoil.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000405903">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/05072650-4b05-4e8b-83d0-dba2576e306a">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/92734">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Midnight+Oil">Midnight Oil</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/midnight_oil">Rateyourmusic</a>
+          
+          
+        </li>               <li class="whosampled-favicon">
+          
+          
+          <a href="http://www.whosampled.com/Midnight-Oil/">WhoSampled</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/midnightoilofficial">midnightoilofficial</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q48284">Q48284</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Midnight_Oil">en: Midnight Oil</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/midnightoilvevo">midnightoilvevo</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/05072650-4b05-4e8b-83d0-dba2576e306a/relationships" title="Midnight Oil"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F05072650-4b05-4e8b-83d0-dba2576e306a">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2012-05-15 19:04 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

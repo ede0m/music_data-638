@@ -1,0 +1,864 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Guano Apes - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1994 in Göttingen, Area: Germany"/><script type="application/ld+json">{"@type":"MusicGroup","@context":"http://schema.org","sameAs":["http://en.wikipedia.org/wiki/Guano_Apes","http://isni-url.oclc.nl/isni/0000000085383602","http://musicmoz.org/Bands_and_Artists/G/Guano_Apes/","http://rateyourmusic.com/artist/guano_apes","http://viaf.org/viaf/123353424","http://www.allmusic.com/artist/mn0000945796","http://www.guanoapes.org/","http://www.imdb.com/name/nm3148090/","http://www.last.fm/music/Guano\u002bApes","http://www.musik-sammler.de/artist/3552","http://www.secondhandsongs.com/artist/16335","http://www.worldcat.org/identities/viaf-123353424/","https://www.discogs.com/artist/12642","https://www.wikidata.org/wiki/Q491661"],"@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","location":{"@type":"Country","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","name":"Germany"},"groupOrigin":{"containedIn":{"name":"Niedersachsen","@id":"https://musicbrainz.org/area/2978b457-3c4a-4a34-8b3c-d35e4804c42b","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","name":"Germany"},"@type":"AdministrativeArea"},"@type":"City","name":"Göttingen","@id":"https://musicbrainz.org/area/e1118b38-3b6b-4e3b-a260-ba83a89eb09a"},"album":[{"name":"Proud Like a God","@id":"https://musicbrainz.org/release-group/8883ab44-931f-3d27-acfd-06df1dda4a49","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Guano Apes","byArtist":{"name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes"},"creditedTo":"Guano Apes","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"Don’t Give Me Names","@id":"https://musicbrainz.org/release-group/9a3641db-6324-3db1-a406-075a2336e8bb","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Guano Apes","byArtist":{"name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","@type":"MusicGroup"},"name":"Walking on a Thin Line","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b2d8b86d-6482-39c9-bbec-0a51f5fbc8d1"},{"name":"Bel Air","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bba16990-5443-460d-b12f-92fe8416d979","byArtist":{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"},"creditedTo":"Guano Apes","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes","@type":"MusicGroup"},"creditedTo":"Guano Apes","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/61ef9f4c-01d2-47f1-9d63-15788646358f","name":"Offline"},{"@id":"https://musicbrainz.org/release-group/51f3f9d2-24e8-4d1e-9cf2-78cf0568eb23","albumReleaseType":"http://schema.org/AlbumRelease","name":"Alternative Collection","creditedTo":"Guano Apes","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum"},{"name":"The Complete Single Collection","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3b9b1876-c9e1-3a89-acf8-6d2903d9b2fa","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes"},"creditedTo":"Guano Apes"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/803bc9fe-871d-3bed-91de-c5aa0346d49e","name":"Planet of the Apes: Best of Guano Apes","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Guano Apes","byArtist":{"name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","@type":"MusicGroup"}},{"name":"Lost (T)apes","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f3a31173-2306-3c82-9c52-31cb29979041","byArtist":{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"},"creditedTo":"Guano Apes","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/b9374a72-cc65-47c2-b2a7-d34e61a754a9","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Best \u0026 The Lost (T)apes","creditedTo":"Guano Apes","byArtist":{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Guano Apes","byArtist":{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"},"name":"Live","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d4ed4446-cd39-3ccb-bca6-ed87b298b028"},{"name":"Open Your Eyes","@id":"https://musicbrainz.org/release-group/43004c31-49ee-4d94-977e-a4b4df5bf896","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"},"creditedTo":"Guano Apes"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes"},"creditedTo":"Guano Apes","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/743cb343-5386-31b8-a1ef-021b4a298b05","albumReleaseType":"http://schema.org/SingleRelease","name":"Rain"},{"creditedTo":"Guano Apes","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"Lords of the Boards","@id":"https://musicbrainz.org/release-group/19def54b-21d4-33a1-b3db-e4e440ebe08a","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Don't You Turn Your Back on Me","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b7691468-583c-3188-86e9-c4489f703670","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes","@type":"MusicGroup"},"creditedTo":"Guano Apes"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5c654090-9d41-3d80-96ae-516296ea62bd","name":"No Speech","byArtist":{"name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","@type":"MusicGroup"},"creditedTo":"Guano Apes","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Living in a Lie","@id":"https://musicbrainz.org/release-group/85836e32-4d4b-3646-99b4-b8a1836640f7","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes","@type":"MusicGroup"},"creditedTo":"Guano Apes","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Big in Japan","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/104f9e49-5b16-3e35-ae29-2450d5d4ae4c","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"},"creditedTo":"Guano Apes"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Guano Apes","byArtist":{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/8c27f580-35f5-3cdf-96d9-f1ebddbff440","name":"Dödel Up"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"name":"Michael Mittermeier","@id":"https://musicbrainz.org/artist/310931f2-f1be-4263-9610-1aec2d5b7c85","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd"}],"creditedTo":"Mittermeier vs. Guano Babes","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/918d1493-adc4-3e0e-8176-cecfc5b860a5","name":"Kumba Yo!"},{"name":"You Can’t Stop Me","@id":"https://musicbrainz.org/release-group/a11f18e5-0f2f-3259-a375-3aa9dace4d16","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes"},"creditedTo":"Guano Apes"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Guano Apes","byArtist":{"@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/3976143e-9dab-379e-b42c-a4d0647587cb","albumReleaseType":"http://schema.org/SingleRelease","name":"Quietly"},{"name":"Pretty in Scarlet","@id":"https://musicbrainz.org/release-group/e1eec80b-1b76-3eb0-b13f-dccbfc1d9e01","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Guano Apes","byArtist":{"name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Guano Apes","byArtist":{"name":"Guano Apes","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","@type":"MusicGroup"},"name":"Break the Line","@id":"https://musicbrainz.org/release-group/50bbf28b-0397-3757-b2b4-faf099a608e9","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes","@type":"MusicGroup"},"creditedTo":"Guano Apes","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6579a3b4-d038-4416-9677-dec49ed5c4f9","name":"Oh What a Night"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/7c240b2a-e9cd-4b46-af8e-7047cb2cfa80","name":"Close to the Sun","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Guano Apes","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes"}},{"name":"Planet of the Apes - The Best of Guano Apes","@id":"https://musicbrainz.org/release-group/c3d44400-9287-4b4f-a043-9fdda2b6f3d3","byArtist":{"@id":"https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd","name":"Guano Apes","@type":"MusicGroup"},"creditedTo":"Guano Apes","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"}],"name":"Guano Apes","foundingDate":"1994","member":[{"member":{"@type":["Person","MusicGroup"],"name":"Sandra Nasić","@id":"https://musicbrainz.org/artist/0fb62639-4143-443b-8779-6867a1d08230"},"roleName":[],"@type":"OrganizationRole","startDate":"1994"},{"@type":"OrganizationRole","startDate":"1990","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6bb40ec4-3fbd-4997-8598-df0fb96eb9d1","name":"Henning Rümenapp"}},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Stefan Ude","@id":"https://musicbrainz.org/artist/b6cd42cd-627b-41f2-ac53-ba7831e9f62d"},"@type":"OrganizationRole","startDate":"1990"},{"startDate":"1990","@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Dennis Poschwatta","@id":"https://musicbrainz.org/artist/cc710bf0-8a14-4bdf-98a2-74a77a504e88"}}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F66da25f9-1534-4dd1-b88c-718bc24e1ccd">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F66da25f9-1534-4dd1-b88c-718bc24e1ccd">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes – Guano Apes"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/releases" title="Guano Apes"><bdi>Releases</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/recordings" title="Guano Apes"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/works" title="Guano Apes"><bdi>Works</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/events" title="Guano Apes"><bdi>Events</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/relationships" title="Guano Apes"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/aliases" title="Guano Apes"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/tags" title="Guano Apes"><bdi>Tags</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/details" title="Guano Apes"><bdi>Details</bdi></a></li>            <li><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/edit" title="Guano Apes"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Guano Apes</b> is a rock band formed in 1994 in Göttingen, Germany. The group members are Sandra Nasić (vocals), Henning Rümenapp (guitars, backing vocals), Stefan Ude (bass, backing vocals) and Dennis Poschwatta (drums, backing vocals).</p>
+<p>Their sound has been described as a fusion of metal, pop and rap.</p>
+<p>They have released five studio albums (<i>Proud Like a God</i> in 1997, <i>Don't Give Me Names</i> in 2000, <i>Walking on a Thin Line</i> in 2003, <i>Bel Air</i> in 2011 and <i>Offline</i> in 2014), one live album (<i>Live</i> in 2003), two compilation albums (<i>Planet of the Apes</i> in 2004 and <i>Lost (T)apes</i> in 2006), fifteen singles and five video albums.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Guano_Apes">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1880" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/8883ab44-931f-3d27-acfd-06df1dda4a49"><bdi>Proud Like a God</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:65%;">3.25</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/9a3641db-6324-3db1-a406-075a2336e8bb"><bdi>Don’t Give Me Names</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:67%;">3.35</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/b2d8b86d-6482-39c9-bbec-0a51f5fbc8d1"><bdi>Walking on a Thin Line</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/bba16990-5443-460d-b12f-92fe8416d979"><bdi>Bel Air</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/61ef9f4c-01d2-47f1-9d63-15788646358f"><bdi>Offline</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/51f3f9d2-24e8-4d1e-9cf2-78cf0568eb23"><bdi>Alternative Collection</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/3b9b1876-c9e1-3a89-acf8-6d2903d9b2fa"><bdi>The Complete Single Collection</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/803bc9fe-871d-3bed-91de-c5aa0346d49e"><bdi>Planet of the Apes: Best of Guano Apes</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/f3a31173-2306-3c82-9c52-31cb29979041"><bdi>Lost (T)apes</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/b9374a72-cc65-47c2-b2a7-d34e61a754a9"><bdi>The Best &amp; The Lost (T)apes</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/d4ed4446-cd39-3ccb-bca6-ed87b298b028"><bdi>Live</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/43004c31-49ee-4d94-977e-a4b4df5bf896"><bdi>Open Your Eyes</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/743cb343-5386-31b8-a1ef-021b4a298b05"><bdi>Rain</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/19def54b-21d4-33a1-b3db-e4e440ebe08a"><bdi>Lords of the Boards</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/b7691468-583c-3188-86e9-c4489f703670"><bdi>Don't You Turn Your Back on Me</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/5c654090-9d41-3d80-96ae-516296ea62bd"><bdi>No Speech</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/85836e32-4d4b-3646-99b4-b8a1836640f7"><bdi>Living in a Lie</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/104f9e49-5b16-3e35-ae29-2450d5d4ae4c"><bdi>Big in Japan</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/8c27f580-35f5-3cdf-96d9-f1ebddbff440"><bdi>Dödel Up</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/918d1493-adc4-3e0e-8176-cecfc5b860a5"><bdi>Kumba Yo!</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/310931f2-f1be-4263-9610-1aec2d5b7c85" title="Michael Mittermeier – Mittermeier, Michael (German comedian)"><bdi>Mittermeier</bdi></a></span> vs. <span class="name-variation"><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes – Guano Apes"><bdi>Guano Babes</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/a11f18e5-0f2f-3259-a375-3aa9dace4d16"><bdi>You Can’t Stop Me</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/3976143e-9dab-379e-b42c-a4d0647587cb"><bdi>Quietly</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/e1eec80b-1b76-3eb0-b13f-dccbfc1d9e01"><bdi>Pretty in Scarlet</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/50bbf28b-0397-3757-b2b4-faf099a608e9"><bdi>Break the Line</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/6579a3b4-d038-4416-9677-dec49ed5c4f9"><bdi>Oh What a Night</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/7c240b2a-e9cd-4b46-af8e-7047cb2cfa80"><bdi>Close to the Sun</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/c3d44400-9287-4b4f-a043-9fdda2b6f3d3"><bdi>Planet of the Apes - The Best of Guano Apes</bdi></a></td>
+        
+        <td><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd" title="Guano Apes"><bdi>Guano Apes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Guano_Apes.jpg/250px-Guano_Apes.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Guano Apes.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1994 (22 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/e1118b38-3b6b-4e3b-a260-ba83a89eb09a"><bdi>Göttingen</bdi></a>, <a href="/area/2978b457-3c4a-4a34-8b3c-d35e4804c42b"><bdi>Niedersachsen</bdi></a>, <span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000085383602">0000 0000 8538 3602    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/ratings" title="Guano Apes"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/crossover"><bdi>crossover</bdi></a>, <a href="/tag/german"><bdi>german</bdi></a>, <a href="/tag/new%20metal"><bdi>new metal</bdi></a>, <a href="/tag/90s"><bdi>90s</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/tags" title="Guano Apes"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.guanoapes.org/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000945796">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/12642">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm3148090/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Guano+Apes">Guano Apes</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Guano_Apes">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/gapes">gapes</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/G/Guano_Apes/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/guano_apes">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/3552">Musik-Sammler</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/viaf-123353424/">WorldCat</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/en/artist/id558193">iTunes</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/16335">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/gapesofficial">@gapesofficial</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/gapesofficial">gapesofficial</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/4whxX965DKKqYkXmk33b4E?play=true&utm_source=open.spotify.com&utm_medium=open">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/123353424">VIAF: 123353424</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q491661">Q491661</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Guano_Apes">en: Guano Apes</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/gapesofficial">gapesofficial</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/GuanoApesVEVO">GuanoApesVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/66da25f9-1534-4dd1-b88c-718bc24e1ccd/relationships" title="Guano Apes"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F66da25f9-1534-4dd1-b88c-718bc24e1ccd">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-05-16 15:04 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

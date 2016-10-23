@@ -1,0 +1,659 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Finger Eleven - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1996 in Burlington, Area: Canada"/><script type="application/ld+json">{"@type":"MusicGroup","name":"Finger Eleven","location":{"@type":"Country","name":"Canada","@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"},"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","member":[{"member":{"@id":"https://musicbrainz.org/artist/15109322-492f-4db9-bfa0-e66273550147","name":"Sean Anderson","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"member":{"name":"Scott Anderson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/41714fd8-13e2-492a-b63b-918acea015a2"},"roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"name":"Rick Jackett","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4a5b364b-37c0-400b-a959-70bf06178670"}},{"member":{"name":"Rich Beddoe","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/66227e3a-7853-4f22-ba22-7e9e29671351"},"startDate":"1997","@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/9177ca83-66ae-487a-bf12-b6e8f1f21655","name":"James Black","@type":["Person","MusicGroup"]}},{"endDate":"1997","member":{"name":"Rob Gommerman","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddcaf0bb-5dae-4265-8de0-84ae8b217682"},"@type":"OrganizationRole","roleName":[]}],"@context":"http://schema.org","album":[{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5610252b-9b0c-3694-9d05-d2fde5d97af3","creditedTo":"Rainbow Butt Monkeys","byArtist":{"@type":"MusicGroup","name":"Finger Eleven","@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3"},"@type":"MusicAlbum","name":"Letters From Chutney"},{"byArtist":{"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","name":"Finger Eleven","@type":"MusicGroup"},"name":"Tip","@type":"MusicAlbum","creditedTo":"Finger Eleven","@id":"https://musicbrainz.org/release-group/3b7ead17-44d4-3413-bbf9-c7fc9efc9f98","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/20f050dc-a6c7-39a2-b174-74a8b36c0531","creditedTo":"Finger Eleven","byArtist":{"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","@type":"MusicGroup","name":"Finger Eleven"},"name":"The Greyest of Blue Skies","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/80191485-0942-3882-9e9e-015558063b28","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Finger Eleven","@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3"},"@type":"MusicAlbum","name":"Finger Eleven","creditedTo":"Finger Eleven"},{"name":"Them vs. You vs. Me","byArtist":{"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","@type":"MusicGroup","name":"Finger Eleven"},"@type":"MusicAlbum","creditedTo":"Finger Eleven","@id":"https://musicbrainz.org/release-group/40155a51-c648-46c8-a961-b35571bc591e","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/27b48546-c595-49d1-bf1d-7188132d99ef","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Life Turns Electric","byArtist":{"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","name":"Finger Eleven","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Finger Eleven"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1acd3f8b-f97b-446e-88c0-dda23c662c3d","creditedTo":"Finger Eleven","byArtist":{"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","name":"Finger Eleven","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Five Crooked Lines"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","@type":"MusicGroup","name":"Finger Eleven"},"name":"iTunes Originals: Finger Eleven","creditedTo":"Finger Eleven","@id":"https://musicbrainz.org/release-group/23dc1741-2869-4122-857d-aceaff7f4a25","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/ac1bcb9b-7ffe-3db2-a03e-4af66fe1ce81","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3","@type":"MusicGroup","name":"Finger Eleven"},"name":"Good Times","@type":"MusicAlbum","creditedTo":"Finger Eleven"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Finger Eleven","@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3"},"name":"Living In a Dream","creditedTo":"Finger Eleven","@id":"https://musicbrainz.org/release-group/4c2d5681-f6cb-44dd-9e85-fe8c024a7f50","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/bd7b9472-41c5-48ef-b9af-e5fa401b8e86","creditedTo":"Finger Eleven","byArtist":{"name":"Finger Eleven","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3"},"name":"Us- vs.-Then- vs.-Now","@type":"MusicAlbum"}],"sameAs":["http://en.wikipedia.org/wiki/Finger_Eleven","http://musicmoz.org/Bands_and_Artists/F/Finger_Eleven/","http://viaf.org/viaf/149173107","http://www.allmusic.com/artist/mn0000798587","http://www.bbc.co.uk/music/artists/0b76f632-25fa-4681-9862-86499c28afd3","http://www.fingereleven.com/","http://www.imdb.com/name/nm1499070/","http://www.last.fm/music/Finger\u002bEleven","http://www.secondhandsongs.com/artist/8690","http://www.worldcat.org/identities/lccn-no2003041136/","https://musicbrainz.org/artist/0de96325-2add-4e59-93fa-b22d94a4a9c8","https://rateyourmusic.com/artist/finger_eleven","https://www.discogs.com/artist/1419895","https://www.discogs.com/artist/377001","https://www.wikidata.org/wiki/Q1071154"],"groupOrigin":{"name":"Burlington","@type":"City","containedIn":{"@id":"https://musicbrainz.org/area/2747553f-b44d-44c4-a7c3-b67412b6f10b","containedIn":{"name":"Canada","@type":"Country","@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"},"name":"Ontario","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/53dd4bd4-6667-47cf-9640-8510a510c878"},"foundingDate":"1996"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0b76f632-25fa-4681-9862-86499c28afd3">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F0b76f632-25fa-4681-9862-86499c28afd3">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven – Finger Eleven"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/releases" title="Finger Eleven"><bdi>Releases</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/recordings" title="Finger Eleven"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/works" title="Finger Eleven"><bdi>Works</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/events" title="Finger Eleven"><bdi>Events</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/relationships" title="Finger Eleven"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/aliases" title="Finger Eleven"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/tags" title="Finger Eleven"><bdi>Tags</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/details" title="Finger Eleven"><bdi>Details</bdi></a></li>            <li><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/edit" title="Finger Eleven"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=11736" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/5610252b-9b0c-3694-9d05-d2fde5d97af3"><bdi>Letters From Chutney</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven – Finger Eleven"><bdi>Rainbow Butt Monkeys</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/3b7ead17-44d4-3413-bbf9-c7fc9efc9f98"><bdi>Tip</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/20f050dc-a6c7-39a2-b174-74a8b36c0531"><bdi>The Greyest of Blue Skies</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/80191485-0942-3882-9e9e-015558063b28"><bdi>Finger Eleven</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/40155a51-c648-46c8-a961-b35571bc591e"><bdi>Them vs. You vs. Me</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/27b48546-c595-49d1-bf1d-7188132d99ef"><bdi>Life Turns Electric</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/1acd3f8b-f97b-446e-88c0-dda23c662c3d"><bdi>Five Crooked Lines</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Interview</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/23dc1741-2869-4122-857d-aceaff7f4a25"><bdi>iTunes Originals: Finger Eleven</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ac1bcb9b-7ffe-3db2-a03e-4af66fe1ce81"><bdi>Good Times</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/4c2d5681-f6cb-44dd-9e85-fe8c024a7f50"><bdi>Living In a Dream</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/bd7b9472-41c5-48ef-b9af-e5fa401b8e86"><bdi>Us- vs.-Then- vs.-Now</bdi></a></td>
+        
+        <td><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3" title="Finger Eleven"><bdi>Finger Eleven</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0b76f632-25fa-4681-9862-86499c28afd3/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1996 (20 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/53dd4bd4-6667-47cf-9640-8510a510c878"><bdi>Burlington</bdi></a>, <a href="/area/2747553f-b44d-44c4-a7c3-b67412b6f10b"><bdi>Ontario</bdi></a>, <span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span>    (<a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/ratings" title="Finger Eleven"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative%20metal"><bdi>alternative metal</bdi></a>, <a href="/tag/canadian"><bdi>canadian</bdi></a>, <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/metal"><bdi>metal</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/tags" title="Finger Eleven"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.fingereleven.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000798587">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/0b76f632-25fa-4681-9862-86499c28afd3">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/1419895">Discogs</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/377001">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1499070/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Finger+Eleven">Finger Eleven</a>
+          
+          
+        </li>               <li class="genius-favicon">
+          
+          
+          <a href="http://genius.com/artists/Finger-eleven">Genius</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Finger_Eleven">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/fingereleven">fingereleven</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/F/Finger_Eleven/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/finger_eleven">Rateyourmusic</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/lccn-no2003041136/">WorldCat</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/fingereleven">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/8690">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/Finger_Eleven">@Finger_Eleven</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/FingerEleven">FingerEleven</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/fingereleven">fingereleven</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/149173107">VIAF: 149173107</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1071154">Q1071154</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Finger_Eleven">en: Finger Eleven</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/fingervision">fingervision</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/0b76f632-25fa-4681-9862-86499c28afd3/relationships" title="Finger Eleven"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0b76f632-25fa-4681-9862-86499c28afd3">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-01-16 02:01 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

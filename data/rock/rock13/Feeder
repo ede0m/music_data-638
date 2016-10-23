@@ -1,0 +1,989 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Feeder - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1995 in Newport, Area: United Kingdom"/><script type="application/ld+json">{"location":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"@type":"MusicGroup","groupOrigin":{"@type":"City","containedIn":{"containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"@type":"AdministrativeArea","name":"Wales","@id":"https://musicbrainz.org/area/8297708c-5743-47d6-a5ac-f40a41c49ad9"},"@id":"https://musicbrainz.org/area/7ff9fdd4-f91d-49d3-b208-5a6a88f3b62e","name":"Newport"},"sameAs":["http://en.wikipedia.org/wiki/Feeder","http://musicmoz.org/Bands_and_Artists/F/Feeder/","http://rateyourmusic.com/artist/feeder","http://www.allmusic.com/artist/mn0000793425","http://www.bbc.co.uk/music/artists/88a4cd4e-5dee-4153-8462-0d5e43c75f47","http://www.feederweb.com/","http://www.imdb.com/name/nm2063836/","https://www.discogs.com/artist/115660","https://www.wikidata.org/wiki/Q1049555"],"album":[{"@type":"MusicAlbum","creditedTo":"Feeder","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ecd302a2-4496-3b7c-a451-4167062d3b91","albumProductionType":"http://schema.org/StudioAlbum","name":"Polythene","byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0e94de28-0595-3536-bfd5-185194f2866c","albumProductionType":"http://schema.org/StudioAlbum","name":"Yesterday Went Too Soon","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Echo Park","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8388e7c7-00a4-3bbe-9830-443774f74542","@type":"MusicAlbum","creditedTo":"Feeder"},{"@id":"https://musicbrainz.org/release-group/bfa7710b-ef14-38fa-abb0-f95326737acb","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Comfort in Sound","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"creditedTo":"Feeder","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/31687b3a-5db5-33fd-900a-b62ace11e5d0","albumReleaseType":"http://schema.org/AlbumRelease","name":"Pushing the Senses","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"creditedTo":"Feeder","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Feeder","byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Silent Cry","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fc0564b2-73f6-3633-bd21-3873618aa37f"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0720cc15-e003-4b57-ac19-a92ac454e12e","albumProductionType":"http://schema.org/StudioAlbum","name":"Renegades","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"name":"Generation Freakshow","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5ca19acd-01dd-43da-9745-59c3a5e55824","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"@type":"MusicAlbum","creditedTo":"Feeder","albumProductionType":"http://schema.org/StudioAlbum","name":"All Bright Electric","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2a14c37d-9042-4649-838a-e6cf5db989ab","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/10ccb99a-070d-3ba1-b781-fcec10641747","albumProductionType":"http://schema.org/CompilationAlbum","name":"Another Yesterday","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"creditedTo":"Feeder","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Singles","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/58316c68-b47d-34d4-a8b9-665b0c5c5d56","byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Picture of Perfect Youth","@id":"https://musicbrainz.org/release-group/e242460d-cfef-3770-a5bf-8c6591fdaa2b","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Feeder"},{"byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Tangerine","@id":"https://musicbrainz.org/release-group/b2d07b2d-9bab-3d68-811b-dd6c9c5c39a5","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Feeder"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Cement","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/05942729-b589-34b0-81db-5862c82a69a1","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"creditedTo":"Feeder","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Crash","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c0049406-4ffd-32f7-a043-fc7c73316878","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Feeder","albumProductionType":"http://schema.org/StudioAlbum","name":"High","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e73c1e94-6f80-3f7e-943e-ea548cfa022b","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"}},{"@type":"MusicAlbum","creditedTo":"Feeder","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/418798eb-8aa3-311b-a52a-c098bb7ea65a","albumProductionType":"http://schema.org/StudioAlbum","name":"Suffocate","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"}},{"@type":"MusicAlbum","creditedTo":"Feeder","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Day in Day Out","@id":"https://musicbrainz.org/release-group/1f0bde26-b655-3e69-a50d-7257106289a5","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"},"@id":"https://musicbrainz.org/release-group/5acdda7c-49a9-3293-ac0f-82c492ef76d3","albumReleaseType":"http://schema.org/SingleRelease","name":"Yesterday Went Too Soon","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Feeder"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Insomnia","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f538f140-bece-3c8e-b6f3-f4f05b4932f7","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"creditedTo":"Feeder","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/bb63df5a-6ae4-3d40-817c-b0568df4d5dd","albumProductionType":"http://schema.org/StudioAlbum","name":"Paperfaces","byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"}},{"creditedTo":"Feeder","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/0ce6c4f6-d347-30a2-90e6-ea29e0d2f93d","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Buck Rogers","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"}},{"@type":"MusicAlbum","creditedTo":"Feeder","@id":"https://musicbrainz.org/release-group/463bad48-206e-3273-b253-0b8007fa0317","albumReleaseType":"http://schema.org/SingleRelease","name":"Turn","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"}},{"@type":"MusicAlbum","creditedTo":"Feeder","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"},"@id":"https://musicbrainz.org/release-group/6289d88b-3be0-3163-9343-c91130f73518","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Seven Days in the Sun"},{"byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/40b69926-165e-3ddd-8b98-56c66e32a9d9","name":"Come Back Around","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Feeder","@type":"MusicAlbum"},{"creditedTo":"Feeder","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"name":"Just the Way I'm Feeling","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/9ac9339b-054a-33a8-b23e-66ac8d7f6e71"},{"@id":"https://musicbrainz.org/release-group/2d971327-d240-342d-94f1-d65f529427e3","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Forget About Tomorrow","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"creditedTo":"Feeder","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"},"name":"Find the Colour","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0bf825c6-abbc-3563-9e7d-aab79efd39d9","@type":"MusicAlbum","creditedTo":"Feeder"},{"@type":"MusicAlbum","creditedTo":"Feeder","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Comfort in Sound","@id":"https://musicbrainz.org/release-group/ac08537c-5c3c-3d70-939b-18948cf0e533","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/51bf7905-d210-3a0a-a728-82c48509f0e9","name":"Tumble and Fall","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"},"creditedTo":"Feeder","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Feeder","albumProductionType":"http://schema.org/StudioAlbum","name":"Feeling a Moment","@id":"https://musicbrainz.org/release-group/3fc4cbd4-9197-3a3b-aaa7-4454bb7dd1fd","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"}},{"creditedTo":"Feeder","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/8528484a-4600-3922-9b6d-97c7c9e13da9","albumProductionType":"http://schema.org/StudioAlbum","name":"Pushing the Senses"},{"@type":"MusicAlbum","creditedTo":"Feeder","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0ba6aa19-be89-3c4d-8a5b-29faca88df8d","albumProductionType":"http://schema.org/StudioAlbum","name":"Shatter / Tender","byArtist":{"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/9e473ad0-a7b8-3204-aeb1-85a6823885ea","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Lost and Found","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"@type":"MusicAlbum","creditedTo":"Feeder","name":"Save Us","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0c59e9aa-4208-3b31-8c9c-e47bd5dd0999","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"}},{"@type":"MusicAlbum","creditedTo":"Feeder","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/278c6223-236a-37d9-908e-f8e2c0b427cb","name":"We Are the People","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/6a0b8ecf-fe2a-4086-969e-f4e19a40ca51","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Side By Side","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"creditedTo":"Feeder","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/55842621-5de3-44ff-ba0a-816d6137a918","albumProductionType":"http://schema.org/StudioAlbum","name":"Call Out","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@type":"MusicAlbum","creditedTo":"Feeder"},{"byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0cdbf3c9-7955-301b-a4a8-55cc126c7b06","name":"Stereo World","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Feeder"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"},"@id":"https://musicbrainz.org/release-group/6497ec87-3be1-3065-8096-d82e1e03e3b6","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Two Colours","creditedTo":"Feeder","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"name":"Swim","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/c71e1335-2519-30df-8aa2-fe5543306d50","creditedTo":"Feeder","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Feeder","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/411934c7-a980-321f-9459-59e155d4d07a","name":"Swim","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Feeder","@id":"https://musicbrainz.org/release-group/26561746-871f-386f-aa44-d0463ff7ab1c","albumReleaseType":"http://schema.org/EPRelease","name":"Just a Day EP","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"}},{"@type":"MusicAlbum","creditedTo":"Feeder","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@id":"https://musicbrainz.org/release-group/b3bbbba6-772e-3f03-9852-af5cf5d32b31","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Feel It Again"},{"@type":"MusicAlbum","creditedTo":"Feeder","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"@id":"https://musicbrainz.org/release-group/cbd1e1d6-34f4-425e-8d32-5659fb74930b","albumReleaseType":"http://schema.org/EPRelease","name":"Seven Sleepers","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/e62c2c24-9b14-3c3f-af81-7cae0a8d0a67","albumReleaseType":"http://schema.org/EPRelease","name":"Find the Colour","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"},"creditedTo":"Feeder","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/0f9d192d-7012-43b5-b31d-3827bff6e8f0","albumProductionType":"http://schema.org/LiveAlbum","name":"iTunes Live: London Festival ’08","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder"},"creditedTo":"Feeder","@type":"MusicAlbum"},{"creditedTo":"Feeder","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d016fb25-ea72-40e9-939c-78b4a059016d","albumProductionType":"http://schema.org/StudioAlbum","name":"Polythene","byArtist":{"@type":"MusicGroup","name":"Feeder","@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47"}}],"@id":"https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47","name":"Feeder","member":[{"startDate":"2002-03","endDate":"2009-04","member":{"name":"Mark Richardson","@id":"https://musicbrainz.org/artist/248c3b55-681e-4aa7-87cf-e7d210f22d70","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"endDate":"2000-01-07","member":{"@type":["Person","MusicGroup"],"name":"Jon Lee","@id":"https://musicbrainz.org/artist/513faf1f-22b1-462b-80d6-fc5f17b79080"},"@type":"OrganizationRole","roleName":[]},{"startDate":"2000","endDate":"2001","member":{"@type":["Person","MusicGroup"],"name":"Mark Bullock","@id":"https://musicbrainz.org/artist/81b24fa1-f134-4ece-8c78-d05c34cbe496"},"@type":"OrganizationRole","roleName":[]},{"member":{"@type":["Person","MusicGroup"],"name":"Taka Hirose","@id":"https://musicbrainz.org/artist/d6cf872e-3435-483e-b32a-761f54f3ca7a"},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/e10992bf-959c-44ee-8772-db30bdbf917d","name":"Grant Nicholas","@type":["Person","MusicGroup"]}}],"@context":"http://schema.org","foundingDate":"1995"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F88a4cd4e-5dee-4153-8462-0d5e43c75f47">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F88a4cd4e-5dee-4153-8462-0d5e43c75f47">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47" title="Feeder"><bdi>Feeder</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47" title="Feeder – Feeder"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/releases" title="Feeder"><bdi>Releases</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/recordings" title="Feeder"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/works" title="Feeder"><bdi>Works</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/events" title="Feeder"><bdi>Events</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/relationships" title="Feeder"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/aliases" title="Feeder"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/tags" title="Feeder"><bdi>Tags</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/details" title="Feeder"><bdi>Details</bdi></a></li>            <li><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/edit" title="Feeder"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1366" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/ecd302a2-4496-3b7c-a451-4167062d3b91"><bdi>Polythene</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/0e94de28-0595-3536-bfd5-185194f2866c"><bdi>Yesterday Went Too Soon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/8388e7c7-00a4-3bbe-9830-443774f74542"><bdi>Echo Park</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/bfa7710b-ef14-38fa-abb0-f95326737acb"><bdi>Comfort in Sound</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/31687b3a-5db5-33fd-900a-b62ace11e5d0"><bdi>Pushing the Senses</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/fc0564b2-73f6-3633-bd21-3873618aa37f"><bdi>Silent Cry</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/0720cc15-e003-4b57-ac19-a92ac454e12e"><bdi>Renegades</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/5ca19acd-01dd-43da-9745-59c3a5e55824"><bdi>Generation Freakshow</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/2a14c37d-9042-4649-838a-e6cf5db989ab"><bdi>All Bright Electric</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/10ccb99a-070d-3ba1-b781-fcec10641747"><bdi>Another Yesterday</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/58316c68-b47d-34d4-a8b9-665b0c5c5d56"><bdi>The Singles</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/e242460d-cfef-3770-a5bf-8c6591fdaa2b"><bdi>Picture of Perfect Youth</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/b2d07b2d-9bab-3d68-811b-dd6c9c5c39a5"><bdi>Tangerine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/05942729-b589-34b0-81db-5862c82a69a1"><bdi>Cement</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/c0049406-4ffd-32f7-a043-fc7c73316878"><bdi>Crash</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/e73c1e94-6f80-3f7e-943e-ea548cfa022b"><bdi>High</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/418798eb-8aa3-311b-a52a-c098bb7ea65a"><bdi>Suffocate</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/1f0bde26-b655-3e69-a50d-7257106289a5"><bdi>Day in Day Out</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/5acdda7c-49a9-3293-ac0f-82c492ef76d3"><bdi>Yesterday Went Too Soon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/f538f140-bece-3c8e-b6f3-f4f05b4932f7"><bdi>Insomnia</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/bb63df5a-6ae4-3d40-817c-b0568df4d5dd"><bdi>Paperfaces</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/0ce6c4f6-d347-30a2-90e6-ea29e0d2f93d"><bdi>Buck Rogers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/463bad48-206e-3273-b253-0b8007fa0317"><bdi>Turn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/6289d88b-3be0-3163-9343-c91130f73518"><bdi>Seven Days in the Sun</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/40b69926-165e-3ddd-8b98-56c66e32a9d9"><bdi>Come Back Around</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/9ac9339b-054a-33a8-b23e-66ac8d7f6e71"><bdi>Just the Way I'm Feeling</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/2d971327-d240-342d-94f1-d65f529427e3"><bdi>Forget About Tomorrow</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/0bf825c6-abbc-3563-9e7d-aab79efd39d9"><bdi>Find the Colour</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ac08537c-5c3c-3d70-939b-18948cf0e533"><bdi>Comfort in Sound</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/51bf7905-d210-3a0a-a728-82c48509f0e9"><bdi>Tumble and Fall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/3fc4cbd4-9197-3a3b-aaa7-4454bb7dd1fd"><bdi>Feeling a Moment</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/8528484a-4600-3922-9b6d-97c7c9e13da9"><bdi>Pushing the Senses</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/0ba6aa19-be89-3c4d-8a5b-29faca88df8d"><bdi>Shatter / Tender</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/9e473ad0-a7b8-3204-aeb1-85a6823885ea"><bdi>Lost and Found</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/0c59e9aa-4208-3b31-8c9c-e47bd5dd0999"><bdi>Save Us</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/278c6223-236a-37d9-908e-f8e2c0b427cb"><bdi>We Are the People</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/6a0b8ecf-fe2a-4086-969e-f4e19a40ca51"><bdi>Side By Side</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/55842621-5de3-44ff-ba0a-816d6137a918"><bdi>Call Out</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/0cdbf3c9-7955-301b-a4a8-55cc126c7b06"><bdi>Stereo World</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/6497ec87-3be1-3065-8096-d82e1e03e3b6"><bdi>Two Colours</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/c71e1335-2519-30df-8aa2-fe5543306d50"><bdi>Swim</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/411934c7-a980-321f-9459-59e155d4d07a"><bdi>Swim</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/26561746-871f-386f-aa44-d0463ff7ab1c"><bdi>Just a Day EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/b3bbbba6-772e-3f03-9852-af5cf5d32b31"><bdi>Feel It Again</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/cbd1e1d6-34f4-425e-8d32-5659fb74930b"><bdi>Seven Sleepers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e62c2c24-9b14-3c3f-af81-7cae0a8d0a67"><bdi>Find the Colour</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/0f9d192d-7012-43b5-b31d-3827bff6e8f0"><bdi>iTunes Live: London Festival ’08</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/d016fb25-ea72-40e9-939c-78b4a059016d"><bdi>Polythene</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grant_Nicholas.jpg/250px-Grant_Nicholas.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Grant Nicholas.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1995 (21 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/7ff9fdd4-f91d-49d3-b208-5a6a88f3b62e"><bdi>Newport</bdi></a>, <a href="/area/8297708c-5743-47d6-a5ac-f40a41c49ad9"><bdi>Wales</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/ratings" title="Feeder"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/uk"><bdi>uk</bdi></a>, <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/classic%20pop%20and%20rock"><bdi>classic pop and rock</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/welsh"><bdi>welsh</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.feederweb.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000793425">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/88a4cd4e-5dee-4153-8462-0d5e43c75f47">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/115660">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm2063836/">IMDb</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Feeder">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/feederweb">feederweb</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/F/Feeder/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/feeder">Rateyourmusic</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/feeder">PureVolume</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/feederweb">feederweb</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1049555">Q1049555</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Feeder">en: Feeder</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/feederweb">feederweb</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/88a4cd4e-5dee-4153-8462-0d5e43c75f47/relationships" title="Feeder"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F88a4cd4e-5dee-4153-8462-0d5e43c75f47">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-09-08 02:24 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

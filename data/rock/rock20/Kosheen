@@ -1,0 +1,639 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kosheen - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1998, Area: United Kingdom"/><script type="application/ld+json">{"member":[{"roleName":[],"member":{"name":"Mark Morrison","@id":"https://musicbrainz.org/artist/0cea7c0d-5ed7-413d-9418-3504180f958a","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Substance","@id":"https://musicbrainz.org/artist/19be5268-d459-40e8-8bfb-85d390d46040"},"@type":"OrganizationRole"},{"member":{"name":"Decoder","@id":"https://musicbrainz.org/artist/226166eb-ae5c-499a-b772-cfc2c1fcdaa6","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5a485e8c-dde5-4770-8216-4825f2e1ccd3","name":"Darren Beale"},"roleName":[]},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Sian Evans","@id":"https://musicbrainz.org/artist/a729d18d-ca6a-436e-a327-f702de7d4cd0"}}],"foundingDate":"1998","name":"Kosheen","album":[{"name":"Resist","@id":"https://musicbrainz.org/release-group/5ba8537a-3b76-324a-81e9-3f91b6609964","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Kosheen","byArtist":{"@type":"MusicGroup","name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788"}},{"@id":"https://musicbrainz.org/release-group/c4d25eee-8b71-3f53-9dde-1e1d0ed4b838","albumReleaseType":"http://schema.org/AlbumRelease","name":"Kokopelli","byArtist":{"@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen","@type":"MusicGroup"},"creditedTo":"Kosheen","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Damage","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bc1578e2-ed8d-351c-b8d0-2730336d4652","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","@type":"MusicGroup"},"creditedTo":"Kosheen"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen"},"creditedTo":"Kosheen","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c08ca6e0-7d5e-436c-a951-779ab170c552","name":"Independence"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Kosheen","byArtist":{"@type":"MusicGroup","name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788"},"name":"Solitude","@id":"https://musicbrainz.org/release-group/c0a7765b-bded-4a6f-ae64-a6dfa124905d","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"One Night","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/288390d5-f7a9-48b8-9d53-b51f48a4675c","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen"},"creditedTo":"Kosheen","@type":"MusicAlbum","albumProductionType":"http://schema.org/DJMixAlbum"},{"creditedTo":"Kosheen","byArtist":{"name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","name":"Independence: The Remixes","@id":"https://musicbrainz.org/release-group/7f2f0ecf-cc1d-4269-875f-2dc72a6cb8e3","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788"},"creditedTo":"Kosheen","name":"Yes Men","@id":"https://musicbrainz.org/release-group/2fb4c814-f096-3d13-bd34-e088a038414d","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Kosheen","byArtist":{"name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Hide U","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/eaa586d9-1e71-3080-8091-0808afd16127"},{"creditedTo":"Kosheen","byArtist":{"@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Hide U / Empty Skies","@id":"https://musicbrainz.org/release-group/5520096f-d809-3ca6-9b54-4c97e715b096","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen","@type":"MusicGroup"},"creditedTo":"Kosheen","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5dda12f0-4380-3d3e-9cde-b608f84f6374","name":"Catch"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0e62e26d-24f8-357f-b385-c8bdace421ca","name":"(Slip \u0026 Slide) Suicide","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Kosheen","byArtist":{"name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f23bd5b0-b56d-47b6-bdfe-e389e4f0f1e7","name":"Face in a Crowd","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","@type":"MusicGroup"},"creditedTo":"Kosheen"},{"name":"The DJ Edition","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/9856accb-8d54-3080-9bbb-dd37887c159d","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Kosheen","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen"}},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen"},"creditedTo":"Kosheen","name":"Hungry","@id":"https://musicbrainz.org/release-group/1ea8c3fb-283a-3845-b3a0-863eeeb38d4f","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Kosheen","byArtist":{"name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/c37b3692-7bb2-3e51-b9d0-48d0e78167d0","albumReleaseType":"http://schema.org/SingleRelease","name":"Harder"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788"},"creditedTo":"Kosheen","name":"All in My Head","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c7240dca-845c-3ab1-a45e-33079dc4828d"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Kosheen","@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788"},"creditedTo":"Kosheen","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/64ecf950-2e09-3dba-87b5-156638b3e4b3","name":"Wasting My Time"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Kosheen","byArtist":{"@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","name":"Kosheen","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/d4a63edf-6dd5-3294-879b-40268fa8ab23","albumReleaseType":"http://schema.org/SingleRelease","name":"Overkill (Is It Over Now?)"}],"location":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"sameAs":["http://en.wikipedia.org/wiki/Kosheen","http://musicmoz.org/Bands_and_Artists/K/Kosheen/","http://www.kosheen.com/","http://www.last.fm/music/Kosheen","https://musicbrainz.org/artist/8b146770-817b-4232-b886-50d3ffd9a400","https://www.discogs.com/artist/4128","https://www.wikidata.org/wiki/Q285472"],"@id":"https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788","@context":"http://schema.org","@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F4f4bda3c-d636-4135-b65a-6cc26bc75788">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F4f4bda3c-d636-4135-b65a-6cc26bc75788">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788" title="Kosheen"><bdi>Kosheen</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788" title="Kosheen – Kosheen"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/releases" title="Kosheen"><bdi>Releases</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/recordings" title="Kosheen"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/works" title="Kosheen"><bdi>Works</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/events" title="Kosheen"><bdi>Events</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/relationships" title="Kosheen"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/aliases" title="Kosheen"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/tags" title="Kosheen"><bdi>Tags</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/details" title="Kosheen"><bdi>Details</bdi></a></li>            <li><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/edit" title="Kosheen"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Kosheen</b> are a British electronic music group based in Bristol, United Kingdom. The trio consists of Welsh singer-songwriter Sian Evans (born 9 October 1971, Caerphilly) with producers-song writers Markee Ledge (born Mark Davies, 1974, Springburn, Glasgow) and Darren Decoder (born Darren Beale, 1974, Bristol). The name of the band is a combination of the Japanese words for "old" (古, romanized transliteration 'ko') and "new" (新, 'shin').</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Kosheen">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=12479" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/5ba8537a-3b76-324a-81e9-3f91b6609964"><bdi>Resist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/c4d25eee-8b71-3f53-9dde-1e1d0ed4b838"><bdi>Kokopelli</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/bc1578e2-ed8d-351c-b8d0-2730336d4652"><bdi>Damage</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/c08ca6e0-7d5e-436c-a951-779ab170c552"><bdi>Independence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/c0a7765b-bded-4a6f-ae64-a6dfa124905d"><bdi>Solitude</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + DJ-mix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/288390d5-f7a9-48b8-9d53-b51f48a4675c"><bdi>One Night</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/7f2f0ecf-cc1d-4269-875f-2dc72a6cb8e3"><bdi>Independence: The Remixes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/2fb4c814-f096-3d13-bd34-e088a038414d"><bdi>Yes Men</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/eaa586d9-1e71-3080-8091-0808afd16127"><bdi>Hide U</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/5520096f-d809-3ca6-9b54-4c97e715b096"><bdi>Hide U / Empty Skies</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/5dda12f0-4380-3d3e-9cde-b608f84f6374"><bdi>Catch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/0e62e26d-24f8-357f-b385-c8bdace421ca"><bdi>(Slip &amp; Slide) Suicide</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/f23bd5b0-b56d-47b6-bdfe-e389e4f0f1e7"><bdi>Face in a Crowd</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/9856accb-8d54-3080-9bbb-dd37887c159d"><bdi>The DJ Edition</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/1ea8c3fb-283a-3845-b3a0-863eeeb38d4f"><bdi>Hungry</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/c37b3692-7bb2-3e51-b9d0-48d0e78167d0"><bdi>Harder</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/c7240dca-845c-3ab1-a45e-33079dc4828d"><bdi>All in My Head</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/64ecf950-2e09-3dba-87b5-156638b3e4b3"><bdi>Wasting My Time</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/d4a63edf-6dd5-3294-879b-40268fa8ab23"><bdi>Overkill (Is It Over Now?)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kosheen_Sian_Evans_Wien2008.jpg/250px-Kosheen_Sian_Evans_Wien2008.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Kosheen Sian Evans Wien2008.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1998 (18 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/ratings" title="Kosheen"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/drum%20and%20bass"><bdi>drum and bass</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/bristol"><bdi>bristol</bdi></a>, <a href="/tag/00s"><bdi>00s</bdi></a>, <a href="/tag/alternative"><bdi>alternative</bdi></a>, <a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/tags" title="Kosheen"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.kosheen.com/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/4128">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Kosheen">Kosheen</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/kosheen1">kosheen1</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/K/Kosheen/">MusicMoz</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/gb/artist/id6505592">iTunes</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/kosheenatmoksha">@kosheenatmoksha</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Kosheen1">Kosheen1</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q285472">Q285472</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Kosheen">en: Kosheen</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/KosheenTV">KosheenTV</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/KosheenVEVO">KosheenVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788/relationships" title="Kosheen"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F4f4bda3c-d636-4135-b65a-6cc26bc75788">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2011-12-05 10:42 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

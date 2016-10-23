@@ -1,0 +1,972 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Monty Alexander - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1944-06-06, Area: Jamaica"/><script type="application/ld+json">{"birthDate":"1944-06-06","location":{"@id":"https://musicbrainz.org/area/2dd47a64-91d5-3b13-bc94-80043ed063d7","name":"Jamaica","@type":"Country"},"@type":["Person","MusicGroup"],"album":[{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9f9c1b15-ffa6-4603-804d-88f3d2756f61","name":"Here Comes the Sun","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"creditedTo":"Monty Alexander with Ernest Ranglin","@type":"MusicAlbum","name":"Rass!","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b13d4c85-783e-402f-8513-571604cb0cb3","byArtist":[{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/924203bb-da5f-4bd0-9630-c753c7cb9774","name":"Ernest Ranglin"}]},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f769d3cd-d771-4082-a4c0-e427d5233356","albumReleaseType":"http://schema.org/AlbumRelease","name":"Jamento","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"},"name":"Cobilimbo","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a90a252a-e78c-4819-b37c-4e07be0c4da8","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/22b5dd91-17c2-4a3d-a876-5a54fa73f139","albumReleaseType":"http://schema.org/AlbumRelease","name":"So What?","@type":"MusicAlbum","creditedTo":"Monty Alexander"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2ad23424-bab0-4257-9885-7159f966e515","name":"Summerwind","byArtist":[{"@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8","name":"Ray Brown","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"},{"name":"Johnny Griffin","@id":"https://musicbrainz.org/artist/f9625cf4-1436-4f2c-bd5e-743eba86808c","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/964cb873-29ca-4cb9-b6d4-9cab1b51f051","name":"Martin Drew"}],"creditedTo":"Ray Brown, Monty Alexander, Johnny Griffin \u0026 Martin Drew","@type":"MusicAlbum"},{"creditedTo":"Monty Alexander","@type":"MusicAlbum","name":"The Duke Ellington Songbook","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c541e6b0-817c-399e-8026-18a15918aaf1","byArtist":{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"}},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b14bfe3a-67ff-312b-ad5d-58e6e9239300","name":"Saturday night","byArtist":{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4052f5e6-4074-47a4-ae7b-eb3fa76276c8","name":"Triple Treat, Volume 3","byArtist":[{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"},{"name":"Ray Brown","@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8","@type":["Person","MusicGroup"]},{"name":"Herb Ellis","@id":"https://musicbrainz.org/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9","@type":["Person","MusicGroup"]}],"creditedTo":"Monty Alexander, Ray Brown \u0026 Herb Ellis","@type":"MusicAlbum"},{"creditedTo":"Monty Alexander, Ray Brown \u0026 Herb Ellis","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/052b6f50-8d40-49cf-97de-ab845c2b00de","name":"Triple Treat, Volume 2","byArtist":[{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8","name":"Ray Brown"},{"@id":"https://musicbrainz.org/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9","name":"Herb Ellis","@type":["Person","MusicGroup"]}]},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]},"name":"Facets","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/42a01c3a-2b09-485d-b16d-1aebe7b77d17"},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]},"name":"Caribbean Circle","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/06c5ff78-465a-349a-8b4e-f2a64b23f0c6","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":[{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},{"name":"Ray Brown","@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8","@type":["Person","MusicGroup"]},{"name":"Herb Ellis","@id":"https://musicbrainz.org/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9","@type":["Person","MusicGroup"]}],"name":"Trio","@id":"https://musicbrainz.org/release-group/65be3f05-9eef-3196-acd7-386e3ebc7915","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Monty Alexander, Ray Brown \u0026 Herb Ellis"},{"creditedTo":"Monty Alexander, Ray Brown \u0026 Herb Ellis","@type":"MusicAlbum","name":"Triple Treat, Volume 1","@id":"https://musicbrainz.org/release-group/019f4cf6-3677-36b6-9c32-750f9b08c468","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8","name":"Ray Brown","@type":["Person","MusicGroup"]},{"name":"Herb Ellis","@id":"https://musicbrainz.org/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9","@type":["Person","MusicGroup"]}]},{"name":"Threesome","@id":"https://musicbrainz.org/release-group/8846b357-6244-3449-a8f8-371d4ed32a69","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/dc65aca2-f25a-3a87-8aac-a0fd8ddd121e","name":"Overseas Special","byArtist":{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"creditedTo":"Monty Alexander","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5e102bfc-71b4-41e7-a36f-a4c3780068ee","name":"Solo","byArtist":{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"}},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"name":"Stir It Up - The Music of Bob Marley","@id":"https://musicbrainz.org/release-group/084d39c2-10a1-32d8-876d-f5e4ba043d03","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/b95255f7-767a-341d-a5b8-4bd815431777","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"My America"},{"creditedTo":"Ray Brown, Monty Alexander \u0026 Russell Malone","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/572eee98-40ad-3b37-a3bc-441a9fc57201","name":"Ray Brown, Monty Alexander \u0026 Russell Malone","byArtist":[{"@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8","name":"Ray Brown","@type":["Person","MusicGroup"]},{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Russell Malone","@id":"https://musicbrainz.org/artist/a6efce2e-9c3b-4b50-9c46-5935968edfd0"}]},{"name":"Straight Ahead","@id":"https://musicbrainz.org/release-group/bab5b1ac-f8bb-4f07-ba32-07313646ae4f","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8","name":"Ray Brown","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Herb Ellis","@id":"https://musicbrainz.org/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9"}],"creditedTo":"Monty Alexander, Ray Brown \u0026 Herb Ellis","@type":"MusicAlbum"},{"creditedTo":"Monty Alexander with Ernest Ranglin","@type":"MusicAlbum","name":"Rocksteady","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d9a5baa7-9392-3ddf-8562-d150d1680dab","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]},{"name":"Ernest Ranglin","@id":"https://musicbrainz.org/artist/924203bb-da5f-4bd0-9630-c753c7cb9774","@type":["Person","MusicGroup"]}]},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"},"@id":"https://musicbrainz.org/release-group/d99e67c0-3244-375a-8b01-a16ddd645e92","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Concrete Jungle: The Music of Bob Marley","@type":"MusicAlbum","creditedTo":"Monty Alexander"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/672d06c4-a718-4e2a-8b11-4d6843569734","name":"Calypso Blues: The Songs of Nat King Cole","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/3231ef3d-1aa7-48b6-8c71-16febc27fe26","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Spunky"},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]},"name":"Harlem-Kingston-Express, Volume 2: The River Rolls On","@id":"https://musicbrainz.org/release-group/1b8da860-858c-44c7-8f94-eb3edb8e64a0","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":[{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/b7999b55-a0b0-4ea5-bcba-e5cc86e2f134","name":"John Patitucci","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Troy Davis","@id":"https://musicbrainz.org/artist/3c83fc10-049e-4859-b265-399ad863fec0"}],"@id":"https://musicbrainz.org/release-group/a5e1ee2c-073e-334c-b691-e5dc277a8447","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Echoes of Jilly's","@type":"MusicAlbum","creditedTo":"Monty Alexander with John Patitucci \u0026 Troy Davis"},{"name":"Goin' Yard","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f2b25be4-ff99-3c96-981b-a1c0f4f8d34b","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1463ad69-7665-3d52-a2d5-eae2b0580440","name":"Triple Treat","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/239f2ff0-7dab-4bba-a2a6-7eeb0be4aec0","name":"Uplift"},{"creditedTo":"Monty Alexander","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e4e3e605-4947-3944-a0b9-9686298044d4","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Yard Movement","byArtist":{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]}},{"creditedTo":"Monty Alexander , Ray Brown , Herb Ellis","@type":"MusicAlbum","name":"Triple Scoop","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/829bd74f-c2f7-4f76-ad28-24de5b7175f9","byArtist":[{"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Ray Brown","@id":"https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9","name":"Herb Ellis"}]},{"@type":"MusicAlbum","creditedTo":"Monty Alexander","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"},"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/aaca1b18-4782-4e79-9d23-57e5619b0d7b","albumReleaseType":"http://schema.org/AlbumRelease","name":"Piano Genius"},{"name":"Ballad Essentials","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d954d497-a289-3e49-ab4d-490f6c3c83f0","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"},"creditedTo":"Monty Alexander","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"},"name":"The Concord Jazz Heritage Series","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/bfa8bba0-af8f-3d64-90a9-6165b8358fea","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Monty Alexander"},{"creditedTo":"The Ray Brown Trio feat. Monty Alexander and Jeff Hamilton with special guest Ernestine Anderson","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/b273a3f2-724e-33ff-9cf1-d06bd6d062fa","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live at the Concord Jazz Festival – 1979","byArtist":[{"name":"The Ray Brown Trio","@id":"https://musicbrainz.org/artist/a8cde19d-bd55-4be7-ba34-64049d121587","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"},{"@id":"https://musicbrainz.org/artist/c651405a-bdf8-4028-9400-cd08e9e74b41","name":"Jeff Hamilton","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Ernestine Anderson","@id":"https://musicbrainz.org/artist/d4fed395-5b9d-4b70-b45a-c6cbb0b46c9e"}]},{"creditedTo":"Monty Alexander","@type":"MusicAlbum","name":"Li'l Darlin'","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/39b8d837-59ba-427f-8e16-4cb7d6ffff65","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]}},{"byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"name":"Live in Holland","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3f4be72e-a857-46ef-9a3a-9f5704814c1c","@type":"MusicAlbum","creditedTo":"Monty Alexander"},{"creditedTo":"Monty Alexander","@type":"MusicAlbum","name":"Harlem-Kingstone Express Live!","@id":"https://musicbrainz.org/release-group/34d9fd76-b47d-4e78-9291-079820d7f625","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"}},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"},"name":"Ivory \u0026 Steel","@id":"https://musicbrainz.org/release-group/326e35c1-9725-3426-a5c5-4ea2803141c8","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Monty Alexander"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"},"name":"Monty Meets Sly and Robbie","@id":"https://musicbrainz.org/release-group/be3276b8-2518-30cf-9d4f-9049d22b7126","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Monty Alexander"},{"creditedTo":"Monty Alexander","@type":"MusicAlbum","name":"Ivory \u0026 Steel","@id":"https://musicbrainz.org/release-group/c8d288a8-de57-3b21-8dcb-2a74892d6b14","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f"}},{"creditedTo":"Monty Alexander","@type":"MusicAlbum","name":"Reunion In Europe","@id":"https://musicbrainz.org/release-group/53f1c341-47bf-3571-9177-0ed74b8ac66b","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","name":"Monty Alexander"}},{"byArtist":{"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@type":["Person","MusicGroup"]},"name":"Steamin'","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/73878bfe-20a9-3d09-a040-2780d70fca6f","@type":"MusicAlbum","creditedTo":"Monty Alexander"}],"name":"Monty Alexander","@id":"https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f","@context":"http://schema.org","sameAs":["http://isni-url.oclc.nl/isni/0000000114613471","http://viaf.org/viaf/56795147","http://www.allmusic.com/artist/mn0000589256","https://en.wikipedia.org/wiki/Monty_Alexander","https://www.discogs.com/artist/44130","https://www.wikidata.org/wiki/Q1352497"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Monty Alexander – Alexander, Monty"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/releases" title="Alexander, Monty"><bdi>Releases</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/recordings" title="Alexander, Monty"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/works" title="Alexander, Monty"><bdi>Works</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/events" title="Alexander, Monty"><bdi>Events</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/relationships" title="Alexander, Monty"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/aliases" title="Alexander, Monty"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/tags" title="Alexander, Monty"><bdi>Tags</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/details" title="Alexander, Monty"><bdi>Details</bdi></a></li>            <li><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/edit" title="Alexander, Monty"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <h2>Biography</h2>
+
+<p><strong>Monty Alexander</strong> is a talented pianist whose work spans multiple genres and influences - from jazz (under the influence of <a href="http://musicbrainz.org/artist/d3f9352c-18e2-47a0-802c-13d821490e42.html" rel="nofollow"><em>Wynton Kelly</em></a>), to his caribbean roots. During his 50 years long career, he recorded extensively both as a sideman and as a leader, notably for <em>MPS</em>. Newcomers may want to try the album <a href="http://musicbrainz.org/album/1f9264f3-dfc2-474a-97bc-1c6497198b92.html" rel="nofollow"><em>Caribbean Circle</em></a> for a good overview of his versatile talents.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2015-03-18 21:52 UTC.
+            
+        </div>
+    </div>        <p><strong>Legal name:</strong> Montgomery Bernard Alexander</p>
+    
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=5395" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/9f9c1b15-ffa6-4603-804d-88f3d2756f61"><bdi>Here Comes the Sun</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/b13d4c85-783e-402f-8513-571604cb0cb3"><bdi>Rass!</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a> with <a href="/artist/924203bb-da5f-4bd0-9630-c753c7cb9774" title="Ranglin, Ernest"><bdi>Ernest Ranglin</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/f769d3cd-d771-4082-a4c0-e427d5233356"><bdi>Jamento</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/a90a252a-e78c-4819-b37c-4e07be0c4da8"><bdi>Cobilimbo</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/22b5dd91-17c2-4a3d-a876-5a54fa73f139"><bdi>So What?</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/2ad23424-bab0-4257-9885-7159f966e515"><bdi>Summerwind</bdi></a></td>
+        
+        <td><a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a>, <a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a>, <a href="/artist/f9625cf4-1436-4f2c-bd5e-743eba86808c" title="Griffin, Johnny"><bdi>Johnny Griffin</bdi></a> &amp; <a href="/artist/964cb873-29ca-4cb9-b6d4-9cab1b51f051" title="Drew, Martin"><bdi>Martin Drew</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/c541e6b0-817c-399e-8026-18a15918aaf1"><bdi>The Duke Ellington Songbook</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/b14bfe3a-67ff-312b-ad5d-58e6e9239300"><bdi>Saturday night</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/4052f5e6-4074-47a4-ae7b-eb3fa76276c8"><bdi>Triple Treat, Volume 3</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a>, <a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a> &amp; <a href="/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9" title="Ellis, Herb (jazz guitarist)"><bdi>Herb Ellis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/052b6f50-8d40-49cf-97de-ab845c2b00de"><bdi>Triple Treat, Volume 2</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a>, <a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a> &amp; <a href="/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9" title="Ellis, Herb (jazz guitarist)"><bdi>Herb Ellis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/42a01c3a-2b09-485d-b16d-1aebe7b77d17"><bdi>Facets</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/06c5ff78-465a-349a-8b4e-f2a64b23f0c6"><bdi>Caribbean Circle</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/65be3f05-9eef-3196-acd7-386e3ebc7915"><bdi>Trio</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a>, <a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a> &amp; <a href="/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9" title="Ellis, Herb (jazz guitarist)"><bdi>Herb Ellis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/019f4cf6-3677-36b6-9c32-750f9b08c468"><bdi>Triple Treat, Volume 1</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a>, <a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a> &amp; <a href="/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9" title="Ellis, Herb (jazz guitarist)"><bdi>Herb Ellis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/8846b357-6244-3449-a8f8-371d4ed32a69"><bdi>Threesome</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/dc65aca2-f25a-3a87-8aac-a0fd8ddd121e"><bdi>Overseas Special</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/5e102bfc-71b4-41e7-a36f-a4c3780068ee"><bdi>Solo</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/084d39c2-10a1-32d8-876d-f5e4ba043d03"><bdi>Stir It Up - The Music of Bob Marley</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/b95255f7-767a-341d-a5b8-4bd815431777"><bdi>My America</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/572eee98-40ad-3b37-a3bc-441a9fc57201"><bdi>Ray Brown, Monty Alexander &amp; Russell Malone</bdi></a></td>
+        
+        <td><a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a>, <a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a> &amp; <a href="/artist/a6efce2e-9c3b-4b50-9c46-5935968edfd0" title="Malone, Russell"><bdi>Russell Malone</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/bab5b1ac-f8bb-4f07-ba32-07313646ae4f"><bdi>Straight Ahead</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a>, <a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a> &amp; <a href="/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9" title="Ellis, Herb (jazz guitarist)"><bdi>Herb Ellis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/d9a5baa7-9392-3ddf-8562-d150d1680dab"><bdi>Rocksteady</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a> with <a href="/artist/924203bb-da5f-4bd0-9630-c753c7cb9774" title="Ranglin, Ernest"><bdi>Ernest Ranglin</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/d99e67c0-3244-375a-8b01-a16ddd645e92"><bdi>Concrete Jungle: The Music of Bob Marley</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/672d06c4-a718-4e2a-8b11-4d6843569734"><bdi>Calypso Blues: The Songs of Nat King Cole</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/3231ef3d-1aa7-48b6-8c71-16febc27fe26"><bdi>Spunky</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/1b8da860-858c-44c7-8f94-eb3edb8e64a0"><bdi>Harlem-Kingston-Express, Volume 2: The River Rolls On</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a5e1ee2c-073e-334c-b691-e5dc277a8447"><bdi>Echoes of Jilly's</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a> with <a href="/artist/b7999b55-a0b0-4ea5-bcba-e5cc86e2f134" title="Patitucci, John"><bdi>John Patitucci</bdi></a> &amp; <a href="/artist/3c83fc10-049e-4859-b265-399ad863fec0" title="Davis, Troy"><bdi>Troy Davis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f2b25be4-ff99-3c96-981b-a1c0f4f8d34b"><bdi>Goin' Yard</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/1463ad69-7665-3d52-a2d5-eae2b0580440"><bdi>Triple Treat</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/239f2ff0-7dab-4bba-a2a6-7eeb0be4aec0"><bdi>Uplift</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e4e3e605-4947-3944-a0b9-9686298044d4"><bdi>Yard Movement</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/829bd74f-c2f7-4f76-ad28-24de5b7175f9"><bdi>Triple Scoop</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a> , <a href="/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8" title="Brown, Ray (jazz bassist)"><bdi>Ray Brown</bdi></a> , <a href="/artist/33ddc4a0-2d48-4da5-91f4-180c3283d2f9" title="Ellis, Herb (jazz guitarist)"><bdi>Herb Ellis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/aaca1b18-4782-4e79-9d23-57e5619b0d7b"><bdi>Piano Genius</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/d954d497-a289-3e49-ab4d-490f6c3c83f0"><bdi>Ballad Essentials</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/bfa8bba0-af8f-3d64-90a9-6165b8358fea"><bdi>The Concord Jazz Heritage Series</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/b273a3f2-724e-33ff-9cf1-d06bd6d062fa"><bdi>Live at the Concord Jazz Festival – 1979</bdi></a></td>
+        
+        <td><a href="/artist/a8cde19d-bd55-4be7-ba34-64049d121587" title="Brown, Ray, Trio, The"><bdi>The Ray Brown Trio</bdi></a> feat. <a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a> and <a href="/artist/c651405a-bdf8-4028-9400-cd08e9e74b41" title="Hamilton, Jeff"><bdi>Jeff Hamilton</bdi></a> with special guest <span class="mp"><a href="/artist/d4fed395-5b9d-4b70-b45a-c6cbb0b46c9e" title="Anderson, Ernestine"><bdi>Ernestine Anderson</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/39b8d837-59ba-427f-8e16-4cb7d6ffff65"><bdi>Li'l Darlin'</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/3f4be72e-a857-46ef-9a3a-9f5704814c1c"><bdi>Live in Holland</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/34d9fd76-b47d-4e78-9291-079820d7f625"><bdi>Harlem-Kingstone Express Live!</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/326e35c1-9725-3426-a5c5-4ea2803141c8"><bdi>Ivory &amp; Steel</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/be3276b8-2518-30cf-9d4f-9049d22b7126"><bdi>Monty Meets Sly and Robbie</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/c8d288a8-de57-3b21-8dcb-2a74892d6b14"><bdi>Ivory &amp; Steel</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/53f1c341-47bf-3571-9177-0ed74b8ac66b"><bdi>Reunion In Europe</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/73878bfe-20a9-3d09-a040-2780d70fca6f"><bdi>Steamin'</bdi></a></td>
+        
+        <td><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f" title="Alexander, Monty"><bdi>Monty Alexander</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Alexander, Monty</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1944-06-06 (72 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-JM"><a href="/area/2dd47a64-91d5-3b13-bc94-80043ed063d7"><bdi>Jamaica</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000114613471">0000 0001 1461 3471    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/jazz"><bdi>jazz</bdi></a>, <a href="/tag/reggae"><bdi>reggae</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000589256">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/44130">Discogs</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/56795147">VIAF: 56795147</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1352497">Q1352497</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Monty_Alexander">en: Monty Alexander</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f/relationships" title="Alexander, Monty"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-06-25 09:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

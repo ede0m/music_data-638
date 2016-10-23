@@ -1,0 +1,416 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ben Montague - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Area: United Kingdom"/><script type="application/ld+json">{"location":{"name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country"},"album":[{"creditedTo":"Ben Montague","byArtist":{"@id":"https://musicbrainz.org/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51","name":"Ben Montague","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Overcome","@id":"https://musicbrainz.org/release-group/51d12540-675d-4665-af26-25411b621899","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ben Montague","byArtist":{"@id":"https://musicbrainz.org/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51","name":"Ben Montague","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f4fe88bb-da68-4d50-b2a8-7a9d93bbce7c","name":"Tales Of Flying And Falling"}],"@id":"https://musicbrainz.org/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51","sameAs":["http://en.wikipedia.org/wiki/Ben_Montague","http://www.bbc.co.uk/music/artists/5b5605ae-8b02-46d1-b477-c6c37619fa51","http://www.benmontague.co.uk/","https://www.wikidata.org/wiki/Q4886177"],"name":"Ben Montague","@type":["Person","MusicGroup"],"@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5b5605ae-8b02-46d1-b477-c6c37619fa51">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5b5605ae-8b02-46d1-b477-c6c37619fa51">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51" title="Montague, Ben"><bdi>Ben Montague</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51" title="Ben Montague – Montague, Ben"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/releases" title="Montague, Ben"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/recordings" title="Montague, Ben"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/works" title="Montague, Ben"><bdi>Works</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/events" title="Montague, Ben"><bdi>Events</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/relationships" title="Montague, Ben"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/aliases" title="Montague, Ben"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/tags" title="Montague, Ben"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/details" title="Montague, Ben"><bdi>Details</bdi></a></li>            <li><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/edit" title="Montague, Ben"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>If Ben Montague’s name sounds familiar, it’s because two years ago his debut single, Haunted was all over national and commercial radio. He sang live at huge promo events such as Children in Need, and joined the likes of JLS and KT Tunstall on stage in London.</p>
+<p>From the outside, it looked like Ben’s career was taking off, that the hundreds of gigs he had played anywhere that would have him were paying off. The truth was decidedly different. Listeners loved his songs, but they couldn’t buy them because Ben had no label, no publishing deal and no money to release them himself. When other stations started supporting him, they asked for his album. He didn’t have one, so he headed to a friend’s house in Kent to record a bunch of old songs in the spare room, standing on a plank of wood so the floor didn’t squeak and using a mattress and duvet as soundproofing. He was still playing in pubs and working in a club in Shoreditch to pay the rent, teaching tennis to mums, teaching kids guitar and session singing.</p>
+<p>“It was strange going in to shops, sitting in pubs, walking into petrol stations and hearing my songs, seeing people’s reactions to them, but knowing no one could buy them,” says Ben. “Amazing things were happening for me, but I was still skint, still searching for a deal, still having to take requests at nightclubs to sing Stay With Me or Wonderwall. In every sense, I was unprepared – there was no strategy, no tour, no one to step in and tell me what to do.”</p>
+<p>Fast forward two years and Ben has the album he wished he had then. The preparation is in place. No duvets were involved. ‘Tales Of Flying & Falling’ is an album that does justice to Ben’s sweet, soulful vocals, to his emotional songwriting, to his epic, lighters-aloft pop. Recorded at Rockfield with producer Dave Eringa (Manic Street Preachers, Idlewild, Kylie), ‘Tales Of Flying & Falling’ is a set of songs that make perfect sense together; that document a relationship that was right, went wrong, then came right again; that will make his fans fall for him all over again.</p>
+<p>“This was always my dream – to make an album with one producer, in one studio,” says Ben. “To take my time and make sure every song sounded as good as it could. Working with Dave was amazing. He’s a rock guy; I write pop songs. We met in the middle. We bonded over old-school desks and old-school mics and a love of authentic, epic music.”</p>
+<p>First single Love Like Stars is a joyous, widescreen pop-rock song that captures that glorious moment when you can’t think of anyone else. Pull The Trigger is a piano-driven, strings-drenched song about a relationship hitting the rocks that sweeps you up in its majestic chorus and, lyrically, drops you back down to earth with a bump. Another Hard Fall is a fabulous pop ode to bracing oneself for the next big low moment. The relationship is rekindled on the sun-soaked Liberty Road, with its insistent, toe-tapping bassline, can’t-stop-smiling chorus and lovely guest vocals from Lucie Silvas.</p>
+<p>Ben’s route to the release of his debut album has seen both highs and lows. He grew up mostly in Kent, was politely asked to leave more schools than he cares to remember and discovered music through his dad, who took him to see The Rolling Stones and bought him his first guitar aged 14. The first song he learnt was Sailing by Rod Stewart.</p>
+<p>“From the age of ten, I knew I could sing,” says Ben. “The only things that kept me in any school for any length of time was being in the choir and being good at sport. As soon as I got a guitar I began writing songs.”</p>
+<p>A talented singer/songwriter and classically good-looking, Ben was a natural front-man, and spent more time with his rock band than he did studying at university. The band got a development deal, but by then, Ben wanted to be a solo singer/songwriter. A producer he met a party helped him make some demos, which brought him to the attention of songwriter Jamie Hartman who became the perfect person to bounce ideas off. “We got on great, he came to one of my gigs and we started writing together. One of the songs we came up with Haunted.”</p>
+<p>Two years were spent playing dingy venues up and down the country. Ben even sang in airports – you possibly passed him at Heathrow or Gatwick – after getting a regular gig to perform acoustic sets in World Duty Free. Meanwhile, he wrote for other artists – twice at writing camps in Sweden, once on a trip to Nashville. (The winner of Singapore Idol had a hit with one of his songs. He reckons he got £4 in royalties.) But really, Ben was always writing for himself. With no deal, he was in the process of self-releasing an EP of some of his songs when, performing at unsigned artists showcase in London, he was spotted by a producer from Radio 2.<br />
+“I thought I was finally on my way to fame,” laughs Ben. “But all that happened was promoters paid me an extra £30 because they had heard my music on the radio.”</p>
+<p>A few months later, however, Ben did get his break. Supporting former Starsailor singer James Walsh, he was spotted by the agent and promoter John Giddings, who looks after Lady Gaga, The Stones and Iggy Pop. Giddings invited Ben to support Stereophonics in Milan and got him a slot at the Isle Of Wight festival. Now writing with Walsh and Jim Duguid (Paolo Nutini), Ben was signed by Feeder’s management company and, last year, spent three sessions at Rockfield with Eringa recording the songs that would become ‘Tales Of Flying & Falling’, including a new version of Haunted. By the final session, Ben had secured a joint venture record deal with Nusic Sounds and EMI. He began this year on his first arena tour, supporting The Wanted. “I’m glad I didn’t put an album out two years ago,” admits Ben. “I wouldn’t have been happy with it. These are the best songs I have ever written, recorded as well as they could be.”<br />
+As for the radio stations that asked for his album, it’s finally here. Better still, it’s been well worth the wait.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2012-08-09 12:41 UTC.
+            
+        </div>
+    </div>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=687027" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/51d12540-675d-4665-af26-25411b621899"><bdi>Overcome</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/f4fe88bb-da68-4d50-b2a8-7a9d93bbce7c"><bdi>Tales Of Flying And Falling</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Montague, Ben</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/ratings" title="Montague, Ben"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/acoustic"><bdi>acoustic</bdi></a>, <a href="/tag/guitar"><bdi>guitar</bdi></a>, <a href="/tag/pop"><bdi>pop</bdi></a>, <a href="/tag/singer"><bdi>singer</bdi></a>, <a href="/tag/songwriter"><bdi>songwriter</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.benmontague.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/5b5605ae-8b02-46d1-b477-c6c37619fa51">BBC Music</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/ben_montague">@ben_montague</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/LikeBenMontague">LikeBenMontague</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/ben-montague">ben-montague</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q4886177">Q4886177</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Ben_Montague">en: Ben Montague</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/thebenmontague">thebenmontague</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5b5605ae-8b02-46d1-b477-c6c37619fa51/relationships" title="Montague, Ben"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5b5605ae-8b02-46d1-b477-c6c37619fa51">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2012-08-09 12:39 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

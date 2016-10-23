@@ -1,0 +1,808 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>De-Phazz - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1997 in Heidelberg, Area: Germany"/><script type="application/ld+json">{"location":{"name":"Germany","@type":"Country","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"},"@type":"MusicGroup","member":[{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Joo Kraus","@id":"https://musicbrainz.org/artist/638eb9ca-5b39-4a51-b295-4503a2be1eec"}},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Pat Appleton","@id":"https://musicbrainz.org/artist/83d0db87-5d6d-457b-8323-91349d711b80"}},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/a2db5e73-3eec-432b-94db-e0eb7dd2bd64","name":"Pit Baumgartner","@type":["Person","MusicGroup"]}},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/bed02956-43b2-4716-8ba9-f9541ca0d5be","name":"Barbara Lahr","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/cde78791-e60a-43fe-a1e6-bdf4c10c0b27","@type":["Person","MusicGroup"],"name":"Karl Frierson"},"roleName":[],"@type":"OrganizationRole"}],"groupOrigin":{"@type":"City","containedIn":{"@type":"AdministrativeArea","containedIn":{"@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","@type":"Country","name":"Germany"},"name":"Baden-Württemberg","@id":"https://musicbrainz.org/area/4b8c47dd-0fe2-450e-8a21-d4d739ee0e0c"},"name":"Heidelberg","@id":"https://musicbrainz.org/area/eee2e250-e74b-4216-896d-ec1980ea123c"},"sameAs":["http://www.allmusic.com/artist/mn0000238456","http://www.de-phazz.com/","https://en.wikipedia.org/wiki/De-Phazz","https://musicbrainz.org/artist/2eeff0f9-46d6-4086-8717-5751ade1d07c","https://musicbrainz.org/artist/993a790e-d751-4b1b-a9bd-93150dbff52a","https://rateyourmusic.com/artist/de_phazz","https://www.discogs.com/artist/795","https://www.wikidata.org/wiki/Q695385"],"name":"De-Phazz","album":[{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Detunized Gravity","creditedTo":"De-Phazz","byArtist":{"@type":"MusicGroup","name":"De-Phazz","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"@id":"https://musicbrainz.org/release-group/5cf5c12b-786f-3e7e-a95d-7dd70f756037","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9d6dd7e4-a9a3-311c-9d66-8c0388db18fa","creditedTo":"De-Phazz","name":"Godsdog","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"De-Phazz","name":"Death by Chocolate","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/548c3c73-02b9-3df6-a3a2-a10a649c247b"},{"byArtist":{"name":"De-Phazz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"name":"Daily Lama","creditedTo":"De-Phazz","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/46625268-af9f-37b8-ba40-3069702fb06f"},{"@id":"https://musicbrainz.org/release-group/28420f2e-1b25-3592-a768-853a2e4be8af","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Plastic Love Memory","creditedTo":"De-Phazz","byArtist":{"@type":"MusicGroup","name":"De-Phazz","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"}},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0974dde4-33bd-35e3-97af-d3ead0f498dc","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"De-Phazz","name":"Phazz-a-delic Uppercuts, Volume 1: Fräuleinwunder","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","name":"De-Phazz","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f9865d15-76f3-30dd-8abd-49f93397860e","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"name":"De-Phazz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"creditedTo":"De-Phazz","name":"Natural Fake"},{"@id":"https://musicbrainz.org/release-group/6fa35872-70df-34fe-845d-3cee416cf580","albumProductionType":"http://schema.org/StudioAlbum","name":"Days of Twang","creditedTo":"De-Phazz","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Lala 2.0","creditedTo":"De-Phazz","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","name":"De-Phazz","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/6c3c5381-35d9-4088-8934-3613241068f6","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"DePhazz","name":"Audio Elastique","byArtist":{"name":"De-Phazz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/46a4f608-ffdd-4241-9ef7-d465813ab067","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/9b09e20c-4fd2-4cb7-838c-0959cbf99ec9","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Naive","creditedTo":"De-Phazz","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"}},{"creditedTo":"De-Phazz","name":"Best of De-Phazz: Beyond Lounge","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","name":"De-Phazz","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/6b07bfba-2487-3446-b6d7-2f2e9e1a7a9c","albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"De-Phazz","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"name":"Rare Tracks \u0026 Remixes","creditedTo":"De-Phazz","@id":"https://musicbrainz.org/release-group/7ee73425-aec3-3500-92f4-e594d46c5306","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/902aa10b-6cf1-4924-ba18-b83b2bc14114","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Nu Note Presents... De-Phazz Collection","creditedTo":"De-Phazz","byArtist":{"@type":"MusicGroup","name":"De-Phazz","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"}},{"creditedTo":"De-Phazz \u0026 The Radio Bigband Frankfurt","name":"Big","byArtist":[{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","name":"De-Phazz","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/25ee55da-8730-4cbe-8f48-50d29139f1af","name":"hr-Bigband","@type":"MusicGroup"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/85aa8f39-a2b5-32e5-ac27-279f1150d347","albumProductionType":"http://schema.org/CompilationAlbum"},{"name":"Private","creditedTo":"De-Phazz","byArtist":{"@type":"MusicGroup","name":"De-Phazz","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/789df0e2-570a-4a97-aa94-13df90d09f58"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5f8099ca-a905-37f6-b208-ed559036034e","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"},"name":"Good Boy","creditedTo":"De-Phazz"},{"@id":"https://musicbrainz.org/release-group/49a6c1a4-3647-37b2-bd7d-e4d44e30accb","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","name":"De-Phazz","@type":"MusicGroup"},"name":"No Jive","creditedTo":"De-Phazz","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"De-Phazz","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"name":"Hero Dead and Gone","creditedTo":"De-Phazz","@id":"https://musicbrainz.org/release-group/321a545a-f61a-315e-81fc-0c883e392804","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"No Jive","creditedTo":"De-Phazz","byArtist":{"name":"De-Phazz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/15ec4d50-64f5-391b-94c6-3881e2abb5f0"},{"@id":"https://musicbrainz.org/release-group/5064dd89-e2c7-3c69-8564-aa0537dc59a0","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"De-Phazz","name":"The Mambo Craze","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","name":"De-Phazz","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/46882b34-a03b-3329-a981-5810a66e41d5","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"},"name":"Something Special","creditedTo":"De-Phazz","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"creditedTo":"De-Phazz","name":"Keep It Simple","byArtist":{"name":"De-Phazz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/15b8199d-d226-4d3c-a7c8-6c1399df97c6"},{"@id":"https://musicbrainz.org/release-group/11670342-d0fe-394f-a5d6-18624b703483","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Signor Rossi","@id":"https://musicbrainz.org/artist/33a24e8a-5e57-4b27-bade-b29fab516ee2"},{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"}],"name":"Viva la Felicità","creditedTo":"Signor Rossi vs. De-Phazz","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"creditedTo":"De-Phazz","name":"Jazz Music","byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","name":"De-Phazz","@type":"MusicGroup"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/d913f9a6-7427-33c7-a878-9aebb37015a2","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"},"creditedTo":"De-Phazz","name":"New Collection","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/a7a2864e-ac9d-422f-9f31-aaef408b5481","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","@type":"MusicGroup","name":"De-Phazz"},"name":"Something Special","creditedTo":"De-Phazz","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f965155e-6895-3101-a5ef-6c5539738771"}],"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269","foundingDate":"1997"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5c47ccd3-3f82-46b9-96b8-efdffc83f269">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5c47ccd3-3f82-46b9-96b8-efdffc83f269">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz – De-Phazz"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/releases" title="De-Phazz"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/recordings" title="De-Phazz"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/works" title="De-Phazz"><bdi>Works</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/events" title="De-Phazz"><bdi>Events</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/relationships" title="De-Phazz"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/aliases" title="De-Phazz"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/tags" title="De-Phazz"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/details" title="De-Phazz"><bdi>Details</bdi></a></li>            <li><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/edit" title="De-Phazz"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>De-Phazz</b> is a downtempo jazz ensemble integrating modern turntablism and elements of soul, Latin, trip hop and drum and bass into a lounge music sound. De-Phazz is led by Pit Baumgartner, a German producer who has varied the lineup of artists for every new album. Some regular members are Barbara Lahr, Karl Frierson and Pat Appleton. Since the release of <i>Detunized Gravity</i> and <i>Godsdog</i>, De-Phazz have appeared on the radar of listeners of equally innovative and sample-driven jazz by the likes of Amon Tobin and The Cinematic Orchestra. The band has released records on Mole Listening Pearls and Universal Jazz Germany along with single releases on Edel Records and United Recordings, and also remixes existing material.</p></div>
+<a href="https://en.wikipedia.org/wiki/De-Phazz">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=32124" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/5cf5c12b-786f-3e7e-a95d-7dd70f756037"><bdi>Detunized Gravity</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/9d6dd7e4-a9a3-311c-9d66-8c0388db18fa"><bdi>Godsdog</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/548c3c73-02b9-3df6-a3a2-a10a649c247b"><bdi>Death by Chocolate</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/46625268-af9f-37b8-ba40-3069702fb06f"><bdi>Daily Lama</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/28420f2e-1b25-3592-a768-853a2e4be8af"><bdi>Plastic Love Memory</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/0974dde4-33bd-35e3-97af-d3ead0f498dc"><bdi>Phazz-a-delic Uppercuts, Volume 1: Fräuleinwunder</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f9865d15-76f3-30dd-8abd-49f93397860e"><bdi>Natural Fake</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/6fa35872-70df-34fe-845d-3cee416cf580"><bdi>Days of Twang</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/6c3c5381-35d9-4088-8934-3613241068f6"><bdi>Lala 2.0</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/46a4f608-ffdd-4241-9ef7-d465813ab067"><bdi>Audio Elastique</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz – De-Phazz"><bdi>DePhazz</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/9b09e20c-4fd2-4cb7-838c-0959cbf99ec9"><bdi>Naive</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/6b07bfba-2487-3446-b6d7-2f2e9e1a7a9c"><bdi>Best of De-Phazz: Beyond Lounge</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7ee73425-aec3-3500-92f4-e594d46c5306"><bdi>Rare Tracks &amp; Remixes</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/902aa10b-6cf1-4924-ba18-b83b2bc14114"><bdi>Nu Note Presents... De-Phazz Collection</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/85aa8f39-a2b5-32e5-ac27-279f1150d347"><bdi>Big</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a> &amp; <span class="name-variation"><a href="/artist/25ee55da-8730-4cbe-8f48-50d29139f1af" title="hr-Bigband – hr-Bigband"><bdi>The Radio Bigband Frankfurt</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/789df0e2-570a-4a97-aa94-13df90d09f58"><bdi>Private</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/5f8099ca-a905-37f6-b208-ed559036034e"><bdi>Good Boy</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/49a6c1a4-3647-37b2-bd7d-e4d44e30accb"><bdi>No Jive</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/321a545a-f61a-315e-81fc-0c883e392804"><bdi>Hero Dead and Gone</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/15ec4d50-64f5-391b-94c6-3881e2abb5f0"><bdi>No Jive</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/5064dd89-e2c7-3c69-8564-aa0537dc59a0"><bdi>The Mambo Craze</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/46882b34-a03b-3329-a981-5810a66e41d5"><bdi>Something Special</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/15b8199d-d226-4d3c-a7c8-6c1399df97c6"><bdi>Keep It Simple</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/11670342-d0fe-394f-a5d6-18624b703483"><bdi>Viva la Felicità</bdi></a></td>
+        
+        <td><a href="/artist/33a24e8a-5e57-4b27-bade-b29fab516ee2" title="Signor Rossi"><bdi>Signor Rossi</bdi></a> vs. <a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/d913f9a6-7427-33c7-a878-9aebb37015a2"><bdi>Jazz Music</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a7a2864e-ac9d-422f-9f31-aaef408b5481"><bdi>New Collection</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f965155e-6895-3101-a5ef-6c5539738771"><bdi>Something Special</bdi></a></td>
+        
+        <td><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269" title="De-Phazz"><bdi>De-Phazz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1997 (19 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/eee2e250-e74b-4216-896d-ec1980ea123c"><bdi>Heidelberg</bdi></a>, <a href="/area/4b8c47dd-0fe2-450e-8a21-d4d739ee0e0c"><bdi>Baden-Württemberg</bdi></a>, <span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/ratings" title="De-Phazz"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/german"><bdi>german</bdi></a>, <a href="/tag/heidelberg"><bdi>heidelberg</bdi></a>, <a href="/tag/jazz"><bdi>jazz</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.de-phazz.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000238456">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/795">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/dephazz">dephazz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/de_phazz">Rateyourmusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/pages/De-Phazz/329489047094044">De-Phazz</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q695385">Q695385</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/De-Phazz">en: De-Phazz</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5c47ccd3-3f82-46b9-96b8-efdffc83f269/relationships" title="De-Phazz"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5c47ccd3-3f82-46b9-96b8-efdffc83f269">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-03-05 18:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

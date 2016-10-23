@@ -1,0 +1,446 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sender - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c","@context":"http://schema.org","name":"Sender","album":[{"name":"No Way Out","byArtist":{"name":"Sender","@id":"https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/fcf865bf-ae41-4a5b-96de-1ea691d2db81","@type":"MusicAlbum","creditedTo":"Sender","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c","name":"Sender","@type":"MusicGroup"},"name":"Sleepwalker - Video","@id":"https://musicbrainz.org/release-group/3b61cacc-e4ed-4344-b590-95eb214acd19","creditedTo":"Sender","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c","name":"Sender"},"name":"Cover Up Single","@id":"https://musicbrainz.org/release-group/b1125430-e037-4e9a-91ba-af98bf553c08","creditedTo":"Sender","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/3c04b3e0-d18c-3667-9a35-f37aa07bb200","byArtist":{"@type":"MusicGroup","name":"Sender","@id":"https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c"},"name":"Sender","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sender","@type":"MusicAlbum"}],"sameAs":["http://en.wikipedia.org/wiki/Sender_(band)","http://www.sendermusic.net/","https://www.wikidata.org/wiki/Q7450207"],"@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F069667c1-d880-4731-94dc-98860af9b40c">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F069667c1-d880-4731-94dc-98860af9b40c">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c" title="Sender"><bdi>Sender</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c" title="Sender – Sender"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/releases" title="Sender"><bdi>Releases</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/recordings" title="Sender"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/works" title="Sender"><bdi>Works</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/events" title="Sender"><bdi>Events</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/relationships" title="Sender"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/aliases" title="Sender"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/tags" title="Sender"><bdi>Tags</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/details" title="Sender"><bdi>Details</bdi></a></li>            <li><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/edit" title="Sender"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>About Sender</p>
+<p>Sender is a 4 piece rock band from Bendigo in Central Victoria. The band has been described as being somewhere between Muse, silverchair and Foo Fighters.</p>
+<p>It all started in Bendigo in 1995 when 4 high school friends started jamming to the likes of Nirvana & silverchair. After performing at various school functions and local concerts, Bohdan Dower, tried his hand at creating his own material and found he had the flair for writing songs - the first being penned at only 14 years of age. Over the next couple of years the band slowly built a repertoire of new, original material and Zenyth (www.myspace.com/zenythband) began developing a loyal following of fans. Regular gigs throughout Victoria saw them perform with the likes of Killing Heidi, 28 Days, Magic Dirt and Something For Kate.</p>
+<p>In the years leading up to 2003, the band took out several battle of the bands competitions including the State Final in the 1999 Rock Eisteddfod, leading to a performance at Melbourne's National Tennis Centre, an event televised nationally on Channel 10.</p>
+<p>2000 saw more competition appearances including the massive Push On 2000 final at Melbourne's Luna Park, plus performances at the launch of National Youth Week at The Chapel in Prahran and at The Royal Exhibition Building, Melbourne.</p>
+<p>In 2001 the band released their debut EP Threedoublefivesix which was produced, recorded, engineered and funded by the band, which lead to them breaking more ground with live performances across the state. Threedoublefivesix went to a second pressing and has since sold out and has now becomes a collectors item as Zenyths one and only CD release.</p>
+<p>Whilst still playing live under the now retired moniker of Zenyth, the band took out the title to the 2002 National MusicOz Competition, winning recording time at Sony Music Studios in Sydney, recording 2 songs under the esteemed guidance of Paul McKercher - one of this countrys most respected engineers.</p>
+<p>With a tremendous catalogue of songs and a name change to Sender, the band signed to Sony Music Australia in Jan 2003, and headed into Melbourne's Birdland Studios to record a 5 track EP with producer Lindsay Gravina (The Living End / Magic Dirt). The tracks were then mixed by Rick Will (Incubus, Ben Harper, Sandrine, Lo-Tel) and Roger Sommers (Allanis Morisette, Rage Against The Machine, K. D. Lang) resulting in an outstanding debut 5 track self titled EP Sender released in May 2004. www.sendermusic.com</p>
+<p>The next 4 months saw national across the board TV and radio airplay for lead track You're on Fire on Video Hits, So Fresh, MMM, NOVA, MTV and Channel <a href="//wiki.musicbrainz.org/V">V</a> and full regional radio coverage. The band hit the road scoring national supports of Hoobastank, Switchfoot, Tenacious D, Killing Heidi and The Screaming Jets completing nearly 70 gigs and sales of the EP exceeding 5,500.</p>
+<p>The beginning of 2005 Sender start to write and demo 15 new songs for Sony and after much discussion with the label, the band ask to be released from their contract which Sony kindly agreed to.</p>
+<p>+++++ Album No Way Out" release date set 10th April 2010</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2010-03-08 00:45 UTC.
+            
+        </div>
+    </div>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=391957" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/fcf865bf-ae41-4a5b-96de-1ea691d2db81"><bdi>No Way Out</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/3b61cacc-e4ed-4344-b590-95eb214acd19"><bdi>Sleepwalker - Video</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/b1125430-e037-4e9a-91ba-af98bf553c08"><bdi>Cover Up Single</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/3c04b3e0-d18c-3667-9a35-f37aa07bb200"><bdi>Sender</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/069667c1-d880-4731-94dc-98860af9b40c/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/australia"><bdi>australia</bdi></a>, <a href="/tag/band"><bdi>band</bdi></a>, <a href="/tag/bendigo"><bdi>bendigo</bdi></a>, <a href="/tag/bohdan%20dower"><bdi>bohdan dower</bdi></a>, <a href="/tag/musicoz"><bdi>musicoz</bdi></a>, <a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/tags" title="Sender"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.sendermusic.net/">Official homepage</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/senderband">senderband</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q7450207">Q7450207</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Sender_(band)">en: Sender (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/069667c1-d880-4731-94dc-98860af9b40c/relationships" title="Sender"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F069667c1-d880-4731-94dc-98860af9b40c">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2012-01-02 05:21 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

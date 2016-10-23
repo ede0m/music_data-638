@@ -1,0 +1,784 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>t.A.T.u. - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2000 in Moskva, Dissolved: 2011-03, Area: Russia"/><script type="application/ld+json">{"groupOrigin":{"containedIn":{"@id":"https://musicbrainz.org/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef","name":"Russia","@type":"Country"},"@type":"City","name":"Moskva","@id":"https://musicbrainz.org/area/f310740c-ad62-48c0-839b-e86581b9f464"},"name":"t.A.T.u.","foundingDate":"2000","member":[{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/209bcf5b-552c-4a2a-8baa-cb490c1a4dfe","name":"Юлия Волкова"}},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5f46a984-294d-4d41-9055-0ef628c66f40","name":"Lena Katina"},"@type":"OrganizationRole"}],"dissolutionDate":"2011-03","album":[{"@id":"https://musicbrainz.org/release-group/7bb03a1e-1ad6-3c39-ae80-3fca9cef6ccd","albumReleaseType":"http://schema.org/AlbumRelease","name":"200 по встречной","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u."},"creditedTo":"Тату"},{"byArtist":{"@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u.","@type":"MusicGroup"},"creditedTo":"t.A.T.u.","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/06b846be-c37a-3b6c-a253-ca0eafd22dae","albumReleaseType":"http://schema.org/AlbumRelease","name":"200 km/h in the Wrong Lane"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"t.A.T.u.","byArtist":{"@type":"MusicGroup","name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d"},"@id":"https://musicbrainz.org/release-group/ed883f10-7fc3-32ea-b3e5-6d8809e6167f","albumReleaseType":"http://schema.org/AlbumRelease","name":"Dangerous and Moving"},{"@id":"https://musicbrainz.org/release-group/d47a2db3-e885-37bb-bb3d-d7ec517ee00b","albumReleaseType":"http://schema.org/AlbumRelease","name":"Люди инвалиды","byArtist":{"name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","@type":"MusicGroup"},"creditedTo":"t.A.T.u.","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Весёлые улыбки","@id":"https://musicbrainz.org/release-group/b6f5cc71-9fea-3681-b46c-a725a71a136b","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u.","@type":"MusicGroup"},"creditedTo":"t.A.T.u.","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/4094f61e-5ed4-46d0-8b6d-35e4a752f0f7","albumReleaseType":"http://schema.org/AlbumRelease","name":"Waste Management","byArtist":{"@type":"MusicGroup","name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d"},"creditedTo":"t.A.T.u.","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"The BEST of t.A.T.u","@id":"https://musicbrainz.org/release-group/f6958802-f825-4bfd-a902-0e549a017fb6","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"t.A.T.u.","byArtist":{"@type":"MusicGroup","name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/70d91b38-a3d9-34c8-a7e9-ef59d9312697","name":"The Best","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u."},"creditedTo":"t.A.T.u.","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u."},"creditedTo":"t.A.T.u.","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bfbe17e5-99e2-4905-bd85-4ce010dedd2b","name":"Mелодия любви"},{"byArtist":{"name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","@type":"MusicGroup"},"creditedTo":"t.A.T.u.","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/RemixAlbum"],"@type":"MusicAlbum","name":"Remixes","@id":"https://musicbrainz.org/release-group/67f02ba0-7ba8-38b4-997e-ec362d9a1279","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/b510362c-9b2b-4fe9-9700-39fe975a6bf5","albumReleaseType":"http://schema.org/AlbumRelease","name":"Waste Management Remixes","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d"},"creditedTo":"t.A.T.u."},{"name":"Я сошла с ума","@id":"https://musicbrainz.org/release-group/77489ab3-6182-3790-9801-9ab6e97a3f8d","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"t.A.T.u.","byArtist":{"name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u."},"creditedTo":"t.A.T.u.","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e259f5ea-438c-3478-9e52-14328e1715aa","name":"All the Things She Said"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"t.A.T.u.","byArtist":{"@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u.","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e1a368cb-bb6b-313e-a7c8-6edf2406517a","name":"Not Gonna Get Us"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u."},"creditedTo":"t.A.T.u.","name":"How Soon Is Now?","@id":"https://musicbrainz.org/release-group/561d8886-3fd7-38b2-a89f-70fe000db74c","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Gomenasai","@id":"https://musicbrainz.org/release-group/7765b2f7-7456-351f-92ca-6d3b5088533c","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","@type":"MusicGroup"},"creditedTo":"t.A.T.u."},{"byArtist":{"@type":"MusicGroup","name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d"},"creditedTo":"t.A.T.u.","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"All About Us","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5eb66506-5e8d-3000-900f-bc0edd01b63c"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"t.A.T.u.","byArtist":{"@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u.","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b921e699-083b-4863-b28b-b16075c38f3d","name":"Люди-инвалиды"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","@type":"MusicGroup"},"creditedTo":"t.A.T.u.","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f054e3a7-d5e3-3091-8c5c-84b80b602e89","name":"Friend or Foe"},{"@id":"https://musicbrainz.org/release-group/09c20097-c6fd-35c0-b63e-916aa6f178f2","albumReleaseType":"http://schema.org/SingleRelease","name":"Белый плащик / White Robe","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"t.A.T.u.","byArtist":{"name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/848b9a75-8522-41f1-a273-54cd56e15fa8","albumReleaseType":"http://schema.org/SingleRelease","name":"Snowfalls","byArtist":{"name":"t.A.T.u.","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","@type":"MusicGroup"},"creditedTo":"t.A.T.u.","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/846de5f0-cd29-4fe8-8fa0-e770f86a4c2c","name":"Colors (Radio Edit)","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"name":"Headhunterz","@id":"https://musicbrainz.org/artist/79dbc936-adf2-4a29-8e01-c1fbe5613b0a","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","name":"t.A.T.u."}],"creditedTo":"Headhunterz feat. t.A.T.u."}],"@context":"http://schema.org","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d","sameAs":["http://en.wikipedia.org/wiki/T.A.T.u.","http://musicmoz.org/Bands_and_Artists/T/t.A.T.u./","http://www.allmusic.com/artist/mn0000001113","http://www.bbc.co.uk/music/artists/7c20f558-d664-42bd-b6f1-81acf9dbb72d","http://www.imdb.com/name/nm1388180/","http://www.last.fm/music/t.A.T.u.","http://www.tatugirls.com/","http://www.taty.ru/","http://www.universal-music.co.jp/u-pop/artist/tatu/","https://musicbrainz.org/artist/9a63805c-1af7-4d0d-8738-40228b0e8176","https://www.discogs.com/artist/99356","https://www.wikidata.org/wiki/Q161723"],"location":{"name":"Russia","@id":"https://musicbrainz.org/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef","@type":"Country"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7c20f558-d664-42bd-b6f1-81acf9dbb72d">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F7c20f558-d664-42bd-b6f1-81acf9dbb72d">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u. – t.A.T.u."><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/releases" title="t.A.T.u."><bdi>Releases</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/recordings" title="t.A.T.u."><bdi>Recordings</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/works" title="t.A.T.u."><bdi>Works</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/events" title="t.A.T.u."><bdi>Events</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/relationships" title="t.A.T.u."><bdi>Relationships</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/aliases" title="t.A.T.u."><bdi>Aliases</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/tags" title="t.A.T.u."><bdi>Tags</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/details" title="t.A.T.u."><bdi>Details</bdi></a></li>            <li><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/edit" title="t.A.T.u."><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>Songs not by t.A.T.u. but credited to them on various bootlegs:</p>
+<ul>
+<li><a href="/work/f8ef6cb6-36d9-4afa-87cc-1293f84bb859">Альфонс</a> (Al'fons)</li>
+<li><a href="/work/43e44f1a-7423-4188-81d9-cc8eb1dc4a18">Было и прошло</a> (Bylo i proshlo) - This is apparently by Русский Размер (Russkiy Razmer) (according to <a href="http://www.tatu.us/forum/viewtopic.php?t=497" rel="nofollow">this page</a>)</li>
+<li><a href="/work/ddaf7c71-3da3-4191-8ba9-49e15be2e783">Лишь тебя</a> (Lish' tebya)</li>
+<li><a href="/work/3188141f-8a8b-4bcd-a940-574056a15a2a">Мелодия любви</a> (Melodiya lyubvi)</li>
+<li><a href="/work/5276aa8a-2960-4aa0-a7ce-c11a41130ff7">Одна</a> (Odna) - This is apparently a song called Опять одна (Opyat' odna) by Prezident&Amazonka (according to <a href="http://forum.tatysite.net/showthread.php?t=11757" rel="nofollow">this page</a>)</li>
+<li><a href="/work/96acb4b2-d3b0-4479-be5a-024cca683b86">В твоих руках</a> (V tvoikh rukakh)</li>
+<li><a href="/work/363f8816-655e-4c98-b826-3df124f4bb0f">Я не глотаю</a> (Ya ne glotayu), also known as Ты сошел с ума (Ty soshel s uma) - This is apparently by Ничья (Nichya) (according to <a href="http://tatu.uberdream.com/songs.html" rel="nofollow">this page</a>)</li>
+<li><a href="/work/676ae637-e47b-4788-b5ca-f6ab618aa484">Заведи</a> (Zavedi) - This is apparently by Maxi-M (according to <a href="http://tatu.uberdream.com/songs.html" rel="nofollow">this page</a>)</li>
+</ul>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2014-08-30 17:14 UTC.
+            
+        </div>
+    </div>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=90927" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/7bb03a1e-1ad6-3c39-ae80-3fca9cef6ccd"><bdi>200 по встречной</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u. – t.A.T.u."><bdi>Тату</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/06b846be-c37a-3b6c-a253-ca0eafd22dae"><bdi>200 km/h in the Wrong Lane</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:95%;">4.75</span>    </span>
+</span></td><td class="c">19</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/ed883f10-7fc3-32ea-b3e5-6d8809e6167f"><bdi>Dangerous and Moving</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">12</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/d47a2db3-e885-37bb-bb3d-d7ec517ee00b"><bdi>Люди инвалиды</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/b6f5cc71-9fea-3681-b46c-a725a71a136b"><bdi>Весёлые улыбки</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/4094f61e-5ed4-46d0-8b6d-35e4a752f0f7"><bdi>Waste Management</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/f6958802-f825-4bfd-a902-0e549a017fb6"><bdi>The BEST of t.A.T.u</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/70d91b38-a3d9-34c8-a7e9-ef59d9312697"><bdi>The Best</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/bfbe17e5-99e2-4905-bd85-4ce010dedd2b"><bdi>Mелодия любви</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/67f02ba0-7ba8-38b4-997e-ec362d9a1279"><bdi>Remixes</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/b510362c-9b2b-4fe9-9700-39fe975a6bf5"><bdi>Waste Management Remixes</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/77489ab3-6182-3790-9801-9ab6e97a3f8d"><bdi>Я сошла с ума</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e259f5ea-438c-3478-9e52-14328e1715aa"><bdi>All the Things She Said</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/e1a368cb-bb6b-313e-a7c8-6edf2406517a"><bdi>Not Gonna Get Us</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/561d8886-3fd7-38b2-a89f-70fe000db74c"><bdi>How Soon Is Now?</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/7765b2f7-7456-351f-92ca-6d3b5088533c"><bdi>Gomenasai</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5eb66506-5e8d-3000-900f-bc0edd01b63c"><bdi>All About Us</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/b921e699-083b-4863-b28b-b16075c38f3d"><bdi>Люди-инвалиды</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/f054e3a7-d5e3-3091-8c5c-84b80b602e89"><bdi>Friend or Foe</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/09c20097-c6fd-35c0-b63e-916aa6f178f2"><bdi>Белый плащик / White Robe</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/848b9a75-8522-41f1-a273-54cd56e15fa8"><bdi>Snowfalls</bdi></a></td>
+        
+        <td><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/846de5f0-cd29-4fe8-8fa0-e770f86a4c2c"><bdi>Colors (Radio Edit)</bdi></a></td>
+        
+        <td><a href="/artist/79dbc936-adf2-4a29-8e01-c1fbe5613b0a" title="Headhunterz"><bdi>Headhunterz</bdi></a> feat. <a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d" title="t.A.T.u."><bdi>t.A.T.u.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2000</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f310740c-ad62-48c0-839b-e86581b9f464"><bdi>Moskva</bdi></a>, <span class="flag flag-RU"><a href="/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef"><bdi>Russia</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2011-03 (11 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-RU"><a href="/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef"><bdi>Russia</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span>    (<a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/ratings" title="t.A.T.u."><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/russian"><bdi>russian</bdi></a>, <a href="/tag/dance"><bdi>dance</bdi></a>, <a href="/tag/electronica"><bdi>electronica</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/tags" title="t.A.T.u."><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.universal-music.co.jp/u-pop/artist/tatu/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://www.tatugirls.com/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://www.taty.ru/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000001113">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/7c20f558-d664-42bd-b6f1-81acf9dbb72d">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/99356">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1388180/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/t.A.T.u.">t.A.T.u.</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/T/t.A.T.u./">MusicMoz</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q161723">Q161723</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/T.A.T.u.">en: T.A.T.u.</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/tatu">tatu</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/tATuVEVO">tATuVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/7c20f558-d664-42bd-b6f1-81acf9dbb72d/relationships" title="t.A.T.u."><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7c20f558-d664-42bd-b6f1-81acf9dbb72d">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-08-26 23:21 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

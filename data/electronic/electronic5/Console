@@ -1,0 +1,717 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Console - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Area: Germany"/><script type="application/ld+json">{"performsAs":[{"@id":"https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a","@type":["Person","MusicGroup"],"name":"Acid Pauli"},{"name":"Kevin \u0026 Paul","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941"}],"album":[{"creditedTo":"Console","byArtist":{"@type":["Person","MusicGroup"],"name":"Console","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8"},"@type":"MusicAlbum","name":"Pan or ama","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/57a67fc6-2c0a-4025-8a31-34b45fd2981e"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f551dc51-2783-3309-811b-f4b92f22fa9a","creditedTo":"Console","byArtist":{"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@type":["Person","MusicGroup"],"name":"Console"},"name":"Rocket in the Pocket","@type":"MusicAlbum"},{"creditedTo":"Ammer \u0026 Console","byArtist":[{"@id":"https://musicbrainz.org/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2","name":"Andreas Ammer","@type":["Person","MusicGroup"]},{"sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","@type":["Person","MusicGroup"],"name":"Console"}],"name":"Bugs \u0026 Beats \u0026 Beasts","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2ce17429-edf4-3169-b00a-601c207f39bc"},{"creditedTo":"Ammer \u0026 Console","byArtist":[{"@type":["Person","MusicGroup"],"name":"Andreas Ammer","@id":"https://musicbrainz.org/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2"},{"@type":["Person","MusicGroup"],"name":"Console","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8"}],"@type":"MusicAlbum","name":"The Official Olympic Bootleg","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8ac4d0d9-64c3-444a-b99c-d892de91d16f"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4de2034e-fe18-3562-8b7c-b555245da5f8","creditedTo":"Console","byArtist":{"name":"Console","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8"},"@type":"MusicAlbum","name":"Reset the Preset"},{"@id":"https://musicbrainz.org/release-group/198dde08-37b6-3e8b-b171-e8dfe305de23","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Mono","byArtist":{"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@type":["Person","MusicGroup"],"name":"Console"},"@type":"MusicAlbum","creditedTo":"Console"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f264a7a8-46d8-4b66-9770-75820150d98d","creditedTo":"Console","byArtist":{"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@type":["Person","MusicGroup"],"name":"Console"},"@type":"MusicAlbum","name":"Herself"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2ccb558d-ffc3-4262-bb4b-7fa4cf5478c7","creditedTo":"Andreas Ammer \u0026 Console","byArtist":[{"@id":"https://musicbrainz.org/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2","@type":["Person","MusicGroup"],"name":"Andreas Ammer"},{"sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","name":"Console","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","name":"Die Vögel - Nach Oskar Sala"},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Andreas Ammer","@id":"https://musicbrainz.org/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2"},{"sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","name":"Console","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","name":"Sweet Surrender (Still on the Tracks)","creditedTo":"Ammer \u0026 Console","@id":"https://musicbrainz.org/release-group/b34a33d1-7c80-3483-a2d6-9d36094efb16","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/bb2877c7-f5c2-3189-9506-18a1de1c8ad4","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Console","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8"},"name":"Live at Centre Pompidou","creditedTo":"Console"},{"creditedTo":"Console","byArtist":{"@type":["Person","MusicGroup"],"name":"Console","@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"]},"@type":"MusicAlbum","name":"Console Yourself","albumProductionType":"http://schema.org/RemixAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7f25e9a7-1427-3116-9338-5a603bc09997"},{"byArtist":{"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"name":"Console","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","name":"Lady-Bug","creditedTo":"Console","@id":"https://musicbrainz.org/release-group/5097d878-6a92-3662-ad92-bd311ee7eecb","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Console","@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"]},"name":"14 Zero Zero","@type":"MusicAlbum","creditedTo":"Console","@id":"https://musicbrainz.org/release-group/bad52720-48ce-396c-bf8b-6464145e38ee","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/bd45c730-780e-3d00-9701-ad259b9fc89a","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Freiburg V3.0","byArtist":[{"@id":"https://musicbrainz.org/artist/7717539b-33aa-45d5-b88d-9e627172db19","name":"Tocotronic","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"name":"Console","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","creditedTo":"Tocotronic vs. Console"},{"creditedTo":"Console","byArtist":{"@type":["Person","MusicGroup"],"name":"Console","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8"},"name":"Suck and Run","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/68a876a7-e957-342f-885e-eb1ad115ef21"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c53dd385-9043-4bae-b3de-86bd1c674ad4","creditedTo":"The Notwist \u0026 Console","@type":"MusicAlbum","byArtist":[{"@type":"MusicGroup","name":"The Notwist","@id":"https://musicbrainz.org/artist/f180cec2-9421-4417-a841-c7372090d13d"},{"name":"Console","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8"}],"name":"Blank Air / By This River"},{"creditedTo":"Ammer \u0026 Console","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Andreas Ammer","@id":"https://musicbrainz.org/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2"},{"name":"Console","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"]}],"name":"Loopspool","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4893b32a-342d-3793-b90d-21ebdc60eb57"},{"@type":"MusicAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","@type":["Person","MusicGroup"],"name":"Console"},"name":"Herself Remixes","creditedTo":"Console","@id":"https://musicbrainz.org/release-group/3c4e592f-521d-469c-9f14-43f759be0c68","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":[{"name":"The Notwist","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f180cec2-9421-4417-a841-c7372090d13d"},{"@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","sameAs":["https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a"],"name":"Console","@type":["Person","MusicGroup"]}],"name":"Solo Swim","@type":"MusicAlbum","creditedTo":"The Notwist / Console","@id":"https://musicbrainz.org/release-group/df590604-385d-332b-ab54-25fa9838fe55","albumProductionType":"http://schema.org/SoundtrackAlbum"}],"sameAs":["http://en.wikipedia.org/wiki/Console_(musician)","http://www.allmusic.com/artist/mn0000121469","http://www.console.li/","https://musicbrainz.org/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941","https://musicbrainz.org/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6","https://musicbrainz.org/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a","https://www.discogs.com/artist/424","https://www.wikidata.org/wiki/Q873759"],"alternateName":["Martin Gretschmann","Acid Pauli","Kevin \u0026 Paul"],"location":{"name":"Germany","@type":"Country","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"},"@type":["Person","MusicGroup"],"name":"Console","@id":"https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8","@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fca134505-1fcc-40a3-bef2-4f344b86d1f8">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fca134505-1fcc-40a3-bef2-4f344b86d1f8">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console – Console"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/releases" title="Console"><bdi>Releases</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/recordings" title="Console"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/works" title="Console"><bdi>Works</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/events" title="Console"><bdi>Events</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/relationships" title="Console"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/aliases" title="Console"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/tags" title="Console"><bdi>Tags</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/details" title="Console"><bdi>Details</bdi></a></li>            <li><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/edit" title="Console"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/7e6335ba-3c44-41aa-9de0-9b3032a6f1d6" title="Gretschmann, Martin"><bdi>Martin Gretschmann</bdi></a></p>
+    <p><strong>Also performs as:</strong> <a href="/artist/dcdde0fc-04f9-4f1d-a3c8-759e3738784a" title="Pauli, Acid"><bdi>Acid Pauli</bdi></a>, <a href="/artist/790feae3-ea3d-4f11-a3ff-b15170a3a941" title="Kevin &amp; Paul"><bdi>Kevin &amp; Paul</bdi></a></p>
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Console</b> is an electronic music project by <b>Martin Gretschmann</b>, the lead programmer for German band Notwist. Relying heavily on elements of electronic music, Console's music is reminiscent of some electro bands, such as Ladytron and Miss Kittin.</p></div>
+<a href="https://en.wikipedia.org/wiki/Console_%28musician%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=21138" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/57a67fc6-2c0a-4025-8a31-34b45fd2981e"><bdi>Pan or ama</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/f551dc51-2783-3309-811b-f4b92f22fa9a"><bdi>Rocket in the Pocket</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/2ce17429-edf4-3169-b00a-601c207f39bc"><bdi>Bugs &amp; Beats &amp; Beasts</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2" title="Andreas Ammer – Ammer, Andreas"><bdi>Ammer</bdi></a></span> &amp; <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/8ac4d0d9-64c3-444a-b99c-d892de91d16f"><bdi>The Official Olympic Bootleg</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2" title="Andreas Ammer – Ammer, Andreas"><bdi>Ammer</bdi></a></span> &amp; <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/4de2034e-fe18-3562-8b7c-b555245da5f8"><bdi>Reset the Preset</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/198dde08-37b6-3e8b-b171-e8dfe305de23"><bdi>Mono</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f264a7a8-46d8-4b66-9770-75820150d98d"><bdi>Herself</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/2ccb558d-ffc3-4262-bb4b-7fa4cf5478c7"><bdi>Die Vögel - Nach Oskar Sala</bdi></a></td>
+        
+        <td><a href="/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2" title="Ammer, Andreas"><bdi>Andreas Ammer</bdi></a> &amp; <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/b34a33d1-7c80-3483-a2d6-9d36094efb16"><bdi>Sweet Surrender (Still on the Tracks)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2" title="Andreas Ammer – Ammer, Andreas"><bdi>Ammer</bdi></a></span> &amp; <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/bb2877c7-f5c2-3189-9506-18a1de1c8ad4"><bdi>Live at Centre Pompidou</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/7f25e9a7-1427-3116-9338-5a603bc09997"><bdi>Console Yourself</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/5097d878-6a92-3662-ad92-bd311ee7eecb"><bdi>Lady-Bug</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/bad52720-48ce-396c-bf8b-6464145e38ee"><bdi>14 Zero Zero</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/bd45c730-780e-3d00-9701-ad259b9fc89a"><bdi>Freiburg V3.0</bdi></a></td>
+        
+        <td><a href="/artist/7717539b-33aa-45d5-b88d-9e627172db19" title="Tocotronic"><bdi>Tocotronic</bdi></a> vs. <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/68a876a7-e957-342f-885e-eb1ad115ef21"><bdi>Suck and Run</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/c53dd385-9043-4bae-b3de-86bd1c674ad4"><bdi>Blank Air / By This River</bdi></a></td>
+        
+        <td><a href="/artist/f180cec2-9421-4417-a841-c7372090d13d" title="Notwist, The"><bdi>The Notwist</bdi></a> &amp; <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/4893b32a-342d-3793-b90d-21ebdc60eb57"><bdi>Loopspool</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/5f9334b1-de01-4f48-96f2-3510b2b741e2" title="Andreas Ammer – Ammer, Andreas"><bdi>Ammer</bdi></a></span> &amp; <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/3c4e592f-521d-469c-9f14-43f759be0c68"><bdi>Herself Remixes</bdi></a></td>
+        
+        <td><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/df590604-385d-332b-ab54-25fa9838fe55"><bdi>Solo Swim</bdi></a></td>
+        
+        <td><a href="/artist/f180cec2-9421-4417-a841-c7372090d13d" title="Notwist, The"><bdi>The Notwist</bdi></a> / <a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8" title="Console"><bdi>Console</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Traumzeit_2014_The_Notwist_02.jpg/250px-Traumzeit_2014_The_Notwist_02.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Traumzeit 2014 The Notwist 02.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span>    (<a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/ratings" title="Console"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/german"><bdi>german</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/idm"><bdi>idm</bdi></a>, <a href="/tag/indietronica"><bdi>indietronica</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.console.li/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000121469">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/424">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/therealconsole">therealconsole</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q873759">Q873759</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Console_(musician)">en: Console (musician)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/ca134505-1fcc-40a3-bef2-4f344b86d1f8/relationships" title="Console"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fca134505-1fcc-40a3-bef2-4f344b86d1f8">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2011-09-21 09:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

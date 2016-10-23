@@ -1,0 +1,908 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pendulum - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Australian drum &amp; bass, Type: Group, Founded: 2002 in Perth, Area: Australia"/><script type="application/ld+json">{"groupOrigin":{"@type":"City","name":"Perth","containedIn":{"name":"Western Australia","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e","name":"Australia"},"@id":"https://musicbrainz.org/area/1b1a6c07-d9bd-47d8-b1ee-772f53ec6e79","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/21e8495a-32fa-4a97-8a92-57184e36235a"},"location":{"@type":"Country","@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e","name":"Australia"},"foundingDate":"2002","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","@context":"http://schema.org","sameAs":["http://viaf.org/viaf/150485533","http://www.allmusic.com/artist/mn0000258022","http://www.bbc.co.uk/music/artists/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","http://www.pendulum.com/","https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)","https://rateyourmusic.com/artist/pendulum","https://www.discogs.com/artist/134038","https://www.wikidata.org/wiki/Q20672"],"album":[{"byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Hold Your Colour","@id":"https://musicbrainz.org/release-group/8ec197ee-a888-32d7-acb5-0fac3e95e263"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/5f4bbfae-4b61-32d7-814d-7718c2324849","name":"In Silico","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/320df089-f656-433d-add7-605d06800852","name":"Immersion"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Jungle Sound Gold","@id":"https://musicbrainz.org/release-group/11f73bbe-b38b-3684-a672-bae6d03d8e0c","creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},"albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"},"creditedTo":"Pendulum","name":"Live at Brixton Academy","@id":"https://musicbrainz.org/release-group/824d1a7b-c553-45a2-96a4-e5b8c1e7b970","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/cad682f8-de0a-30c7-bfb3-f47cceb1761a","name":"Another Planet / Voyager","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c7e4a53a-42fe-3e41-b18a-3210fe1acefd","name":"Back 2 You / Still Grey"},{"name":"Spiral","@id":"https://musicbrainz.org/release-group/37244447-80b5-3fc2-92dd-019eaaa4e120","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"}},{"@id":"https://musicbrainz.org/release-group/551198d2-5e2b-34a5-b1fb-fafb2ccc3a37","name":"Tarantula / Fasten Your Seatbelt","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"}},{"creditedTo":"Pendulum","byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Slam","@id":"https://musicbrainz.org/release-group/7356b685-5739-35bd-80e6-0a21c56a1e22"},{"name":"Slam / Out Here","@id":"https://musicbrainz.org/release-group/a5bb961f-d9d8-343c-8d3c-4edca4e855be","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},"creditedTo":"Pendulum"},{"name":"Hold Your Colour","@id":"https://musicbrainz.org/release-group/58f46a4b-5e8e-358b-b336-5e1f221a16cc","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c127fc3f-4fd7-324a-83e8-7e55af64011b","name":"Hardware Limited 03","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Minds Eye / Trail of Sevens","@id":"https://musicbrainz.org/release-group/7b507065-f814-36d6-b829-2a8b53cefbab","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},{"name":"Bulletproof","@id":"https://musicbrainz.org/artist/6998f397-6ae0-4995-98dc-3b48b62d72b6","@type":"MusicGroup"},{"name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","@type":"MusicGroup"}],"creditedTo":"Pendulum \u0026 Bulletproof / Pendulum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Freestylers \u0026 Pendulum","byArtist":[{"@type":"MusicGroup","name":"Freestylers","@id":"https://musicbrainz.org/artist/60dd8303-5ee8-4c99-a19c-009e07c17aeb"},{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/a2272c47-b697-4766-a166-3a83071624fe","name":"Painkiller","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Blood Sugar / Axle Grinder","@id":"https://musicbrainz.org/release-group/ba8090e5-ef4f-3d94-b86f-2c04b81111cb","byArtist":{"name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","@type":"MusicGroup"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Granite","@id":"https://musicbrainz.org/release-group/1256db02-d5b0-3986-80c8-16ed29d07351","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"}},{"creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Propane Nightmares","@id":"https://musicbrainz.org/release-group/e14df308-d0c7-37a7-a65c-251a5c649e55"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},"@id":"https://musicbrainz.org/release-group/99a4e0d2-7da8-39ea-948e-325411028046","name":"The Other Side","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5523cb0d-cf5f-3a3f-9016-5febd6e84ea7","name":"Showdown"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/05014d97-fc1b-4266-9505-02d91ee9fa8b","name":"Watercolour"},{"name":"Witchcraft","@id":"https://musicbrainz.org/release-group/ac69c595-f149-4c71-b25f-82f6477ddeb7","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"The Island","@id":"https://musicbrainz.org/release-group/03194ef5-2068-4a17-83d2-451afceec7c4"},{"name":"Ransom","@id":"https://musicbrainz.org/release-group/2c6dff74-fce2-4018-b0d4-6535924752ea","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"}},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/371a9f1c-f099-463a-bb72-b9228da60d37","name":"ABC News Theme (remixed by Pendulum)","creditedTo":"Pendulum","byArtist":{"@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","name":"Pendulum","@type":"MusicGroup"},"albumProductionType":"http://schema.org/RemixAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"The Island (Steve Angello - An21 \u0026 Max Vangeli Remix)","@id":"https://musicbrainz.org/release-group/5b4ed8ce-2e2f-4978-a4d6-55d06b8c8a12","byArtist":{"name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7","@type":"MusicGroup"},"creditedTo":"Pendulum","albumProductionType":"http://schema.org/RemixAlbum"},{"creditedTo":"Pendulum","byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"iTunes Festival: London 2008","@id":"https://musicbrainz.org/release-group/f12a2f83-53c9-4353-b4d6-75d1f9a3f973"},{"albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","name":"Pendulum","@id":"https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7"},"creditedTo":"Pendulum","name":"2005-01-13: Flex, Vienna, Austria","@id":"https://musicbrainz.org/release-group/a3a0b723-bda2-3627-b42c-8bb1bc02b8f4","@type":"MusicAlbum"}],"@type":"MusicGroup","member":[{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/517c1454-1020-4300-89f5-98ff2378f51a","name":"Paul Harding","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"roleName":[],"member":{"name":"Rob Swire","@id":"https://musicbrainz.org/artist/ca8f5844-3ab9-4071-bdc3-376ca2f44a65","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Gareth McGrillen","@id":"https://musicbrainz.org/artist/d160804b-0cfa-42b3-9089-f11e876930bb"},"roleName":[],"@type":"OrganizationRole"},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e1e86dcd-15a3-4df2-9ecf-172d1ef2c58f","name":"Paul Kodish"},"@type":"OrganizationRole"}],"name":"Pendulum"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbeff21d3-88c7-4ee0-8b7a-40b6db22c6d7">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fbeff21d3-88c7-4ee0-8b7a-40b6db22c6d7">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a> <span class="comment">(<bdi>Australian drum &amp; bass</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum – Pendulum (Australian drum &amp; bass)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/releases" title="Pendulum (Australian drum &amp; bass)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/recordings" title="Pendulum (Australian drum &amp; bass)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/works" title="Pendulum (Australian drum &amp; bass)"><bdi>Works</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/events" title="Pendulum (Australian drum &amp; bass)"><bdi>Events</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/relationships" title="Pendulum (Australian drum &amp; bass)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/aliases" title="Pendulum (Australian drum &amp; bass)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/tags" title="Pendulum (Australian drum &amp; bass)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/details" title="Pendulum (Australian drum &amp; bass)"><bdi>Details</bdi></a></li>            <li><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/edit" title="Pendulum (Australian drum &amp; bass)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>Rob Swire, Peredur AP Gwynedd, Gareth McGrillen, Paul Kodish, Ben Verse and El Hornet</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2008-05-19 13:44 UTC.
+            
+        </div>
+    </div>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Pendulum</b> is an Australian drum and bass and electronic rock band founded in 2002. Pendulum originally formed in the Australian city of Perth, Western Australia by Rob Swire, Gareth McGrillen, and Paul "El Hornet" Harding. The band was later expanded to include members, Ben Mount, Peredur ap Gwynedd, and KJ Sawka. Members Swire and McGrillen also formed the electro house duo Knife Party. The group is notable for its distinctive sound, mixing hard rock with electronic music and covering a wide range of genres.</p>
+<p>After forming Pendulum with Paul Harding, the band relocated to the United Kingdom in 2003. The debut studio album, <i>Hold Your Colour</i>, was released in 2005 to positive critical reception. While <i>Hold Your Colour</i> was mostly of the drum and bass genre, the succeeding albums <i>In Silico</i> and <i>Immersion</i> saw experimentation of other genres such as industrial rock and electronic rock.</p>
+<p>In August 2013, Swire announced that a new album may be released in 2014, although Swire and McGrillen later confessed on their Reddit AMA that they had become disillusioned with Pendulum and have no interest at present in producing any new material. Despite this, on March 20, 2016, Pendulum reunited to perform at the Ultra Music Festival in Miami, Florida, marking their official return as a live act.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Pendulum_%28drum_and_bass_band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=296923" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/8ec197ee-a888-32d7-acb5-0fac3e95e263"><bdi>Hold Your Colour</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:84%;">4.2</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/5f4bbfae-4b61-32d7-814d-7718c2324849"><bdi>In Silico</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/320df089-f656-433d-add7-605d06800852"><bdi>Immersion</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:85%;">4.25</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/11f73bbe-b38b-3684-a672-bae6d03d8e0c"><bdi>Jungle Sound Gold</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/824d1a7b-c553-45a2-96a4-e5b8c1e7b970"><bdi>Live at Brixton Academy</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/cad682f8-de0a-30c7-bfb3-f47cceb1761a"><bdi>Another Planet / Voyager</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/c7e4a53a-42fe-3e41-b18a-3210fe1acefd"><bdi>Back 2 You / Still Grey</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/37244447-80b5-3fc2-92dd-019eaaa4e120"><bdi>Spiral</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/551198d2-5e2b-34a5-b1fb-fafb2ccc3a37"><bdi>Tarantula / Fasten Your Seatbelt</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/7356b685-5739-35bd-80e6-0a21c56a1e22"><bdi>Slam</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/a5bb961f-d9d8-343c-8d3c-4edca4e855be"><bdi>Slam / Out Here</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/58f46a4b-5e8e-358b-b336-5e1f221a16cc"><bdi>Hold Your Colour</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/c127fc3f-4fd7-324a-83e8-7e55af64011b"><bdi>Hardware Limited 03</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/7b507065-f814-36d6-b829-2a8b53cefbab"><bdi>Minds Eye / Trail of Sevens</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a> &amp; <a href="/artist/6998f397-6ae0-4995-98dc-3b48b62d72b6" title="Bulletproof (New Zealand drum n bass)"><bdi>Bulletproof</bdi></a> / <a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/a2272c47-b697-4766-a166-3a83071624fe"><bdi>Painkiller</bdi></a></td>
+        
+        <td><a href="/artist/60dd8303-5ee8-4c99-a19c-009e07c17aeb" title="Freestylers"><bdi>Freestylers</bdi></a> &amp; <a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/ba8090e5-ef4f-3d94-b86f-2c04b81111cb"><bdi>Blood Sugar / Axle Grinder</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/1256db02-d5b0-3986-80c8-16ed29d07351"><bdi>Granite</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/e14df308-d0c7-37a7-a65c-251a5c649e55"><bdi>Propane Nightmares</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/99a4e0d2-7da8-39ea-948e-325411028046"><bdi>The Other Side</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/5523cb0d-cf5f-3a3f-9016-5febd6e84ea7"><bdi>Showdown</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/05014d97-fc1b-4266-9505-02d91ee9fa8b"><bdi>Watercolour</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/ac69c595-f149-4c71-b25f-82f6477ddeb7"><bdi>Witchcraft</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/03194ef5-2068-4a17-83d2-451afceec7c4"><bdi>The Island</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/2c6dff74-fce2-4018-b0d4-6535924752ea"><bdi>Ransom</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/371a9f1c-f099-463a-bb72-b9228da60d37"><bdi>ABC News Theme (remixed by Pendulum)</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/5b4ed8ce-2e2f-4978-a4d6-55d06b8c8a12"><bdi>The Island (Steve Angello - An21 &amp; Max Vangeli Remix)</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/f12a2f83-53c9-4353-b4d6-75d1f9a3f973"><bdi>iTunes Festival: London 2008</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a3a0b723-bda2-3627-b42c-8bb1bc02b8f4"><bdi>2005-01-13: Flex, Vienna, Austria</bdi></a></td>
+        
+        <td><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pendulum_Live_Electric_2007.jpg/250px-Pendulum_Live_Electric_2007.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Pendulum Live Electric 2007.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2002 (14 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/21e8495a-32fa-4a97-8a92-57184e36235a"><bdi>Perth</bdi></a>, <a href="/area/1b1a6c07-d9bd-47d8-b1ee-772f53ec6e79"><bdi>Western Australia</bdi></a>, <span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:89%;">4.45</span>    </span>
+</span>    (<a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/ratings" title="Pendulum (Australian drum &amp; bass)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/drum%20and%20bass"><bdi>drum and bass</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/australian"><bdi>australian</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/australia"><bdi>australia</bdi></a>, <a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/tags" title="Pendulum (Australian drum &amp; bass)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.pendulum.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000258022">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/134038">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/wiki/Pendulum">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/pendulum">pendulum</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/pendulum">Rateyourmusic</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id118007099">iTunes</a>
+          
+          
+        </li>               <li class="amazon-favicon">
+          
+          
+          <a href="//www.amazon.co.uk/-/e/B000APGJ28?tag=music080d-21">UK: B000APGJ28</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/Pendulum">@Pendulum</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/pendulum">pendulum</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/pendulum">pendulum</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/150485533">VIAF: 150485533</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q20672">Q20672</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)">en: Pendulum (drum and bass band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/pendulumlive">pendulumlive</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7/relationships" title="Pendulum (Australian drum &amp; bass)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbeff21d3-88c7-4ee0-8b7a-40b6db22c6d7">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-09-04 22:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

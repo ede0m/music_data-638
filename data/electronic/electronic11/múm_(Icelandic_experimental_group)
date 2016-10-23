@@ -1,0 +1,865 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>múm - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Icelandic experimental group, Type: Group, Founded: 1997 in Reykjavík, Area: Iceland"/><script type="application/ld+json">{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","@context":"http://schema.org","album":[{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"múm \u0026 Andri Snær","@id":"https://musicbrainz.org/release-group/788fde5d-de12-3716-ba97-e88043d458af","name":"Flugmaður","byArtist":[{"@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm","@type":"MusicGroup"},{"name":"Andri Snær","@id":"https://musicbrainz.org/artist/51f42a7d-f02f-4134-97db-5b0d7842894c","@type":["Person","MusicGroup"]}]},{"@id":"https://musicbrainz.org/release-group/d4346597-ab4c-3d5b-a704-7314bf19c462","name":"Yesterday Was Dramatic - Today Is OK","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"múm"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"múm","@id":"https://musicbrainz.org/release-group/18412e7c-2769-3d89-9603-36ba4dabb319","name":"Finally We Are No One","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm"}},{"@id":"https://musicbrainz.org/release-group/38e16ce0-fd07-3fae-8290-f1ee14201de4","name":"Summer Make Good","byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"múm"},{"byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"Go Go Smear the Poison Ivy","@id":"https://musicbrainz.org/release-group/43a081c3-1e18-3db0-b8df-b035d056958b","creditedTo":"múm","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"múm","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"Sing Along to Songs You Don't Know","@id":"https://musicbrainz.org/release-group/7cfae6ac-9775-445b-b30d-b6cb848d3e6a"},{"byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"Smilewound","@id":"https://musicbrainz.org/release-group/bbc37747-1e8c-4039-bd99-09dc6a7f4a17","creditedTo":"múm","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"múm","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/0a226fbc-0b87-41fa-b5e7-03f373bcfb25","byArtist":{"name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","@type":"MusicGroup"},"name":"Early Birds"},{"name":"Remixed","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm"},"@id":"https://musicbrainz.org/release-group/f6db5eac-321e-3c76-9cf0-47b19e8a25af","@type":"MusicAlbum","creditedTo":"múm","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/RemixAlbum"},{"@id":"https://musicbrainz.org/release-group/3463e5b3-2408-3a7a-bfa7-e897f7772f5e","byArtist":{"@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm","@type":"MusicGroup"},"name":"Please Smile My Noise Bleed","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/RemixAlbum","creditedTo":"múm","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/b9e73b35-fd83-327b-ae20-ae56144bdbd5","byArtist":{"name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","@type":"MusicGroup"},"name":"Blái Hnötturinn","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"múm","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"The Ballad of the Broken Birdie Records","@id":"https://musicbrainz.org/release-group/007b281c-4830-3b5a-9d36-555df8057a16","creditedTo":"múm","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"múm","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"Green Grass of Tunnel","@id":"https://musicbrainz.org/release-group/969cbb2a-98cc-305e-9fc2-a58b563b14df"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"múm","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/b66a229e-c286-348e-886b-62e84cc53fb0","byArtist":{"name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","@type":"MusicGroup"},"name":"Nightly Cares"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"múm","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/eca55978-9b67-3a07-a3a8-1e9f0ab603fd","byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"They Made Frogs Smoke ’til They Exploded"},{"@id":"https://musicbrainz.org/release-group/fe4d3049-0fa4-3d76-af0c-d3509d101341","name":"Marmalade Fires","byArtist":{"name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"múm"},{"@id":"https://musicbrainz.org/release-group/ab9ac927-d6c4-404c-a132-23a4b32e96fc","byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"Prophecies and Reversed Memories","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"múm","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/acb7faa2-ee6e-43ab-a463-2f01e7426004","byArtist":{"@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm","@type":"MusicGroup"},"name":"Gleðileg jól","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"múm","@type":"MusicAlbum"},{"name":"Whistle","byArtist":[{"@type":["Person","MusicGroup"],"name":"Kylie Minogue","@id":"https://musicbrainz.org/artist/2fddb92d-24b2-46a5-bf28-3aed46f4684c"},{"@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/9a762fee-7cb6-4e2c-9b95-3eac27fdc5dd","@type":"MusicAlbum","creditedTo":"Kylie Minogue feat. múm","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"múm","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Toothwheels","byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"@id":"https://musicbrainz.org/release-group/10e51ec6-d50f-455e-bc2e-eb7e8c42a347"},{"@type":"MusicAlbum","creditedTo":"múm","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"When Girls Collide (Jonsi remix)","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm"},"@id":"https://musicbrainz.org/release-group/74a55b19-7873-4a35-9a4d-df6eddefb8a2"},{"name":"Asnakjálkar í Apabúningum","byArtist":[{"@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/1e12c967-ec98-408c-8063-05f8508cca4c","name":"Músikvatur","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/01e8f7d1-ae74-497f-811b-cda38abdb783","@type":"MusicAlbum","creditedTo":"múm / Músikvatur","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/d24c555c-318d-4fa3-bcf9-a250475cf0af","name":"Hey","@type":"MusicGroup"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm"}],"name":"Louis: Dreams Never Die","@id":"https://musicbrainz.org/release-group/1cbc5f69-bc65-3ebd-b586-839b007bb6ea","creditedTo":"Hey \u0026 múm","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"@id":"https://musicbrainz.org/release-group/cd82db04-0412-3098-993b-c8486ee45417","byArtist":{"@type":"MusicGroup","name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1"},"name":"Dusk Log","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","creditedTo":"múm","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"múm","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5f7dbceb-fe22-3991-b052-8deb44a5f83e","byArtist":{"@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","name":"múm","@type":"MusicGroup"},"name":"The Peel Session"},{"@id":"https://musicbrainz.org/release-group/70c37aea-5cfd-3ff5-8463-6c2d4e202702","name":"Náttúruóperan","byArtist":[{"name":"múm","@id":"https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1","@type":"MusicGroup"},{"name":"Úrú Búrú Sextettinn","@id":"https://musicbrainz.org/artist/a55eeaaf-5a17-4a3b-b6df-34a1dce1582f","@type":"MusicGroup"}],"albumProductionType":"http://schema.org/SoundtrackAlbum","@type":"MusicAlbum","creditedTo":"múm \u0026 Úrú Búrú Sextettinn"}],"name":"múm","groupOrigin":{"@type":"City","name":"Reykjavík","containedIn":{"containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/48802a32-075a-3805-a183-277c66047693","name":"Iceland"},"name":"Höfuðborgarsvæðið","@id":"https://musicbrainz.org/area/70d81d56-533f-4444-82d0-2453f7ec2aa8","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/e498a3ef-704c-462e-b144-6e6fc108a6f2"},"sameAs":["http://en.wikipedia.org/wiki/M%C3%BAm","http://mum.is/","http://www.allmusic.com/artist/mn0000811395","https://rateyourmusic.com/artist/mum","https://secondhandsongs.com/artist/27688","https://www.discogs.com/artist/8298","https://www.musik-sammler.de/artist/mum/","https://www.wikidata.org/wiki/Q306130"],"member":[{"roleName":[],"endDate":"2006-01-07","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0fe2a447-5ca0-4a50-b4ef-9997e7a55aa1","name":"Kristín Anna Valtýsdóttir"}},{"roleName":[],"member":{"name":"Gunnar Örn Tynes","@id":"https://musicbrainz.org/artist/2fd6fe9e-926f-470e-a05e-dc50a372b876","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"endDate":"2002","member":{"@type":["Person","MusicGroup"],"name":"Gyða Valtýsdóttir","@id":"https://musicbrainz.org/artist/328841f8-0968-445c-9fa4-a10e0f3bee8f"},"@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/94bda70f-60ca-4e70-b2c8-4b651296b32d","name":"Örvar Þóreyjarson Smárason"},"roleName":[]}],"foundingDate":"1997","location":{"@id":"https://musicbrainz.org/area/48802a32-075a-3805-a183-277c66047693","name":"Iceland","@type":"Country"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F2b64e811-cbcd-45f7-b29d-296444cad4f1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F2b64e811-cbcd-45f7-b29d-296444cad4f1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a> <span class="comment">(<bdi>Icelandic experimental group</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm – múm (Icelandic experimental group)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/releases" title="múm (Icelandic experimental group)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/recordings" title="múm (Icelandic experimental group)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/works" title="múm (Icelandic experimental group)"><bdi>Works</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/events" title="múm (Icelandic experimental group)"><bdi>Events</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/relationships" title="múm (Icelandic experimental group)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/aliases" title="múm (Icelandic experimental group)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/tags" title="múm (Icelandic experimental group)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/details" title="múm (Icelandic experimental group)"><bdi>Details</bdi></a></li>            <li><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/edit" title="múm (Icelandic experimental group)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=79887" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/788fde5d-de12-3716-ba97-e88043d458af"><bdi>Flugmaður</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a> &amp; <a href="/artist/51f42a7d-f02f-4134-97db-5b0d7842894c" title="Snær, Andri"><bdi>Andri Snær</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/d4346597-ab4c-3d5b-a704-7314bf19c462"><bdi>Yesterday Was Dramatic - Today Is OK</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/18412e7c-2769-3d89-9603-36ba4dabb319"><bdi>Finally We Are No One</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/38e16ce0-fd07-3fae-8290-f1ee14201de4"><bdi>Summer Make Good</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/43a081c3-1e18-3db0-b8df-b035d056958b"><bdi>Go Go Smear the Poison Ivy</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/7cfae6ac-9775-445b-b30d-b6cb848d3e6a"><bdi>Sing Along to Songs You Don't Know</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/bbc37747-1e8c-4039-bd99-09dc6a7f4a17"><bdi>Smilewound</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/0a226fbc-0b87-41fa-b5e7-03f373bcfb25"><bdi>Early Birds</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/f6db5eac-321e-3c76-9cf0-47b19e8a25af"><bdi>Remixed</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/3463e5b3-2408-3a7a-bfa7-e897f7772f5e"><bdi>Please Smile My Noise Bleed</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/b9e73b35-fd83-327b-ae20-ae56144bdbd5"><bdi>Blái Hnötturinn</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/007b281c-4830-3b5a-9d36-555df8057a16"><bdi>The Ballad of the Broken Birdie Records</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/969cbb2a-98cc-305e-9fc2-a58b563b14df"><bdi>Green Grass of Tunnel</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/b66a229e-c286-348e-886b-62e84cc53fb0"><bdi>Nightly Cares</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/eca55978-9b67-3a07-a3a8-1e9f0ab603fd"><bdi>They Made Frogs Smoke ’til They Exploded</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/fe4d3049-0fa4-3d76-af0c-d3509d101341"><bdi>Marmalade Fires</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/ab9ac927-d6c4-404c-a132-23a4b32e96fc"><bdi>Prophecies and Reversed Memories</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/acb7faa2-ee6e-43ab-a463-2f01e7426004"><bdi>Gleðileg jól</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/9a762fee-7cb6-4e2c-9b95-3eac27fdc5dd"><bdi>Whistle</bdi></a></td>
+        
+        <td><a href="/artist/2fddb92d-24b2-46a5-bf28-3aed46f4684c" title="Minogue, Kylie"><bdi>Kylie Minogue</bdi></a> feat. <a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/10e51ec6-d50f-455e-bc2e-eb7e8c42a347"><bdi>Toothwheels</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/74a55b19-7873-4a35-9a4d-df6eddefb8a2"><bdi>When Girls Collide (Jonsi remix)</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/01e8f7d1-ae74-497f-811b-cda38abdb783"><bdi>Asnakjálkar í Apabúningum</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a> / <a href="/artist/1e12c967-ec98-408c-8063-05f8508cca4c" title="Músikvatur"><bdi>Músikvatur</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/1cbc5f69-bc65-3ebd-b586-839b007bb6ea"><bdi>Louis: Dreams Never Die</bdi></a></td>
+        
+        <td><a href="/artist/d24c555c-318d-4fa3-bcf9-a250475cf0af" title="Hey (Polish rock band)"><bdi>Hey</bdi></a> &amp; <a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/cd82db04-0412-3098-993b-c8486ee45417"><bdi>Dusk Log</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/5f7dbceb-fe22-3991-b052-8deb44a5f83e"><bdi>The Peel Session</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/70c37aea-5cfd-3ff5-8463-6c2d4e202702"><bdi>Náttúruóperan</bdi></a></td>
+        
+        <td><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1" title="múm (Icelandic experimental group)"><bdi>múm</bdi></a> &amp; <a href="/artist/a55eeaaf-5a17-4a3b-b6df-34a1dce1582f" title="Úrú Búrú Sextettinn"><bdi>Úrú Búrú Sextettinn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1997 (19 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/e498a3ef-704c-462e-b144-6e6fc108a6f2"><bdi>Reykjavík</bdi></a>, <a href="/area/70d81d56-533f-4444-82d0-2453f7ec2aa8"><bdi>Höfuðborgarsvæðið</bdi></a>, <span class="flag flag-IS"><a href="/area/48802a32-075a-3805-a183-277c66047693"><bdi>Iceland</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-IS"><a href="/area/48802a32-075a-3805-a183-277c66047693"><bdi>Iceland</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/ratings" title="múm (Icelandic experimental group)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/icelandic"><bdi>icelandic</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/post-rock"><bdi>post-rock</bdi></a>, <a href="/tag/rock%20and%20indie"><bdi>rock and indie</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://mum.is/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000811395">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/8298">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/mumtheband">mumtheband</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/mum">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="https://www.musik-sammler.de/artist/mum/">Musik-Sammler</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="https://secondhandsongs.com/artist/27688">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/mumtheband">@mumtheband</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/mumtheband">mumtheband</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q306130">Q306130</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/M%C3%BAm">en: Múm</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/2b64e811-cbcd-45f7-b29d-296444cad4f1/relationships" title="múm (Icelandic experimental group)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F2b64e811-cbcd-45f7-b29d-296444cad4f1">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-11-03 06:56 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

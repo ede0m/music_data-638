@@ -1,0 +1,648 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>John Mauceri - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1945-09-12 in New York, Area: United States"/><script type="application/ld+json">{"birthDate":"1945-09-12","album":[{"@id":"https://musicbrainz.org/release-group/70e9f8b1-4de5-3d67-9824-3c951bbfc4cf","name":"Die Dreigroschenoper","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Kurt Weill; Ute Lemper, René Kollo, Milva, RIAS Berlin Sinfonietta, John Mauceri","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/0e738f68-783c-4a6a-80ae-4f7500861060","name":"Kurt Weill","@type":["Person","MusicGroup"]},{"name":"Ute Lemper","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/65d509a1-7e8c-47c2-ae57-14fdd882b16a"},{"@type":["Person","MusicGroup"],"name":"René Kollo","@id":"https://musicbrainz.org/artist/0fafe3ba-09ff-46b5-ad36-e1150b7640e2"},{"name":"Milva","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3164b4f3-bcec-4f1e-978f-7d8de16f1361"},{"@id":"https://musicbrainz.org/artist/0b922c61-7b3e-4b95-b267-f94ce075156b","name":"RIAS Berlin Sinfonietta","@type":"MusicGroup"},{"name":"John Mauceri","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/0e738f68-783c-4a6a-80ae-4f7500861060","name":"Kurt Weill","@type":["Person","MusicGroup"]},{"name":"Ute Lemper","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/65d509a1-7e8c-47c2-ae57-14fdd882b16a"},{"@id":"https://musicbrainz.org/artist/0b922c61-7b3e-4b95-b267-f94ce075156b","name":"RIAS Berlin Sinfonietta","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1","name":"John Mauceri","@type":["Person","MusicGroup"]}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Kurt Weill; Ute Lemper, RIAS Berlin Sinfonietta \u0026 John Mauceri","name":"Die sieben Todsünden / Mahagonny Songspiel","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8698e811-177e-3871-a9d6-ef734ff54fac"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2","name":"Hollywood Bowl Orchestra","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"John Mauceri","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"creditedTo":"Hollywood Bowl Orchestra, John Mauceri","@type":"MusicAlbum","name":"Hollywood Dreams","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/bc1326f0-fa12-4ab1-b632-b69116f91526"},{"@id":"https://musicbrainz.org/release-group/4d1bef3c-368e-4949-ac8f-a33fdc1b1745","byArtist":[{"name":"Erich Wolfgang Korngold","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/71b79646-5a0c-465b-b4da-e26af5120165"},{"@id":"https://musicbrainz.org/artist/8fc194b6-64bd-46e3-8da4-c5b86fe9d8f2","@type":["Person","MusicGroup"],"name":"Anna Tomowa-Sintow"},{"@id":"https://musicbrainz.org/artist/4ba86662-85f6-4313-a68e-0897183e2892","@type":["Person","MusicGroup"],"name":"Hartmut Welker"},{"name":"John David de Haan","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d3cb46f8-414c-41c9-bba6-27bf795c7e74"},{"@id":"https://musicbrainz.org/artist/cb269966-018f-4fd3-8179-128099254de6","name":"Reinhild Runkel","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/3e7f9054-dab7-45da-8da9-1f2e47a0abc1","@type":["Person","MusicGroup"],"name":"René Pape"},{"name":"Nicolai Gedda","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d0864d04-a037-487b-bd00-c182c95faf29"},{"@id":"https://musicbrainz.org/artist/7c069113-4657-4d26-b9b2-d59deb8aa419","@type":["Person","MusicGroup"],"name":"Martin Petzold"},{"@type":"MusicGroup","name":"Rundfunkchor Berlin","@id":"https://musicbrainz.org/artist/d0cbe60f-f919-4873-8c64-537fd600a4f5"},{"@id":"https://musicbrainz.org/artist/5010b425-bf4e-41b1-93a7-f8729794558b","name":"Deutsches Symphonie-Orchester Berlin","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"John Mauceri","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Das Wunder der Heliane","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Erich Wolfgang Korngold; Tomowa-Sintow, Welker, De Haan, Runkel, Pape, Gedda, Petzold, Rundfunk Chor Berlin, RSO Berlin, John Mauceri"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2","@type":"MusicGroup","name":"Hollywood Bowl Orchestra"},{"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1","name":"John Mauceri","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Journey to the Stars","@type":"MusicAlbum","creditedTo":"Hollywood Bowl Orchestra, John Mauceri","@id":"https://musicbrainz.org/release-group/e8a503bf-a67a-3b32-9bec-9d4c176cc6f1"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Flammen","@type":"MusicAlbum","creditedTo":"Schulhoff; Westi, Eaglen, Vermillion, DSO Berlin, John Mauceri","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Erwin Schulhoff","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e2eb5293-00fb-40bb-92f4-3db07a229118"},{"@id":"https://musicbrainz.org/artist/c0f4224c-1b0f-4e37-96bc-34efeb04e6e3","@type":["Person","MusicGroup"],"name":"Kurt Westi"},{"@type":["Person","MusicGroup"],"name":"Jane Eaglen","@id":"https://musicbrainz.org/artist/dd15ea68-fe93-4902-80c0-bba1b132477e"},{"@id":"https://musicbrainz.org/artist/b91a2901-dbee-400e-b408-7d85aefd0268","@type":["Person","MusicGroup"],"name":"Iris Vermillion"},{"@id":"https://musicbrainz.org/artist/5010b425-bf4e-41b1-93a7-f8729794558b","@type":"MusicGroup","name":"Deutsches Symphonie-Orchester Berlin"},{"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1","name":"John Mauceri","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/d85e63c0-e434-4282-981d-12502aaf5ad6"},{"@id":"https://musicbrainz.org/release-group/b169943a-6bdb-428f-870f-d356c8631e0d","byArtist":[{"@type":["Person","MusicGroup"],"name":"Erich Wolfgang Korngold","@id":"https://musicbrainz.org/artist/71b79646-5a0c-465b-b4da-e26af5120165"},{"@id":"https://musicbrainz.org/artist/0e738f68-783c-4a6a-80ae-4f7500861060","@type":["Person","MusicGroup"],"name":"Kurt Weill"},{"@id":"https://musicbrainz.org/artist/d601a5f6-254f-4ad8-8929-ec01cb059182","name":"Ernst Krenek","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/87c946dc-dc8e-4725-908d-b010f1ecf801","@type":["Person","MusicGroup"],"name":"Chantal Juillet"},{"@id":"https://musicbrainz.org/artist/49e9e1ca-8a85-4a76-b02f-5566532705f0","@type":"MusicGroup","name":"Rundfunk-Sinfonieorchester Berlin"},{"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1","@type":["Person","MusicGroup"],"name":"John Mauceri"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Violin Concertos","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Erich Wolfgang Korngold, Kurt Weill, Ernst Krenek; Chantal Juillet, Rundfunk-Sinfonieorchester Berlin, John Mauceri","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/d18183e6-af85-466d-8cec-8fb60d2249bd","byArtist":[{"@id":"https://musicbrainz.org/artist/71b79646-5a0c-465b-b4da-e26af5120165","@type":["Person","MusicGroup"],"name":"Erich Wolfgang Korngold"},{"name":"Deutsches Symphonie-Orchester Berlin","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5010b425-bf4e-41b1-93a7-f8729794558b"},{"@type":"MusicGroup","name":"Rundfunk-Sinfonieorchester Berlin","@id":"https://musicbrainz.org/artist/49e9e1ca-8a85-4a76-b02f-5566532705f0"},{"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1","@type":["Person","MusicGroup"],"name":"John Mauceri"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Korngold; Deutsches Symphonie-Orchester Berlin, Rundfunk-Sinfonieorchester Berlin. John Mauceri","albumProductionType":"http://schema.org/StudioAlbum","name":"Between Two Worlds"},{"byArtist":[{"name":"Arnold Schönberg","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9b490b96-ad82-4d7b-9055-f0a196ad64cc"},{"@type":"MusicGroup","name":"Deutsches Symphonie-Orchester Berlin","@id":"https://musicbrainz.org/artist/5010b425-bf4e-41b1-93a7-f8729794558b"},{"@id":"https://musicbrainz.org/artist/49e9e1ca-8a85-4a76-b02f-5566532705f0","name":"Rundfunk-Sinfonieorchester Berlin","@type":"MusicGroup"},{"name":"John Mauceri","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Arnold Schoenberg; Deutsches Symphonie-Orchester Berlin, Rundfunk-Sinfonieorchester Berlin, John Mauceri","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Schoenberg in Hollywood","@id":"https://musicbrainz.org/release-group/fd2cae0b-aa43-4741-aa3f-8931e4978f49"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2","@type":"MusicGroup","name":"Hollywood Bowl Orchestra"},{"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1","@type":["Person","MusicGroup"],"name":"John Mauceri"}],"albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Hollywood Bowl Orchestra / John Mauceri","@type":"MusicAlbum","name":"Star Wars: The Sound of Hollywood","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ad3f11e8-5ed6-31ee-8919-3f6e4d457161"},{"byArtist":[{"name":"Kurt Weill","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0e738f68-783c-4a6a-80ae-4f7500861060"},{"@type":"MusicGroup","name":"Deutsches Symphonie-Orchester Berlin","@id":"https://musicbrainz.org/artist/5010b425-bf4e-41b1-93a7-f8729794558b"},{"name":"John Mauceri","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Kurt Weill; Deutsches Symphonie-Orchester Berlin, John Mauceri","name":"Der Protagonist","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/08c92058-a642-4442-95ff-92d5bcb1675b"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Danny Elfman","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5b24fbab-c58f-4c37-a59d-ab232e2d98c4"},{"@type":["Person","MusicGroup"],"name":"John Mauceri","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"name":"Serenada Schizophrana","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Danny Elfman; John Mauceri","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/35ad34b5-3423-3745-a6eb-97655fdef5fc"},{"@id":"https://musicbrainz.org/release-group/e8a1f35e-7145-4332-aa71-c8379195a207","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/65744963-191a-44ef-a3c7-b693a808a158","name":"George Gershwin","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/82953e0d-464a-4fb8-80fc-78dbf8b49b1b","name":"DuBose Heyward","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/bf23ae35-d26d-4180-b7da-7fc9841b2cd9","name":"Dorothy Heyward","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Ira Gershwin","@id":"https://musicbrainz.org/artist/509086c2-9cc8-4e77-89e9-322e34240ffc"},{"@type":["Person","MusicGroup"],"name":"Alvy Powell","@id":"https://musicbrainz.org/artist/94d58466-0270-4cc6-949a-f4857e1cc654"},{"@type":["Person","MusicGroup"],"name":"Marquita Lister","@id":"https://musicbrainz.org/artist/30399765-91e4-4883-a17f-3a954f8efc51"},{"@id":"https://musicbrainz.org/artist/4e2aa7fd-6e99-4d32-baed-e5b8c5805856","@type":["Person","MusicGroup"],"name":"Robert Mack"},{"name":"Nicole Cabell","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/feb51df9-1e14-422a-bb58-459a4cc7e8bb"},{"@id":"https://musicbrainz.org/artist/7988e620-8524-4fb8-a0ba-021c416e07e3","@type":"MusicGroup","name":"Nashville Symphony Orchestra"},{"@id":"https://musicbrainz.org/artist/c9e97c06-68f5-47a4-93de-6f024bf8041b","@type":"MusicGroup","name":"Nashville Symphony Chorus"},{"@type":["Person","MusicGroup"],"name":"John Mauceri","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"creditedTo":"George Gershwin, DuBose and Dorothy Heyward, Ira Gershwin; Alvy Powell, Marquita Lister, Robert Mack, Nicole Cabell, Nashville Symphony Orchestra and Chorus, John Mauceri","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Porgy and Bess"},{"byArtist":[{"@type":"MusicGroup","name":"Hollywood Symphony Orchestra","@id":"https://musicbrainz.org/artist/002be5c1-333a-4a43-96a9-db315760aa17"},{"@type":["Person","MusicGroup"],"name":"John Mauceri","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Always and Forever: Movies' Greatest Love Songs","creditedTo":"Hollywood Symphony Orchestra, John Mauceri","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/3cae82f6-87ad-487d-a592-d50c9ab5ae35"},{"@id":"https://musicbrainz.org/release-group/f8880265-3a19-3c57-89ea-eed3a7a11648","@type":"MusicAlbum","creditedTo":"Rodgers \u0026 Hammerstein; Hollywood Bowl Orchestra, John Mauceri","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Rodgers and Hammerstein Complete Overtures","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/346448f5-25a0-4f78-bbd6-acc0205f7513","@type":["Person","MusicGroup"],"name":"Richard Rodgers"},{"name":"Oscar Hammerstein II","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a383f062-e527-4a57-98b0-9205b2f8f171"},{"name":"Hollywood Bowl Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2"},{"@type":["Person","MusicGroup"],"name":"John Mauceri","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}]},{"@id":"https://musicbrainz.org/release-group/a1b17de2-43ab-4ea1-b65e-9b432cc3f583","creditedTo":"Hollywood Bowl Orchestra, John Mauceri","@type":"MusicAlbum","name":"Magie der Leinwand","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2","name":"Hollywood Bowl Orchestra","@type":"MusicGroup"},{"name":"John Mauceri","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/LiveAlbum","name":"The Genius of Film Music: Hollywood Blockbusters 1960s to 1980s","creditedTo":"London Philharmonic Orchestra, John Mauceri","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":"MusicGroup","name":"London Philharmonic Orchestra","@id":"https://musicbrainz.org/artist/fa37018e-3557-4cb7-973f-555003c30174"},{"name":"John Mauceri","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"@id":"https://musicbrainz.org/release-group/fa0a8c17-39e1-4172-ada5-99421da9d67d"},{"@id":"https://musicbrainz.org/release-group/f62c57e8-226c-3fdf-a434-79be1312e43b","byArtist":[{"@id":"https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377","@type":"MusicGroup","name":"Various Artists"},{"name":"Hollywood Bowl Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2"},{"@type":["Person","MusicGroup"],"name":"John Mauceri","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1"}],"albumProductionType":"http://schema.org/CompilationAlbum","name":"The Hollywood Bowl on Broadway","@type":"MusicAlbum","creditedTo":"Various Artists; Hollywood Bowl Orchestra, John Mauceri"}],"birthPlace":{"@id":"https://musicbrainz.org/area/74e50e58-5deb-4b99-93a2-decbb365c07f","containedIn":{"@type":"AdministrativeArea","name":"New York","@id":"https://musicbrainz.org/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"}},"name":"New York","@type":"City"},"@type":["Person","MusicGroup"],"sameAs":["http://en.wikipedia.org/wiki/John_Mauceri","http://isni-url.oclc.nl/isni/0000000078398216","http://rateyourmusic.com/artist/john_mauceri","http://viaf.org/viaf/88566561","http://www.allmusic.com/artist/mn0000001636","https://www.discogs.com/artist/445532","https://www.wikidata.org/wiki/Q3182015"],"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1","location":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"name":"John Mauceri"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F1dcf89b4-30b1-47c3-befa-7806d19b5fc1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F1dcf89b4-30b1-47c3-befa-7806d19b5fc1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="John Mauceri – Mauceri, John"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/releases" title="Mauceri, John"><bdi>Releases</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/recordings" title="Mauceri, John"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/works" title="Mauceri, John"><bdi>Works</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/events" title="Mauceri, John"><bdi>Events</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/relationships" title="Mauceri, John"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/aliases" title="Mauceri, John"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/tags" title="Mauceri, John"><bdi>Tags</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/details" title="Mauceri, John"><bdi>Details</bdi></a></li>            <li><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/edit" title="Mauceri, John"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>John Francis Mauceri</b> (born September 12, 1945) is an American conductor, producer, educator and writer. Since making his professional conducting debut almost half a century ago, Mauceri has appeared with most of the world's great orchestras, guest conducted at the premiere opera houses, produced and musically supervised Tony and Olivier Award-winning Broadway musicals, and taught at the most prestigious halls of academia. Through his varied career, he has taken the lead in the preservation and performance of many genres of music and has supervised/conducted important premieres by composers as diverse as Debussy, Stockhausen, Korngold, Hindemith, Bernstein, Sibelius, Ives, Elfman, and Shore. He is also a leading performer of music banned by the Third Reich and especially music of Hollywood's émigré composers.</p></div>
+<a href="https://en.wikipedia.org/wiki/John_Mauceri">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=166495" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/70e9f8b1-4de5-3d67-9824-3c951bbfc4cf"><bdi>Die Dreigroschenoper</bdi></a></td>
+        
+        <td><a href="/artist/0e738f68-783c-4a6a-80ae-4f7500861060" title="Weill, Kurt"><bdi>Kurt Weill</bdi></a>; <a href="/artist/65d509a1-7e8c-47c2-ae57-14fdd882b16a" title="Lemper, Ute"><bdi>Ute Lemper</bdi></a>, <a href="/artist/0fafe3ba-09ff-46b5-ad36-e1150b7640e2" title="Kollo, René"><bdi>René Kollo</bdi></a>, <a href="/artist/3164b4f3-bcec-4f1e-978f-7d8de16f1361" title="Milva"><bdi>Milva</bdi></a>, <a href="/artist/0b922c61-7b3e-4b95-b267-f94ce075156b" title="RIAS Berlin Sinfonietta"><bdi>RIAS Berlin Sinfonietta</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/8698e811-177e-3871-a9d6-ef734ff54fac"><bdi>Die sieben Todsünden / Mahagonny Songspiel</bdi></a></td>
+        
+        <td><a href="/artist/0e738f68-783c-4a6a-80ae-4f7500861060" title="Weill, Kurt"><bdi>Kurt Weill</bdi></a>; <a href="/artist/65d509a1-7e8c-47c2-ae57-14fdd882b16a" title="Lemper, Ute"><bdi>Ute Lemper</bdi></a>, <a href="/artist/0b922c61-7b3e-4b95-b267-f94ce075156b" title="RIAS Berlin Sinfonietta"><bdi>RIAS Berlin Sinfonietta</bdi></a> &amp; <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/bc1326f0-fa12-4ab1-b632-b69116f91526"><bdi>Hollywood Dreams</bdi></a></td>
+        
+        <td><a href="/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2" title="Hollywood Bowl Orchestra"><bdi>Hollywood Bowl Orchestra</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/4d1bef3c-368e-4949-ac8f-a33fdc1b1745"><bdi>Das Wunder der Heliane</bdi></a></td>
+        
+        <td><a href="/artist/71b79646-5a0c-465b-b4da-e26af5120165" title="Korngold, Erich Wolfgang"><bdi>Erich Wolfgang Korngold</bdi></a>; <span class="name-variation"><a href="/artist/8fc194b6-64bd-46e3-8da4-c5b86fe9d8f2" title="Anna Tomowa-Sintow – Tomowa-Sintow, Anna"><bdi>Tomowa-Sintow</bdi></a></span>, <span class="name-variation"><a href="/artist/4ba86662-85f6-4313-a68e-0897183e2892" title="Hartmut Welker – Welker, Hartmut"><bdi>Welker</bdi></a></span>, <span class="name-variation"><a href="/artist/d3cb46f8-414c-41c9-bba6-27bf795c7e74" title="John David de Haan – Haan, John David de (tenor)"><bdi>De Haan</bdi></a></span>, <span class="name-variation"><a href="/artist/cb269966-018f-4fd3-8179-128099254de6" title="Reinhild Runkel – Runkel, Reinhild"><bdi>Runkel</bdi></a></span>, <span class="name-variation"><a href="/artist/3e7f9054-dab7-45da-8da9-1f2e47a0abc1" title="René Pape – Pape, René (Bass)"><bdi>Pape</bdi></a></span>, <span class="name-variation"><a href="/artist/d0864d04-a037-487b-bd00-c182c95faf29" title="Nicolai Gedda – Gedda, Nicolai"><bdi>Gedda</bdi></a></span>, <span class="name-variation"><a href="/artist/7c069113-4657-4d26-b9b2-d59deb8aa419" title="Martin Petzold – Petzold, Martin"><bdi>Petzold</bdi></a></span>, <span class="name-variation"><a href="/artist/d0cbe60f-f919-4873-8c64-537fd600a4f5" title="Rundfunkchor Berlin – Rundfunkchor Berlin"><bdi>Rundfunk Chor Berlin</bdi></a></span>, <span class="name-variation"><a href="/artist/5010b425-bf4e-41b1-93a7-f8729794558b" title="Deutsches Symphonie-Orchester Berlin – Deutsches Symphonie-Orchester Berlin (RIAS-Symphonie-Orchester, 1946–1956 / Radio-Symphonie-Orchester Berlin, 1956–1993)"><bdi>RSO Berlin</bdi></a></span>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/e8a503bf-a67a-3b32-9bec-9d4c176cc6f1"><bdi>Journey to the Stars</bdi></a></td>
+        
+        <td><a href="/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2" title="Hollywood Bowl Orchestra"><bdi>Hollywood Bowl Orchestra</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/d85e63c0-e434-4282-981d-12502aaf5ad6"><bdi>Flammen</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/e2eb5293-00fb-40bb-92f4-3db07a229118" title="Erwin Schulhoff – Schulhoff, Erwin"><bdi>Schulhoff</bdi></a></span>; <span class="name-variation"><a href="/artist/c0f4224c-1b0f-4e37-96bc-34efeb04e6e3" title="Kurt Westi – Westi, Kurt"><bdi>Westi</bdi></a></span>, <span class="name-variation"><a href="/artist/dd15ea68-fe93-4902-80c0-bba1b132477e" title="Jane Eaglen – Eaglen, Jane (soprano)"><bdi>Eaglen</bdi></a></span>, <span class="name-variation"><a href="/artist/b91a2901-dbee-400e-b408-7d85aefd0268" title="Iris Vermillion – Vermillion, Iris"><bdi>Vermillion</bdi></a></span>, <span class="name-variation"><a href="/artist/5010b425-bf4e-41b1-93a7-f8729794558b" title="Deutsches Symphonie-Orchester Berlin – Deutsches Symphonie-Orchester Berlin (RIAS-Symphonie-Orchester, 1946–1956 / Radio-Symphonie-Orchester Berlin, 1956–1993)"><bdi>DSO Berlin</bdi></a></span>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/b169943a-6bdb-428f-870f-d356c8631e0d"><bdi>Violin Concertos</bdi></a></td>
+        
+        <td><a href="/artist/71b79646-5a0c-465b-b4da-e26af5120165" title="Korngold, Erich Wolfgang"><bdi>Erich Wolfgang Korngold</bdi></a>, <a href="/artist/0e738f68-783c-4a6a-80ae-4f7500861060" title="Weill, Kurt"><bdi>Kurt Weill</bdi></a>, <a href="/artist/d601a5f6-254f-4ad8-8929-ec01cb059182" title="Krenek, Ernst"><bdi>Ernst Krenek</bdi></a>; <a href="/artist/87c946dc-dc8e-4725-908d-b010f1ecf801" title="Juillet, Chantal"><bdi>Chantal Juillet</bdi></a>, <a href="/artist/49e9e1ca-8a85-4a76-b02f-5566532705f0" title="Rundfunk-Sinfonieorchester Berlin (East Berlin, 1923–)"><bdi>Rundfunk-Sinfonieorchester Berlin</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/d18183e6-af85-466d-8cec-8fb60d2249bd"><bdi>Between Two Worlds</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/71b79646-5a0c-465b-b4da-e26af5120165" title="Erich Wolfgang Korngold – Korngold, Erich Wolfgang"><bdi>Korngold</bdi></a></span>; <a href="/artist/5010b425-bf4e-41b1-93a7-f8729794558b" title="Deutsches Symphonie-Orchester Berlin (RIAS-Symphonie-Orchester, 1946–1956 / Radio-Symphonie-Orchester Berlin, 1956–1993)"><bdi>Deutsches Symphonie-Orchester Berlin</bdi></a>, <a href="/artist/49e9e1ca-8a85-4a76-b02f-5566532705f0" title="Rundfunk-Sinfonieorchester Berlin (East Berlin, 1923–)"><bdi>Rundfunk-Sinfonieorchester Berlin</bdi></a>. <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/fd2cae0b-aa43-4741-aa3f-8931e4978f49"><bdi>Schoenberg in Hollywood</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9b490b96-ad82-4d7b-9055-f0a196ad64cc" title="Arnold Schönberg – Schönberg, Arnold"><bdi>Arnold Schoenberg</bdi></a></span>; <a href="/artist/5010b425-bf4e-41b1-93a7-f8729794558b" title="Deutsches Symphonie-Orchester Berlin (RIAS-Symphonie-Orchester, 1946–1956 / Radio-Symphonie-Orchester Berlin, 1956–1993)"><bdi>Deutsches Symphonie-Orchester Berlin</bdi></a>, <a href="/artist/49e9e1ca-8a85-4a76-b02f-5566532705f0" title="Rundfunk-Sinfonieorchester Berlin (East Berlin, 1923–)"><bdi>Rundfunk-Sinfonieorchester Berlin</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ad3f11e8-5ed6-31ee-8919-3f6e4d457161"><bdi>Star Wars: The Sound of Hollywood</bdi></a></td>
+        
+        <td><a href="/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2" title="Hollywood Bowl Orchestra"><bdi>Hollywood Bowl Orchestra</bdi></a> / <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/08c92058-a642-4442-95ff-92d5bcb1675b"><bdi>Der Protagonist</bdi></a></td>
+        
+        <td><a href="/artist/0e738f68-783c-4a6a-80ae-4f7500861060" title="Weill, Kurt"><bdi>Kurt Weill</bdi></a>; <a href="/artist/5010b425-bf4e-41b1-93a7-f8729794558b" title="Deutsches Symphonie-Orchester Berlin (RIAS-Symphonie-Orchester, 1946–1956 / Radio-Symphonie-Orchester Berlin, 1956–1993)"><bdi>Deutsches Symphonie-Orchester Berlin</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/35ad34b5-3423-3745-a6eb-97655fdef5fc"><bdi>Serenada Schizophrana</bdi></a></td>
+        
+        <td><a href="/artist/5b24fbab-c58f-4c37-a59d-ab232e2d98c4" title="Elfman, Danny"><bdi>Danny Elfman</bdi></a>; <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/e8a1f35e-7145-4332-aa71-c8379195a207"><bdi>Porgy and Bess</bdi></a></td>
+        
+        <td><a href="/artist/65744963-191a-44ef-a3c7-b693a808a158" title="Gershwin, George"><bdi>George Gershwin</bdi></a>, <span class="name-variation"><a href="/artist/82953e0d-464a-4fb8-80fc-78dbf8b49b1b" title="DuBose Heyward – Heyward, DuBose"><bdi>DuBose</bdi></a></span> and <a href="/artist/bf23ae35-d26d-4180-b7da-7fc9841b2cd9" title="Heyward, Dorothy (playwright)"><bdi>Dorothy Heyward</bdi></a>, <a href="/artist/509086c2-9cc8-4e77-89e9-322e34240ffc" title="Gershwin, Ira"><bdi>Ira Gershwin</bdi></a>; <a href="/artist/94d58466-0270-4cc6-949a-f4857e1cc654" title="Powell, Alvy (operatic bass)"><bdi>Alvy Powell</bdi></a>, <a href="/artist/30399765-91e4-4883-a17f-3a954f8efc51" title="Lister, Marquita (operatic soprano)"><bdi>Marquita Lister</bdi></a>, <a href="/artist/4e2aa7fd-6e99-4d32-baed-e5b8c5805856" title="Mack, Robert"><bdi>Robert Mack</bdi></a>, <a href="/artist/feb51df9-1e14-422a-bb58-459a4cc7e8bb" title="Cabell, Nicole"><bdi>Nicole Cabell</bdi></a>, <a href="/artist/7988e620-8524-4fb8-a0ba-021c416e07e3" title="Nashville Symphony Orchestra"><bdi>Nashville Symphony Orchestra</bdi></a> and <span class="name-variation"><a href="/artist/c9e97c06-68f5-47a4-93de-6f024bf8041b" title="Nashville Symphony Chorus – Nashville Symphony Chorus"><bdi>Chorus</bdi></a></span>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/3cae82f6-87ad-487d-a592-d50c9ab5ae35"><bdi>Always and Forever: Movies' Greatest Love Songs</bdi></a></td>
+        
+        <td><a href="/artist/002be5c1-333a-4a43-96a9-db315760aa17" title="Hollywood Symphony Orchestra (American symphony orchestra based in Los Angeles, California)"><bdi>Hollywood Symphony Orchestra</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/f8880265-3a19-3c57-89ea-eed3a7a11648"><bdi>The Rodgers and Hammerstein Complete Overtures</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/346448f5-25a0-4f78-bbd6-acc0205f7513" title="Richard Rodgers – Rodgers, Richard"><bdi>Rodgers</bdi></a></span> &amp; <span class="name-variation"><a href="/artist/a383f062-e527-4a57-98b0-9205b2f8f171" title="Oscar Hammerstein II – Hammerstein II, Oscar"><bdi>Hammerstein</bdi></a></span>; <a href="/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2" title="Hollywood Bowl Orchestra"><bdi>Hollywood Bowl Orchestra</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a1b17de2-43ab-4ea1-b65e-9b432cc3f583"><bdi>Magie der Leinwand</bdi></a></td>
+        
+        <td><a href="/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2" title="Hollywood Bowl Orchestra"><bdi>Hollywood Bowl Orchestra</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/fa0a8c17-39e1-4172-ada5-99421da9d67d"><bdi>The Genius of Film Music: Hollywood Blockbusters 1960s to 1980s</bdi></a></td>
+        
+        <td><a href="/artist/fa37018e-3557-4cb7-973f-555003c30174" title="London Philharmonic Orchestra"><bdi>London Philharmonic Orchestra</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/f62c57e8-226c-3fdf-a434-79be1312e43b"><bdi>The Hollywood Bowl on Broadway</bdi></a></td>
+        
+        <td><a href="/artist/89ad4ac3-39f7-470e-963a-56509c546377" title="Various Artists (add compilations to this artist)"><bdi>Various Artists</bdi></a>; <a href="/artist/b40ad2e7-ab1e-4652-9f37-122842dd3ca2" title="Hollywood Bowl Orchestra"><bdi>Hollywood Bowl Orchestra</bdi></a>, <a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1" title="Mauceri, John"><bdi>John Mauceri</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Mauceri, John</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1945-09-12 (71 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/74e50e58-5deb-4b99-93a2-decbb365c07f"><bdi>New York</bdi></a>, <a href="/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"><bdi>New York</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000078398216">0000 0000 7839 8216    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/american%20conductor"><bdi>american conductor</bdi></a>, <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/conductor"><bdi>conductor</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000001636">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/445532">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/john_mauceri">Rateyourmusic</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/88566561">VIAF: 88566561</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q3182015">Q3182015</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/John_Mauceri">en: John Mauceri</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/1dcf89b4-30b1-47c3-befa-7806d19b5fc1/relationships" title="Mauceri, John"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F1dcf89b4-30b1-47c3-befa-7806d19b5fc1">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-07-30 20:56 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

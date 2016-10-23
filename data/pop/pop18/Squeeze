@@ -1,0 +1,972 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Squeeze - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1974 in London, Area: United Kingdom"/><script type="application/ld+json">{"location":{"name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country"},"@type":"MusicGroup","groupOrigin":{"@id":"https://musicbrainz.org/area/f03d09b3-39dc-4083-afd6-159e3f0d462f","name":"London","@type":"City","containedIn":{"name":"England","@id":"https://musicbrainz.org/area/9d5dd675-3cf4-4296-9e39-67865ebee758","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"@type":"AdministrativeArea"}},"sameAs":["http://en.wikipedia.org/wiki/Squeeze_(band)","http://www.allmusic.com/artist/mn0000790732","http://www.bbc.co.uk/music/artists/0509a681-a362-4800-9075-656041dccdbd","http://www.squeezeofficial.com/","https://musicbrainz.org/artist/5afcfb02-44b7-4d7e-9e25-cbfa6bb0dc95","https://musicbrainz.org/artist/cd5d52c3-6bf4-400d-a822-667b55315db8","https://rateyourmusic.com/artist/squeeze","https://www.discogs.com/artist/256185","https://www.wikidata.org/wiki/Q591279"],"album":[{"creditedTo":"Squeeze","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7776b591-6ebe-378b-9c54-2e284bffe332","albumProductionType":"http://schema.org/StudioAlbum","name":"Squeeze"},{"@type":"MusicAlbum","creditedTo":"Squeeze","@id":"https://musicbrainz.org/release-group/b9e1af20-d1ac-35c0-9077-7ed81e7b1897","albumReleaseType":"http://schema.org/AlbumRelease","name":"Cool for Cats","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Argybargy","@id":"https://musicbrainz.org/release-group/8efa3366-3ae1-33a6-b322-bd69a303ea5f","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"@type":"MusicAlbum","creditedTo":"Squeeze"},{"byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"name":"East Side Story","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/847e7f8b-c280-3037-897d-466c4b20415e","creditedTo":"Squeeze","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"@id":"https://musicbrainz.org/release-group/32120ca8-30b5-37c0-bded-f71df85034e6","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sweets From a Stranger","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Squeeze","@type":"MusicAlbum"},{"creditedTo":"Squeeze","@type":"MusicAlbum","name":"Cosi Fan Tutti Frutti","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/091649ef-d3d9-3a59-b66c-b9763ab3c471","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Squeeze","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/65d89ca9-147c-39e1-a614-da90ed14184a","albumProductionType":"http://schema.org/StudioAlbum","name":"Babylon and On"},{"creditedTo":"Squeeze","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/f5a8c144-b197-3a8e-8728-d423594f0fb8","albumReleaseType":"http://schema.org/AlbumRelease","name":"Frank","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Squeeze","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/77227490-12f9-3cf9-ae74-196f66c02403","albumReleaseType":"http://schema.org/AlbumRelease","name":"Play","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Some Fantastic Place","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/656090ba-0653-39c0-9a54-6ac87a2763c3","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d815ffee-0f01-3e6f-92a9-533169d53875","name":"Ridiculous","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Squeeze","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/13729e08-a845-3482-b332-600c44dc2291","name":"Domino","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Squeeze"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ad7cafcc-35c6-423d-92d1-86c06bd41edd","name":"Spot the Difference","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Squeeze"},{"@type":"MusicAlbum","creditedTo":"Squeeze","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/78807f44-d3db-47a9-9cd7-26967c334643","name":"Cradle to the Grave","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"@id":"https://musicbrainz.org/release-group/cb914d6c-1794-36b7-8ca7-ed22589d4911","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Singles: 45’s and Under","creditedTo":"Squeeze","@type":"MusicAlbum"},{"creditedTo":"Squeeze","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5cc99685-0019-3f98-b50e-32360d3ff44c","albumReleaseType":"http://schema.org/AlbumRelease","name":"Classics, Volume 25","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"}},{"creditedTo":"Squeeze","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/cf9bddf9-cec8-31db-bec7-90c96066be8a","name":"Greatest Hits","albumProductionType":"http://schema.org/CompilationAlbum"},{"creditedTo":"Squeeze","@type":"MusicAlbum","name":"Piccadilly Collection","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fc2dfd1a-bdae-30e2-a6ad-ebabc85a90ff","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Squeeze","name":"Excess Moderation","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/fb4a6e6c-6f6f-3c9f-aa49-f23d52d68c6b","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Up The Junction","@id":"https://musicbrainz.org/release-group/a1582c2f-d3b2-3afb-b5c4-41799734aca0","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Squeeze"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2ba8214f-1759-3da6-9334-ea6c8da7713f","name":"Big Squeeze: The Very Best of Squeeze","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"Essential Squeeze","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/92e5816d-5238-3f07-8543-86386a6a5a1c","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"name":"The Squeeze Story","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/57c0392d-1d8e-4ced-9e1c-9626b4eb136e","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Squeeze"},{"byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"albumProductionType":"http://schema.org/LiveAlbum","name":"A Round and A Bout","@id":"https://musicbrainz.org/release-group/5afed2d1-c2f9-3830-9764-47e459e2a372","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Squeeze","@type":"MusicAlbum"},{"byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3384d3d7-dd7a-365a-9a71-e0aae992e7ab","albumProductionType":"http://schema.org/LiveAlbum","name":"Five Live","creditedTo":"Squeeze","@type":"MusicAlbum"},{"creditedTo":"Squeeze","@type":"MusicAlbum","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4159c028-a821-4d01-9639-7ffbd8060c7c","albumProductionType":"http://schema.org/LiveAlbum","name":"The Complete BBC Sessions"},{"@id":"https://musicbrainz.org/release-group/b057a678-3666-4424-b9b1-c85eb18d967b","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live at the Fillmore","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0524b686-66f5-47ef-a42b-50dd18840fce","albumProductionType":"http://schema.org/StudioAlbum","name":"Goodbye Girl","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"creditedTo":"Squeeze","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"},"name":"Take Me I’m Yours","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/84a1f9ee-a534-48f4-aa7e-fd680429abb6"},{"@type":"MusicAlbum","creditedTo":"Squeeze","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"@id":"https://musicbrainz.org/release-group/a3f3233e-be19-4855-a559-865d6671650a","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Slap \u0026 Tickle"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/101ce998-5c5f-4310-be9d-879a6b65b4ee","name":"Cool for Cats","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Squeeze","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Up the Junction","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/3550b7a7-9b13-308c-a623-42b067b89901"},{"creditedTo":"Squeeze","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Pulling Mussels (From the Shell)","@id":"https://musicbrainz.org/release-group/11478bde-bbd3-36c4-ab6e-1019bab0d268","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"name":"Labelled With Love","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3df546aa-8f53-3e79-a398-f103f0267467","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Squeeze","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"},"name":"Is That Love","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c07c5887-28b1-3bd8-946c-8d823cbb588e","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Squeeze"},{"creditedTo":"Squeeze","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"@id":"https://musicbrainz.org/release-group/3bd4cd95-c84d-3de8-aa1f-94de8a277ea7","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Annie Get Your Gun"},{"creditedTo":"Squeeze","@type":"MusicAlbum","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/fae0e3a3-e4f2-4aa2-a231-b542bff6804a","name":"Black Coffee in Bed","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"When the Hangover Strikes","@id":"https://musicbrainz.org/release-group/49c7b4e9-57f9-301b-9da1-77f26b7ac75e","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"@type":"MusicAlbum","creditedTo":"Squeeze"},{"@type":"MusicAlbum","creditedTo":"Squeeze","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/880624e0-dddd-434c-b07b-81b36cbaa2f1","name":"Last Time Forever","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"}},{"name":"Hourglass","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b924f367-e56d-4961-8605-94d5b5ca67ce","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"creditedTo":"Squeeze","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"},"name":"Trust Me to Open My Mouth","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/12d87b99-9085-4997-97d3-c62203bce535","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2dbe2cf8-c761-45fb-89cf-8c9933c648f1","albumProductionType":"http://schema.org/StudioAlbum","name":"Footprints","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a551313f-087f-4a3d-a11c-2bbcb3d49f09","name":"Love Circles","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Squeeze"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Annie Get Your Gun (live)","@id":"https://musicbrainz.org/release-group/957518d7-c9eb-389a-aee7-70cf0f43c5de","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"creditedTo":"Squeeze","@type":"MusicAlbum"},{"byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"name":"Tempted/Black Coffee in Bed","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5e2329f7-29d4-3f33-acc3-ebd0305b8161","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Squeeze"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"This Summer","@id":"https://musicbrainz.org/release-group/dd473cf3-c192-36f9-b2b5-36d22b0210dc","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"@type":"MusicAlbum","creditedTo":"Squeeze"},{"@type":"MusicAlbum","creditedTo":"Squeeze","name":"Electric Trains","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/bb7bb0d0-4a7e-388d-ae0f-32b51b549081","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"}},{"@type":"MusicAlbum","creditedTo":"Squeeze","byArtist":{"@type":"MusicGroup","name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd"},"name":"Heaven Knows","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f28d6f9c-42aa-36aa-87ca-0f8d4bdc05bf","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Packet of Three","@id":"https://musicbrainz.org/release-group/3642b9c7-1918-3455-a151-925f3c488b5c","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Squeeze"},{"@type":"MusicAlbum","creditedTo":"Squeeze","byArtist":{"name":"Squeeze","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/3c306cfa-6069-3591-a055-9c59fb769000","albumReleaseType":"http://schema.org/EPRelease","name":"6 Squeeze Songs Crammed Into One Ten-Inch Record","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/e95ac76d-4145-4e6a-b1ba-fac921be7b89","name":"Arse About Face","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Squeeze","@type":"MusicAlbum"}],"@id":"https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd","name":"Squeeze","member":[{"@type":"OrganizationRole","roleName":[],"member":{"name":"Chris Difford","@id":"https://musicbrainz.org/artist/2873a95b-75c7-4bb8-9add-beb41d41e57c","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/29a6f210-8c16-404a-9c0f-c26e26ecb29c","name":"Jools Holland","@type":["Person","MusicGroup"]},"endDate":"1980","@type":"OrganizationRole","roleName":[]},{"member":{"name":"Glenn Tilbrook","@id":"https://musicbrainz.org/artist/4723899c-3546-4e3e-b2e4-e24d2a2ddf87","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/cbb0be59-563d-459f-86a6-87df39d7563e","name":"John Bentley"}},{"member":{"@type":["Person","MusicGroup"],"name":"Paul Carrack","@id":"https://musicbrainz.org/artist/fe4658a6-bb37-473d-b6f0-f075dda8d31c"},"@type":"OrganizationRole","roleName":[]}],"@context":"http://schema.org","foundingDate":"1974"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0509a681-a362-4800-9075-656041dccdbd">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F0509a681-a362-4800-9075-656041dccdbd">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/0509a681-a362-4800-9075-656041dccdbd" title="Squeeze"><bdi>Squeeze</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/0509a681-a362-4800-9075-656041dccdbd" title="Squeeze – Squeeze"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/releases" title="Squeeze"><bdi>Releases</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/recordings" title="Squeeze"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/works" title="Squeeze"><bdi>Works</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/events" title="Squeeze"><bdi>Events</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/relationships" title="Squeeze"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/aliases" title="Squeeze"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/tags" title="Squeeze"><bdi>Tags</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/details" title="Squeeze"><bdi>Details</bdi></a></li>            <li><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/edit" title="Squeeze"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Squeeze</b> are a British band, that came to prominence in the United Kingdom during the new wave period of the late 1970s, and continued recording successfully in the 1980s and 1990s. They are known in the UK for their hit songs "Cool for Cats", "Up the Junction", "Tempted", "Labelled with Love", "Black Coffee in Bed", "Another Nail in My Heart", "Pulling Mussels (from the Shell)" and "Hourglass". Though not as commercially successful in the United States, Squeeze had American chart hits with "Tempted", "Hourglass" and "853-5937", and they have a dedicated following there and continue to attract new fans. All of Squeeze's hits were written by band members Chris Difford and Glenn Tilbrook, with the former penning the lyrics and the latter handling the composition. The duo were hailed as "the heirs to Lennon and McCartney's throne" during their peak of popularity in the early 1980s.</p>
+<p>The group formed in Deptford, London, in 1974, and first broke up in 1982. Squeeze then reformed in 1985, and disbanded again in 1999. The band reunited for tours through the United States and United Kingdom in 2007, and this touring version of Squeeze has continued.</p>
+<p>In 2010, they issued <i>Spot the Difference</i>, an album of newly recorded versions of older material. The band's first album of all-new material since 1998, <i>Cradle to the Grave</i>, was released in October 2015.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Squeeze_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1861" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/7776b591-6ebe-378b-9c54-2e284bffe332"><bdi>Squeeze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/b9e1af20-d1ac-35c0-9077-7ed81e7b1897"><bdi>Cool for Cats</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/8efa3366-3ae1-33a6-b322-bd69a303ea5f"><bdi>Argybargy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/847e7f8b-c280-3037-897d-466c4b20415e"><bdi>East Side Story</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/32120ca8-30b5-37c0-bded-f71df85034e6"><bdi>Sweets From a Stranger</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/091649ef-d3d9-3a59-b66c-b9763ab3c471"><bdi>Cosi Fan Tutti Frutti</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/65d89ca9-147c-39e1-a614-da90ed14184a"><bdi>Babylon and On</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/f5a8c144-b197-3a8e-8728-d423594f0fb8"><bdi>Frank</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/77227490-12f9-3cf9-ae74-196f66c02403"><bdi>Play</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/656090ba-0653-39c0-9a54-6ac87a2763c3"><bdi>Some Fantastic Place</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/d815ffee-0f01-3e6f-92a9-533169d53875"><bdi>Ridiculous</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/13729e08-a845-3482-b332-600c44dc2291"><bdi>Domino</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/ad7cafcc-35c6-423d-92d1-86c06bd41edd"><bdi>Spot the Difference</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/78807f44-d3db-47a9-9cd7-26967c334643"><bdi>Cradle to the Grave</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/cb914d6c-1794-36b7-8ca7-ed22589d4911"><bdi>Singles: 45’s and Under</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/5cc99685-0019-3f98-b50e-32360d3ff44c"><bdi>Classics, Volume 25</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/cf9bddf9-cec8-31db-bec7-90c96066be8a"><bdi>Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/fc2dfd1a-bdae-30e2-a6ad-ebabc85a90ff"><bdi>Piccadilly Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/fb4a6e6c-6f6f-3c9f-aa49-f23d52d68c6b"><bdi>Excess Moderation</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/a1582c2f-d3b2-3afb-b5c4-41799734aca0"><bdi>Up The Junction</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2ba8214f-1759-3da6-9334-ea6c8da7713f"><bdi>Big Squeeze: The Very Best of Squeeze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/92e5816d-5238-3f07-8543-86386a6a5a1c"><bdi>Essential Squeeze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/57c0392d-1d8e-4ced-9e1c-9626b4eb136e"><bdi>The Squeeze Story</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/5afed2d1-c2f9-3830-9764-47e459e2a372"><bdi>A Round and A Bout</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/3384d3d7-dd7a-365a-9a71-e0aae992e7ab"><bdi>Five Live</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/4159c028-a821-4d01-9639-7ffbd8060c7c"><bdi>The Complete BBC Sessions</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/b057a678-3666-4424-b9b1-c85eb18d967b"><bdi>Live at the Fillmore</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/0524b686-66f5-47ef-a42b-50dd18840fce"><bdi>Goodbye Girl</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/84a1f9ee-a534-48f4-aa7e-fd680429abb6"><bdi>Take Me I’m Yours</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/a3f3233e-be19-4855-a559-865d6671650a"><bdi>Slap &amp; Tickle</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/101ce998-5c5f-4310-be9d-879a6b65b4ee"><bdi>Cool for Cats</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/3550b7a7-9b13-308c-a623-42b067b89901"><bdi>Up the Junction</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/11478bde-bbd3-36c4-ab6e-1019bab0d268"><bdi>Pulling Mussels (From the Shell)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/3df546aa-8f53-3e79-a398-f103f0267467"><bdi>Labelled With Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/c07c5887-28b1-3bd8-946c-8d823cbb588e"><bdi>Is That Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/3bd4cd95-c84d-3de8-aa1f-94de8a277ea7"><bdi>Annie Get Your Gun</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/fae0e3a3-e4f2-4aa2-a231-b542bff6804a"><bdi>Black Coffee in Bed</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/49c7b4e9-57f9-301b-9da1-77f26b7ac75e"><bdi>When the Hangover Strikes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/880624e0-dddd-434c-b07b-81b36cbaa2f1"><bdi>Last Time Forever</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/b924f367-e56d-4961-8605-94d5b5ca67ce"><bdi>Hourglass</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/12d87b99-9085-4997-97d3-c62203bce535"><bdi>Trust Me to Open My Mouth</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/2dbe2cf8-c761-45fb-89cf-8c9933c648f1"><bdi>Footprints</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/a551313f-087f-4a3d-a11c-2bbcb3d49f09"><bdi>Love Circles</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/957518d7-c9eb-389a-aee7-70cf0f43c5de"><bdi>Annie Get Your Gun (live)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/5e2329f7-29d4-3f33-acc3-ebd0305b8161"><bdi>Tempted/Black Coffee in Bed</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/dd473cf3-c192-36f9-b2b5-36d22b0210dc"><bdi>This Summer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/bb7bb0d0-4a7e-388d-ae0f-32b51b549081"><bdi>Electric Trains</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/f28d6f9c-42aa-36aa-87ca-0f8d4bdc05bf"><bdi>Heaven Knows</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/3642b9c7-1918-3455-a151-925f3c488b5c"><bdi>Packet of Three</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/3c306cfa-6069-3591-a055-9c59fb769000"><bdi>6 Squeeze Songs Crammed Into One Ten-Inch Record</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/e95ac76d-4145-4e6a-b1ba-fac921be7b89"><bdi>Arse About Face</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/0509a681-a362-4800-9075-656041dccdbd?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Squeeze_live.jpg/250px-Squeeze_live.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Squeeze live.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1974 (42 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f03d09b3-39dc-4083-afd6-159e3f0d462f"><bdi>London</bdi></a>, <a href="/area/9d5dd675-3cf4-4296-9e39-67865ebee758"><bdi>England</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/0509a681-a362-4800-9075-656041dccdbd/ratings" title="Squeeze"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/uk"><bdi>uk</bdi></a>, <a href="/tag/00s"><bdi>00s</bdi></a>, <a href="/tag/10s"><bdi>10s</bdi></a>, <a href="/tag/70s"><bdi>70s</bdi></a>, <a href="/tag/80s"><bdi>80s</bdi></a>, <a href="/artist/0509a681-a362-4800-9075-656041dccdbd/tags" title="Squeeze"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.squeezeofficial.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000790732">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/0509a681-a362-4800-9075-656041dccdbd">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/256185">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/squeeze">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/squeezeofficial">@squeezeofficial</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/squeezeofficial">squeezeofficial</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q591279">Q591279</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Squeeze_(band)">en: Squeeze (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/SqueezeOfficial">SqueezeOfficial</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/0509a681-a362-4800-9075-656041dccdbd/relationships" title="Squeeze"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0509a681-a362-4800-9075-656041dccdbd">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-08-29 21:42 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

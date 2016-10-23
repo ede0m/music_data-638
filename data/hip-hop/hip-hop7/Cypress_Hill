@@ -1,0 +1,1294 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cypress Hill - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1988 in South Gate, Area: United States"/><script type="application/ld+json">{"member":[{"member":{"name":"Sen Dog","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1f242c20-f7ad-420c-a130-5e442fd8101e"},"startDate":"1988","@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","startDate":"1988","member":{"@id":"https://musicbrainz.org/artist/9c8b5123-d994-4c0c-85c0-465636ae241e","name":"B‐Real","@type":["Person","MusicGroup"]}},{"startDate":"1988","member":{"@id":"https://musicbrainz.org/artist/d9c25451-bec6-4273-abe2-15ce0f0e0621","@type":["Person","MusicGroup"],"name":"DJ Muggs"},"@type":"OrganizationRole","roleName":[]},{"member":{"@id":"https://musicbrainz.org/artist/e4b60039-7812-4fed-8e4d-edab1cdf2154","@type":["Person","MusicGroup"],"name":"Eric Bobo"},"startDate":"1993","@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","roleName":[],"startDate":"1988","member":{"@type":["Person","MusicGroup"],"name":"Mellow Man Ace","@id":"https://musicbrainz.org/artist/eb37b2c4-94bd-4d8f-8b73-8efdcec51013"},"endDate":"1988"}],"@context":"http://schema.org","groupOrigin":{"containedIn":{"containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country","name":"United States"},"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","@type":"AdministrativeArea","name":"California"},"@type":"City","name":"South Gate","@id":"https://musicbrainz.org/area/a18182c4-65a2-4f6b-87cb-6cd9573aec24"},"album":[{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Cypress Hill","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/763b913e-e9b1-3a58-9725-291239e88d79","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"@id":"https://musicbrainz.org/release-group/fe860e74-7eb8-4bc3-8b8d-cbf621aed500","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Black Sunday","@type":"MusicAlbum","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill","albumReleaseType":"http://schema.org/AlbumRelease","name":"III: Temples of Boom","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/6cf6a587-3b35-4916-85a9-c947101803eb","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"}},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/8ed04d5c-9dd5-30d0-a2fe-d7383389330a","@type":"MusicAlbum","name":"IV","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/aa3b47aa-6a63-3e71-b02d-ee4c137b3f66","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@type":"MusicAlbum","name":"Los grandes éxitos en español","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill","albumReleaseType":"http://schema.org/AlbumRelease","name":"Skull \u0026 Bones","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/7b6dd1a8-c0b6-3fe5-96d1-f2e7d9ac03c0","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"}},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill","albumReleaseType":"http://schema.org/AlbumRelease","name":"Stoned Raiders","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/7451ecd6-a2f8-3b8e-8d78-36cef7c89959","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"}},{"@id":"https://musicbrainz.org/release-group/cfc09597-eb02-3e2c-bd0b-b8a7c7b0633b","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"@type":"MusicAlbum","name":"Till Death Do Us Part","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","name":"Rise Up","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/856d1af4-71d2-4fa3-af57-f5ac5f16a31e","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"@id":"https://musicbrainz.org/release-group/f8742e45-b835-399f-a646-122fe93174ac","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@type":"MusicAlbum","name":"Greatest Hits From the Bong","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/0a4aab7c-1217-46e8-a75f-4bc77654d982","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Playlist: The Very Best of Cypress Hill","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Strictly Hip Hop: The Best of Cypress Hill","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/0c0b5585-0e9e-471a-9052-a653561a9a5e","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Cypress Hill"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/0161608c-a7b5-4968-ab98-88512cb88053","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Collections","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Essential Cypress Hill","@id":"https://musicbrainz.org/release-group/bb1db387-dba2-49f9-93e2-fff3650ea7ab","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Cypress Hill"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/6925249f-2a41-334a-ae73-645a411a64d7","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@type":"MusicAlbum","name":"Live at the Fillmore","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/MixtapeAlbum","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/43f6774c-a7a0-4c51-bf8c-b9fe65f384d9","@type":"MusicAlbum","name":"Leakers of the Funk","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Kingpin: Life of Crime","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/ce540e4d-4cb5-345b-a9d3-ba91e56fa2d9","albumProductionType":"http://schema.org/SoundtrackAlbum","creditedTo":"Cypress Hill"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"@id":"https://musicbrainz.org/release-group/936d6b59-344d-4e39-8e0c-f46a43000d8a","name":"Hand on the Pump","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3c1b8c98-f076-4062-b103-ccf8b477c06b","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"name":"The Phuncky Feel One / How I Could Just Kill a Man","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","name":"Latin Lingo","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/180b4ee9-a813-39b6-8402-17ca790f7947","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"@id":"https://musicbrainz.org/release-group/f889ecd3-341d-3b1b-bcbd-cd28fc34083a","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumReleaseType":"http://schema.org/SingleRelease","name":"Insane in the Brain","@type":"MusicAlbum","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/26cd116d-feba-37da-a76e-efb8bc03a203","albumReleaseType":"http://schema.org/SingleRelease","name":"I Ain’t Goin’ Out Like That","@type":"MusicAlbum","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","name":"We Ain't Goin' Out Like That","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e8e57220-7bed-476d-9c11-500398ec7323","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"When the Shit Goes Down","@id":"https://musicbrainz.org/release-group/0a3128d9-69e9-440f-aa43-c0d9a3f637c2","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/45d2c1ba-347b-39c6-9fe2-446d46592e20","@type":"MusicAlbum","name":"Lick a Shot","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Boom Biddy Bye Bye","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"@id":"https://musicbrainz.org/release-group/65baf7b4-2f44-4fe7-bf6e-057d4b1ba4be"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e02c81af-d860-434d-af86-50f0dc27f466","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Illusions"},{"byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/f8a0fca2-e353-31e6-b856-d5f01f0a99a3","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Throw Your Set in the Air","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5b38dbc4-9993-3148-bbe5-0769fdca9003","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"@type":"MusicAlbum","name":"Tequila Sunrise","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Dr. Greenthumb","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5883940f-a8df-3a97-8dd6-3556c6c9719b","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"creditedTo":"Jason Nevins vs. Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a7c64db8-1aaf-3f1d-a35a-038b469b70f1","byArtist":[{"@id":"https://musicbrainz.org/artist/c9df45d4-b84b-499f-ae58-3d5a4b94d5e8","@type":["Person","MusicGroup"],"name":"Jason Nevins"},{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"}],"name":"Insane in the Brain","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","name":"Worldwide","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"@id":"https://musicbrainz.org/release-group/e6649950-5605-4dae-93d8-6a674e5ecafc","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Body Parts","@id":"https://musicbrainz.org/release-group/b7c60340-b781-328f-892e-1aba5ae3e462","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/373ea699-ebbb-442f-a8d1-b9b48b0fc66c","@type":"MusicAlbum","name":"Can’t Get the Best of Me","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Highlife","@id":"https://musicbrainz.org/release-group/42f6d24b-d466-4172-ab4e-7ca8e8d20913","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"}},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Superstar","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/a057e9fe-286e-34ee-afd0-2ecf2dab3f99","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"@id":"https://musicbrainz.org/release-group/d3375b01-fa0f-34db-a57f-6e79a0573bba","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Trouble / Lowrider","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Roni Size \u0026 Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/2eeba1d4-f67d-45be-a22e-ab73e925aa43","name":"Roni Size","@type":["Person","MusicGroup"]},{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"}],"@id":"https://musicbrainz.org/release-group/d598b866-ab53-3be6-be3a-deaa46d4a4d0","name":"Child of the Wild West","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f021f355-b8c6-3632-9a32-587541c0a261","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"name":"Lowrider","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/024a3a16-4896-33d4-b579-2306bfa5e854","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"name":"Insane in the Brain / How I Could Just Kill a Man","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/ac8084fd-e098-424e-8bc6-72f6cc66a7b8","name":"Latin Thugs / Ganja Bus","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","name":"What’s Your Number?","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/aa9eb424-9ba7-3f2f-8c1f-73761b803e9f","byArtist":{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"@id":"https://musicbrainz.org/release-group/7c97e2b4-a516-41a7-8da1-f7f0d61d3313","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Get ’em Up","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill","albumReleaseType":"http://schema.org/SingleRelease","name":"Armada Latina","@type":"MusicAlbum","byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/5f5c376b-dc5d-4cb9-9e82-419a8e7cf465"},{"name":"Roll It Light It","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","byArtist":[{"@type":"MusicGroup","name":"Cypress Hill","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},{"@id":"https://musicbrainz.org/artist/ed962474-bb85-47f9-b108-073184f09bc8","name":"Rusko","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/1619222e-1075-4286-a18e-8baaa95b871e","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill \u0026 Rusko"},{"@id":"https://musicbrainz.org/release-group/91dd2a4c-d631-496d-994a-66f194c3243c","byArtist":[{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},{"name":"Rusko","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ed962474-bb85-47f9-b108-073184f09bc8"}],"albumReleaseType":"http://schema.org/EPRelease","name":"Cypress x Rusko EP","@type":"MusicAlbum","creditedTo":"Cypress Hill \u0026 Rusko","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Cypress Hill","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78"},"@id":"https://musicbrainz.org/release-group/2473e154-ef2f-3165-89ab-86ee26f88910","@type":"MusicAlbum","name":"Unreleased \u0026 Revamped","albumReleaseType":"http://schema.org/EPRelease","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/RemixAlbum"},{"albumProductionType":"http://schema.org/RemixAlbum","creditedTo":"Cypress Hill","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Stash","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/fc72d1db-487f-3963-a82c-5fac659b8ffc"},{"byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/0ad0bfb8-af59-3408-b993-286f1331751d","@type":"MusicAlbum","name":"Rare Connection","creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"First Album Instrumentals","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/66731f18-931d-373f-8fc0-0d53092f4fcc","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cypress Hill"},{"creditedTo":"Cypress Hill","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4f98f527-b035-31c1-a8ca-0062f1448f29","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","@type":"MusicGroup","name":"Cypress Hill"},"name":"Unreleased Assasins","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Cypress Hill","name":"Smokers Paradise","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","name":"Cypress Hill","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/fc93f7f8-b739-303b-acdc-799c99edd04e"}],"@id":"https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78","sameAs":["http://cypresshill.com/","http://isni-url.oclc.nl/isni/0000000122482707","http://musicmoz.org/Bands_and_Artists/C/Cypress_Hill/","http://rateyourmusic.com/artist/cypress_hill","http://viaf.org/viaf/126849669","http://www.allmusic.com/artist/mn0000147315","http://www.bbc.co.uk/music/artists/51508c1f-8d07-4a00-9cf1-26c570fe7b78","http://www.imdb.com/name/nm1290213/","http://www.last.fm/music/Cypress\u002bHill","http://www.musik-sammler.de/artist/144","http://www.secondhandsongs.com/artist/2343","https://www.discogs.com/artist/37905","https://www.wikidata.org/wiki/Q322196"],"name":"Cypress Hill","@type":"MusicGroup","foundingDate":"1988","location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F51508c1f-8d07-4a00-9cf1-26c570fe7b78">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F51508c1f-8d07-4a00-9cf1-26c570fe7b78">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill – Cypress Hill"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/releases" title="Cypress Hill"><bdi>Releases</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/recordings" title="Cypress Hill"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/works" title="Cypress Hill"><bdi>Works</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/events" title="Cypress Hill"><bdi>Events</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/relationships" title="Cypress Hill"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/aliases" title="Cypress Hill"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/tags" title="Cypress Hill"><bdi>Tags</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/details" title="Cypress Hill"><bdi>Details</bdi></a></li>            <li><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/edit" title="Cypress Hill"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Cypress Hill</b> is an American hip hop group from South Gate, California. Cypress Hill was the first Latino American hip hop recording group to have platinum and multi-platinum albums, selling over 18 million albums worldwide. They are considered to be among the main progenitors of West Coast rap and Hip hop in the early 1990s, being critically acclaimed for their first four albums. The band has also been important for the advocacy of medical and recreational use of cannabis in the United States.</p></div>
+<a href="https://en.wikipedia.org/wiki/Cypress_Hill">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=84" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/763b913e-e9b1-3a58-9725-291239e88d79"><bdi>Cypress Hill</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/fe860e74-7eb8-4bc3-8b8d-cbf621aed500"><bdi>Black Sunday</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/6cf6a587-3b35-4916-85a9-c947101803eb"><bdi>III: Temples of Boom</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/8ed04d5c-9dd5-30d0-a2fe-d7383389330a"><bdi>IV</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/aa3b47aa-6a63-3e71-b02d-ee4c137b3f66"><bdi>Los grandes éxitos en español</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/7b6dd1a8-c0b6-3fe5-96d1-f2e7d9ac03c0"><bdi>Skull &amp; Bones</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/7451ecd6-a2f8-3b8e-8d78-36cef7c89959"><bdi>Stoned Raiders</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/cfc09597-eb02-3e2c-bd0b-b8a7c7b0633b"><bdi>Till Death Do Us Part</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/856d1af4-71d2-4fa3-af57-f5ac5f16a31e"><bdi>Rise Up</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">11</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f8742e45-b835-399f-a646-122fe93174ac"><bdi>Greatest Hits From the Bong</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/0a4aab7c-1217-46e8-a75f-4bc77654d982"><bdi>Playlist: The Very Best of Cypress Hill</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/0c0b5585-0e9e-471a-9052-a653561a9a5e"><bdi>Strictly Hip Hop: The Best of Cypress Hill</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/0161608c-a7b5-4968-ab98-88512cb88053"><bdi>Collections</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/bb1db387-dba2-49f9-93e2-fff3650ea7ab"><bdi>The Essential Cypress Hill</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/6925249f-2a41-334a-ae73-645a411a64d7"><bdi>Live at the Fillmore</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Mixtape/Street</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/43f6774c-a7a0-4c51-bf8c-b9fe65f384d9"><bdi>Leakers of the Funk</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/ce540e4d-4cb5-345b-a9d3-ba91e56fa2d9"><bdi>Kingpin: Life of Crime</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/936d6b59-344d-4e39-8e0c-f46a43000d8a"><bdi>Hand on the Pump</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/3c1b8c98-f076-4062-b103-ccf8b477c06b"><bdi>The Phuncky Feel One / How I Could Just Kill a Man</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/180b4ee9-a813-39b6-8402-17ca790f7947"><bdi>Latin Lingo</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/f889ecd3-341d-3b1b-bcbd-cd28fc34083a"><bdi>Insane in the Brain</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/26cd116d-feba-37da-a76e-efb8bc03a203"><bdi>I Ain’t Goin’ Out Like That</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><span class="mp"><a href="/release-group/e8e57220-7bed-476d-9c11-500398ec7323"><bdi>We Ain't Goin' Out Like That</bdi></a></span></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/0a3128d9-69e9-440f-aa43-c0d9a3f637c2"><bdi>When the Shit Goes Down</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/45d2c1ba-347b-39c6-9fe2-446d46592e20"><bdi>Lick a Shot</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/65baf7b4-2f44-4fe7-bf6e-057d4b1ba4be"><bdi>Boom Biddy Bye Bye</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/e02c81af-d860-434d-af86-50f0dc27f466"><bdi>Illusions</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/f8a0fca2-e353-31e6-b856-d5f01f0a99a3"><bdi>Throw Your Set in the Air</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/5b38dbc4-9993-3148-bbe5-0769fdca9003"><bdi>Tequila Sunrise</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/5883940f-a8df-3a97-8dd6-3556c6c9719b"><bdi>Dr. Greenthumb</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/a7c64db8-1aaf-3f1d-a35a-038b469b70f1"><bdi>Insane in the Brain</bdi></a></td>
+        
+        <td><a href="/artist/c9df45d4-b84b-499f-ae58-3d5a4b94d5e8" title="Nevins, Jason"><bdi>Jason Nevins</bdi></a> vs. <a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/e6649950-5605-4dae-93d8-6a674e5ecafc"><bdi>Worldwide</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/b7c60340-b781-328f-892e-1aba5ae3e462"><bdi>Body Parts</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/373ea699-ebbb-442f-a8d1-b9b48b0fc66c"><bdi>Can’t Get the Best of Me</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/42f6d24b-d466-4172-ab4e-7ca8e8d20913"><bdi>Highlife</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/a057e9fe-286e-34ee-afd0-2ecf2dab3f99"><bdi>Superstar</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/d3375b01-fa0f-34db-a57f-6e79a0573bba"><bdi>Trouble / Lowrider</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/d598b866-ab53-3be6-be3a-deaa46d4a4d0"><bdi>Child of the Wild West</bdi></a></td>
+        
+        <td><a href="/artist/2eeba1d4-f67d-45be-a22e-ab73e925aa43" title="Roni Size"><bdi>Roni Size</bdi></a> &amp; <a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/f021f355-b8c6-3632-9a32-587541c0a261"><bdi>Lowrider</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/024a3a16-4896-33d4-b579-2306bfa5e854"><bdi>Insane in the Brain / How I Could Just Kill a Man</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/ac8084fd-e098-424e-8bc6-72f6cc66a7b8"><bdi>Latin Thugs / Ganja Bus</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/aa9eb424-9ba7-3f2f-8c1f-73761b803e9f"><bdi>What’s Your Number?</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/7c97e2b4-a516-41a7-8da1-f7f0d61d3313"><bdi>Get ’em Up</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/5f5c376b-dc5d-4cb9-9e82-419a8e7cf465"><bdi>Armada Latina</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/1619222e-1075-4286-a18e-8baaa95b871e"><bdi>Roll It Light It</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a> &amp; <a href="/artist/ed962474-bb85-47f9-b108-073184f09bc8" title="Rusko"><bdi>Rusko</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/91dd2a4c-d631-496d-994a-66f194c3243c"><bdi>Cypress x Rusko EP</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a> &amp; <a href="/artist/ed962474-bb85-47f9-b108-073184f09bc8" title="Rusko"><bdi>Rusko</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/2473e154-ef2f-3165-89ab-86ee26f88910"><bdi>Unreleased &amp; Revamped</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/fc72d1db-487f-3963-a82c-5fac659b8ffc"><bdi>Stash</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/0ad0bfb8-af59-3408-b993-286f1331751d"><bdi>Rare Connection</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/66731f18-931d-373f-8fc0-0d53092f4fcc"><bdi>First Album Instrumentals</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/4f98f527-b035-31c1-a8ca-0062f1448f29"><bdi>Unreleased Assasins</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/fc93f7f8-b739-303b-acdc-799c99edd04e"><bdi>Smokers Paradise</bdi></a></td>
+        
+        <td><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78" title="Cypress Hill"><bdi>Cypress Hill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cypress_Hill.jpg/250px-Cypress_Hill.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Cypress Hill.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1988 (28 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/a18182c4-65a2-4f6b-87cb-6cd9573aec24"><bdi>South Gate</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000122482707">0000 0001 2248 2707    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:89%;">4.45</span>    </span>
+</span>    (<a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/ratings" title="Cypress Hill"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/hip%20hop"><bdi>hip hop</bdi></a>, <a href="/tag/rapcore"><bdi>rapcore</bdi></a>, <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/boom%20bap"><bdi>boom bap</bdi></a>, <a href="/tag/gangsta%20rap"><bdi>gangsta rap</bdi></a>, <a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/tags" title="Cypress Hill"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://cypresshill.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000147315">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/51508c1f-8d07-4a00-9cf1-26c570fe7b78">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/37905">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1290213/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Cypress+Hill">Cypress Hill</a>
+          
+          
+        </li>               <li class="genius-favicon">
+          
+          
+          <a href="http://genius.com/artists/Cypress-hill">Genius</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Cypress_Hill">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/cypresshill">cypresshill</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/C/Cypress_Hill/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/cypress_hill">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/144">Musik-Sammler</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/us/artist/id465802">iTunes</a>
+          
+          
+        </li>               <li class="googleplay-favicon">
+          
+          
+          <a href="https://play.google.com/store/music/artist?id=Adoq4esh5yvrncgunp2pzm3fyku">Google Play</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/therealcypresshill">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/2343">SecondHandSongs</a>
+          
+          
+        </li>               <li class="googleplus-favicon">
+          
+          
+          <a href="https://plus.google.com/116702908171138576613">Google+</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/cypresshill">@cypresshill</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/cypresshill">cypresshill</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/chxrsk">chxrsk</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/126849669">VIAF: 126849669</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q322196">Q322196</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/CypressHillVideo">CypressHillVideo</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/51508c1f-8d07-4a00-9cf1-26c570fe7b78/relationships" title="Cypress Hill"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F51508c1f-8d07-4a00-9cf1-26c570fe7b78">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-10-19 04:52 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

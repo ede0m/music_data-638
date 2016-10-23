@@ -1,0 +1,830 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bon Iver - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2006 in Eau Claire, Area: United States"/><script type="application/ld+json">{"name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","groupOrigin":{"containedIn":{"containedIn":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"},"@type":"AdministrativeArea","name":"Wisconsin","@id":"https://musicbrainz.org/area/10cb2ebd-1bc7-4c11-b10d-54f60c421d20"},"@type":"City","name":"Eau Claire","@id":"https://musicbrainz.org/area/523fa8c2-7ccc-4a31-98a8-98d80e42a0c4"},"sameAs":["http://boniver.org/","http://rateyourmusic.com/artist/bon_iver","http://www.allmusic.com/artist/mn0000663645","http://www.bbc.co.uk/music/artists/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","http://www.imdb.com/name/nm3040583/","http://www.last.fm/music/Bon\u002bIver","http://www.whosampled.com/Bon-Iver/","https://en.wikipedia.org/wiki/Bon_Iver","https://imvdb.com/n/bon-iver","https://secondhandsongs.com/artist/41724","https://www.discogs.com/artist/1042739","https://www.musik-sammler.de/artist/bon-iver/","https://www.wikidata.org/wiki/Q357340"],"@context":"http://schema.org","foundingDate":"2006","location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"member":[{"member":{"@id":"https://musicbrainz.org/artist/0f1d5b01-8784-4870-9bd6-fa43178b9441","name":"Justin Vernon","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Michael Noyce","@id":"https://musicbrainz.org/artist/1cbcc3a3-2ed7-4d92-a160-9a7d624bb227"},"roleName":[],"@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/4a875dfc-d5a4-4bca-b494-73b59a0eb10b","name":"Sean Carey","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Matthew McCaughan","@id":"https://musicbrainz.org/artist/6ee080ea-5c08-4dd2-b53f-b38faf70d647","@type":["Person","MusicGroup"]}}],"album":[{"creditedTo":"Bon Iver","@type":"MusicAlbum","name":"For Emma, Forever Ago","@id":"https://musicbrainz.org/release-group/187935b5-a0a4-3e6f-9684-48b67a5190a1","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","@type":"MusicGroup"}},{"creditedTo":"Bon Iver","@type":"MusicAlbum","name":"Bon Iver, Bon Iver","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2cb36662-3560-4b90-a0a5-7924ac039490","byArtist":{"name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver"},"name":"22, a Million","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f0e8f425-a941-48df-b5d7-2ceeaaf77c71","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Bon Iver"},{"creditedTo":"Bon Iver","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5c366d87-1b63-473a-826e-7e5758f7f1e4","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"iTunes Session","byArtist":{"name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9e425f3d-119a-4511-8969-06adb9057ee6","name":"For Emma","@type":"MusicAlbum","creditedTo":"Bon Iver"},{"byArtist":[{"name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Peter Gabriel","@id":"https://musicbrainz.org/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5"}],"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c630322d-6d3f-4d90-ace0-da646bfbf98a","name":"Come Talk to Me / Flume","@type":"MusicAlbum","creditedTo":"Bon Iver / Peter Gabriel"},{"byArtist":[{"name":"Kanye West","@id":"https://musicbrainz.org/artist/164f0d73-1234-4e2c-8743-d77bf2191051","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/f82bcf78-5b69-4622-a5ef-73800768d9ac","name":"JAY Z","@type":["Person","MusicGroup"]},{"name":"Rick Ross","@id":"https://musicbrainz.org/artist/13bcb2bb-db37-4397-baf5-e0f085be2d64","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver"},{"@type":["Person","MusicGroup"],"name":"Nicki Minaj","@id":"https://musicbrainz.org/artist/1036b808-f58c-4a3e-b461-a2c4492ecf1b"}],"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/decefff8-4623-476e-bd07-1cd864ef13e2","name":"Monster","@type":"MusicAlbum","creditedTo":"Kanye West feat. Jay-Z, Rick Ross, Bon Iver \u0026 Nicki Minaj"},{"creditedTo":"Bon Iver","@type":"MusicAlbum","name":"Calgary","@id":"https://musicbrainz.org/release-group/3d9a18fd-4d7c-49a2-8244-835c9ebc7061","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ded6096d-13cd-4548-9bf0-414b650103c3","albumReleaseType":"http://schema.org/SingleRelease","name":"Fall Creek Boys Choir","byArtist":[{"@type":["Person","MusicGroup"],"name":"James Blake","@id":"https://musicbrainz.org/artist/8dc08b1f-e393-4f85-a5dd-300f7693a8b8"},{"@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver","@type":"MusicGroup"}],"creditedTo":"James Blake \u0026 Bon Iver","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Bon Iver","byArtist":{"@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8e1f0c96-aca7-47a4-81e9-74c431752910","name":"Holocene"},{"@type":"MusicAlbum","creditedTo":"Bon Iver","byArtist":{"@type":"MusicGroup","name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc"},"name":"Towers","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7af42034-6149-4e8a-bd2d-093c75842b2d"},{"creditedTo":"Bon Iver","@type":"MusicAlbum","name":"Beth/Rest","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f96eb7e7-e3c4-4ac0-b50a-8cb2d2e47e28","byArtist":{"name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Francis and the Lights feat. Bon Iver \u0026 Kanye West","byArtist":[{"@type":"MusicGroup","name":"Francis and the Lights","@id":"https://musicbrainz.org/artist/d1073d49-539c-46b9-9b79-597b232a9a3c"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver"},{"@id":"https://musicbrainz.org/artist/164f0d73-1234-4e2c-8743-d77bf2191051","name":"Kanye West","@type":["Person","MusicGroup"]}],"name":"Friends","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/4eeb24f3-afdf-4217-a443-4e5150243a9d"},{"@type":"MusicAlbum","creditedTo":"Bon Iver","byArtist":{"@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver","@type":"MusicGroup"},"name":"22/10","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/563202b8-700c-4f29-9980-00d9569d6785"},{"name":"33 “GOD”","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d5ccbb55-7c17-483a-8859-5dab404f15b9","byArtist":{"@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver","@type":"MusicGroup"},"creditedTo":"Bon Iver","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Bon Iver \u0026 Stop the Car","byArtist":[{"@type":"MusicGroup","name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/3871041f-c9ec-4a56-bd88-90cf182a3494","name":"Stop the Car"}],"name":"Towers","@id":"https://musicbrainz.org/release-group/560f4710-1424-4f15-9c98-89b103883b55","albumProductionType":"http://schema.org/RemixAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Bon Iver","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/8ff93c7e-99e3-3c02-8a21-f927dbda9530","name":"Blood Bank","byArtist":{"@type":"MusicGroup","name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc"}},{"name":"Bon Iver at Air Studios","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/3655868d-8487-4091-b108-663e4edd6465","byArtist":{"@type":"MusicGroup","name":"Bon Iver","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc"},"creditedTo":"Bon Iver","@type":"MusicAlbum"},{"name":"The Myspace Transmissions","@id":"https://musicbrainz.org/release-group/23250d8b-9016-3d5f-99d5-b7bba4aa00e4","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc","name":"Bon Iver"},"creditedTo":"Bon Iver","@type":"MusicAlbum"}],"@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F437a0e49-c6ae-42f6-a6c1-84f25ed366bc">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F437a0e49-c6ae-42f6-a6c1-84f25ed366bc">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver – Bon Iver"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/releases" title="Bon Iver"><bdi>Releases</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/recordings" title="Bon Iver"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/works" title="Bon Iver"><bdi>Works</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/events" title="Bon Iver"><bdi>Events</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/relationships" title="Bon Iver"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/aliases" title="Bon Iver"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/tags" title="Bon Iver"><bdi>Tags</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/details" title="Bon Iver"><bdi>Details</bdi></a></li>            <li><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/edit" title="Bon Iver"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Bon Iver</b> (<span><span>/<span><span title="'b' in 'buy'">b</span><span title="/oʊ/ long 'o' in 'code'">oʊ</span><span title="'n' in 'no'">n</span></span> <span><span title="/iː/ long 'e' in 'seed'">iː</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'v' in 'vie'">v</span><span title="/ɛər/ 'are' in 'bare'">ɛər</span></span>/</span></span> <span title="English pronunciation respelling"><i>bohn-ee-<b><span><span>VAIR</span></span></b></i></span>) is an American indie folk band founded in 2007 by singer-songwriter Justin Vernon. Vernon released Bon Iver's debut album, <i>For Emma, Forever Ago</i> independently in July 2007. The majority of that album was recorded while Vernon spent three months in a cabin in northwestern Wisconsin. Bon Iver won the 2012 Grammy Awards for Best New Artist and Best Alternative Music Album for their album <i>Bon Iver, Bon Iver</i>. The name Bon Iver is derived from the French phrase <i>bon hiver</i> (<small>French pronunciation: ​</small><span title="Representation in the International Phonetic Alphabet (IPA)">[bɔn‿ivɛːʁ]</span>), meaning "good winter", taken from a greeting on <i>Northern Exposure</i>.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Bon_Iver">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=470713" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/187935b5-a0a4-3e6f-9684-48b67a5190a1"><bdi>For Emma, Forever Ago</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:96%;">4.8</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/2cb36662-3560-4b90-a0a5-7924ac039490"><bdi>Bon Iver, Bon Iver</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/f0e8f425-a941-48df-b5d7-2ceeaaf77c71"><bdi>22, a Million</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/5c366d87-1b63-473a-826e-7e5758f7f1e4"><bdi>iTunes Session</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/9e425f3d-119a-4511-8969-06adb9057ee6"><bdi>For Emma</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/c630322d-6d3f-4d90-ace0-da646bfbf98a"><bdi>Come Talk to Me / Flume</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a> / <a href="/artist/8e66ea2b-b57b-47d9-8df0-df4630aeb8e5" title="Gabriel, Peter"><bdi>Peter Gabriel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/decefff8-4623-476e-bd07-1cd864ef13e2"><bdi>Monster</bdi></a></td>
+        
+        <td><a href="/artist/164f0d73-1234-4e2c-8743-d77bf2191051" title="West, Kanye"><bdi>Kanye West</bdi></a> feat. <span class="name-variation"><a href="/artist/f82bcf78-5b69-4622-a5ef-73800768d9ac" title="JAY Z – JAY Z (US rapper, formerly Jay-Z)"><bdi>Jay-Z</bdi></a></span>, <a href="/artist/13bcb2bb-db37-4397-baf5-e0f085be2d64" title="Ross, Rick (US rapper)"><bdi>Rick Ross</bdi></a>, <a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a> &amp; <a href="/artist/1036b808-f58c-4a3e-b461-a2c4492ecf1b" title="Minaj, Nicki"><bdi>Nicki Minaj</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/3d9a18fd-4d7c-49a2-8244-835c9ebc7061"><bdi>Calgary</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/ded6096d-13cd-4548-9bf0-414b650103c3"><bdi>Fall Creek Boys Choir</bdi></a></td>
+        
+        <td><a href="/artist/8dc08b1f-e393-4f85-a5dd-300f7693a8b8" title="Blake, James"><bdi>James Blake</bdi></a> &amp; <a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/8e1f0c96-aca7-47a4-81e9-74c431752910"><bdi>Holocene</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/7af42034-6149-4e8a-bd2d-093c75842b2d"><bdi>Towers</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/f96eb7e7-e3c4-4ac0-b50a-8cb2d2e47e28"><bdi>Beth/Rest</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/4eeb24f3-afdf-4217-a443-4e5150243a9d"><bdi>Friends</bdi></a></td>
+        
+        <td><a href="/artist/d1073d49-539c-46b9-9b79-597b232a9a3c" title="Francis and the Lights"><bdi>Francis and the Lights</bdi></a> feat. <a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a> &amp; <a href="/artist/164f0d73-1234-4e2c-8743-d77bf2191051" title="West, Kanye"><bdi>Kanye West</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/563202b8-700c-4f29-9980-00d9569d6785"><bdi>22/10</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/d5ccbb55-7c17-483a-8859-5dab404f15b9"><bdi>33 “GOD”</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/560f4710-1424-4f15-9c98-89b103883b55"><bdi>Towers</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a> &amp; <a href="/artist/3871041f-c9ec-4a56-bd88-90cf182a3494" title="Stop the Car"><bdi>Stop the Car</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/8ff93c7e-99e3-3c02-8a21-f927dbda9530"><bdi>Blood Bank</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/3655868d-8487-4091-b108-663e4edd6465"><bdi>Bon Iver at Air Studios</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/23250d8b-9016-3d5f-99d5-b7bba4aa00e4"><bdi>The Myspace Transmissions</bdi></a></td>
+        
+        <td><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc" title="Bon Iver"><bdi>Bon Iver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bon_Iver.jpg/250px-Bon_Iver.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Bon Iver.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2006 (10 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/523fa8c2-7ccc-4a31-98a8-98d80e42a0c4"><bdi>Eau Claire</bdi></a>, <a href="/area/10cb2ebd-1bc7-4c11-b10d-54f60c421d20"><bdi>Wisconsin</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>IPI code:</dt>
+<dd class="ipi-code">00463068944</dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:97%;">4.85</span>    </span>
+</span>    (<a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/ratings" title="Bon Iver"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/folk"><bdi>folk</bdi></a>, <a href="/tag/art%20pop"><bdi>art pop</bdi></a>, <a href="/tag/contemporary%20folk"><bdi>contemporary folk</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/indie%20folk"><bdi>indie folk</bdi></a>, <a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/tags" title="Bon Iver"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://boniver.org/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000663645">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/437a0e49-c6ae-42f6-a6c1-84f25ed366bc">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/1042739">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm3040583/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Bon+Iver">Bon Iver</a>
+          
+          
+        </li>               <li class="genius-favicon">
+          
+          
+          <a href="http://genius.com/artists/Bon-iver">Genius</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/wiki/Bon_Iver">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/boniver">boniver</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/bon_iver">Rateyourmusic</a>
+          
+          
+        </li>               <li class="imvdb-favicon">
+          
+          
+          <a href="https://imvdb.com/n/bon-iver">IMVDb</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="https://www.musik-sammler.de/artist/bon-iver/">Musik-Sammler</a>
+          
+          
+        </li>               <li class="whosampled-favicon">
+          
+          
+          <a href="http://www.whosampled.com/Bon-Iver/">WhoSampled</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/us/artist/id273428126">iTunes</a>
+          
+          
+        </li>               <li class="googleplay-favicon">
+          
+          
+          <a href="https://play.google.com/store/music/artist?id=Almf54cg3d2djde3cbziyla3uri">Google Play</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="https://secondhandsongs.com/artist/41724">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/boniver">@boniver</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/boniverwi">boniverwi</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="https://www.instagram.com/boniver/">@boniver</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/boniver">boniver</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q357340">Q357340</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Bon_Iver">en: Bon Iver</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/boniver">boniver</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/437a0e49-c6ae-42f6-a6c1-84f25ed366bc/relationships" title="Bon Iver"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F437a0e49-c6ae-42f6-a6c1-84f25ed366bc">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-09-10 01:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

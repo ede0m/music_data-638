@@ -1,0 +1,932 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cheap Trick - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1973 in Rockford, Area: United States"/><script type="application/ld+json">{"@type":"MusicGroup","name":"Cheap Trick","location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","member":[{"endDate":"1981","member":{"@type":["Person","MusicGroup"],"name":"Pete Comita","@id":"https://musicbrainz.org/artist/00e15cb9-482c-4502-b0c6-d28a8cbf9296"},"startDate":"1980","@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","roleName":"bass guitar","member":{"@id":"https://musicbrainz.org/artist/08e293da-e14f-4507-8a48-40fd7b33e82b","name":"Tom Petersson","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/2d9823c9-d4ae-4158-974d-cbbf13fcb968","name":"Bun E. Carlos","@type":["Person","MusicGroup"]},"roleName":"drums","@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/5049f967-6912-46de-be58-73b4b5e9af19","@type":["Person","MusicGroup"],"name":"Rick Nielsen"},"@type":"OrganizationRole","roleName":"guitar"},{"member":{"name":"Robin Zander","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/808f410e-2e69-4f4b-83e3-b039086bacbe"},"roleName":"guitar","@type":"OrganizationRole"}],"@context":"http://schema.org","album":[{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"name":"In Color","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/56f8dc86-6243-3fdd-af13-3481c2521f47","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/30ebaf22-4e6d-3958-8150-744093195c74","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Cheap Trick"},{"creditedTo":"Cheap Trick","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"name":"Heaven Tonight","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fa4b314b-7881-3319-8c47-a6ffd5f88771"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d9a71468-533a-3ba2-a41d-13c02f2c00ff","creditedTo":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"name":"Dream Police","@type":"MusicAlbum"},{"byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","name":"All Shook Up","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/94d1c71a-918f-3109-89aa-f994cbadc73e","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/c49d0b02-88bb-39f3-a0b9-d41909777a19","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","name":"One on One","creditedTo":"Cheap Trick"},{"byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Next Position Please","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/f535705e-c29e-3ef4-b938-4be2db8ef0f2","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"name":"Standing on the Edge","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/c84b16fd-f67e-3799-b805-c320fcba8f8f","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","name":"The Doctor","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0987cd62-3919-3864-af5d-8304ceca1482"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"name":"Lap of Luxury","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/6bd0fd2d-1682-3e5c-b2ae-99f8d5c70988","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/bbd3a3d4-fad4-3ec5-8876-b7f8d34f340e","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Busted","creditedTo":"Cheap Trick"},{"creditedTo":"Cheap Trick","name":"Woke Up With a Monster","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a0b59a7b-ac87-3223-a110-c83c8f982584"},{"creditedTo":"Cheap Trick","name":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bad1771f-3a28-31e8-9ae2-19553886d114"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/6a4d9619-2c43-3f1d-a4b8-7c8ebab4437a","creditedTo":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"name":"Special One","@type":"MusicAlbum"},{"creditedTo":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"name":"Rockford","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/866110f0-34f9-31fa-9eeb-cde4d647bcd0"},{"name":"The Latest","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/3bef72cb-bd5f-46c8-a2f6-8234da13ba97","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Bang, Zoom, Crazy… Hello","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/845190c5-55b9-454b-8e1f-075895d74f09","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/eca60f44-618c-4b19-b875-a0bae9496264","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"name":"The Greatest Hits","@type":"MusicAlbum","creditedTo":"Cheap Trick"},{"creditedTo":"Cheap Trick","name":"The Hits of Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/17cb2cac-8be1-3f33-b66a-31e979491ac1"},{"name":"I Want You to Want Me","byArtist":{"@type":"MusicGroup","name":"Cheap Trick","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/714a4c2b-a840-3166-b4a1-2a180cbfaa0a","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/8c3beb09-688e-3adf-8d85-8733d898c35c","creditedTo":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"name":"Don’t Be Cruel","@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Cheap Trick","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"Authorized Greatest Hits","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/fc5b31f6-f04f-3d8e-a087-aefe0c8114e0","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Cheap Trick","@type":"MusicAlbum","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"Sex, America, Cheap Trick","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/2002b1cd-9748-37d3-a778-a6a87d2c4374"},{"byArtist":{"@type":"MusicGroup","name":"Cheap Trick","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"The Essential Cheap Trick","@type":"MusicAlbum","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/8c8a0b87-ea9a-38d9-bb4e-06d565396166","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/327426c0-f0a0-440b-b444-73e8754b27e0","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Super Hits","byArtist":{"@type":"MusicGroup","name":"Cheap Trick","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","creditedTo":"Cheap Trick"},{"creditedTo":"Cheap Trick","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Cheap Trick","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"Original Album Classics","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/a7eddb16-87a7-4f18-8d05-e6ab3f1fc527"},{"@id":"https://musicbrainz.org/release-group/3c63c35c-ad47-4089-b776-b285b1b16dc5","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"name":"Playlist: The Very Best of Cheap Trick","creditedTo":"Cheap Trick"},{"@id":"https://musicbrainz.org/release-group/3650d7c5-6954-44a9-832d-6f1ae707ba62","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"name":"The Complete Epic Albums Collection","@type":"MusicAlbum","creditedTo":"Cheap Trick"},{"name":"The Classic Albums 1977–1979","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"@type":"MusicAlbum","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/4f64d53e-2408-48c4-8a20-cee1dead0a59","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/86b6f6fb-e3ab-4a00-bd63-ce501074ac08","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"The Epic Archive, Vol. 1 (1975–1979)","@type":"MusicAlbum","creditedTo":"Cheap Trick"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/80cef13f-6f15-3e19-8fb4-5db3c03ed324","creditedTo":"Cheap Trick","name":"Collection","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"@type":"MusicAlbum"},{"name":"Cheap Trick at Budokan","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/2c3682e2-cc7b-32e0-ab48-d4dbbd458479","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum"},{"name":"Budokan II","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/6c6ef662-eb73-4419-8e8c-729dc7310846","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0a345d60-a10a-3c74-a02b-ab30412e4947","creditedTo":"Cheap Trick","name":"Music for Hangovers","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/ba206db0-ce56-3d57-84f4-871130ae806b","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","@type":"MusicGroup","name":"Cheap Trick"},"@type":"MusicAlbum","name":"Silver","creditedTo":"Cheap Trick"},{"creditedTo":"Cheap Trick","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"Budokan!","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/0fd82326-6ac7-4999-8126-04cefdf48974"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/b9a2eabe-2a2c-4d3f-8516-f22ec34b31c1","creditedTo":"Cheap Trick","name":"Sgt. Pepper Live","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum"},{"creditedTo":"Cheap Trick","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Can't Stop Fallin' Into Love","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5564eb52-a3f1-4323-9109-0d6656f69a6c"},{"creditedTo":"Cheap Trick","byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"@type":"MusicAlbum","name":"Say Goodbye","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/17b6561c-04cb-4304-98b6-d08d0d08623c"},{"creditedTo":"Cheap Trick","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09","name":"Cheap Trick","@type":"MusicGroup"},"name":"Perfect Stranger","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f7185857-ce55-4188-a0cd-42d1bd6cf841"},{"@id":"https://musicbrainz.org/release-group/02df7e88-c26c-3a0b-8b04-b1b3451ff2fe","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@type":"MusicGroup","name":"Cheap Trick","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"Found All the Parts","@type":"MusicAlbum","creditedTo":"Cheap Trick"},{"byArtist":{"name":"Cheap Trick","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"Baby Talk EP","@type":"MusicAlbum","creditedTo":"Cheap Trick","@id":"https://musicbrainz.org/release-group/0ce6d726-bb34-3a2a-8afd-9fc490753d13","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"@id":"https://musicbrainz.org/release-group/ef50986e-ae29-49bc-988d-f0e9f4c62a67","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@type":"MusicGroup","name":"Cheap Trick","@id":"https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09"},"name":"Sessions@AOL","@type":"MusicAlbum","creditedTo":"Cheap Trick"}],"sameAs":["http://en.wikipedia.org/wiki/Cheap_Trick","http://isni-url.oclc.nl/isni/000000010940670X","http://rateyourmusic.com/artist/cheap_trick","http://viaf.org/viaf/124477292","http://www.allmusic.com/artist/mn0000105354","http://www.cheaptrick.com/","http://www.worldcat.org/wcidentities/lccn-n91-116031","https://www.discogs.com/artist/132066","https://www.wikidata.org/wiki/Q1068713"],"foundingDate":"1973","groupOrigin":{"@type":"City","name":"Rockford","@id":"https://musicbrainz.org/area/8b3205bc-1e33-425e-bcc3-88d015924e64","containedIn":{"@id":"https://musicbrainz.org/area/8c2196d9-b7be-4051-90d1-ac81895355f1","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"name":"Illinois","@type":"AdministrativeArea"}}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F9f870653-72b0-4c6d-8c59-439a95963e09">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F9f870653-72b0-4c6d-8c59-439a95963e09">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09" title="Cheap Trick"><bdi>Cheap Trick</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09" title="Cheap Trick – Cheap Trick"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/releases" title="Cheap Trick"><bdi>Releases</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/recordings" title="Cheap Trick"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/works" title="Cheap Trick"><bdi>Works</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/events" title="Cheap Trick"><bdi>Events</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/relationships" title="Cheap Trick"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/aliases" title="Cheap Trick"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/tags" title="Cheap Trick"><bdi>Tags</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/details" title="Cheap Trick"><bdi>Details</bdi></a></li>            <li><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/edit" title="Cheap Trick"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Cheap Trick</b> is an American rock band from Rockford, Illinois, formed in 1973. As of 2010, the band currently consists of Robin Zander (lead vocals, rhythm guitar), Rick Nielsen (lead guitar), and Tom Petersson (bass). Their biggest hits include "Surrender", "I Want You to Want Me", "Dream Police" and "The Flame".</p>
+<p>They have often been referred to in the Japanese press as the "American Beatles". In October 2007, the Illinois Senate passed a resolution designating April 1 as Cheap Trick Day in the state. The band was also ranked No. 25 in VH1's list of the <i>100 Greatest Artists of Hard Rock.</i> In April 2016, the band was inducted into the Rock and Roll Hall of Fame.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Cheap_Trick">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=2784" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/56f8dc86-6243-3fdd-af13-3481c2521f47"><bdi>In Color</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/30ebaf22-4e6d-3958-8150-744093195c74"><bdi>Cheap Trick</bdi></a> <span class="comment">(<bdi>1977 album</bdi>)</span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/fa4b314b-7881-3319-8c47-a6ffd5f88771"><bdi>Heaven Tonight</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/d9a71468-533a-3ba2-a41d-13c02f2c00ff"><bdi>Dream Police</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/94d1c71a-918f-3109-89aa-f994cbadc73e"><bdi>All Shook Up</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/c49d0b02-88bb-39f3-a0b9-d41909777a19"><bdi>One on One</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/f535705e-c29e-3ef4-b938-4be2db8ef0f2"><bdi>Next Position Please</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/c84b16fd-f67e-3799-b805-c320fcba8f8f"><bdi>Standing on the Edge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/0987cd62-3919-3864-af5d-8304ceca1482"><bdi>The Doctor</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/6bd0fd2d-1682-3e5c-b2ae-99f8d5c70988"><bdi>Lap of Luxury</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/bbd3a3d4-fad4-3ec5-8876-b7f8d34f340e"><bdi>Busted</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/a0b59a7b-ac87-3223-a110-c83c8f982584"><bdi>Woke Up With a Monster</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/bad1771f-3a28-31e8-9ae2-19553886d114"><bdi>Cheap Trick</bdi></a> <span class="comment">(<bdi>1997 album</bdi>)</span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/6a4d9619-2c43-3f1d-a4b8-7c8ebab4437a"><bdi>Special One</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/866110f0-34f9-31fa-9eeb-cde4d647bcd0"><bdi>Rockford</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/3bef72cb-bd5f-46c8-a2f6-8234da13ba97"><bdi>The Latest</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/845190c5-55b9-454b-8e1f-075895d74f09"><bdi>Bang, Zoom, Crazy… Hello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/eca60f44-618c-4b19-b875-a0bae9496264"><bdi>The Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/17cb2cac-8be1-3f33-b66a-31e979491ac1"><bdi>The Hits of Cheap Trick</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/714a4c2b-a840-3166-b4a1-2a180cbfaa0a"><bdi>I Want You to Want Me</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/8c3beb09-688e-3adf-8d85-8733d898c35c"><bdi>Don’t Be Cruel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/fc5b31f6-f04f-3d8e-a087-aefe0c8114e0"><bdi>Authorized Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/2002b1cd-9748-37d3-a778-a6a87d2c4374"><bdi>Sex, America, Cheap Trick</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/8c8a0b87-ea9a-38d9-bb4e-06d565396166"><bdi>The Essential Cheap Trick</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/327426c0-f0a0-440b-b444-73e8754b27e0"><bdi>Super Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a7eddb16-87a7-4f18-8d05-e6ab3f1fc527"><bdi>Original Album Classics</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/3c63c35c-ad47-4089-b776-b285b1b16dc5"><bdi>Playlist: The Very Best of Cheap Trick</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/3650d7c5-6954-44a9-832d-6f1ae707ba62"><bdi>The Complete Epic Albums Collection</bdi></a> <span class="comment">(<bdi>Box Set</bdi>)</span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/4f64d53e-2408-48c4-8a20-cee1dead0a59"><bdi>The Classic Albums 1977–1979</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/86b6f6fb-e3ab-4a00-bd63-ce501074ac08"><bdi>The Epic Archive, Vol. 1 (1975–1979)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/80cef13f-6f15-3e19-8fb4-5db3c03ed324"><bdi>Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/2c3682e2-cc7b-32e0-ab48-d4dbbd458479"><bdi>Cheap Trick at Budokan</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">12</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/6c6ef662-eb73-4419-8e8c-729dc7310846"><bdi>Budokan II</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/0a345d60-a10a-3c74-a02b-ab30412e4947"><bdi>Music for Hangovers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ba206db0-ce56-3d57-84f4-871130ae806b"><bdi>Silver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/0fd82326-6ac7-4999-8126-04cefdf48974"><bdi>Budokan!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/b9a2eabe-2a2c-4d3f-8516-f22ec34b31c1"><bdi>Sgt. Pepper Live</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/5564eb52-a3f1-4323-9109-0d6656f69a6c"><bdi>Can't Stop Fallin' Into Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/17b6561c-04cb-4304-98b6-d08d0d08623c"><bdi>Say Goodbye</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/f7185857-ce55-4188-a0cd-42d1bd6cf841"><bdi>Perfect Stranger</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/02df7e88-c26c-3a0b-8b04-b1b3451ff2fe"><bdi>Found All the Parts</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/0ce6d726-bb34-3a2a-8afd-9fc490753d13"><bdi>Baby Talk EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/ef50986e-ae29-49bc-988d-f0e9f4c62a67"><bdi>Sessions@AOL</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/9f870653-72b0-4c6d-8c59-439a95963e09?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cheap_Trick_live_2007.jpg/250px-Cheap_Trick_live_2007.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Cheap Trick live 2007.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1973 (43 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/8b3205bc-1e33-425e-bcc3-88d015924e64"><bdi>Rockford</bdi></a>, <a href="/area/8c2196d9-b7be-4051-90d1-ac81895355f1"><bdi>Illinois</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/000000010940670X">0000 0001 0940 670X    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:67%;">3.35</span>    </span>
+</span>    (<a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/ratings" title="Cheap Trick"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/power%20pop"><bdi>power pop</bdi></a>, <a href="/tag/aor"><bdi>aor</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/tags" title="Cheap Trick"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.cheaptrick.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000105354">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/132066">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/cheaptrick">cheaptrick</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/cheap_trick">Rateyourmusic</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/wcidentities/lccn-n91-116031">WorldCat</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/cheaptrick">@cheaptrick</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/cheaptrick">cheaptrick</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/124477292">VIAF: 124477292</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1068713">Q1068713</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Cheap_Trick">en: Cheap Trick</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/cheaptrick">cheaptrick</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/9f870653-72b0-4c6d-8c59-439a95963e09/relationships" title="Cheap Trick"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F9f870653-72b0-4c6d-8c59-439a95963e09">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-10-23 18:46 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

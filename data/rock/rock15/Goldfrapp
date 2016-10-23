@@ -1,0 +1,941 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Goldfrapp - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1999 in Bath, Area: United Kingdom"/><script type="application/ld+json">{"groupOrigin":{"@type":"City","name":"Bath","containedIn":{"name":"Somerset","@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/aff4808a-7e67-49ab-8d51-af0864c824e0","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country","name":"United Kingdom"}},"@id":"https://musicbrainz.org/area/f51a1724-464b-41ae-b96e-30f868973077"},"foundingDate":"1999","sameAs":["http://en.wikipedia.org/wiki/Goldfrapp","http://isni-url.oclc.nl/isni/0000000115342829","http://musicmoz.org/Bands_and_Artists/G/Goldfrapp/","http://www.allmusic.com/artist/mn0000952786","http://www.bbc.co.uk/music/artists/7b885d42-3c41-4f43-9944-a5855ec5155e","http://www.goldfrapp.com/","http://www.imdb.com/name/nm1566932/","http://www.last.fm/music/Goldfrapp","https://musicbrainz.org/artist/c98f3149-b73b-4252-bf18-128df09b1e7a","https://rateyourmusic.com/artist/goldfrapp","https://www.discogs.com/artist/2720","https://www.wikidata.org/wiki/Q606250"],"album":[{"name":"Felt Mountain","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/4999b316-bacf-3bf9-9cf9-07c4ebae470a","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Goldfrapp","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","name":"Black Cherry","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/69bfcf64-b212-357b-8a06-df99b9d56158"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/237b9e12-c7e2-388f-a37e-3be768518b71","creditedTo":"Goldfrapp","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","name":"Supernature"},{"@id":"https://musicbrainz.org/release-group/079898f3-6d37-3244-8669-7e963606d798","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","@type":"MusicGroup","name":"Goldfrapp"},"@type":"MusicAlbum","name":"Seventh Tree","creditedTo":"Goldfrapp"},{"creditedTo":"Goldfrapp","name":"Head First","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d2989dd5-a4f8-4e50-a968-c6f7d8dc9100"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","@type":"MusicGroup","name":"Goldfrapp"},"name":"Tales of Us","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/430e1435-31ed-4b84-a73a-fe668ee38a4e","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/13febf95-122e-4ea6-a33e-6fa09bc6683c","creditedTo":"Goldfrapp","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","name":"The Singles"},{"@id":"https://musicbrainz.org/release-group/c86063dc-05ce-3486-a758-acf361f51c8a","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","@type":"MusicGroup","name":"Goldfrapp"},"@type":"MusicAlbum","name":"Live 2005 : 3rd October : Brighton Dome","creditedTo":"Goldfrapp"},{"creditedTo":"Goldfrapp","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"iTunes Festival: London 2010","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/12b50650-6ad1-493d-aa3b-05a8d4ee9e65"},{"byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"@type":"MusicAlbum","name":"We Are Glitter","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/bdf98a2e-1758-3e0b-95f9-ecad09d63774","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/RemixAlbum"},{"creditedTo":"Goldfrapp","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Lovely Head","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/deefb30f-9953-398a-9277-b705a191f61b"},{"@id":"https://musicbrainz.org/release-group/5acc0562-92c0-308d-98e1-2003923fab23","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","@type":"MusicGroup","name":"Goldfrapp"},"name":"Utopia","creditedTo":"Goldfrapp"},{"creditedTo":"Goldfrapp","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Human","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/fec1579b-c108-3e85-89eb-4a4a4db6457c"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/3f91fc47-6d83-3b6a-bf6e-8a72d9a72d68","creditedTo":"Goldfrapp","name":"Pilots","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum"},{"creditedTo":"Goldfrapp","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"name":"Train","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f7824d5f-8a6d-350e-a9d2-49e26c16c17f"},{"@id":"https://musicbrainz.org/release-group/eb47c2c8-5dd4-3104-b3af-8317e0f3f198","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Strict Machine","@type":"MusicAlbum","creditedTo":"Goldfrapp"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fbde2326-0a93-371b-abfc-c7da2af511f3","creditedTo":"Goldfrapp","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","name":"Twist"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/34fca4d9-a4e0-324d-b31d-3eda72dfa351","creditedTo":"Goldfrapp","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Black Cherry","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f73882ce-6570-3c5d-a165-3c7f80487c8d","creditedTo":"Goldfrapp","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Ooh La La","@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"name":"Number 1","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/6d71d89e-7b71-381c-9ed3-089a5d41d0b0","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/7a6f7692-9056-37cb-8263-8f5b0d288976","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Ride a White Horse","@type":"MusicAlbum","creditedTo":"Goldfrapp"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ba22762f-1b77-39c7-8aa7-c87a25631ba0","creditedTo":"Goldfrapp","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","name":"Fly Me Away"},{"creditedTo":"Goldfrapp","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"name":"Satin Boys, Flaming Chic","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/afe422fd-2603-31f2-b2dd-eca9faf88372"},{"@id":"https://musicbrainz.org/release-group/d4ee886f-f0c7-37b1-a49a-5e8fa3b094e9","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"A\u0026E","@type":"MusicAlbum","creditedTo":"Goldfrapp"},{"byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","@type":"MusicGroup","name":"Goldfrapp"},"name":"Happiness","@type":"MusicAlbum","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/1cb51929-3d96-3f59-948d-9b2cb1afa225","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Caravan Girl","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/c450445c-346d-39a0-8366-fd654dbaa01f","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Goldfrapp","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Rocket","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c1e872b7-28a3-426f-9bd8-69ddfe4fe5ed"},{"@type":"MusicAlbum","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"name":"Alive","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/96799a5a-8909-4cc0-9de5-31eda5c45bfc","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Goldfrapp","name":"Believer","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1899bdda-0325-4ec1-837a-6ad7b01843e4"},{"@id":"https://musicbrainz.org/release-group/1a0f812b-c8bc-46c9-8b54-656da55ed49d","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Melancholy Sky","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","creditedTo":"Goldfrapp"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/08dbd771-a9dd-4f5d-a5d9-66cefe035d17","creditedTo":"Goldfrapp","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"name":"Thea","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/f22588a1-8361-356f-aa84-a7d5f7d9299b","creditedTo":"Goldfrapp","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","name":"Goldfrapp","@type":"MusicGroup"},"name":"Utopia (Genetically Enriched)","@type":"MusicAlbum"},{"name":"Twist","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","creditedTo":"Goldfrapp","@id":"https://musicbrainz.org/release-group/7aeebc38-5dc6-46d3-a9df-d0346cf9bd98","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"@id":"https://musicbrainz.org/release-group/2e2dedb0-8c1d-42e9-8b06-fd664fc0788f","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Wonderful Electric: Live in London","byArtist":{"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","@type":"MusicGroup","name":"Goldfrapp"},"@type":"MusicAlbum","creditedTo":"Goldfrapp"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/bbbaa2c0-0811-454d-ae05-80883dcf3edb","creditedTo":"Goldfrapp","@type":"MusicAlbum","byArtist":{"name":"Goldfrapp","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"name":"Live Session"},{"creditedTo":"Goldfrapp","name":"iTunes Originals","byArtist":{"@type":"MusicGroup","name":"Goldfrapp","@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e"},"@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/9313ea6a-8cc9-39db-bc90-6d210d00b377"}],"@context":"http://schema.org","member":[{"member":{"@id":"https://musicbrainz.org/artist/566aad45-c97b-4468-8eb8-5148bd54f02f","name":"Will Gregory","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"member":{"name":"Alison Goldfrapp","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e00c39c-9c65-420f-aa26-d68f414a74c6"},"roleName":"lead vocals","@type":"OrganizationRole"}],"@id":"https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e","@type":"MusicGroup","name":"Goldfrapp","location":{"name":"United Kingdom","@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7b885d42-3c41-4f43-9944-a5855ec5155e">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F7b885d42-3c41-4f43-9944-a5855ec5155e">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e" title="Goldfrapp"><bdi>Goldfrapp</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e" title="Goldfrapp – Goldfrapp"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/releases" title="Goldfrapp"><bdi>Releases</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/recordings" title="Goldfrapp"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/works" title="Goldfrapp"><bdi>Works</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/events" title="Goldfrapp"><bdi>Events</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/relationships" title="Goldfrapp"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/aliases" title="Goldfrapp"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/tags" title="Goldfrapp"><bdi>Tags</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/details" title="Goldfrapp"><bdi>Details</bdi></a></li>            <li><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/edit" title="Goldfrapp"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Goldfrapp</b> are an English electronic duo from London, formed in 1999. The duo consists of Alison Goldfrapp (vocals, synthesizer) and Will Gregory (synthesizer).</p>
+<p>Despite favourable reviews and a short-listing for the Mercury Prize, their 2000 début studio album <i>Felt Mountain</i> did not chart highly. Goldfrapp's second album <i>Black Cherry</i>, which incorporated glam rock and synthpop sounds into their music, was released in 2003. The album influenced the same dance-oriented sound of their third album <i>Supernature</i>. <i>Supernature</i> took Goldfrapp's work further into dance music, and enjoyed international chart success. The album produced three number-one US dance singles, and was nominated for Best Electronic/Dance Album at the 49th Grammy Awards.</p>
+<p>Their fourth album <i>Seventh Tree</i> placed a greater emphasis on ambient and downtempo music, drawing inspiration from nature and paganism, while their fifth album, <i>Head First</i>, found the group exploring 1980s-influenced synthpop. <i>Head First</i> also earned the duo their second Grammy Award nomination for Best Electronic/Dance Album in 2010. Goldfrapp released their critically acclaimed sixth studio album, the folktronica-influenced <i>Tales of Us</i>, in September 2013.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Goldfrapp">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=21786" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/4999b316-bacf-3bf9-9cf9-07c4ebae470a"><bdi>Felt Mountain</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/69bfcf64-b212-357b-8a06-df99b9d56158"><bdi>Black Cherry</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/237b9e12-c7e2-388f-a37e-3be768518b71"><bdi>Supernature</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/079898f3-6d37-3244-8669-7e963606d798"><bdi>Seventh Tree</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d2989dd5-a4f8-4e50-a968-c6f7d8dc9100"><bdi>Head First</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/430e1435-31ed-4b84-a73a-fe668ee38a4e"><bdi>Tales of Us</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/13febf95-122e-4ea6-a33e-6fa09bc6683c"><bdi>The Singles</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/c86063dc-05ce-3486-a758-acf361f51c8a"><bdi>Live 2005 : 3rd October : Brighton Dome</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/12b50650-6ad1-493d-aa3b-05a8d4ee9e65"><bdi>iTunes Festival: London 2010</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bdf98a2e-1758-3e0b-95f9-ecad09d63774"><bdi>We Are Glitter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/deefb30f-9953-398a-9277-b705a191f61b"><bdi>Lovely Head</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/5acc0562-92c0-308d-98e1-2003923fab23"><bdi>Utopia</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/fec1579b-c108-3e85-89eb-4a4a4db6457c"><bdi>Human</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/3f91fc47-6d83-3b6a-bf6e-8a72d9a72d68"><bdi>Pilots</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/f7824d5f-8a6d-350e-a9d2-49e26c16c17f"><bdi>Train</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/eb47c2c8-5dd4-3104-b3af-8317e0f3f198"><bdi>Strict Machine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/fbde2326-0a93-371b-abfc-c7da2af511f3"><bdi>Twist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/34fca4d9-a4e0-324d-b31d-3eda72dfa351"><bdi>Black Cherry</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f73882ce-6570-3c5d-a165-3c7f80487c8d"><bdi>Ooh La La</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/6d71d89e-7b71-381c-9ed3-089a5d41d0b0"><bdi>Number 1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/7a6f7692-9056-37cb-8263-8f5b0d288976"><bdi>Ride a White Horse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/ba22762f-1b77-39c7-8aa7-c87a25631ba0"><bdi>Fly Me Away</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/afe422fd-2603-31f2-b2dd-eca9faf88372"><bdi>Satin Boys, Flaming Chic</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/d4ee886f-f0c7-37b1-a49a-5e8fa3b094e9"><bdi>A&amp;E</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/1cb51929-3d96-3f59-948d-9b2cb1afa225"><bdi>Happiness</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c450445c-346d-39a0-8366-fd654dbaa01f"><bdi>Caravan Girl</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/c1e872b7-28a3-426f-9bd8-69ddfe4fe5ed"><bdi>Rocket</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/96799a5a-8909-4cc0-9de5-31eda5c45bfc"><bdi>Alive</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/1899bdda-0325-4ec1-837a-6ad7b01843e4"><bdi>Believer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/1a0f812b-c8bc-46c9-8b54-656da55ed49d"><bdi>Melancholy Sky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/08dbd771-a9dd-4f5d-a5d9-66cefe035d17"><bdi>Thea</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/f22588a1-8361-356f-aa84-a7d5f7d9299b"><bdi>Utopia (Genetically Enriched)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/7aeebc38-5dc6-46d3-a9df-d0346cf9bd98"><bdi>Twist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/2e2dedb0-8c1d-42e9-8b06-fd664fc0788f"><bdi>Wonderful Electric: Live in London</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bbbaa2c0-0811-454d-ae05-80883dcf3edb"><bdi>Live Session</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Interview</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/9313ea6a-8cc9-39db-bc90-6d210d00b377"><bdi>iTunes Originals</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/7b885d42-3c41-4f43-9944-a5855ec5155e?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/AlisonLive2008Smile.jpg/250px-AlisonLive2008Smile.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:AlisonLive2008Smile.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1999 (17 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f51a1724-464b-41ae-b96e-30f868973077"><bdi>Bath</bdi></a>, <a href="/area/aff4808a-7e67-49ab-8d51-af0864c824e0"><bdi>Somerset</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000115342829">0000 0001 1534 2829    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:95%;">4.75</span>    </span>
+</span>    (<a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/ratings" title="Goldfrapp"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/ambient"><bdi>ambient</bdi></a>, <a href="/tag/dance%20and%20electronica"><bdi>dance and electronica</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/electronica"><bdi>electronica</bdi></a>, <a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/tags" title="Goldfrapp"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.goldfrapp.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000952786">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/7b885d42-3c41-4f43-9944-a5855ec5155e">BBC Music</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Goldfrapp_discography">en: Goldfrapp discography</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/2720">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1566932/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Goldfrapp">Goldfrapp</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/wiki/Goldfrapp">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/goldfrapp">goldfrapp</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/G/Goldfrapp/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/goldfrapp">Rateyourmusic</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id20135455">iTunes</a>
+          
+          
+        </li>               <li class="amazon-favicon">
+          
+          
+          <a href="//www.amazon.co.uk/-/e/B000APNZXY?tag=music080d-21">UK: B000APNZXY</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/goldfrapp">@goldfrapp</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Goldfrapp">Goldfrapp</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q606250">Q606250</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Goldfrapp">en: Goldfrapp</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/GoldfrappTV">GoldfrappTV</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/7b885d42-3c41-4f43-9944-a5855ec5155e/relationships" title="Goldfrapp"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7b885d42-3c41-4f43-9944-a5855ec5155e">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-06-01 21:52 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

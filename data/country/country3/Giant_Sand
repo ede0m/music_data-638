@@ -1,0 +1,828 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Giant Sand - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1985 in Tucson, Area: United States"/><script type="application/ld+json">{"foundingDate":"1985","location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"@context":"http://schema.org","member":[{"member":{"name":"John Convertino","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c7da0cb-c1e0-48ce-aaec-f2f6c67dde53"},"roleName":[],"@type":"OrganizationRole"},{"member":{"name":"Mark Walton","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8d14d694-8f30-4a5d-a65b-24020b10ce3c"},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Howe Gelb","@id":"https://musicbrainz.org/artist/9896989a-cfdb-4ec9-8bd5-4dbd33982cef"}},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/a48bf6cf-6dd1-4d81-8976-373fe54ca791","name":"Joey Burns","@type":["Person","MusicGroup"]}}],"album":[{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Giant Sand","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/049cb867-49de-3092-a9ed-aecac5b131bd","albumReleaseType":"http://schema.org/AlbumRelease","name":"Valley of Rain","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Ballad of a Thin Line Man","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/a1999efe-2e27-323d-a7aa-5c3eca4adc71","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand"},{"name":"Storm","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/5e117a4d-3962-3c0a-8578-04dcb96e244e","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand","@type":"MusicAlbum","name":"The Love Songs","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/548b122b-f468-3230-900d-42f087428d2c","byArtist":{"name":"Giant Sand","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"}},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/3c552bd3-bdaf-33f0-97be-6d9388b15523","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Long Stem Rant"},{"@id":"https://musicbrainz.org/release-group/9536bf5b-1828-3f2f-bbce-943fe4966a13","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@type":"MusicAlbum","name":"Swerve","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f71a6ff8-8069-4fa9-866f-84524f6b702e","byArtist":{"name":"Giant Sand","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"name":"Ramp","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/dcb1655b-e421-3ef3-a4d4-73864d5446d1","@type":"MusicAlbum","name":"Center of the Universe","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/27f93507-f5c2-3279-b87a-a25532486b24","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Purge \u0026 Slouch","creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Glum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","@type":"MusicGroup","name":"Giant Sand"},"@id":"https://musicbrainz.org/release-group/3ff4ea17-270d-392b-af02-b48552b30919","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand"},{"@id":"https://musicbrainz.org/release-group/1cda2149-b850-38ca-8288-3fa896915452","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"name":"Stromausfall","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Giant Sand","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/34427970-3621-3338-bfae-75b36c4ee9a0","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Goods and Services"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand","@type":"MusicAlbum","name":"Backyard Barbecue Broadcast","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/066b5e8e-cffa-3a97-a0ce-e5c6f0191caf"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand","@type":"MusicAlbum","name":"Official Bootleg Series, Volume 1","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e7243a99-54af-352e-a3a9-e379d4e95581","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","@type":"MusicGroup","name":"Giant Sand"}},{"name":"Valley of Rain / Ballad of a Thin Line Man","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/7582f837-12de-395d-ab6d-66983484b4b2","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand","albumReleaseType":"http://schema.org/AlbumRelease","name":"Chore of Enchantment","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/2b10653e-655d-34fe-9db4-77242d817a17"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/4fc94a75-dcf1-394e-bf18-b8491b645c40","name":"Official Bootleg Series, Volume 2: The Rock Opera Years","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/bd827888-79bb-316b-9ab8-7ae8989842c7","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","@type":"MusicGroup","name":"Giant Sand"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Unsungglum (Official Bootleg)","creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Cover Magazine","@id":"https://musicbrainz.org/release-group/2a06693e-f4c3-38f8-ac09-16f38f800abe","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand","albumReleaseType":"http://schema.org/AlbumRelease","name":"Is All Over the Map","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/da127342-fdff-355c-8a1c-d340cab3c1f8"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","@type":"MusicGroup","name":"Giant Sand"},"@id":"https://musicbrainz.org/release-group/52270983-e9bd-3e61-b6ae-66f32c9142dd","albumReleaseType":"http://schema.org/AlbumRelease","name":"*proVISIONS*","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand","albumReleaseType":"http://schema.org/AlbumRelease","name":"Provisional Supplement","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/d4c5a0e2-0e63-47a9-92a7-30de8b607ffd"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Blurry Blue Mountain","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1bfc48a9-ada4-4947-a13d-56c386cea925","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand"},{"byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/f71074cd-1269-489f-8c8c-647f6853c4c3","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Black Out","creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","name":"is all over the map","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1ca5a4d9-f6cc-4190-8757-edd806b7f586","byArtist":{"name":"Giant Sand","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/35ee879a-c2e7-4537-80f8-cd6e6ee51024","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","@type":"MusicGroup","name":"Giant Sand"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Backyard Barbeque Broadcast","@type":"MusicAlbum"},{"name":"Tucson","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/96daddd3-165b-4fdd-a422-e930ee6b3bc8","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Giant Sand"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/e45cc87b-939d-466e-ac35-b548f3a4eff4","name":"Heartbreak Pass","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giant Sand","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Official Bootleg Series, Volume 5: Too Many Spare Parts in the Yard Too Close at Hand","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/d62cbebc-493e-3de6-8974-ab4099150131"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Giant Sand","@type":"MusicAlbum","name":"Giant Songs: The Best of Giant Sand","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/d3fea6b3-306b-3558-a9da-53af6cd216de"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Giant Sand","@type":"MusicAlbum","name":"Giant Sandwich","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Giant Sand","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"@id":"https://musicbrainz.org/release-group/5c3cffb0-58a7-364d-a62b-dd7e32806968"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Giant Songs, Volume 2: The Best of Giant Sand","@id":"https://musicbrainz.org/release-group/cd065315-68a3-40b7-a8ee-8d7d44a254c0","byArtist":{"name":"Giant Sand","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1"},"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Giant Sand"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","name":"Giant Sand","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/ee66fe44-5ef6-3c6d-a79b-029aa6bde705","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Selections Circa 1990-2000"},{"creditedTo":"Giant Sand","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/a490c375-75f6-37d5-b3f1-b043b5b30d96","byArtist":{"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","@type":"MusicGroup","name":"Giant Sand"},"@type":"MusicAlbum","name":"Sandman Series #1"}],"groupOrigin":{"containedIn":{"@id":"https://musicbrainz.org/area/bf9353d8-da52-4fd9-8645-52b2349b4914","name":"Arizona","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"}},"name":"Tucson","@type":"City","@id":"https://musicbrainz.org/area/7c71f821-98a0-4f1b-bf6b-87fe1d6c89f0"},"sameAs":["http://howegelb.com/","http://isni-url.oclc.nl/isni/0000000106665538","http://www.allmusic.com/artist/mn0000549805","http://www.bbc.co.uk/music/artists/249eb550-505e-43ef-ac50-e8c605706ff1","http://www.giantsand.com/","https://en.wikipedia.org/wiki/Giant_Sand","https://musicbrainz.org/artist/4caec428-b4fe-4a7f-9fbb-e0912a5efd26","https://musicbrainz.org/artist/68c530ab-6e5e-46c6-96cf-cd6077cda71b","https://rateyourmusic.com/artist/giant_sand","https://www.discogs.com/artist/349180","https://www.wikidata.org/wiki/Q1424974"],"@id":"https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1","@type":"MusicGroup","name":"Giant Sand"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F249eb550-505e-43ef-ac50-e8c605706ff1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F249eb550-505e-43ef-ac50-e8c605706ff1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand – Giant Sand"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/releases" title="Giant Sand"><bdi>Releases</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/recordings" title="Giant Sand"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/works" title="Giant Sand"><bdi>Works</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/events" title="Giant Sand"><bdi>Events</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/relationships" title="Giant Sand"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/aliases" title="Giant Sand"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/tags" title="Giant Sand"><bdi>Tags</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/details" title="Giant Sand"><bdi>Details</bdi></a></li>            <li><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/edit" title="Giant Sand"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Giant Sand</b> (also currently recording as <b>Giant Giant Sand</b>) is an American band from Tucson, Arizona. Its most constant member is singer-songwriter Howe Gelb.</p>
+<p>Members have included keyboardist Chris Cacavas (of Green on Red), bassist Paula Jean Brown (who was briefly a member of The Go-Go's and was married to Gelb at the time), Mark Walton (of The Dream Syndicate and Continental Drifters), drummer Tom Larkins (later to become a Jonathan Richman sideman). and Iain Shedden, drummer with Australian band The Saints. For a long while the band's rhythm section consisted of John Convertino and Joey Burns (of Calexico fame). In the early 2000s Howe Gelb reinvented the band again - this time with players from Denmark.</p>
+<p>Guest artists over the last 3 decades have included Victoria Williams, Neko Case, Juliana Hatfield, PJ Harvey, Vic Chesnutt, Steve Wynn, Vicki Peterson, Rainer Ptacek, M. Ward, Isobel Campbell, nearly all members of the band Poi Dog Pondering, and Indiosa Patsy Jean (Gelb and Brown's daughter).</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Giant_Sand">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=12" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/049cb867-49de-3092-a9ed-aecac5b131bd"><bdi>Valley of Rain</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/a1999efe-2e27-323d-a7aa-5c3eca4adc71"><bdi>Ballad of a Thin Line Man</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/5e117a4d-3962-3c0a-8578-04dcb96e244e"><bdi>Storm</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/548b122b-f468-3230-900d-42f087428d2c"><bdi>The Love Songs</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/3c552bd3-bdaf-33f0-97be-6d9388b15523"><bdi>Long Stem Rant</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/9536bf5b-1828-3f2f-bbce-943fe4966a13"><bdi>Swerve</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/f71a6ff8-8069-4fa9-866f-84524f6b702e"><bdi>Ramp</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/dcb1655b-e421-3ef3-a4d4-73864d5446d1"><bdi>Center of the Universe</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/27f93507-f5c2-3279-b87a-a25532486b24"><bdi>Purge &amp; Slouch</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/3ff4ea17-270d-392b-af02-b48552b30919"><bdi>Glum</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/1cda2149-b850-38ca-8288-3fa896915452"><bdi>Stromausfall</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/34427970-3621-3338-bfae-75b36c4ee9a0"><bdi>Goods and Services</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/066b5e8e-cffa-3a97-a0ce-e5c6f0191caf"><bdi>Backyard Barbecue Broadcast</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/e7243a99-54af-352e-a3a9-e379d4e95581"><bdi>Official Bootleg Series, Volume 1</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/7582f837-12de-395d-ab6d-66983484b4b2"><bdi>Valley of Rain / Ballad of a Thin Line Man</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/2b10653e-655d-34fe-9db4-77242d817a17"><bdi>Chore of Enchantment</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/4fc94a75-dcf1-394e-bf18-b8491b645c40"><bdi>Official Bootleg Series, Volume 2: The Rock Opera Years</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/bd827888-79bb-316b-9ab8-7ae8989842c7"><bdi>Unsungglum (Official Bootleg)</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2a06693e-f4c3-38f8-ac09-16f38f800abe"><bdi>Cover Magazine</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/da127342-fdff-355c-8a1c-d340cab3c1f8"><bdi>Is All Over the Map</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/52270983-e9bd-3e61-b6ae-66f32c9142dd"><bdi>*proVISIONS*</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/d4c5a0e2-0e63-47a9-92a7-30de8b607ffd"><bdi>Provisional Supplement</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/1bfc48a9-ada4-4947-a13d-56c386cea925"><bdi>Blurry Blue Mountain</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/f71074cd-1269-489f-8c8c-647f6853c4c3"><bdi>Black Out</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/1ca5a4d9-f6cc-4190-8757-edd806b7f586"><bdi>is all over the map</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/35ee879a-c2e7-4537-80f8-cd6e6ee51024"><bdi>Backyard Barbeque Broadcast</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/96daddd3-165b-4fdd-a422-e930ee6b3bc8"><bdi>Tucson</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand – Giant Sand"><bdi>Giant Giant Sand</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/e45cc87b-939d-466e-ac35-b548f3a4eff4"><bdi>Heartbreak Pass</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/d62cbebc-493e-3de6-8974-ab4099150131"><bdi>Official Bootleg Series, Volume 5: Too Many Spare Parts in the Yard Too Close at Hand</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/d3fea6b3-306b-3558-a9da-53af6cd216de"><bdi>Giant Songs: The Best of Giant Sand</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/5c3cffb0-58a7-364d-a62b-dd7e32806968"><bdi>Giant Sandwich</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/cd065315-68a3-40b7-a8ee-8d7d44a254c0"><bdi>Giant Songs, Volume 2: The Best of Giant Sand</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ee66fe44-5ef6-3c6d-a79b-029aa6bde705"><bdi>Selections Circa 1990-2000</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/a490c375-75f6-37d5-b3f1-b043b5b30d96"><bdi>Sandman Series #1</bdi></a></td>
+        
+        <td><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1" title="Giant Sand"><bdi>Giant Sand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/249eb550-505e-43ef-ac50-e8c605706ff1/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1985 (31 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/7c71f821-98a0-4f1b-bf6b-87fe1d6c89f0"><bdi>Tucson</bdi></a>, <a href="/area/bf9353d8-da52-4fd9-8645-52b2349b4914"><bdi>Arizona</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000106665538">0000 0001 0666 5538    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/country"><bdi>country</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://howegelb.com/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://www.giantsand.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000549805">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/249eb550-505e-43ef-ac50-e8c605706ff1">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/349180">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/giant_sand">Rateyourmusic</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1424974">Q1424974</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Giant_Sand">en: Giant Sand</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/249eb550-505e-43ef-ac50-e8c605706ff1/relationships" title="Giant Sand"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F249eb550-505e-43ef-ac50-e8c605706ff1">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-09-13 02:01 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

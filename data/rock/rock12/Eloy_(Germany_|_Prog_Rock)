@@ -1,0 +1,748 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Eloy - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Germany | Prog Rock, Type: Group, Founded: 1969, Area: Germany"/><script type="application/ld+json">{"location":{"@type":"Country","name":"Germany","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"},"sameAs":["http://en.wikipedia.org/wiki/Eloy","http://www.eloy-legacy.com/","https://www.discogs.com/artist/280969","https://www.wikidata.org/wiki/Q32865"],"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","member":[{"@type":"OrganizationRole","roleName":[],"member":{"name":"Michael Gerlach","@id":"https://musicbrainz.org/artist/2cb4fdea-3830-42b1-bbc1-08f8d6a26468","@type":["Person","MusicGroup"]}},{"member":{"name":"Detlev Schmidtchen","@id":"https://musicbrainz.org/artist/5abf7665-8ab4-45ff-82de-590cd7f0d803","@type":["Person","MusicGroup"]},"endDate":"1979","startDate":"1976","roleName":"keyboard","@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Frank Bornemann","@id":"https://musicbrainz.org/artist/a5cbd01c-ce93-44ce-b928-b737027dd392"}},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c031cd73-4411-4034-a23a-4652d40093b4","name":"Fritz Randow"},"startDate":"1971","roleName":"drums","@type":"OrganizationRole"}],"album":[{"creditedTo":"Eloy","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Eloy","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f41b8fef-b7ca-3265-bfe8-2835f604fb2a","byArtist":{"@type":"MusicGroup","name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6"}},{"@type":"MusicAlbum","creditedTo":"Eloy","byArtist":{"name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d3f16415-a390-3a54-9100-ce33d9cdb457","albumProductionType":"http://schema.org/StudioAlbum","name":"Inside"},{"name":"Floating","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2fe6de15-1097-3b3a-947e-1dd9035f50b6","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy"},"@type":"MusicAlbum","creditedTo":"Eloy"},{"@id":"https://musicbrainz.org/release-group/e449e80a-039d-3d87-b8d1-4344bbb51338","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Power and the Passion","byArtist":{"@type":"MusicGroup","name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6"},"@type":"MusicAlbum","creditedTo":"Eloy"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/577e83e6-32af-378b-b0bc-9b24544cd5c9","name":"Dawn","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6"},"@type":"MusicAlbum","creditedTo":"Eloy"},{"name":"Ocean","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/60158c18-8f44-3ce6-81b1-46d9f55629e0","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Eloy"},{"creditedTo":"Eloy","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/44448e5d-2af2-3bf7-88e8-d9b69bded52f","albumProductionType":"http://schema.org/StudioAlbum","name":"Silent Cries and Mighty Echoes"},{"byArtist":{"name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Colours","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/94048119-47a2-3be7-8fc9-97f90b988267","@type":"MusicAlbum","creditedTo":"Eloy"},{"@type":"MusicAlbum","creditedTo":"Eloy","byArtist":{"name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c2c33e49-4f15-38f4-882a-cbb82d40ce90","albumProductionType":"http://schema.org/StudioAlbum","name":"Planets"},{"byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Time to Turn","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/537f1877-1372-33c5-858c-f7630074ad03","@type":"MusicAlbum","creditedTo":"Eloy"},{"creditedTo":"Eloy","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/e1760bc5-80a0-3bcf-9c25-56c232aafecc","albumReleaseType":"http://schema.org/AlbumRelease","name":"Performance","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"Eloy","byArtist":{"name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/94dd69af-f890-348a-9fd7-6b4777ac89c1","albumReleaseType":"http://schema.org/AlbumRelease","name":"Metromania","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"Eloy","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7f9f857a-dc5c-3bde-8236-c6d2f098afae","name":"Ra","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/704ae48c-ee80-3bce-a44a-2dc69ee164a7","albumReleaseType":"http://schema.org/AlbumRelease","name":"Destination","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy"},"creditedTo":"Eloy","@type":"MusicAlbum"},{"creditedTo":"Eloy","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"The Tides Return Forever","@id":"https://musicbrainz.org/release-group/b334765f-21b4-35d3-9e5d-6ee47d982f31","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Eloy","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6219b03c-3cd5-3bf7-8b94-6d4f5a274aa0","name":"Ocean 2 - The Answer","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Visionary","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6ef610cc-f10d-444c-8245-84f81ab0d659","byArtist":{"name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","@type":"MusicGroup"},"creditedTo":"Eloy","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Eloy","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/23d8c51a-e62d-3576-8387-5a57839ab2f5","name":"Chronicles I","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d52c9e6e-3b46-38b9-b357-48a91b4403db","name":"The Best of Eloy, Volume 1: The Early Days 1972-1975","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Eloy","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/b6214786-78f6-32e1-a775-5631a1ac1b44","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Best of Eloy, Volume 2: The Prime 1976-1979","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Eloy"},{"byArtist":{"@type":"MusicGroup","name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6"},"name":"Timeless Passages","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/cfb01e31-5da8-3a05-8048-da0a6f56a764","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Eloy"},{"@type":"MusicAlbum","creditedTo":"Eloy","albumProductionType":"http://schema.org/CompilationAlbum","name":"Chronicles II","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/900827a1-d02c-36fd-8b10-f5f442ec2a97","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Eloy","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy"},"name":"Rarities","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9d979578-d53d-37bc-891a-e7766a0ec2ee"},{"creditedTo":"Eloy","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy"},"@id":"https://musicbrainz.org/release-group/ef1660cc-866c-3b48-bbb6-78b940961d53","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live","albumProductionType":"http://schema.org/LiveAlbum"},{"@type":"MusicAlbum","creditedTo":"Eloy","albumProductionType":"http://schema.org/LiveAlbum","name":"Reincarnation on Stage","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/adcbf864-00ac-42b6-9ff8-dcf449b4b3f6","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Eloy","byArtist":{"@type":"MusicGroup","name":"Eloy","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6"},"name":"Codename: Wildgeese","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/852b3abf-c975-4752-a8d0-7c0512101e60"},{"byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"name":"Daybreak / Walk Alone","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ea834eb3-82c8-3edb-af3f-912e5b625156","creditedTo":"Eloy","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Fire And Ice","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/636a1e3e-c515-45e0-a3cf-1f96cf838dcb","creditedTo":"Eloy","@type":"MusicAlbum"},{"creditedTo":"Eloy","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Childhood Memories","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1bfd7cf7-25ad-3a5b-9047-b7925cf07f98"},{"byArtist":{"@id":"https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6","name":"Eloy","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"The Answer","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5232322d-f783-32d8-9096-22d3c54d805b","creditedTo":"Eloy","@type":"MusicAlbum"}],"foundingDate":"1969","@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbc154a90-890b-409e-b850-53ca299ab0d6">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fbc154a90-890b-409e-b850-53ca299ab0d6">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6" title="Eloy (Germany | Prog Rock)"><bdi>Eloy</bdi></a> <span class="comment">(<bdi>Germany | Prog Rock</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6" title="Eloy – Eloy (Germany | Prog Rock)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/releases" title="Eloy (Germany | Prog Rock)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/recordings" title="Eloy (Germany | Prog Rock)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/works" title="Eloy (Germany | Prog Rock)"><bdi>Works</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/events" title="Eloy (Germany | Prog Rock)"><bdi>Events</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/relationships" title="Eloy (Germany | Prog Rock)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/aliases" title="Eloy (Germany | Prog Rock)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/tags" title="Eloy (Germany | Prog Rock)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/details" title="Eloy (Germany | Prog Rock)"><bdi>Details</bdi></a></li>            <li><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/edit" title="Eloy (Germany | Prog Rock)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=42996" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/f41b8fef-b7ca-3265-bfe8-2835f604fb2a"><bdi>Eloy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/d3f16415-a390-3a54-9100-ce33d9cdb457"><bdi>Inside</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/2fe6de15-1097-3b3a-947e-1dd9035f50b6"><bdi>Floating</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/e449e80a-039d-3d87-b8d1-4344bbb51338"><bdi>Power and the Passion</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/577e83e6-32af-378b-b0bc-9b24544cd5c9"><bdi>Dawn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/60158c18-8f44-3ce6-81b1-46d9f55629e0"><bdi>Ocean</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/44448e5d-2af2-3bf7-88e8-d9b69bded52f"><bdi>Silent Cries and Mighty Echoes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/94048119-47a2-3be7-8fc9-97f90b988267"><bdi>Colours</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/c2c33e49-4f15-38f4-882a-cbb82d40ce90"><bdi>Planets</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/537f1877-1372-33c5-858c-f7630074ad03"><bdi>Time to Turn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/e1760bc5-80a0-3bcf-9c25-56c232aafecc"><bdi>Performance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/94dd69af-f890-348a-9fd7-6b4777ac89c1"><bdi>Metromania</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/7f9f857a-dc5c-3bde-8236-c6d2f098afae"><bdi>Ra</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/704ae48c-ee80-3bce-a44a-2dc69ee164a7"><bdi>Destination</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/b334765f-21b4-35d3-9e5d-6ee47d982f31"><bdi>The Tides Return Forever</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/6219b03c-3cd5-3bf7-8b94-6d4f5a274aa0"><bdi>Ocean 2 - The Answer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/6ef610cc-f10d-444c-8245-84f81ab0d659"><bdi>Visionary</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/23d8c51a-e62d-3576-8387-5a57839ab2f5"><bdi>Chronicles I</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/d52c9e6e-3b46-38b9-b357-48a91b4403db"><bdi>The Best of Eloy, Volume 1: The Early Days 1972-1975</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/b6214786-78f6-32e1-a775-5631a1ac1b44"><bdi>The Best of Eloy, Volume 2: The Prime 1976-1979</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/cfb01e31-5da8-3a05-8048-da0a6f56a764"><bdi>Timeless Passages</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/900827a1-d02c-36fd-8b10-f5f442ec2a97"><bdi>Chronicles II</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/9d979578-d53d-37bc-891a-e7766a0ec2ee"><bdi>Rarities</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/ef1660cc-866c-3b48-bbb6-78b940961d53"><bdi>Live</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/adcbf864-00ac-42b6-9ff8-dcf449b4b3f6"><bdi>Reincarnation on Stage</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/852b3abf-c975-4752-a8d0-7c0512101e60"><bdi>Codename: Wildgeese</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1970</td>
+        <td><a href="/release-group/ea834eb3-82c8-3edb-af3f-912e5b625156"><bdi>Daybreak / Walk Alone</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/636a1e3e-c515-45e0-a3cf-1f96cf838dcb"><bdi>Fire And Ice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/1bfd7cf7-25ad-3a5b-9047-b7925cf07f98"><bdi>Childhood Memories</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/5232322d-f783-32d8-9096-22d3c54d805b"><bdi>The Answer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/bc154a90-890b-409e-b850-53ca299ab0d6/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1969 (47 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span>    (<a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/ratings" title="Eloy (Germany | Prog Rock)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/german"><bdi>german</bdi></a>, <a href="/tag/progressive%20rock"><bdi>progressive rock</bdi></a>, <a href="/tag/space%20rock"><bdi>space rock</bdi></a>, <a href="/tag/european"><bdi>european</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.eloy-legacy.com/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/280969">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/Official4Eloy">Official4Eloy</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Official4Eloy">Official4Eloy</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q32865">Q32865</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Eloy">en: Eloy</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/Official4Eloy">Official4Eloy</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/bc154a90-890b-409e-b850-53ca299ab0d6/relationships" title="Eloy (Germany | Prog Rock)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbc154a90-890b-409e-b850-53ca299ab0d6">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-02-02 08:03 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

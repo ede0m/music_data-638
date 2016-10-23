@@ -1,0 +1,711 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Слот - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2002-02-02 in Moskva, Area: Russia"/><script type="application/ld+json">{"groupOrigin":{"@id":"https://musicbrainz.org/area/f310740c-ad62-48c0-839b-e86581b9f464","name":"Moskva","@type":"City","containedIn":{"@id":"https://musicbrainz.org/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef","name":"Russia","@type":"Country"}},"name":"Слот","foundingDate":"2002-02-02","member":[{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/2df85e11-6a7f-42f3-ab73-fd364f7a976c","name":"IF","@type":["Person","MusicGroup"]},"endDate":"2006","startDate":"2004","@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Дария Ставрович","@id":"https://musicbrainz.org/artist/98611015-f418-47e6-a8d4-d11b7ccdbc59"},"roleName":[],"@type":"OrganizationRole","startDate":"2006"},{"member":{"@type":["Person","MusicGroup"],"name":"Никита Симонов","@id":"https://musicbrainz.org/artist/9ae84a07-6502-41b9-8bd3-bcef69d3818b"},"roleName":[],"@type":"OrganizationRole","startDate":"2009"},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/f4feceaa-4d87-4aad-b146-67c5baac7492","name":"КЭШ","@type":["Person","MusicGroup"]}}],"album":[{"name":"Slot 1","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/25ac4e1e-6ead-39c8-b92f-5fb4b508b654","byArtist":{"name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","@type":"MusicGroup"},"creditedTo":"Слот","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833"},"creditedTo":"Слот","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/85240aa3-8ebe-3dfa-be29-cc9dea5902fe","name":"2 войны"},{"@id":"https://musicbrainz.org/release-group/d7d70c70-89d5-3b04-b05a-9af3d2629e29","albumReleaseType":"http://schema.org/AlbumRelease","name":"Piano instrumental","creditedTo":"Слот","byArtist":{"@type":"MusicGroup","name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот","@type":"MusicGroup"},"creditedTo":"Слот","name":"Две Войны","@id":"https://musicbrainz.org/release-group/988b8f5d-ab9e-40f1-83fd-21b0d4f6dc9a","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/db3b7ab0-1671-3ee0-bc20-a77861212f9a","albumReleaseType":"http://schema.org/AlbumRelease","name":"Тринити","creditedTo":"Слот","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/a260f3fc-f045-4d80-b2a9-9783077d5510","albumReleaseType":"http://schema.org/AlbumRelease","name":"Кислота. Первая Капля","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"creditedTo":"Слот"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b0c2b47f-8891-42ae-b7b9-a3fac6f99dc8","name":"4ever","creditedTo":"Слот","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/ad9ffcac-3e50-4d48-8c2a-c5d2a26c24f2","albumReleaseType":"http://schema.org/AlbumRelease","name":"Break the Code","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","@type":"MusicGroup"},"creditedTo":"Slot"},{"@id":"https://musicbrainz.org/release-group/8b621d3b-1215-424b-ae5a-ae2e9232259f","albumReleaseType":"http://schema.org/AlbumRelease","name":"F5","byArtist":{"@type":"MusicGroup","name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833"},"creditedTo":"Слот","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот","@type":"MusicGroup"},"creditedTo":"Слот","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/420b715a-5ace-4abd-87f0-45ded6e20f56","name":"Шестой"},{"byArtist":{"@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот","@type":"MusicGroup"},"creditedTo":"Слот","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7ed24c70-5dc2-42ff-9c60-3660ab5d7729","albumReleaseType":"http://schema.org/AlbumRelease","name":"Септима"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Слот","byArtist":{"@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот","@type":"MusicGroup"},"name":"The Best Of…","@id":"https://musicbrainz.org/release-group/9b84246d-59f9-47d3-b940-be2305de6ccd","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Тринити","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/9bcc45df-f1b4-4633-abba-b8330ad8226b","byArtist":{"@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот","@type":"MusicGroup"},"creditedTo":"Слот","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"creditedTo":"Слот","@id":"https://musicbrainz.org/release-group/b1aa1494-961a-4070-8b68-f7cc9f9ac303","albumReleaseType":"http://schema.org/SingleRelease","name":"Мёртвые звёзды"},{"creditedTo":"Слот","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"2х2","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b7cc01ea-afe1-4940-bfa8-d6babb11430b"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/642f60c5-7e54-4c3a-9c16-c209a9e69f7b","name":"Alfa-Ромео \u002b Beta-Джульетта","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"creditedTo":"Слот"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Слот","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"name":"Аниме","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a6ddb77a-23ef-40ed-9512-37ddee298b3c"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"creditedTo":"Слот","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/9981712e-b86e-41cc-90ba-64b2dc93a533","name":"Зеркала"},{"@id":"https://musicbrainz.org/release-group/97502b0f-a76d-487f-97cd-b7f35ba428c1","albumReleaseType":"http://schema.org/SingleRelease","name":"Kill Me Baby One More Time","creditedTo":"Slot","byArtist":{"name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833"},"creditedTo":"Слот","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2e41f4a7-0874-43a3-9479-5faf91b4be1c","name":"Стёкла Революции"},{"name":"People Xaoc","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/d8d83565-4578-446c-ac55-dc9600a048ce","creditedTo":"Johnny Beast feat Slot","byArtist":[{"name":"DJ Johnny Beast","@id":"https://musicbrainz.org/artist/44b7a1c7-85ba-4b5f-b59e-a918569903f0","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833"}],"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Mirrors","@id":"https://musicbrainz.org/release-group/7b5026d3-ac4f-4a4b-bce7-db3e419a7a5a","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","name":"Слот"},"creditedTo":"Слот","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Johnny Beast \u0026 The Slot","byArtist":[{"name":"DJ Johnny Beast","@id":"https://musicbrainz.org/artist/44b7a1c7-85ba-4b5f-b59e-a918569903f0","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Слот","@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8572a202-bc77-4cf5-b983-0a8672544a6a","albumReleaseType":"http://schema.org/EPRelease","name":"Two Wars"}],"@context":"http://schema.org","@type":"MusicGroup","sameAs":["http://en.wikipedia.org/wiki/Slot_(band)","http://www.slot.ru/","https://www.discogs.com/artist/1340567","https://www.wikidata.org/wiki/Q127472"],"@id":"https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833","location":{"@type":"Country","name":"Russia","@id":"https://musicbrainz.org/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F036b6660-ff83-4d6b-ac43-78ab79ab2833">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F036b6660-ff83-4d6b-ac43-78ab79ab2833">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Слот – Slot"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/releases" title="Slot"><bdi>Releases</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/recordings" title="Slot"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/works" title="Slot"><bdi>Works</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/events" title="Slot"><bdi>Events</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/relationships" title="Slot"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/aliases" title="Slot"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/tags" title="Slot"><bdi>Tags</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/details" title="Slot"><bdi>Details</bdi></a></li>            <li><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/edit" title="Slot"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=218223" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/25ac4e1e-6ead-39c8-b92f-5fb4b508b654"><bdi>Slot 1</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/85240aa3-8ebe-3dfa-be29-cc9dea5902fe"><bdi>2 войны</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/d7d70c70-89d5-3b04-b05a-9af3d2629e29"><bdi>Piano instrumental</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/988b8f5d-ab9e-40f1-83fd-21b0d4f6dc9a"><bdi>Две Войны</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/db3b7ab0-1671-3ee0-bc20-a77861212f9a"><bdi>Тринити</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a260f3fc-f045-4d80-b2a9-9783077d5510"><bdi>Кислота. Первая Капля</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/b0c2b47f-8891-42ae-b7b9-a3fac6f99dc8"><bdi>4ever</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/ad9ffcac-3e50-4d48-8c2a-c5d2a26c24f2"><bdi>Break the Code</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Слот – Slot"><bdi>Slot</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/8b621d3b-1215-424b-ae5a-ae2e9232259f"><bdi>F5</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/420b715a-5ace-4abd-87f0-45ded6e20f56"><bdi>Шестой</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/7ed24c70-5dc2-42ff-9c60-3660ab5d7729"><bdi>Септима</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/9b84246d-59f9-47d3-b940-be2305de6ccd"><bdi>The Best Of…</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/9bcc45df-f1b4-4633-abba-b8330ad8226b"><bdi>Тринити</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/b1aa1494-961a-4070-8b68-f7cc9f9ac303"><bdi>Мёртвые звёзды</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/b7cc01ea-afe1-4940-bfa8-d6babb11430b"><bdi>2х2</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/642f60c5-7e54-4c3a-9c16-c209a9e69f7b"><bdi>Alfa-Ромео + Beta-Джульетта</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/a6ddb77a-23ef-40ed-9512-37ddee298b3c"><bdi>Аниме</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/9981712e-b86e-41cc-90ba-64b2dc93a533"><bdi>Зеркала</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/97502b0f-a76d-487f-97cd-b7f35ba428c1"><bdi>Kill Me Baby One More Time</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Слот – Slot"><bdi>Slot</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/2e41f4a7-0874-43a3-9479-5faf91b4be1c"><bdi>Стёкла Революции</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/d8d83565-4578-446c-ac55-dc9600a048ce"><bdi>People Xaoc</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/44b7a1c7-85ba-4b5f-b59e-a918569903f0" title="DJ Johnny Beast – Johnny Beast, DJ"><bdi>Johnny Beast</bdi></a></span> feat <span class="name-variation"><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Слот – Slot"><bdi>Slot</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/7b5026d3-ac4f-4a4b-bce7-db3e419a7a5a"><bdi>Mirrors</bdi></a></td>
+        
+        <td><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Slot"><bdi>Слот</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/8572a202-bc77-4cf5-b983-0a8672544a6a"><bdi>Two Wars</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/44b7a1c7-85ba-4b5f-b59e-a918569903f0" title="DJ Johnny Beast – Johnny Beast, DJ"><bdi>Johnny Beast</bdi></a></span> &amp; <span class="name-variation"><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833" title="Слот – Slot"><bdi>The Slot</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%D0%A1%D0%BB%D0%BE%D1%82_%28%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C_9.04.2012%D0%B3.%29.jpg/250px-%D0%A1%D0%BB%D0%BE%D1%82_%28%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C_9.04.2012%D0%B3.%29.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Слот (Москва, 9.04.2012г.).jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Slot</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2002-02-02 (14 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f310740c-ad62-48c0-839b-e86581b9f464"><bdi>Moskva</bdi></a>, <span class="flag flag-RU"><a href="/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef"><bdi>Russia</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-RU"><a href="/area/1f1fc3a4-9500-39b8-9f10-f0a465557eef"><bdi>Russia</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/ratings" title="Slot"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative%20metal"><bdi>alternative metal</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/russian"><bdi>russian</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.slot.ru/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/1340567">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/theslot">theslot</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id160957018">iTunes</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q127472">Q127472</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Slot_(band)">en: Slot (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/theslot">theslot</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/036b6660-ff83-4d6b-ac43-78ab79ab2833/relationships" title="Slot"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F036b6660-ff83-4d6b-ac43-78ab79ab2833">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-04-06 20:34 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

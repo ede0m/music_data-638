@@ -1,0 +1,597 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Alfred Deller - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1916-05-31 in Margate, Died: 1979-07-16 in Bologna, Area: United Kingdom"/><script type="application/ld+json">{"@type":["Person","MusicGroup"],"location":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country","name":"United Kingdom"},"deathPlace":{"@id":"https://musicbrainz.org/area/f3045d73-6a82-43cd-934d-42e75a5f73f6","name":"Bologna","containedIn":{"@id":"https://musicbrainz.org/area/0f036b20-6e6b-4675-8533-42030e52e60d","containedIn":{"name":"Italy","@type":"Country","@id":"https://musicbrainz.org/area/c6500277-9a3d-349b-bf30-41afdbf42add"},"@type":"AdministrativeArea","name":"Bologna"},"@type":"AdministrativeArea"},"sameAs":["https://en.wikipedia.org/wiki/Alfred_Deller","https://www.wikidata.org/wiki/Q981299"],"birthPlace":{"@id":"https://musicbrainz.org/area/fbb9920c-73ea-49e6-9e55-6cba40502aa5","name":"Margate","containedIn":{"@id":"https://musicbrainz.org/area/24404231-7564-4b11-9168-95dd148049a7","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country","name":"United Kingdom"},"@type":"AdministrativeArea","name":"Kent"},"@type":"City"},"deathDate":"1979-07-16","@context":"http://schema.org","album":[{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Alfred Deller","name":"The Three Ravens - Elizabethan Folk \u0026 Minstrel Songs","byArtist":{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","@type":["Person","MusicGroup"],"name":"Alfred Deller"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d4590642-21df-353f-9c29-c17b6caaaf93"},{"@id":"https://musicbrainz.org/release-group/17fd27a1-aab1-3f2a-8844-507c2c5c0fdb","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Alfred Deller","name":"Western Wind (and Other English Ballads \u0026 Folk Songs)","byArtist":{"name":"Alfred Deller","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"}},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e752dea3-bc87-3c55-9645-78b19a29ef78","byArtist":[{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","name":"Alfred Deller","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f","name":"Deller Consort","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/099c48bb-6211-4f60-91ff-ff0b809dfdab","name":"Desmond Dupré","@type":["Person","MusicGroup"]}],"name":"Shakespeare Songs and Consort Music","creditedTo":"Alfred Deller, Deller Consort, Desmond Dupré","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f4024091-f00c-4be2-a6d8-a815eb7008cd","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"King Arthur","creditedTo":"Purcell; Deller Consort, Chœur, The King's Musick, Alfred Deller","byArtist":[{"@id":"https://musicbrainz.org/artist/ddea5540-2c7d-4266-8507-b367c2635d35","name":"Henry Purcell","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Deller Consort","@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f"},{"name":"Deller Choir","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fd51d1c6-9073-421f-87cb-18bc63cbff0c"},{"@type":"MusicGroup","name":"The King's Musick","@id":"https://musicbrainz.org/artist/92916d0a-08f2-48ee-a23e-f8d0cef756cd"},{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","name":"Alfred Deller","@type":["Person","MusicGroup"]}]},{"@id":"https://musicbrainz.org/release-group/6f5af4f7-9033-3ac5-92af-f79b0a700574","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Henry Purcell","@id":"https://musicbrainz.org/artist/ddea5540-2c7d-4266-8507-b367c2635d35"},{"name":"Deller Consort","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f"},{"@type":"MusicGroup","name":"The King's Musick","@id":"https://musicbrainz.org/artist/92916d0a-08f2-48ee-a23e-f8d0cef756cd"},{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","@type":["Person","MusicGroup"],"name":"Alfred Deller"}],"creditedTo":"Purcell; Deller Consort, The King's Musick, Alfred Deller","name":"King Arthur (extraits)","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/61ae78c6-c54a-4440-b162-c5765b5ea730","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Henry Purcell","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddea5540-2c7d-4266-8507-b367c2635d35"},{"@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f","@type":"MusicGroup","name":"Deller Consort"},{"name":"Alfred Deller","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"}],"creditedTo":"Henry Purcell; Deller Consort, Alfred Deller","name":"Te Deum \u0026 Jubilate Deo"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Purcell; Deller Consort, Alfred Deller","name":"Welcome to All the Pleasures","byArtist":[{"@id":"https://musicbrainz.org/artist/ddea5540-2c7d-4266-8507-b367c2635d35","@type":["Person","MusicGroup"],"name":"Henry Purcell"},{"@type":"MusicGroup","name":"Deller Consort","@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f"},{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","@type":["Person","MusicGroup"],"name":"Alfred Deller"}],"@id":"https://musicbrainz.org/release-group/1faa8a37-626f-3cd7-9d58-a1273d9fd05a","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","@type":["Person","MusicGroup"],"name":"Alfred Deller"},{"@type":"MusicGroup","name":"Deller Consort","@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f"}],"creditedTo":"Alfred Deller \u0026 The Deller Consort","name":"The Holly And The Ivy - Christmas Carols of Old England","@id":"https://musicbrainz.org/release-group/b90a7b63-e7ce-3798-937b-7b5f66cc8a54","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/25766057-b946-350b-acb3-f96f27d25787","creditedTo":"Henry Purcell; Alfred Deller, Wieland Kuijken, William Christie, Roderick Skeaping","name":"Music for a While / O Solitude","byArtist":[{"@id":"https://musicbrainz.org/artist/ddea5540-2c7d-4266-8507-b367c2635d35","@type":["Person","MusicGroup"],"name":"Henry Purcell"},{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","name":"Alfred Deller","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/e3cee123-59a2-4813-97c1-cabd099cb076","name":"Wieland Kuijken","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/b254df07-01e9-45d0-ae9b-0cd717d2163d","@type":["Person","MusicGroup"],"name":"William Christie"},{"@id":"https://musicbrainz.org/artist/00cb1a00-e230-4125-8e26-19c8ab7007b0","@type":["Person","MusicGroup"],"name":"Roderick Skeaping"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","name":"Alfred Deller","@type":["Person","MusicGroup"]},{"name":"Mark Deller","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e069ae21-99c4-4c57-a411-78927962c6db"},{"@id":"https://musicbrainz.org/artist/d0317488-4be9-45bf-8277-a2389a2353ea","@type":"MusicGroup","name":"Ensemble of Baroque Instruments"}],"creditedTo":"Alfred Deller, Mark Deller \u0026 Ensemble of Baroque Instruments","name":"Duos de Contre-Ténors","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/6e174738-5f3c-4d39-b738-c42139e9facd"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/86523090-6085-42c1-80b7-772f1bc80472","name":"François Couperin","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Alfred Deller","@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"},{"name":"Philip Todd","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/52f0b1e2-e6ff-4cb2-b89d-e29041506938"},{"@type":["Person","MusicGroup"],"name":"Raphaël Perulli","@id":"https://musicbrainz.org/artist/a527cafd-f16c-4ca2-9a32-d8facfc29509"},{"@id":"https://musicbrainz.org/artist/adb29a70-1a5a-40dc-b92d-8acfd3c481f6","@type":["Person","MusicGroup"],"name":"Michel Chapuis"}],"name":"Leçons de ténèbres","creditedTo":"Couperin; Alfred Deller, Philip Todd, Raphaël Perulli, Michel Chapuis","@id":"https://musicbrainz.org/release-group/fa21b6ea-c091-44a2-8b81-c5d654f2526b","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"[anonymous]; Alfred Deller, Desmond Dupré","name":"Les Trois Corbeaux / Chants traditionnels de Ménestrels et Elisabéthains","byArtist":[{"@id":"https://musicbrainz.org/artist/f731ccc4-e22a-43af-a747-64213329e088","@type":"MusicGroup","name":"[anonymous]"},{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","name":"Alfred Deller","@type":["Person","MusicGroup"]},{"name":"Desmond Dupré","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/099c48bb-6211-4f60-91ff-ff0b809dfdab"}],"@id":"https://musicbrainz.org/release-group/4615be8c-f8a3-4b1c-9219-195c1880a74d","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/a2f68986-08f4-4f8c-acf1-f008f8df9e70","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Complete Vanguard Recordings, Volume Three: Christmas Carols and Motets","creditedTo":"Alfred Deller \u0026 The Deller Consort","byArtist":[{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","@type":["Person","MusicGroup"],"name":"Alfred Deller"},{"name":"Deller Consort","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f"}]},{"byArtist":{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","name":"Alfred Deller","@type":["Person","MusicGroup"]},"creditedTo":"Alfred Deller","name":"A Musical Panorama Of Shakespeare's England","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/70ed78b0-4590-4eb8-a763-191b57115a12","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Complete Vanguard Recordings, Volume 2: Music of Henry Purcell","creditedTo":"Alfred Deller \u0026 The Deller Consort","byArtist":[{"@type":["Person","MusicGroup"],"name":"Alfred Deller","@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"},{"@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f","name":"Deller Consort","@type":"MusicGroup"}],"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/ebc5fa29-beda-4c19-9595-a220b8891c07"},{"@id":"https://musicbrainz.org/release-group/52ee8fd6-5ebe-461a-8ee9-5a0f58df27bb","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0","name":"Alfred Deller","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f","@type":"MusicGroup","name":"Deller Consort"}],"name":"The Complete Vanguard Recordings, Volume 1: Folk Songs and Ballads","creditedTo":"Alfred Deller \u0026 The Deller Consort","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/d8a9b4fc-dfef-43b4-a522-c8cf7e3f1374","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Complete Vanguard Recordings, Volume 4: Music of Handel Bach and English Renaissance","creditedTo":"Alfred Deller \u0026 The Deller Consort","byArtist":[{"@type":["Person","MusicGroup"],"name":"Alfred Deller","@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"},{"@type":"MusicGroup","name":"Deller Consort","@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f"}]},{"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/26311030-ee59-4ce1-bf48-dcca57934a96","creditedTo":"Alfred Deller \u0026 The Deller Consort","name":"The Complete Vanguard Recordings, Volume 5: English, French and Italian Madrigals","byArtist":[{"@type":["Person","MusicGroup"],"name":"Alfred Deller","@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"},{"@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f","@type":"MusicGroup","name":"Deller Consort"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/956a6939-f3e2-4f53-ae08-8eb37bb0c1cd","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Alfred Deller","@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"},{"@id":"https://musicbrainz.org/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f","@type":"MusicGroup","name":"Deller Consort"}],"name":"The Complete Vanguard Recordings, Volume 6: French and Italian Discoveries 1200-1700","creditedTo":"Alfred Deller \u0026 The Deller Consort"}],"birthDate":"1916-05-31","name":"Alfred Deller","@id":"https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F113a1384-1d7d-4e70-86e6-a5fc0da0c1b0">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F113a1384-1d7d-4e70-86e6-a5fc0da0c1b0">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Alfred Deller – Deller, Alfred"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/releases" title="Deller, Alfred"><bdi>Releases</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/recordings" title="Deller, Alfred"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/works" title="Deller, Alfred"><bdi>Works</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/events" title="Deller, Alfred"><bdi>Events</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/relationships" title="Deller, Alfred"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/aliases" title="Deller, Alfred"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/tags" title="Deller, Alfred"><bdi>Tags</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/details" title="Deller, Alfred"><bdi>Details</bdi></a></li>            <li><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/edit" title="Deller, Alfred"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=462485" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1955</td>
+        <td><a href="/release-group/d4590642-21df-353f-9c29-c17b6caaaf93"><bdi>The Three Ravens - Elizabethan Folk &amp; Minstrel Songs</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1958</td>
+        <td><a href="/release-group/17fd27a1-aab1-3f2a-8844-507c2c5c0fdb"><bdi>Western Wind (and Other English Ballads &amp; Folk Songs)</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1967</td>
+        <td><a href="/release-group/e752dea3-bc87-3c55-9645-78b19a29ef78"><bdi>Shakespeare Songs and Consort Music</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a>, <a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort"><bdi>Deller Consort</bdi></a>, <a href="/artist/099c48bb-6211-4f60-91ff-ff0b809dfdab" title="Dupré, Desmond"><bdi>Desmond Dupré</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/f4024091-f00c-4be2-a6d8-a815eb7008cd"><bdi>King Arthur</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ddea5540-2c7d-4266-8507-b367c2635d35" title="Henry Purcell – Purcell, Henry (baroque composer)"><bdi>Purcell</bdi></a></span>; <a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort"><bdi>Deller Consort</bdi></a>, <span class="name-variation"><a href="/artist/fd51d1c6-9073-421f-87cb-18bc63cbff0c" title="Deller Choir – Deller Choir"><bdi>Chœur</bdi></a></span>, <a href="/artist/92916d0a-08f2-48ee-a23e-f8d0cef756cd" title="King's Musick, The"><bdi>The King's Musick</bdi></a>, <a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/6f5af4f7-9033-3ac5-92af-f79b0a700574"><bdi>King Arthur (extraits)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ddea5540-2c7d-4266-8507-b367c2635d35" title="Henry Purcell – Purcell, Henry (baroque composer)"><bdi>Purcell</bdi></a></span>; <a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort"><bdi>Deller Consort</bdi></a>, <a href="/artist/92916d0a-08f2-48ee-a23e-f8d0cef756cd" title="King's Musick, The"><bdi>The King's Musick</bdi></a>, <a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/61ae78c6-c54a-4440-b162-c5765b5ea730"><bdi>Te Deum &amp; Jubilate Deo</bdi></a></td>
+        
+        <td><a href="/artist/ddea5540-2c7d-4266-8507-b367c2635d35" title="Purcell, Henry (baroque composer)"><bdi>Henry Purcell</bdi></a>; <a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort"><bdi>Deller Consort</bdi></a>, <a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/1faa8a37-626f-3cd7-9d58-a1273d9fd05a"><bdi>Welcome to All the Pleasures</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ddea5540-2c7d-4266-8507-b367c2635d35" title="Henry Purcell – Purcell, Henry (baroque composer)"><bdi>Purcell</bdi></a></span>; <a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort"><bdi>Deller Consort</bdi></a>, <a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/b90a7b63-e7ce-3798-937b-7b5f66cc8a54"><bdi>The Holly And The Ivy - Christmas Carols of Old England</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a> &amp; <span class="name-variation"><a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort – Deller Consort"><bdi>The Deller Consort</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/25766057-b946-350b-acb3-f96f27d25787"><bdi>Music for a While / O Solitude</bdi></a></td>
+        
+        <td><a href="/artist/ddea5540-2c7d-4266-8507-b367c2635d35" title="Purcell, Henry (baroque composer)"><bdi>Henry Purcell</bdi></a>; <a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a>, <a href="/artist/e3cee123-59a2-4813-97c1-cabd099cb076" title="Kuijken, Wieland"><bdi>Wieland Kuijken</bdi></a>, <a href="/artist/b254df07-01e9-45d0-ae9b-0cd717d2163d" title="Christie, William"><bdi>William Christie</bdi></a>, <a href="/artist/00cb1a00-e230-4125-8e26-19c8ab7007b0" title="Skeaping, Roderick"><bdi>Roderick Skeaping</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/6e174738-5f3c-4d39-b738-c42139e9facd"><bdi>Duos de Contre-Ténors</bdi></a> <span class="comment">(<bdi>Duets for Counter-Tenors</bdi>)</span></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a>, <a href="/artist/e069ae21-99c4-4c57-a411-78927962c6db" title="Deller, Mark"><bdi>Mark Deller</bdi></a> &amp; <a href="/artist/d0317488-4be9-45bf-8277-a2389a2353ea" title="Ensemble of Baroque Instruments"><bdi>Ensemble of Baroque Instruments</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/fa21b6ea-c091-44a2-8b81-c5d654f2526b"><bdi>Leçons de ténèbres</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/86523090-6085-42c1-80b7-772f1bc80472" title="François Couperin – Couperin, François (French composer of the Baroque era)"><bdi>Couperin</bdi></a></span>; <a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a>, <a href="/artist/52f0b1e2-e6ff-4cb2-b89d-e29041506938" title="Todd, Philip"><bdi>Philip Todd</bdi></a>, <a href="/artist/a527cafd-f16c-4ca2-9a32-d8facfc29509" title="Perulli, Raphaël"><bdi>Raphaël Perulli</bdi></a>, <a href="/artist/adb29a70-1a5a-40dc-b92d-8acfd3c481f6" title="Chapuis, Michel"><bdi>Michel Chapuis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/4615be8c-f8a3-4b1c-9219-195c1880a74d"><bdi>Les Trois Corbeaux / Chants traditionnels de Ménestrels et Elisabéthains</bdi></a></td>
+        
+        <td><a href="/artist/f731ccc4-e22a-43af-a747-64213329e088" title="[anonymous] (Special Purpose Artist)"><bdi>[anonymous]</bdi></a>; <a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a>, <a href="/artist/099c48bb-6211-4f60-91ff-ff0b809dfdab" title="Dupré, Desmond"><bdi>Desmond Dupré</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a2f68986-08f4-4f8c-acf1-f008f8df9e70"><bdi>The Complete Vanguard Recordings, Volume Three: Christmas Carols and Motets</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a> &amp; <span class="name-variation"><a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort – Deller Consort"><bdi>The Deller Consort</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/70ed78b0-4590-4eb8-a763-191b57115a12"><bdi>A Musical Panorama Of Shakespeare's England</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/ebc5fa29-beda-4c19-9595-a220b8891c07"><bdi>The Complete Vanguard Recordings, Volume 2: Music of Henry Purcell</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a> &amp; <span class="name-variation"><a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort – Deller Consort"><bdi>The Deller Consort</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/52ee8fd6-5ebe-461a-8ee9-5a0f58df27bb"><bdi>The Complete Vanguard Recordings, Volume 1: Folk Songs and Ballads</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a> &amp; <span class="name-variation"><a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort – Deller Consort"><bdi>The Deller Consort</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/d8a9b4fc-dfef-43b4-a522-c8cf7e3f1374"><bdi>The Complete Vanguard Recordings, Volume 4: Music of Handel Bach and English Renaissance</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a> &amp; <span class="name-variation"><a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort – Deller Consort"><bdi>The Deller Consort</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/26311030-ee59-4ce1-bf48-dcca57934a96"><bdi>The Complete Vanguard Recordings, Volume 5: English, French and Italian Madrigals</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a> &amp; <span class="name-variation"><a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort – Deller Consort"><bdi>The Deller Consort</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/956a6939-f3e2-4f53-ae08-8eb37bb0c1cd"><bdi>The Complete Vanguard Recordings, Volume 6: French and Italian Discoveries 1200-1700</bdi></a></td>
+        
+        <td><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0" title="Deller, Alfred"><bdi>Alfred Deller</bdi></a> &amp; <span class="name-variation"><a href="/artist/2adc8bdf-0c91-4f60-abdd-42c43ca6451f" title="Deller Consort – Deller Consort"><bdi>The Deller Consort</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Deller, Alfred</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1916-05-31</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/fbb9920c-73ea-49e6-9e55-6cba40502aa5"><bdi>Margate</bdi></a>, <a href="/area/24404231-7564-4b11-9168-95dd148049a7"><bdi>Kent</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Died:</dt>
+<dd>1979-07-16 (aged 63)</dd>
+<dt>Died in:</dt>
+<dd class="end_area"><a href="/area/f3045d73-6a82-43cd-934d-42e75a5f73f6"><bdi>Bologna</bdi></a>, <a href="/area/0f036b20-6e6b-4675-8533-42030e52e60d"><bdi>Bologna</bdi></a>, <span class="flag flag-IT"><a href="/area/c6500277-9a3d-349b-bf30-41afdbf42add"><bdi>Italy</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/british%20countertenor"><bdi>british countertenor</bdi></a>, <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/countertenor"><bdi>countertenor</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q981299">Q981299</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Alfred_Deller">en: Alfred Deller</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/113a1384-1d7d-4e70-86e6-a5fc0da0c1b0/relationships" title="Deller, Alfred"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F113a1384-1d7d-4e70-86e6-a5fc0da0c1b0">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-08-01 16:20 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

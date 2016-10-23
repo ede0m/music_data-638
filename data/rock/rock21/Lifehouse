@@ -1,0 +1,808 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lifehouse - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1996 in Los Angeles, Area: United States"/><script type="application/ld+json">{"location":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"@type":"MusicGroup","groupOrigin":{"name":"Los Angeles","@id":"https://musicbrainz.org/area/1f40c6e1-47ba-4e35-996f-fe6ee5840e62","containedIn":{"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","name":"California","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"}},"@type":"City"},"sameAs":["http://en.wikipedia.org/wiki/Lifehouse_(band)","http://isni-url.oclc.nl/isni/0000000106729378","http://musicmoz.org/Bands_and_Artists/L/Lifehouse/","http://viaf.org/viaf/152069126","http://www.allmusic.com/artist/mn0000263271","http://www.last.fm/music/Lifehouse","http://www.lifehousemusic.com/","https://rateyourmusic.com/artist/lifehouse","https://www.discogs.com/artist/252596"],"album":[{"@type":"MusicAlbum","creditedTo":"Lifehouse","byArtist":{"@type":"MusicGroup","name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e"},"@id":"https://musicbrainz.org/release-group/ae76bd62-2ca4-3665-a061-9674a6397998","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"No Name Face"},{"byArtist":{"@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/2c929c89-530e-32e1-aff2-218541230417","albumReleaseType":"http://schema.org/AlbumRelease","name":"Stanley Climbfall","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Lifehouse"},{"@type":"MusicAlbum","creditedTo":"Lifehouse","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/499c8c24-105d-3f20-93e3-a82922d93366","name":"Lifehouse","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"}},{"@type":"MusicAlbum","creditedTo":"Lifehouse","albumProductionType":"http://schema.org/StudioAlbum","name":"Who We Are","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1002db91-1970-338c-af17-416ee890235a","byArtist":{"@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse","@type":"MusicGroup"}},{"creditedTo":"Lifehouse","@type":"MusicAlbum","byArtist":{"name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","@type":"MusicGroup"},"name":"Smoke \u0026 Mirrors","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8fb0d6b5-e7a0-45e8-bb49-fb62bbce0e1b","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Lifehouse","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Almería","@id":"https://musicbrainz.org/release-group/f6ae7be4-5d49-478f-8a77-260a770fdc7f","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Out of the Wasteland","@id":"https://musicbrainz.org/release-group/b77a4de8-1583-4c02-8835-bce32a83f7ef","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Lifehouse"},{"creditedTo":"Lifehouse","@type":"MusicAlbum","byArtist":{"name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","@type":"MusicGroup"},"name":"Lifehouse / No Name Face / Stanley Climbfall","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/99be5f35-a881-41f8-bb33-f2ec54f3c0f2"},{"name":"Sick Cycle Carousel","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b5daaa21-d280-4c76-a887-630a362771e4","byArtist":{"@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Lifehouse"},{"creditedTo":"Lifehouse","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"@id":"https://musicbrainz.org/release-group/b255dfc2-797e-3d7f-8a5e-a739f9a6880c","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Hanging by a Moment"},{"@type":"MusicAlbum","creditedTo":"Lifehouse","byArtist":{"name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","@type":"MusicGroup"},"name":"Breathing","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/4a438d41-7bbf-45b3-b9c9-f018a32d53cc"},{"@type":"MusicAlbum","creditedTo":"Lifehouse","albumProductionType":"http://schema.org/StudioAlbum","name":"Spin","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2aa328a6-e445-4d1e-acef-c8116e3f6c20","byArtist":{"@type":"MusicGroup","name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e"}},{"@type":"MusicAlbum","creditedTo":"Lifehouse","byArtist":{"@type":"MusicGroup","name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e"},"albumProductionType":"http://schema.org/StudioAlbum","name":"You And Me","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/69fb60a8-b79d-361e-aaeb-11d45bc29476"},{"byArtist":{"@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/80ea65a4-d9a9-485b-a700-64b8c732e508","albumReleaseType":"http://schema.org/SingleRelease","name":"First Time","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Lifehouse","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"@id":"https://musicbrainz.org/release-group/5e4db7b1-0108-4e08-96b6-d48ddd8a092f","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Whatever It Takes","@type":"MusicAlbum","creditedTo":"Lifehouse"},{"@type":"MusicAlbum","creditedTo":"Lifehouse","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f95ab9c9-8969-432f-ba0f-9cf108c03e65","name":"Halfway Gone","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Lifehouse feat. Natasha Bedingfield","@type":"MusicAlbum","byArtist":[{"name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","@type":"MusicGroup"},{"name":"Natasha Bedingfield","@id":"https://musicbrainz.org/artist/8b477559-946e-4ef2-9fe1-446cff8fdd79","@type":["Person","MusicGroup"]}],"name":"Between the Raindrops","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a980f06a-e65b-48d6-8ac5-b25d4f41df36","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","creditedTo":"Lifehouse","albumProductionType":"http://schema.org/StudioAlbum","name":"Flight","@id":"https://musicbrainz.org/release-group/25e35706-9df9-4291-9c86-51f00b9a6f66","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/30898305-8434-4e0e-bc7f-1e6d121c4ba0","name":"Hurricane","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Lifehouse"},{"creditedTo":"Lifehouse","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Broken","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/1b60d6cd-763a-3b3e-968b-24d36a75383b"},{"creditedTo":"Lifehouse","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"albumProductionType":"http://schema.org/StudioAlbum","name":"All In","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/9ca74894-e54b-4fb6-b117-70fcfe657896"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Midnight in Philadelphia","@id":"https://musicbrainz.org/release-group/40183f2c-ad52-33a9-a8a0-04669787aa43","byArtist":{"name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","@type":"MusicGroup"},"creditedTo":"Lifehouse","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse"},"@id":"https://musicbrainz.org/release-group/34c2770d-aeb0-36c1-b480-ae851e62da3b","name":"Live Mississippi Nights","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Lifehouse","@type":"MusicAlbum"},{"name":"Live Session EP","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/5838fd02-d13b-4228-b66d-91b2c089da7d","byArtist":{"@type":"MusicGroup","name":"Lifehouse","@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e"},"@type":"MusicAlbum","creditedTo":"Lifehouse"}],"@id":"https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e","name":"Lifehouse","member":[{"member":{"@id":"https://musicbrainz.org/artist/40691fe8-1544-492f-9b1c-86fca5a5d123","name":"Jon \"Diff\" Palmer","@type":["Person","MusicGroup"]},"endDate":"2000","@type":"OrganizationRole","roleName":[]},{"member":{"name":"Jason Wade","@id":"https://musicbrainz.org/artist/7e959acc-3f7f-434f-ae8f-aeadf92bad80","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/f1cf18ff-d3a4-493b-811d-daa805072278","name":"Sergio Andrade","@type":["Person","MusicGroup"]},"endDate":"2004"}],"@context":"http://schema.org","foundingDate":"1996"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F04591295-6d94-45cb-b6c7-1ae17c6f380e">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F04591295-6d94-45cb-b6c7-1ae17c6f380e">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse – Lifehouse"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/releases" title="Lifehouse"><bdi>Releases</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/recordings" title="Lifehouse"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/works" title="Lifehouse"><bdi>Works</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/events" title="Lifehouse"><bdi>Events</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/relationships" title="Lifehouse"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/aliases" title="Lifehouse"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/tags" title="Lifehouse"><bdi>Tags</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/details" title="Lifehouse"><bdi>Details</bdi></a></li>            <li><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/edit" title="Lifehouse"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Lifehouse</b> is an American rock band from Los Angeles comprising Jason Wade (lead vocals, guitar), Bryce Soderberg (bass, vocals) and Rick Woolstenhulme, Jr. (drums, percussion). The band came to mainstream prominence in 2001 with the hit single "Hanging by a Moment" from their debut studio album, <i>No Name Face</i>. The song was number one for three weeks on the <i>Billboard</i> Modern Rock Tracks chart and peaked at number 2 on the <i>Billboard</i> Hot 100 charts, and the single won a <i>Billboard</i> Music Award for Hot 100 Single of the Year, having spent twenty weeks in the top 10 and more than a year on the charts.</p>
+<p>In 2002, Lifehouse released their follow-up album <i>Stanley Climbfall</i>. Since then, they have released five more albums: the eponymous <i>Lifehouse</i> in 2005, <i>Who We Are</i> in 2007, <i>Smoke and Mirrors</i> in 2010, <i>Almería</i> in 2012 and <i>Out of the Wasteland</i> in 2015. These albums have spawned the singles "You and Me", "First Time", and "Whatever It Takes", which have all been top 40 hits in the US.</p>
+<p>To date, Lifehouse has sold over 15 million records worldwide.</p>
+<p>Despite popular belief, Jason Wade has stated that Lifehouse is not a 'Christian band', though some songs have spiritual influence, the lyrics are open to interpretation.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Lifehouse_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=15595" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ae76bd62-2ca4-3665-a061-9674a6397998"><bdi>No Name Face</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:67%;">3.35</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2c929c89-530e-32e1-aff2-218541230417"><bdi>Stanley Climbfall</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/499c8c24-105d-3f20-93e3-a82922d93366"><bdi>Lifehouse</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:50%;">2.5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/1002db91-1970-338c-af17-416ee890235a"><bdi>Who We Are</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/8fb0d6b5-e7a0-45e8-bb49-fb62bbce0e1b"><bdi>Smoke &amp; Mirrors</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/f6ae7be4-5d49-478f-8a77-260a770fdc7f"><bdi>Almería</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/b77a4de8-1583-4c02-8835-bce32a83f7ef"><bdi>Out of the Wasteland</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/99be5f35-a881-41f8-bb33-f2ec54f3c0f2"><bdi>Lifehouse / No Name Face / Stanley Climbfall</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/b5daaa21-d280-4c76-a887-630a362771e4"><bdi>Sick Cycle Carousel</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/b255dfc2-797e-3d7f-8a5e-a739f9a6880c"><bdi>Hanging by a Moment</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/4a438d41-7bbf-45b3-b9c9-f018a32d53cc"><bdi>Breathing</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2aa328a6-e445-4d1e-acef-c8116e3f6c20"><bdi>Spin</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/69fb60a8-b79d-361e-aaeb-11d45bc29476"><bdi>You And Me</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/80ea65a4-d9a9-485b-a700-64b8c732e508"><bdi>First Time</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/5e4db7b1-0108-4e08-96b6-d48ddd8a092f"><bdi>Whatever It Takes</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f95ab9c9-8969-432f-ba0f-9cf108c03e65"><bdi>Halfway Gone</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/a980f06a-e65b-48d6-8ac5-b25d4f41df36"><bdi>Between the Raindrops</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a> feat. <a href="/artist/8b477559-946e-4ef2-9fe1-446cff8fdd79" title="Bedingfield, Natasha"><bdi>Natasha Bedingfield</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/25e35706-9df9-4291-9c86-51f00b9a6f66"><bdi>Flight</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/30898305-8434-4e0e-bc7f-1e6d121c4ba0"><bdi>Hurricane</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/1b60d6cd-763a-3b3e-968b-24d36a75383b"><bdi>Broken</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/9ca74894-e54b-4fb6-b117-70fcfe657896"><bdi>All In</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/40183f2c-ad52-33a9-a8a0-04669787aa43"><bdi>Midnight in Philadelphia</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/34c2770d-aeb0-36c1-b480-ae851e62da3b"><bdi>Live Mississippi Nights</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5838fd02-d13b-4228-b66d-91b2c089da7d"><bdi>Live Session EP</bdi></a></td>
+        
+        <td><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e" title="Lifehouse"><bdi>Lifehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1996 (20 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/1f40c6e1-47ba-4e35-996f-fe6ee5840e62"><bdi>Los Angeles</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000106729378">0000 0001 0672 9378    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span>    (<a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/ratings" title="Lifehouse"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.lifehousemusic.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000263271">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/252596">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Lifehouse">Lifehouse</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/L/Lifehouse/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/lifehouse">Rateyourmusic</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/us/artist/id3447393">iTunes</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/lifehouse">@lifehouse</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/lifehouse">lifehouse</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/152069126">VIAF: 152069126</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Lifehouse_(band)">en: Lifehouse (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/LifehouseVEVO">LifehouseVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/04591295-6d94-45cb-b6c7-1ae17c6f380e/relationships" title="Lifehouse"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F04591295-6d94-45cb-b6c7-1ae17c6f380e">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-01-26 11:33 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

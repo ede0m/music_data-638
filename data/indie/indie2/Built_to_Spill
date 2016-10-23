@@ -1,0 +1,845 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Built to Spill - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1992 in Boise, Area: United States"/><script type="application/ld+json">{"location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"member":[{"roleName":[],"@type":"OrganizationRole","member":{"name":"Ralf Youtz","@id":"https://musicbrainz.org/artist/0fad8c79-2420-4758-b41e-207ba8dc136b","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/1c671d08-d016-4851-894c-f6d1b5c4ab23","name":"Scott Plouf","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Brett Nelson","@id":"https://musicbrainz.org/artist/1d93c926-a982-412a-9303-490360420d4a"}},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/42c520b5-4992-4aab-9f3f-542addcde686","name":"Doug Martsch","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/73210b84-0805-409d-9fd0-1f8655d4dd15","name":"Andy Capps","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Brett Netson","@id":"https://musicbrainz.org/artist/7f1c14ad-ac89-46d7-9583-64dfb46f4fa7"},"@type":"OrganizationRole","roleName":[]},{"member":{"name":"Jim Roth","@id":"https://musicbrainz.org/artist/cc7cb41f-c7c3-4ad3-916e-bf139a9c7ab4","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]}],"@type":"MusicGroup","album":[{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"},"name":"Ultimate Alternative Wavers","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/06729175-db17-3443-add7-921739a92762"},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"},"name":"There’s Nothing Wrong With Love","@id":"https://musicbrainz.org/release-group/8bcfdf35-83e9-3148-b97e-3912976e7c58","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill"},"name":"Perfect From Now On","@id":"https://musicbrainz.org/release-group/e79d22e8-bad6-4b4b-a7b1-ea62796b7eee","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/db8ddfee-1069-3a49-9e36-ef195ce1ab4a","name":"Keep It Like a Secret"},{"creditedTo":"Built to Spill","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/060b2c77-1d7b-387e-921e-3d8578246200","name":"Ancient Melodies of the Future","byArtist":{"name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/bc4a482f-ed5d-3a2f-b365-c3dc48117376","name":"You in Reverse"},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","@type":"MusicGroup"},"name":"There Is No Enemy","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fac943de-389e-4c35-a108-ad8eaeb79996"},{"creditedTo":"Built to Spill","@type":"MusicAlbum","name":"Untethered Moon","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c3e447bd-bbc7-437d-a50e-26330fd5e13b","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill","@type":"MusicGroup"},"name":"The Normal Years","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/df672627-ec46-3ff9-9e57-af145ae667be","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/3eadbd61-d9bd-39ad-8977-f17d9b936567","name":"Live"},{"creditedTo":"Built to Spill","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a255745d-5775-328b-b58c-9dae95fedffe","name":"Car / Girl","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fe63bf85-5776-3e50-8fb9-da0b046a1ef4","name":"Joyride / Sick and Wrong","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill"},"name":"So and So So and So From Wherever Wherever / Terrible/Perfect","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b8ef9474-6470-460c-9260-6312d68e5734","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill"},"name":"Car","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/431fe16b-496f-3903-a98a-eb03f81c97f1","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"byArtist":{"@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f3df290a-daa2-4750-928c-0a6efefe39f4","name":"Distopian Dream Girl","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","@type":"MusicGroup"},"name":"In the Morning","@id":"https://musicbrainz.org/release-group/fbdeab28-fe3e-3943-b219-a0752dcbfe09","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","creditedTo":"Built to Spill / Marine Research","byArtist":[{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"},{"name":"Marine Research","@id":"https://musicbrainz.org/artist/6d557c0b-05d5-4587-96de-673324c2ea10","@type":"MusicGroup"}],"name":"Built to Spill / Marine Research","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/27000063-9094-3f90-83af-6e600b838321","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/cc7a9482-ea2c-3435-92e9-72614f57c829","albumReleaseType":"http://schema.org/SingleRelease","name":"Center of the Universe","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"byArtist":{"@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2f94c26e-90d9-3dc9-98ca-9f85e3fb3135","name":"They Got Away / Rearrange","@type":"MusicAlbum","creditedTo":"Built to Spill"},{"creditedTo":"Built to Spill","@type":"MusicAlbum","name":"Water Sleepers / Linus and Lucy","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/aa00ac2e-2f46-412d-9d4b-747c5696668a","byArtist":{"name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","@type":"MusicGroup"}},{"name":"Ripple","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9e6a4a1a-259f-4be6-84db-d5a2a882e101","byArtist":{"@type":"MusicGroup","name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0"},"creditedTo":"Built to Spill","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Built to Spill Caustic Resin","byArtist":[{"@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill","@type":"MusicGroup"},{"@type":"MusicGroup","name":"Caustic Resin","@id":"https://musicbrainz.org/artist/b44559f3-6d01-4d07-a81b-00e7f85227a0"}],"name":"Built to Spill Caustic Resin","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/920eaff2-c45a-385e-b126-3796def3171f"},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/47cc1103-4695-365a-9650-acfb0b8c0054","albumReleaseType":"http://schema.org/EPRelease","name":"Carry the Zero"},{"@type":"MusicAlbum","creditedTo":"Built to Spill","byArtist":{"name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","@type":"MusicGroup"},"name":"Sabonis Tracks","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/87242cdd-da3e-34ce-97b6-58bc573e1079"},{"name":"Live Sampler","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/5001754b-22c6-4caf-90d9-b58d6668b6be","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","name":"Built to Spill"},"creditedTo":"Built to Spill","@type":"MusicAlbum"}],"name":"Built to Spill","@id":"https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0","groupOrigin":{"name":"Boise","@id":"https://musicbrainz.org/area/0975b71a-995a-4f7b-a1c3-41e302ba4dc6","containedIn":{"name":"Idaho","@id":"https://musicbrainz.org/area/f2532a8e-276c-457a-b3d9-0a7706535178","@type":"AdministrativeArea","containedIn":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"}},"@type":"City"},"@context":"http://schema.org","foundingDate":"1992","sameAs":["http://isni-url.oclc.nl/isni/0000000094874294","http://viaf.org/viaf/139757534","http://www.allmusic.com/artist/mn0000527267","http://www.builttospill.com/","http://www.imdb.com/name/nm3163714/","http://www.last.fm/music/Built\u002bto\u002bSpill","http://www.musik-sammler.de/artist/2840","http://www.secondhandsongs.com/artist/39051","http://www.worldcat.org/identities/lccn-no98083610/","https://en.wikipedia.org/wiki/Built_to_Spill","https://rateyourmusic.com/artist/built_to_spill","https://www.discogs.com/artist/260124","https://www.wikidata.org/wiki/Q1003115"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F3ac482b8-1494-4071-a0e9-f192f9d2c2b0">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F3ac482b8-1494-4071-a0e9-f192f9d2c2b0">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill – Built to Spill"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/releases" title="Built to Spill"><bdi>Releases</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/recordings" title="Built to Spill"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/works" title="Built to Spill"><bdi>Works</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/events" title="Built to Spill"><bdi>Events</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/relationships" title="Built to Spill"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/aliases" title="Built to Spill"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/tags" title="Built to Spill"><bdi>Tags</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/details" title="Built to Spill"><bdi>Details</bdi></a></li>            <li><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/edit" title="Built to Spill"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=44" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/06729175-db17-3443-add7-921739a92762"><bdi>Ultimate Alternative Wavers</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/8bcfdf35-83e9-3148-b97e-3912976e7c58"><bdi>There’s Nothing Wrong With Love</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/e79d22e8-bad6-4b4b-a7b1-ea62796b7eee"><bdi>Perfect From Now On</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/db8ddfee-1069-3a49-9e36-ef195ce1ab4a"><bdi>Keep It Like a Secret</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/060b2c77-1d7b-387e-921e-3d8578246200"><bdi>Ancient Melodies of the Future</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bc4a482f-ed5d-3a2f-b365-c3dc48117376"><bdi>You in Reverse</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:50%;">2.5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/fac943de-389e-4c35-a108-ad8eaeb79996"><bdi>There Is No Enemy</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/c3e447bd-bbc7-437d-a50e-26330fd5e13b"><bdi>Untethered Moon</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/df672627-ec46-3ff9-9e57-af145ae667be"><bdi>The Normal Years</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/3eadbd61-d9bd-39ad-8977-f17d9b936567"><bdi>Live</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/a255745d-5775-328b-b58c-9dae95fedffe"><bdi>Car / Girl</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/fe63bf85-5776-3e50-8fb9-da0b046a1ef4"><bdi>Joyride / Sick and Wrong</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/b8ef9474-6470-460c-9260-6312d68e5734"><bdi>So and So So and So From Wherever Wherever / Terrible/Perfect</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/431fe16b-496f-3903-a98a-eb03f81c97f1"><bdi>Car</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/f3df290a-daa2-4750-928c-0a6efefe39f4"><bdi>Distopian Dream Girl</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/fbdeab28-fe3e-3943-b219-a0752dcbfe09"><bdi>In the Morning</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/27000063-9094-3f90-83af-6e600b838321"><bdi>Built to Spill / Marine Research</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a> / <a href="/artist/6d557c0b-05d5-4587-96de-673324c2ea10" title="Marine Research"><bdi>Marine Research</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/cc7a9482-ea2c-3435-92e9-72614f57c829"><bdi>Center of the Universe</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/2f94c26e-90d9-3dc9-98ca-9f85e3fb3135"><bdi>They Got Away / Rearrange</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/aa00ac2e-2f46-412d-9d4b-747c5696668a"><bdi>Water Sleepers / Linus and Lucy</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/9e6a4a1a-259f-4be6-84db-d5a2a882e101"><bdi>Ripple</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/920eaff2-c45a-385e-b126-3796def3171f"><bdi>Built to Spill Caustic Resin</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a> <a href="/artist/b44559f3-6d01-4d07-a81b-00e7f85227a0" title="Caustic Resin"><bdi>Caustic Resin</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/47cc1103-4695-365a-9650-acfb0b8c0054"><bdi>Carry the Zero</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/87242cdd-da3e-34ce-97b6-58bc573e1079"><bdi>Sabonis Tracks</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/5001754b-22c6-4caf-90d9-b58d6668b6be"><bdi>Live Sampler</bdi></a></td>
+        
+        <td><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0" title="Built to Spill"><bdi>Built to Spill</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1992 (24 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/0975b71a-995a-4f7b-a1c3-41e302ba4dc6"><bdi>Boise</bdi></a>, <a href="/area/f2532a8e-276c-457a-b3d9-0a7706535178"><bdi>Idaho</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000094874294">0000 0000 9487 4294    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/ratings" title="Built to Spill"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/indie%20rock"><bdi>indie rock</bdi></a>, <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/indie"><bdi>indie</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.builttospill.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000527267">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/260124">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm3163714/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Built+to+Spill">Built to Spill</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Built_To_Spill">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/builttospill">builttospill</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/built_to_spill">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/2840">Musik-Sammler</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/lccn-no98083610/">WorldCat</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/builttospill">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/39051">SecondHandSongs</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/builttospill">builttospill</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/builttospill">builttospill</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/139757534">VIAF: 139757534</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1003115">Q1003115</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Built_to_Spill">en: Built to Spill</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/3ac482b8-1494-4071-a0e9-f192f9d2c2b0/relationships" title="Built to Spill"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F3ac482b8-1494-4071-a0e9-f192f9d2c2b0">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-12-31 02:36 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

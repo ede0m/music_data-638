@@ -1,0 +1,801 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MC5 - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1964 in Detroit, Dissolved: 1972 in Detroit, Area: United States"/><script type="application/ld+json">{"@context":"http://schema.org","foundingDate":"1964","album":[{"byArtist":{"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","@type":"MusicGroup"},"name":"Back in the USA","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1dc35b25-2e1a-30e1-87c0-6dd07aa8f592","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"MC5"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"High Time","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/07cd1d15-3936-3b76-b3da-5603f9f19a86","byArtist":{"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"MC5"},{"creditedTo":"MC5","@type":"MusicAlbum","name":"Power Trip","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ea0c115a-1e1c-3b56-8e7e-6b1e0bdfca27","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","@type":"MusicGroup"}},{"byArtist":{"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","@type":"MusicGroup"},"name":"American Ruse","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d0bbf8aa-3202-34fe-a17b-f3f09415e5b9","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"MC5","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2d2a6146-f28f-3bc0-b229-b3e53b5f0d06","albumProductionType":"http://schema.org/StudioAlbum","name":"Motor City is Burning","@type":"MusicAlbum","creditedTo":"MC5"},{"@id":"https://musicbrainz.org/release-group/19bf9bd4-b06e-4130-97e0-37e802a1dcc2","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Do It","byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"MC5"},{"byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Babes in Arms","@id":"https://musicbrainz.org/release-group/4919aecf-8ff1-392f-8915-19c32273bc37","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"MC5"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"},"name":"Vintage Years","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/287d2224-56e4-328b-9826-0898c870d0f8","creditedTo":"MC5","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"},"name":"Looking At You","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/d9043e8e-caca-30ce-8df4-d8c2f576e294","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"MC5"},{"creditedTo":"MC5","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"},"@id":"https://musicbrainz.org/release-group/405f0698-3b08-3b26-8809-5f26a8f4146f","albumReleaseType":"http://schema.org/AlbumRelease","name":"Thunder Express","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","@type":"MusicGroup"},"name":"'66 Breakout!","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/18ff38af-c9b6-3acc-8e32-2ff1eaa4a849","creditedTo":"MC5","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"The Big Bang: The Best of the MC5","@id":"https://musicbrainz.org/release-group/e26c5b97-2c2b-3323-b346-178ee61f491b","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"creditedTo":"MC5","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/311be465-ebc4-3532-861a-f10a519eef48","name":"Purity Accuracy","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"MC5","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"The Very Best Of","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/99f913c9-019c-417f-a70a-51afed96fb3d","byArtist":{"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","@type":"MusicGroup"},"creditedTo":"MC5","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Kick Out the Jams! Anthology 1965-1971","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c4b96ed5-cc55-42f2-9d45-ea8967feb195","@type":"MusicAlbum","creditedTo":"MC5"},{"name":"Extended Versions: The Encore Collection","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f880378f-dda9-3c5f-a95c-deb0f9e87026","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"},"creditedTo":"MC5","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/44410403-45d3-30fa-ba48-d16664bf6fb3","name":"Kick Out the Jams","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"MC5"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2dccc507-81f2-349a-b30d-e1b2897b8b92","albumProductionType":"http://schema.org/LiveAlbum","name":"Black to Comm","byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"MC5"},{"creditedTo":"MC5","@type":"MusicAlbum","name":"Teen Age Lust","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f9544590-3319-3d2e-8909-e240d2cbc5c9","byArtist":{"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","@type":"MusicGroup"}},{"creditedTo":"MC5","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"},"name":"Starship","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/462c778e-37c0-3e5e-8689-4061d1d8fe4c"},{"@type":"MusicAlbum","creditedTo":"MC5","byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/7014e25c-ba08-39af-8d5a-2cdbf2991e55","albumReleaseType":"http://schema.org/AlbumRelease","name":"Greatest Hits Live","albumProductionType":"http://schema.org/LiveAlbum"},{"creditedTo":"Primal Scream \u0026 MC5 - DKT","@type":"MusicAlbum","byArtist":[{"name":"Primal Scream","@id":"https://musicbrainz.org/artist/55704c38-224f-4b75-b29f-d43653f8bc9a","@type":"MusicGroup"},{"@type":"MusicGroup","name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a"}],"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/59f3a59b-10c7-425e-bcb5-547909b36606","name":"Black to Comm","albumProductionType":"http://schema.org/LiveAlbum"},{"@type":"MusicAlbum","creditedTo":"MC5","byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5ee40fd6-312a-3a80-bbc7-6f208fdf379c","name":"Live 1969/70","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/d8bc1db8-10ac-4869-b457-01857a68feda","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"I Can Only Give You Everything / I Just Don't Know","byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"MC5"},{"creditedTo":"MC5","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Looking at You / Borderline","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f7fa7339-be21-4246-879b-03bf1a34c5b3","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"}},{"@type":"MusicAlbum","creditedTo":"MC5","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/fe49ecbb-1277-48c6-b741-0c1a7421d94b","name":"Power Trip","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5"}},{"@type":"MusicAlbum","creditedTo":"MC5","albumProductionType":"http://schema.org/LiveAlbum","name":"Ice Pick Slim","@id":"https://musicbrainz.org/release-group/a509c995-72bb-3c00-8cc2-70a4910e21f8","byArtist":{"@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","name":"MC5","@type":"MusicGroup"}}],"dissolutionDate":"1972","member":[{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/17327e1e-4933-4f59-bb6d-1e50078b328b","name":"Wayne Kramer","@type":["Person","MusicGroup"]}},{"@type":"OrganizationRole","roleName":[],"startDate":"2005","member":{"@id":"https://musicbrainz.org/artist/3cee9641-71e8-462a-8071-71318aed8926","name":"Handsome Dick Manitoba","@type":["Person","MusicGroup"]},"endDate":"2012"},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/7a5b3e1b-9b66-49b6-9ce4-254b23b7a123","name":"Dennis Thompson","@type":["Person","MusicGroup"]}},{"member":{"@type":["Person","MusicGroup"],"name":"Robin Tyner","@id":"https://musicbrainz.org/artist/d0a8fec1-1f71-4d90-aedb-1f6ee4b28e45"},"@type":"OrganizationRole","roleName":[]},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d3e4a16b-4585-44bc-b9fc-87ad9c5cce8f","name":"Michael Davis"},"@type":"OrganizationRole","roleName":[]},{"member":{"@id":"https://musicbrainz.org/artist/f6293d3a-036e-47b8-9aa4-ded71d10dead","name":"Fred “Sonic” Smith","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]}],"name":"MC5","@id":"https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a","groupOrigin":{"@id":"https://musicbrainz.org/area/b03ff310-d8e2-45cf-9455-769f76641eb2","name":"Detroit","@type":"City","containedIn":{"containedIn":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"},"@type":"AdministrativeArea","name":"Michigan","@id":"https://musicbrainz.org/area/29fa065f-a568-418c-98b9-5023f64d9312"}},"@type":"MusicGroup","sameAs":["http://en.wikipedia.org/wiki/MC5","http://isni-url.oclc.nl/isni/0000000114636382","http://rateyourmusic.com/artist/mc5","http://www.allmusic.com/artist/mn0000182598","http://www.bbc.co.uk/music/artists/08b736bb-1c82-40b4-8b0b-49e2182a067a","https://www.discogs.com/artist/137399","https://www.wikidata.org/wiki/Q830316"],"location":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F08b736bb-1c82-40b4-8b0b-49e2182a067a">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F08b736bb-1c82-40b4-8b0b-49e2182a067a">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5 – MC5"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/releases" title="MC5"><bdi>Releases</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/recordings" title="MC5"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/works" title="MC5"><bdi>Works</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/events" title="MC5"><bdi>Events</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/relationships" title="MC5"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/aliases" title="MC5"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/tags" title="MC5"><bdi>Tags</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/details" title="MC5"><bdi>Details</bdi></a></li>            <li><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/edit" title="MC5"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>MC5</b> was an American rock band from Lincoln Park, Michigan, formed in 1964. The original band line-up consisted of vocalist Rob Tyner, guitarists Wayne Kramer and Fred "Sonic" Smith, bassist Michael Davis, and drummer Dennis Thompson. "Crystallizing the counterculture movement at its most volatile and threatening", according to <i>AllMusic</i> critic Stephen Thomas Erlewine, the MC5's far left political ties and anti-establishment lyrics and music positioned them as emerging innovators of the punk movement in the United States. Their loud, energetic style of back-to-basics rock and roll included elements of garage rock, hard rock, blues rock, and psychedelic rock.</p>
+<p>MC5 had a promising beginning which earned them a January 1969 cover appearance in <i>Rolling Stone</i> and a story written by Eric Ehrmann before their debut album was released. They developed a reputation for energetic and polemical live performances, one of which was recorded as their 1969 debut album <i>Kick Out the Jams</i>. Their initial run was short-lived, though. In 1972, just three years after their debut record, the band came to an end. MC5 was often cited as one of the most important American hard rock groups of their era. Their three albums are regarded by many as classics, and their song "Kick Out the Jams" is widely covered.</p>
+<p>Tyner died of a heart attack in late 1991 at the age of 46. Smith also died of a heart attack, in 1994 at the age of 45. The remaining three members of the band reformed in 2003 with The Dictators' singer Handsome Dick Manitoba as its new vocalist, and this reformed line-up occasionally performed live over the next nine years until Davis died of liver failure in February 2012 at the age of 68.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/MC5">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=4100" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1970</td>
+        <td><a href="/release-group/1dc35b25-2e1a-30e1-87c0-6dd07aa8f592"><bdi>Back in the USA</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/07cd1d15-3936-3b76-b3da-5603f9f19a86"><bdi>High Time</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/ea0c115a-1e1c-3b56-8e7e-6b1e0bdfca27"><bdi>Power Trip</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/d0bbf8aa-3202-34fe-a17b-f3f09415e5b9"><bdi>American Ruse</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/2d2a6146-f28f-3bc0-b229-b3e53b5f0d06"><bdi>Motor City is Burning</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/19bf9bd4-b06e-4130-97e0-37e802a1dcc2"><bdi>Do It</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/4919aecf-8ff1-392f-8915-19c32273bc37"><bdi>Babes in Arms</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/287d2224-56e4-328b-9826-0898c870d0f8"><bdi>Vintage Years</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/d9043e8e-caca-30ce-8df4-d8c2f576e294"><bdi>Looking At You</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/405f0698-3b08-3b26-8809-5f26a8f4146f"><bdi>Thunder Express</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/18ff38af-c9b6-3acc-8e32-2ff1eaa4a849"><bdi>'66 Breakout!</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/e26c5b97-2c2b-3323-b346-178ee61f491b"><bdi>The Big Bang: The Best of the MC5</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/311be465-ebc4-3532-861a-f10a519eef48"><bdi>Purity Accuracy</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/99f913c9-019c-417f-a70a-51afed96fb3d"><bdi>The Very Best Of</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/c4b96ed5-cc55-42f2-9d45-ea8967feb195"><bdi>Kick Out the Jams! Anthology 1965-1971</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f880378f-dda9-3c5f-a95c-deb0f9e87026"><bdi>Extended Versions: The Encore Collection</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/44410403-45d3-30fa-ba48-d16664bf6fb3"><bdi>Kick Out the Jams</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/2dccc507-81f2-349a-b30d-e1b2897b8b92"><bdi>Black to Comm</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/f9544590-3319-3d2e-8909-e240d2cbc5c9"><bdi>Teen Age Lust</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/462c778e-37c0-3e5e-8689-4061d1d8fe4c"><bdi>Starship</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/7014e25c-ba08-39af-8d5a-2cdbf2991e55"><bdi>Greatest Hits Live</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/59f3a59b-10c7-425e-bcb5-547909b36606"><bdi>Black to Comm</bdi></a></td>
+        
+        <td><a href="/artist/55704c38-224f-4b75-b29f-d43653f8bc9a" title="Primal Scream (Scottish rock band)"><bdi>Primal Scream</bdi></a> &amp; <span class="name-variation"><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5 – MC5"><bdi>MC5 - DKT</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/5ee40fd6-312a-3a80-bbc7-6f208fdf379c"><bdi>Live 1969/70</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/d8bc1db8-10ac-4869-b457-01857a68feda"><bdi>I Can Only Give You Everything / I Just Don't Know</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1968</td>
+        <td><a href="/release-group/f7fa7339-be21-4246-879b-03bf1a34c5b3"><bdi>Looking at You / Borderline</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/fe49ecbb-1277-48c6-b741-0c1a7421d94b"><bdi>Power Trip</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a509c995-72bb-3c00-8cc2-70a4910e21f8"><bdi>Ice Pick Slim</bdi></a></td>
+        
+        <td><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a" title="MC5"><bdi>MC5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/MC5_%40_The_Casbah.jpg/250px-MC5_%40_The_Casbah.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:MC5 @ The Casbah.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1964</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/b03ff310-d8e2-45cf-9455-769f76641eb2"><bdi>Detroit</bdi></a>, <a href="/area/29fa065f-a568-418c-98b9-5023f64d9312"><bdi>Michigan</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>1972 (8 years)</dd>
+<dt>Dissolved in:</dt>
+<dd class="end_area"><a href="/area/b03ff310-d8e2-45cf-9455-769f76641eb2"><bdi>Detroit</bdi></a>, <a href="/area/29fa065f-a568-418c-98b9-5023f64d9312"><bdi>Michigan</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000114636382">0000 0001 1463 6382    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span>    (<a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/ratings" title="MC5"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/garage%20rock"><bdi>garage rock</bdi></a>, <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/lincoln%20park"><bdi>lincoln park</bdi></a>, <a href="/tag/michigan"><bdi>michigan</bdi></a>, <a href="/tag/proto-punk"><bdi>proto-punk</bdi></a>, <a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/tags" title="MC5"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000182598">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/08b736bb-1c82-40b4-8b0b-49e2182a067a">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/137399">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/mc5">Rateyourmusic</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q830316">Q830316</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/MC5">en: MC5</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a/relationships" title="MC5"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F08b736bb-1c82-40b4-8b0b-49e2182a067a">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-07-11 02:45 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

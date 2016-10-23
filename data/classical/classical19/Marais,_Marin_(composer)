@@ -1,0 +1,828 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Marin Marais - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="composer, Type: Person, Gender: Male, Born: 1656-05-31 in Paris, Died: 1728-08-15 in Paris, Area: France"/><script type="application/ld+json">{"birthDate":"1656-05-31","deathPlace":{"@id":"https://musicbrainz.org/area/dc10c22b-e510-4006-8b7f-fecb4f36436e","name":"Paris","@type":"City","containedIn":{"containedIn":{"name":"France","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115","@type":"Country"},"@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/d79e4501-8cba-431b-96e7-bb9976f0ae76","name":"Île-de-France"}},"location":{"@type":"Country","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115","name":"France"},"@type":["Person","MusicGroup"],"album":[{"creditedTo":"Marin Marais; Jordi Savall, Anne Gallet, Hopkinson Smith","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5a24f017-35bd-485e-90d1-22246275ef09","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Pièces de viole du Second Livre (1701)","byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","name":"Jordi Savall"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c4ec0b87-70fc-4bfd-8937-25a355e501ab","name":"Anne Gallet"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dfa6d053-2bd8-4119-9b17-7bb39af0a5a5","name":"Hopkinson Smith"}]},{"@type":"MusicAlbum","creditedTo":"Marin Marais; Jordi Savall, Ton Koopman, Hopkinson Smith","byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","name":"Jordi Savall","@type":["Person","MusicGroup"]},{"name":"Ton Koopman","@id":"https://musicbrainz.org/artist/448da1b1-43a3-4239-b2c1-f7e46463439e","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dfa6d053-2bd8-4119-9b17-7bb39af0a5a5","name":"Hopkinson Smith"}],"name":"Pièces de viole du cinquième livre (1725)","@id":"https://musicbrainz.org/release-group/18977b47-2380-3f2f-832c-8bd7f443fc22","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Marin Marais; Jordi Savall","@type":"MusicAlbum","name":"Pièces de viole du quatrième livre","@id":"https://musicbrainz.org/release-group/59237059-b719-329d-b675-508028b26cb5","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"},{"name":"Jordi Savall","@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","@type":["Person","MusicGroup"]}]},{"byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","name":"Johann Sebastian Bach"},{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Sigfrid Karg-Elert","@id":"https://musicbrainz.org/artist/8a8b0ded-a43f-4c06-a797-46a91b03e4c9"},{"@type":["Person","MusicGroup"],"name":"Edgard Varèse","@id":"https://musicbrainz.org/artist/9a6d6ce0-3496-4db2-8c7a-f2a9a14548a9"},{"@type":["Person","MusicGroup"],"name":"Luciano Berio","@id":"https://musicbrainz.org/artist/d61e77cc-80b3-4586-bf4e-91fe7f13165e"},{"@id":"https://musicbrainz.org/artist/eef26fda-5c84-42d3-a06c-296211a584a1","name":"福島 和夫","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Peter-Lukas Graf","@id":"https://musicbrainz.org/artist/fdc0c5bb-9755-439f-bef8-9516e0c15536"}],"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/842232f4-ac68-4282-a3ea-447ee0ad30ee","albumReleaseType":"http://schema.org/AlbumRelease","name":"Werke für Flöte Solo","@type":"MusicAlbum","creditedTo":"Bach, Marais, Karg-Elert, Varèse, Berio, Fukushima; Peter-Lukas Graf"},{"name":"La Folia","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5ab578e9-ca57-4ac2-87f5-fa3548da3ddf","byArtist":[{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/3761cf63-a7f0-4316-b5f0-aea26870b980","name":"The Purcell Quartet"}],"creditedTo":"Marin Marais; The Purcell Quartet","@type":"MusicAlbum"},{"creditedTo":"Marin Marais; The Boston Museum Trio","@type":"MusicAlbum","name":"La Gamme et autres morceaux de symphonie","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fc18ab42-2324-4078-8caa-862549159df1","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/f013f935-e7ce-4f7f-94a6-9df576bf56b9","name":"The Boston Museum Trio","@type":"MusicGroup"}]},{"creditedTo":"Marin Marais, Jean de Sainte-Colombe; Spectre de la Rose","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/3c3feb0e-e69d-4bca-8284-f88324030afe","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Greatest Masterworks / Les plus grands chefs-d'œuvre","byArtist":[{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Jean de Sainte-Colombe","@id":"https://musicbrainz.org/artist/5016dc21-b116-44f1-873d-c3d8c4084633"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7bb6919a-d0a3-4b51-9fc0-79bbf2e856be","name":"Spectre de la Rose"}]},{"creditedTo":"Marin Marais","@type":"MusicAlbum","name":"Alcione (Le Concert des Nations feat. conductor: Jordi Savall)","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/cfd307f9-f9b9-3b75-9718-d1d76860724d","byArtist":{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]}},{"creditedTo":"Marin Marais; Markku Luolajan-Mikkola","@type":"MusicAlbum","name":"Pièces de viole du second livre","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0511a102-0e1d-400e-80a7-f03f97db5f42","byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e4b9c6ef-754a-4ca7-ad17-46991463853c","name":"Markku Luolajan-Mikkola"}]},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/72cd5d23-3783-3219-a965-2e9271ae614e","albumReleaseType":"http://schema.org/AlbumRelease","name":"La Folia 1490–1701","byArtist":[{"@id":"https://musicbrainz.org/artist/a3546087-fe59-47d3-a3a8-42d58e2573c7","name":"Arcangelo Corelli","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/907b33a8-ea95-44ed-9231-3dc5d2afdb6a","name":"Antonio Martín y Coll"},{"name":"Diego Ortiz","@id":"https://musicbrainz.org/artist/cd3b9270-42fe-4146-ad4a-1916bba478d3","@type":["Person","MusicGroup"]},{"name":"[anonymous]","@id":"https://musicbrainz.org/artist/f731ccc4-e22a-43af-a747-64213329e088","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","name":"Jordi Savall","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e4f4eab7-e864-4838-9908-8ccd37c9ce35","name":"Rolf Lislevand"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7f95286a-dd71-49db-896d-67dfb7c1b4a8","name":"Michael Behringer"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9846b065-0d97-4232-aecc-31a281108b72","name":"Arianna Savall"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/2cacb9dd-2453-4173-8427-b708fe654bf2","name":"Bruno Cocset"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/951daf47-14f5-44f0-b683-0d863a4c6674","name":"Pedro Estevan"},{"@type":["Person","MusicGroup"],"name":"Adela González-Campa","@id":"https://musicbrainz.org/artist/3ae79532-b507-49ac-8586-fb6fa075d9e1"}],"creditedTo":"Corelli, Marais, Martín y Coll, Ortiz, Anónimos; Jordi Savall, Rolf Lislevand, Michael Behringer, Arianna Savall, Bruno Cocset, Pedro Estevan, Adela Gonzalez-Campa","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/819be310-60e6-3fc2-8443-739ca54a43cf","albumReleaseType":"http://schema.org/AlbumRelease","name":"Suitte d'un goût etranger","byArtist":[{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Christophe Coin","@id":"https://musicbrainz.org/artist/11c3fa86-9930-4745-98ef-148fdae2f271"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset"},{"@id":"https://musicbrainz.org/artist/40ed00ea-2406-4e0d-a4b3-f26d5c931bb8","name":"Vittorio Ghielmi","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/0e96cb13-6b88-4128-b0f2-55ebb32feaa1","name":"Pascal Monteilhet","@type":["Person","MusicGroup"]}],"creditedTo":"Marin Marais; Christophe Coin, Christophe Rousset, Vittorio Ghielmi, Pascal Monteilhet","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Marin Marais","byArtist":{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c083656a-4da1-3864-b2dc-659b6a2ccdb0","name":"La Gamme / Sonate à la Marésienne (London Baroque feat. conductor: Charles medlam)"},{"name":"Folies","@id":"https://musicbrainz.org/release-group/ee93cc15-dd11-4251-b090-b4d516ea209c","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Nicolas Lebègue","@id":"https://musicbrainz.org/artist/8b1275c6-bc36-4cf7-be37-81a071ea09bd","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Jean-Philippe Rameau","@id":"https://musicbrainz.org/artist/b29a3b55-785c-4072-9daf-0153cac864b6"},{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/86523090-6085-42c1-80b7-772f1bc80472","name":"François Couperin","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/594be990-5fbd-47c0-8e72-930bea761766","name":"Les Voix humaines","@type":"MusicGroup"}],"creditedTo":"Lebègue, Rameau, Marais, Couperin; Les Voix humaines","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/1a591f67-4959-4a30-8c1c-32e574b73569","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Pièces de Viole du Second Livre, 1701","byArtist":[{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","name":"Jordi Savall"},{"@id":"https://musicbrainz.org/artist/bf55610c-41d9-45bf-a0ae-d912f49071a0","name":"Pierre Hantaï","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e4f4eab7-e864-4838-9908-8ccd37c9ce35","name":"Rolf Lislevand"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e6f1b0f2-7d48-47ab-8686-17c3323aa58b","name":"Xavier Díaz-Latorre"},{"@id":"https://musicbrainz.org/artist/3edd32e1-16c7-49f4-a503-085b30d2010d","name":"Philippe Pierlot","@type":["Person","MusicGroup"]}],"creditedTo":"Marin Marais; Jordi Savall, Pierre Hantaï, Rolf Lislevand, Xavier Díaz-Latorre, Philippe Pierlot","@type":"MusicAlbum"},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"},{"@type":["Person","MusicGroup"],"name":"Hille Perl","@id":"https://musicbrainz.org/artist/0e672875-c893-4b15-b68c-6a5beac9462a"},{"name":"Lee Santana","@id":"https://musicbrainz.org/artist/164cbbbe-f2ee-4e7c-b7c2-b82c2a2542df","@type":["Person","MusicGroup"]}],"name":"Pour la Violle et le Théorbe","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/6dfd95ad-2ba5-426f-b2db-7cc8cc43c1ea","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Marin Marais; Hille Perl, Lee Santana"},{"@type":"MusicAlbum","creditedTo":"Marin Marais; Nikolaus Harnoncourt","byArtist":[{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},{"name":"Nikolaus Harnoncourt","@id":"https://musicbrainz.org/artist/98b95966-64db-4631-8b9f-8aa66f32cc98","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9485779b-5ec5-47ad-b319-10be23f7a108","name":"Sonnerie De Sainte Geneviève Du Mont, Suites Pour Violes"},{"creditedTo":"Marin Marais","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2a47e2ff-5da3-31de-a1ba-e48354fff8b5","albumReleaseType":"http://schema.org/AlbumRelease","name":"Suitte d'un goût étranger : Pièces de viole du IV livre, 1717 (Jordi Savall)","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"}},{"creditedTo":"Abel, Bach, Marais, Sainte-Colombe; Jordi Savall","@type":"MusicAlbum","name":"Les voix humaines","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ac7b06bb-3468-30f4-86e9-13e71d320cfe","byArtist":[{"@type":["Person","MusicGroup"],"name":"Carl Friedrich Abel","@id":"https://musicbrainz.org/artist/449987ad-2b8c-4b1c-aeca-c2ab8d1e078d"},{"@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach","@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},{"name":"Jean de Sainte-Colombe","@id":"https://musicbrainz.org/artist/5016dc21-b116-44f1-873d-c3d8c4084633","@type":["Person","MusicGroup"]},{"name":"Jordi Savall","@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","@type":["Person","MusicGroup"]}]},{"@type":"MusicAlbum","creditedTo":"Marin Marais; Hille Perl, Lee Santana","byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"name":"Hille Perl","@id":"https://musicbrainz.org/artist/0e672875-c893-4b15-b68c-6a5beac9462a","@type":["Person","MusicGroup"]},{"name":"Lee Santana","@id":"https://musicbrainz.org/artist/164cbbbe-f2ee-4e7c-b7c2-b82c2a2542df","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0e6d7145-f39f-3af2-bebf-85a0d8f5fb72","albumReleaseType":"http://schema.org/AlbumRelease","name":"Les voix humaines"},{"creditedTo":"Marin Marais; Le Concert Spirituel, Hervé Niquet","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/a528f9d4-33b5-3ced-ae1e-76eb54ce78c6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sémélé","byArtist":[{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},{"name":"Le Concert Spirituel","@id":"https://musicbrainz.org/artist/55beb4bb-d359-4f97-bd06-b19c334e5d67","@type":"MusicGroup"},{"name":"Hervé Niquet","@id":"https://musicbrainz.org/artist/080ec178-ad85-4d8a-8106-11d5fc67240c","@type":["Person","MusicGroup"]}]},{"byArtist":[{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4e500c20-2d99-4d34-9830-16b907cecd0b","name":"Ensemble Spirale"},{"@type":["Person","MusicGroup"],"name":"Marianne Muller","@id":"https://musicbrainz.org/artist/3e9e36ce-0bff-4507-b8c7-5b359f6e67a1"}],"name":"Marin Marais: Les Folies d'Espagne; Suite en mi; Le Labyrinthe","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/cf5abd7c-04ac-46b7-8015-b2462ac61dd2","@type":"MusicAlbum","creditedTo":"Marin Marais; Ensemble Spirale, Marianne Muller"},{"byArtist":{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/168d2d2b-066b-4388-9cee-7598574f976c","name":"La Voix de la Viole - La Bellemont","@type":"MusicAlbum","creditedTo":"Marin Marais - La Bellemont"},{"name":"Réflexions Sérieuses: Works by Antoine Forqueray \u0026 Marin Marais","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a5d9cdc1-7d96-4d48-b207-6a2aefcbd91d","byArtist":[{"@id":"https://musicbrainz.org/artist/7ea7ad5a-f2fe-4988-ada5-c15a11958911","name":"Antoine Forqueray","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"@id":"https://musicbrainz.org/artist/44e23fb0-204b-415f-a636-238b7ad2d3c3","name":"Sarah Perl","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/933b7a5d-7b9c-4fc5-9187-54dbb7f812b4","name":"Mira Lange","@type":["Person","MusicGroup"]}],"creditedTo":"Antoine Forqueray, Marin Marais; Sarah Perl, Mira Lange","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Lully, Marais, Rebel; Tempesta di Mare Philadelphia Baroque Orchestra","byArtist":[{"name":"Jean-Baptiste Lully","@id":"https://musicbrainz.org/artist/7f9989b0-8f5e-41dd-bbab-1fff052609e3","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/174c5a97-bdf2-4b19-9882-73ca0d2fe477","name":"Jean-Féry Rebel"},{"name":"Tempesta di Mare","@id":"https://musicbrainz.org/artist/5ebda7eb-4b1f-49b3-99b2-7257e974dc97","@type":"MusicGroup"}],"name":"Comédie et Tragédie, Vol. 1","@id":"https://musicbrainz.org/release-group/030a12df-2982-4b5f-9e61-749e0815d890","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Marin Marais; Marie van Rhijn","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/821ad128-5427-4d95-920a-62231ceea708","name":"Dans les Jardins d'Eurytus","byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"name":"Marie van Rhijn","@id":"https://musicbrainz.org/artist/72e3e76a-7c8b-4524-9e54-91a8d595a0dd","@type":"MusicGroup"}]},{"@type":"MusicAlbum","creditedTo":"Marin Marais; L'Achéron, François Joubert-Caillet","byArtist":[{"@type":["Person","MusicGroup"],"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"},{"@type":"MusicGroup","name":"L’Achéron","@id":"https://musicbrainz.org/artist/3f311562-3c07-4818-9fbc-f60fc7ab1b5f"},{"@type":["Person","MusicGroup"],"name":"François Joubert-Caillet","@id":"https://musicbrainz.org/artist/4492a451-c218-47b4-bae8-28dd8d387b7b"}],"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ded625af-1819-4cab-b777-cc271099a5a8","albumReleaseType":"http://schema.org/AlbumRelease","name":"Marin Marais: Pièces Favorites"},{"byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"@type":["Person","MusicGroup"],"name":"Paolo Pandolfo","@id":"https://musicbrainz.org/artist/e8c546e4-7c90-4818-9796-8f4bc7d2a7b1"}],"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8a3d2ab3-0692-3df6-b8b3-476a7aaa95b9","name":"Le labyrinthe \u0026 autres histoires...","@type":"MusicAlbum","creditedTo":"Marin Marais; Paolo Pandolfo"},{"creditedTo":"Marin Marais / Jordi Savall","@type":"MusicAlbum","name":"Pieces à deux violes du premier Livre 1686","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a465fb88-9d4e-4a91-a334-0bb13e2cb979","byArtist":[{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","name":"Jordi Savall"}]},{"@type":"MusicAlbum","creditedTo":"Marin Marais; Jérôme Hantaï, Alix Verzier, Pierre Hantaï","byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais"},{"name":"Jérôme Hantaï","@id":"https://musicbrainz.org/artist/d35b0f55-daaa-497c-be3d-cb13be78ef95","@type":["Person","MusicGroup"]},{"name":"Alix Verzier","@id":"https://musicbrainz.org/artist/3ad79c0c-d2fb-40a6-8031-d1dcf9f049be","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bf55610c-41d9-45bf-a0ae-d912f49071a0","name":"Pierre Hantaï"}],"name":"Pièces de viole","@id":"https://musicbrainz.org/release-group/058d058d-d1cd-39ab-ad31-6170a78b57c1","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Marin Marais","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/dec70c76-b3d0-3d14-a53f-55cd3ac7d4bf","albumReleaseType":"http://schema.org/AlbumRelease","name":"Pieces de Viole (Cem Duruoz)","byArtist":{"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","@type":["Person","MusicGroup"]}},{"name":"Pièces de viole du troisième livre 1711","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/184cd447-b178-3a1a-a6d0-c6556b0ac2e4","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"},{"@id":"https://musicbrainz.org/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57","name":"Jordi Savall","@type":["Person","MusicGroup"]},{"name":"Ton Koopman","@id":"https://musicbrainz.org/artist/448da1b1-43a3-4239-b2c1-f7e46463439e","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/dfa6d053-2bd8-4119-9b17-7bb39af0a5a5","name":"Hopkinson Smith","@type":["Person","MusicGroup"]}],"creditedTo":"Marin Marais; Jordi Savall, Ton Koopmann, Hopkinson Smith","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Marin Marais","byArtist":{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]},"name":"Pièces en trio (Musica Pacifica)","@id":"https://musicbrainz.org/release-group/0c1d15cb-2a87-3670-bb40-b65ce6d7693c","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Premier Livre: Deuxième partie","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fd801e95-6135-412c-87c8-e740826a26e9","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/81627d1f-8ebb-4ae6-8d19-c3d2cba0b531","name":"Jean-Louis Charbonnier"},{"name":"Paul Rousseau","@id":"https://musicbrainz.org/artist/389b0086-d981-489f-b33b-6a2f904d8615","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/148d59e8-e5b9-4083-9d18-5cd9389f133f","name":"Claire Giardelli","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Mauricio Buraglia","@id":"https://musicbrainz.org/artist/5e6a64b3-3059-477b-acfe-d9e9d4156724"},{"@id":"https://musicbrainz.org/artist/6cf6cafd-9525-4ad7-9e9d-363c17aacd4b","name":"Pierre Trocelier","@type":["Person","MusicGroup"]}],"creditedTo":"Marin Marais; Jean-Louis Charbonnier, Paul Rousseau, Claire Giardelli, Mauricio Buraglia, Pierre Trocelier","@type":"MusicAlbum"},{"creditedTo":"Marin Marais","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/816813c6-77a5-3b0e-ab22-26804aead0ac","name":"Suites a 3 Violes du Quatrieme Livre","byArtist":{"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","@type":["Person","MusicGroup"]}},{"creditedTo":"Marin Marais","@type":"MusicAlbum","name":"Ligia Digital","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e9daf366-c721-4140-a981-76b1cc6e075c","byArtist":{"@type":["Person","MusicGroup"],"name":"Marin Marais","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"}}],"deathDate":"1728-08-15","@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7","name":"Marin Marais","birthPlace":{"name":"Paris","@id":"https://musicbrainz.org/area/dc10c22b-e510-4006-8b7f-fecb4f36436e","containedIn":{"name":"Île-de-France","@id":"https://musicbrainz.org/area/d79e4501-8cba-431b-96e7-bb9976f0ae76","@type":"AdministrativeArea","containedIn":{"name":"France","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115","@type":"Country"}},"@type":"City"},"@context":"http://schema.org","sameAs":["http://imslp.org/wiki/Category:Marais,_Marin","http://isni-url.oclc.nl/isni/0000000110648845","http://viaf.org/viaf/59270271","http://www.imdb.com/name/nm0544791/","https://en.wikipedia.org/wiki/Marin_Marais","https://musicbrainz.org/artist/9af1f557-aa33-4ff0-b14d-c83ca2a9764e","https://musicbrainz.org/artist/e999e1c2-29ad-4304-aca1-827c004a4607","https://www.discogs.com/artist/864379","https://www.wikidata.org/wiki/Q213519"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc6ea915d-3441-48fe-b1ad-e832e1410ea7">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fc6ea915d-3441-48fe-b1ad-e832e1410ea7">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a> <span class="comment">(<bdi>composer</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marin Marais – Marais, Marin (composer)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/releases" title="Marais, Marin (composer)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/recordings" title="Marais, Marin (composer)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/works" title="Marais, Marin (composer)"><bdi>Works</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/events" title="Marais, Marin (composer)"><bdi>Events</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/relationships" title="Marais, Marin (composer)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/aliases" title="Marais, Marin (composer)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/tags" title="Marais, Marin (composer)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/details" title="Marais, Marin (composer)"><bdi>Details</bdi></a></li>            <li><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/edit" title="Marais, Marin (composer)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>composer for viola da gamba<br />
+famous pupil of Jean Sainte-Colombe (q.v.)</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2010-07-31 14:20 UTC.
+            
+        </div>
+    </div>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=37776" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/5a24f017-35bd-485e-90d1-22246275ef09"><bdi>Pièces de viole du Second Livre (1701)</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a>, <a href="/artist/c4ec0b87-70fc-4bfd-8937-25a355e501ab" title="Gallet, Anne"><bdi>Anne Gallet</bdi></a>, <a href="/artist/dfa6d053-2bd8-4119-9b17-7bb39af0a5a5" title="Smith, Hopkinson"><bdi>Hopkinson Smith</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/18977b47-2380-3f2f-832c-8bd7f443fc22"><bdi>Pièces de viole du cinquième livre (1725)</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a>, <a href="/artist/448da1b1-43a3-4239-b2c1-f7e46463439e" title="Koopman, Ton"><bdi>Ton Koopman</bdi></a>, <a href="/artist/dfa6d053-2bd8-4119-9b17-7bb39af0a5a5" title="Smith, Hopkinson"><bdi>Hopkinson Smith</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/59237059-b719-329d-b675-508028b26cb5"><bdi>Pièces de viole du quatrième livre</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/842232f4-ac68-4282-a3ea-447ee0ad30ee"><bdi>Werke für Flöte Solo</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>Bach</bdi></a></span>, <span class="name-variation"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marin Marais – Marais, Marin (composer)"><bdi>Marais</bdi></a></span>, <span class="name-variation"><a href="/artist/8a8b0ded-a43f-4c06-a797-46a91b03e4c9" title="Sigfrid Karg-Elert – Karg-Elert, Sigfrid"><bdi>Karg-Elert</bdi></a></span>, <span class="name-variation"><a href="/artist/9a6d6ce0-3496-4db2-8c7a-f2a9a14548a9" title="Edgard Varèse – Varèse, Edgard"><bdi>Varèse</bdi></a></span>, <span class="name-variation"><a href="/artist/d61e77cc-80b3-4586-bf4e-91fe7f13165e" title="Luciano Berio – Berio, Luciano"><bdi>Berio</bdi></a></span>, <span class="name-variation"><a href="/artist/eef26fda-5c84-42d3-a06c-296211a584a1" title="福島 和夫 – Fukushima, Kazuo"><bdi>Fukushima</bdi></a></span>; <a href="/artist/fdc0c5bb-9755-439f-bef8-9516e0c15536" title="Graf, Peter-Lukas"><bdi>Peter-Lukas Graf</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/5ab578e9-ca57-4ac2-87f5-fa3548da3ddf"><bdi>La Folia</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/3761cf63-a7f0-4316-b5f0-aea26870b980" title="Purcell Quartet, The (UK Baroque quartet)"><bdi>The Purcell Quartet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/fc18ab42-2324-4078-8caa-862549159df1"><bdi>La Gamme et autres morceaux de symphonie</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/f013f935-e7ce-4f7f-94a6-9df576bf56b9" title="Boston Museum Trio, The"><bdi>The Boston Museum Trio</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/3c3feb0e-e69d-4bca-8284-f88324030afe"><bdi>The Greatest Masterworks / Les plus grands chefs-d'œuvre</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>, <a href="/artist/5016dc21-b116-44f1-873d-c3d8c4084633" title="Sainte-Colombe, Jean de"><bdi>Jean de Sainte-Colombe</bdi></a>; <a href="/artist/7bb6919a-d0a3-4b51-9fc0-79bbf2e856be" title="Rose, Spectre de la (British early music ensemble)"><bdi>Spectre de la Rose</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/cfd307f9-f9b9-3b75-9718-d1d76860724d"><bdi>Alcione (Le Concert des Nations feat. conductor: Jordi Savall)</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/0511a102-0e1d-400e-80a7-f03f97db5f42"><bdi>Pièces de viole du second livre</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/e4b9c6ef-754a-4ca7-ad17-46991463853c" title="Luolajan-Mikkola, Markku"><bdi>Markku Luolajan-Mikkola</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/72cd5d23-3783-3219-a965-2e9271ae614e"><bdi>La Folia 1490–1701</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/a3546087-fe59-47d3-a3a8-42d58e2573c7" title="Arcangelo Corelli – Corelli, Arcangelo"><bdi>Corelli</bdi></a></span>, <span class="name-variation"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marin Marais – Marais, Marin (composer)"><bdi>Marais</bdi></a></span>, <span class="name-variation"><a href="/artist/907b33a8-ea95-44ed-9231-3dc5d2afdb6a" title="Antonio Martín y Coll – Martín y Coll, Antonio"><bdi>Martín y Coll</bdi></a></span>, <span class="name-variation"><a href="/artist/cd3b9270-42fe-4146-ad4a-1916bba478d3" title="Diego Ortiz – Ortiz, Diego"><bdi>Ortiz</bdi></a></span>, <span class="name-variation"><a href="/artist/f731ccc4-e22a-43af-a747-64213329e088" title="[anonymous] – [anonymous] (Special Purpose Artist)"><bdi>Anónimos</bdi></a></span>; <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a>, <a href="/artist/e4f4eab7-e864-4838-9908-8ccd37c9ce35" title="Lislevand, Rolf"><bdi>Rolf Lislevand</bdi></a>, <a href="/artist/7f95286a-dd71-49db-896d-67dfb7c1b4a8" title="Behringer, Michael"><bdi>Michael Behringer</bdi></a>, <a href="/artist/9846b065-0d97-4232-aecc-31a281108b72" title="Savall, Arianna"><bdi>Arianna Savall</bdi></a>, <a href="/artist/2cacb9dd-2453-4173-8427-b708fe654bf2" title="Cocset, Bruno"><bdi>Bruno Cocset</bdi></a>, <a href="/artist/951daf47-14f5-44f0-b683-0d863a4c6674" title="Estevan, Pedro"><bdi>Pedro Estevan</bdi></a>, <span class="name-variation"><a href="/artist/3ae79532-b507-49ac-8586-fb6fa075d9e1" title="Adela González-Campa – González-Campa, Adela"><bdi>Adela Gonzalez-Campa</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/819be310-60e6-3fc2-8443-739ca54a43cf"><bdi>Suitte d'un goût etranger</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/11c3fa86-9930-4745-98ef-148fdae2f271" title="Coin, Christophe"><bdi>Christophe Coin</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a>, <a href="/artist/40ed00ea-2406-4e0d-a4b3-f26d5c931bb8" title="Ghielmi, Vittorio (Italian viola da gamba player)"><bdi>Vittorio Ghielmi</bdi></a>, <a href="/artist/0e96cb13-6b88-4128-b0f2-55ebb32feaa1" title="Monteilhet, Pascal"><bdi>Pascal Monteilhet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/c083656a-4da1-3864-b2dc-659b6a2ccdb0"><bdi>La Gamme / Sonate à la Marésienne (London Baroque feat. conductor: Charles medlam)</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/ee93cc15-dd11-4251-b090-b4d516ea209c"><bdi>Folies</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8b1275c6-bc36-4cf7-be37-81a071ea09bd" title="Nicolas Lebègue – Lebègue, Nicolas"><bdi>Lebègue</bdi></a></span>, <span class="name-variation"><a href="/artist/b29a3b55-785c-4072-9daf-0153cac864b6" title="Jean-Philippe Rameau – Rameau, Jean-Philippe (French composer of the Baroque era)"><bdi>Rameau</bdi></a></span>, <span class="name-variation"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marin Marais – Marais, Marin (composer)"><bdi>Marais</bdi></a></span>, <span class="name-variation"><a href="/artist/86523090-6085-42c1-80b7-772f1bc80472" title="François Couperin – Couperin, François (French composer of the Baroque era)"><bdi>Couperin</bdi></a></span>; <a href="/artist/594be990-5fbd-47c0-8e72-930bea761766" title="Voix humaines, Les (viola da gamba duo, Montreal)"><bdi>Les Voix humaines</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/1a591f67-4959-4a30-8c1c-32e574b73569"><bdi>Pièces de Viole du Second Livre, 1701</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a>, <a href="/artist/bf55610c-41d9-45bf-a0ae-d912f49071a0" title="Hantaï, Pierre (claveciniste)"><bdi>Pierre Hantaï</bdi></a>, <a href="/artist/e4f4eab7-e864-4838-9908-8ccd37c9ce35" title="Lislevand, Rolf"><bdi>Rolf Lislevand</bdi></a>, <a href="/artist/e6f1b0f2-7d48-47ab-8686-17c3323aa58b" title="Díaz-Latorre, Xavier"><bdi>Xavier Díaz-Latorre</bdi></a>, <a href="/artist/3edd32e1-16c7-49f4-a503-085b30d2010d" title="Pierlot, Philippe (Belgian violist and conductor)"><bdi>Philippe Pierlot</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/6dfd95ad-2ba5-426f-b2db-7cc8cc43c1ea"><bdi>Pour la Violle et le Théorbe</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/0e672875-c893-4b15-b68c-6a5beac9462a" title="Perl, Hille"><bdi>Hille Perl</bdi></a>, <a href="/artist/164cbbbe-f2ee-4e7c-b7c2-b82c2a2542df" title="Santana, Lee"><bdi>Lee Santana</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/9485779b-5ec5-47ad-b319-10be23f7a108"><bdi>Sonnerie De Sainte Geneviève Du Mont, Suites Pour Violes</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/98b95966-64db-4631-8b9f-8aa66f32cc98" title="Harnoncourt, Nikolaus"><bdi>Nikolaus Harnoncourt</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/2a47e2ff-5da3-31de-a1ba-e48354fff8b5"><bdi>Suitte d'un goût étranger : Pièces de viole du IV livre, 1717 (Jordi Savall)</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/ac7b06bb-3468-30f4-86e9-13e71d320cfe"><bdi>Les voix humaines</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/449987ad-2b8c-4b1c-aeca-c2ab8d1e078d" title="Carl Friedrich Abel – Abel, Carl Friedrich"><bdi>Abel</bdi></a></span>, <span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>Bach</bdi></a></span>, <span class="name-variation"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marin Marais – Marais, Marin (composer)"><bdi>Marais</bdi></a></span>, <span class="name-variation"><a href="/artist/5016dc21-b116-44f1-873d-c3d8c4084633" title="Jean de Sainte-Colombe – Sainte-Colombe, Jean de"><bdi>Sainte-Colombe</bdi></a></span>; <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/0e6d7145-f39f-3af2-bebf-85a0d8f5fb72"><bdi>Les voix humaines</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/0e672875-c893-4b15-b68c-6a5beac9462a" title="Perl, Hille"><bdi>Hille Perl</bdi></a>, <a href="/artist/164cbbbe-f2ee-4e7c-b7c2-b82c2a2542df" title="Santana, Lee"><bdi>Lee Santana</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a528f9d4-33b5-3ced-ae1e-76eb54ce78c6"><bdi>Sémélé</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/55beb4bb-d359-4f97-bd06-b19c334e5d67" title="Concert Spirituel, Le"><bdi>Le Concert Spirituel</bdi></a>, <a href="/artist/080ec178-ad85-4d8a-8106-11d5fc67240c" title="Niquet, Hervé"><bdi>Hervé Niquet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/cf5abd7c-04ac-46b7-8015-b2462ac61dd2"><bdi>Marin Marais: Les Folies d'Espagne; Suite en mi; Le Labyrinthe</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/4e500c20-2d99-4d34-9830-16b907cecd0b" title="Ensemble Spirale"><bdi>Ensemble Spirale</bdi></a>, <a href="/artist/3e9e36ce-0bff-4507-b8c7-5b359f6e67a1" title="Muller, Marianne (violist)"><bdi>Marianne Muller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/168d2d2b-066b-4388-9cee-7598574f976c"><bdi>La Voix de la Viole - La Bellemont</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marin Marais – Marais, Marin (composer)"><bdi>Marin Marais - La Bellemont</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/a5d9cdc1-7d96-4d48-b207-6a2aefcbd91d"><bdi>Réflexions Sérieuses: Works by Antoine Forqueray &amp; Marin Marais</bdi></a></td>
+        
+        <td><a href="/artist/7ea7ad5a-f2fe-4988-ada5-c15a11958911" title="Forqueray, Antoine (French composer and father of Jean-Baptiste Forqueray)"><bdi>Antoine Forqueray</bdi></a>, <a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/44e23fb0-204b-415f-a636-238b7ad2d3c3" title="Perl, Sarah"><bdi>Sarah Perl</bdi></a>, <a href="/artist/933b7a5d-7b9c-4fc5-9187-54dbb7f812b4" title="Lange, Mira"><bdi>Mira Lange</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/030a12df-2982-4b5f-9e61-749e0815d890"><bdi>Comédie et Tragédie, Vol. 1</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/7f9989b0-8f5e-41dd-bbab-1fff052609e3" title="Jean-Baptiste Lully – Lully, Jean-Baptiste"><bdi>Lully</bdi></a></span>, <span class="name-variation"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marin Marais – Marais, Marin (composer)"><bdi>Marais</bdi></a></span>, <span class="name-variation"><a href="/artist/174c5a97-bdf2-4b19-9882-73ca0d2fe477" title="Jean-Féry Rebel – Rebel, Jean-Féry"><bdi>Rebel</bdi></a></span>; <span class="name-variation"><a href="/artist/5ebda7eb-4b1f-49b3-99b2-7257e974dc97" title="Tempesta di Mare – Tempesta di Mare"><bdi>Tempesta di Mare Philadelphia Baroque Orchestra</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/821ad128-5427-4d95-920a-62231ceea708"><bdi>Dans les Jardins d'Eurytus</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/72e3e76a-7c8b-4524-9e54-91a8d595a0dd" title="van Rhijn, Marie"><bdi>Marie van Rhijn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/ded625af-1819-4cab-b777-cc271099a5a8"><bdi>Marin Marais: Pièces Favorites</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <span class="name-variation"><a href="/artist/3f311562-3c07-4818-9fbc-f60fc7ab1b5f" title="L’Achéron – Achéron, Le"><bdi>L'Achéron</bdi></a></span>, <a href="/artist/4492a451-c218-47b4-bae8-28dd8d387b7b" title="Joubert-Caillet, François"><bdi>François Joubert-Caillet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/8a3d2ab3-0692-3df6-b8b3-476a7aaa95b9"><bdi>Le labyrinthe &amp; autres histoires...</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/e8c546e4-7c90-4818-9796-8f4bc7d2a7b1" title="Pandolfo, Paolo"><bdi>Paolo Pandolfo</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a465fb88-9d4e-4a91-a334-0bb13e2cb979"><bdi>Pieces à deux violes du premier Livre 1686</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a> / <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/058d058d-d1cd-39ab-ad31-6170a78b57c1"><bdi>Pièces de viole</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/d35b0f55-daaa-497c-be3d-cb13be78ef95" title="Hantaï, Jérôme"><bdi>Jérôme Hantaï</bdi></a>, <a href="/artist/3ad79c0c-d2fb-40a6-8031-d1dcf9f049be" title="Verzier, Alix"><bdi>Alix Verzier</bdi></a>, <a href="/artist/bf55610c-41d9-45bf-a0ae-d912f49071a0" title="Hantaï, Pierre (claveciniste)"><bdi>Pierre Hantaï</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/dec70c76-b3d0-3d14-a53f-55cd3ac7d4bf"><bdi>Pieces de Viole (Cem Duruoz)</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/184cd447-b178-3a1a-a6d0-c6556b0ac2e4"><bdi>Pièces de viole du troisième livre 1711</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/9a4bb654-35c5-4c88-8460-39d5bb01aa57" title="Savall, Jordi"><bdi>Jordi Savall</bdi></a>, <span class="name-variation"><a href="/artist/448da1b1-43a3-4239-b2c1-f7e46463439e" title="Ton Koopman – Koopman, Ton"><bdi>Ton Koopmann</bdi></a></span>, <a href="/artist/dfa6d053-2bd8-4119-9b17-7bb39af0a5a5" title="Smith, Hopkinson"><bdi>Hopkinson Smith</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/0c1d15cb-2a87-3670-bb40-b65ce6d7693c"><bdi>Pièces en trio (Musica Pacifica)</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/fd801e95-6135-412c-87c8-e740826a26e9"><bdi>Premier Livre: Deuxième partie</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/81627d1f-8ebb-4ae6-8d19-c3d2cba0b531" title="Charbonnier, Jean-Louis"><bdi>Jean-Louis Charbonnier</bdi></a>, <a href="/artist/389b0086-d981-489f-b33b-6a2f904d8615" title="Rousseau, Paul"><bdi>Paul Rousseau</bdi></a>, <a href="/artist/148d59e8-e5b9-4083-9d18-5cd9389f133f" title="Giardelli, Claire (Viloncelle)"><bdi>Claire Giardelli</bdi></a>, <a href="/artist/5e6a64b3-3059-477b-acfe-d9e9d4156724" title="Buraglia, Mauricio"><bdi>Mauricio Buraglia</bdi></a>, <a href="/artist/6cf6cafd-9525-4ad7-9e9d-363c17aacd4b" title="Trocelier, Pierre"><bdi>Pierre Trocelier</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/816813c6-77a5-3b0e-ab22-26804aead0ac"><bdi>Suites a 3 Violes du Quatrieme Livre</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/e9daf366-c721-4140-a981-76b1cc6e075c"><bdi>Ligia Digital</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Marais, Marin</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1656-05-31</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/dc10c22b-e510-4006-8b7f-fecb4f36436e"><bdi>Paris</bdi></a>, <a href="/area/d79e4501-8cba-431b-96e7-bb9976f0ae76"><bdi>Île-de-France</bdi></a>, <span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+<dt>Died:</dt>
+<dd>1728-08-15 (aged 72)</dd>
+<dt>Died in:</dt>
+<dd class="end_area"><a href="/area/dc10c22b-e510-4006-8b7f-fecb4f36436e"><bdi>Paris</bdi></a>, <a href="/area/d79e4501-8cba-431b-96e7-bb9976f0ae76"><bdi>Île-de-France</bdi></a>, <span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000110648845">0000 0001 1064 8845    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/composer"><bdi>composer</bdi></a>, <a href="/tag/french%20composer"><bdi>french composer</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/864379">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm0544791/">IMDb</a>
+          
+          
+        </li>               <li class="imslp-favicon">
+          
+          
+          <a href="http://imslp.org/wiki/Category:Marais,_Marin">IMSLP</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/59270271">VIAF: 59270271</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q213519">Q213519</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Marin_Marais">en: Marin Marais</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7/relationships" title="Marais, Marin (composer)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc6ea915d-3441-48fe-b1ad-e832e1410ea7">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-02-20 03:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

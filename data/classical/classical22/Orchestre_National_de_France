@@ -1,0 +1,908 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Orchestre National de France - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Orchestra, Founded: 1975-01-01, Area: France"/><script type="application/ld+json">{"@type":"MusicGroup","album":[{"name":"The Planets, Op. 32","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Gustav Holst","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3ba68671-e3b5-4263-81dc-76b16b29bbc6"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"},{"@id":"https://musicbrainz.org/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955","@type":["Person","MusicGroup"],"name":"Lorin Maazel"}],"@type":"MusicAlbum","creditedTo":"Gustav Holst; Orchestre National de France, Lorin Maazel","@id":"https://musicbrainz.org/release-group/b0a24ca5-963f-3441-a6d1-fc98ec7c4b78"},{"creditedTo":"Maurice Ravel, Eliahu Inbal, Chœur et Orchestre National de France","@id":"https://musicbrainz.org/release-group/73c93d3d-06b1-4c27-9322-a01c3a88f73e","name":"Orchestral Works, Volume 1: Daphnis et Chloé","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Maurice Ravel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a"},{"@id":"https://musicbrainz.org/artist/a34fb252-833a-4fee-b53a-892428ad91d7","@type":["Person","MusicGroup"],"name":"Eliahu Inbal"},{"name":"Chœur national de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fb9ed0fc-6166-4d93-8bbf-5230fe2da368"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"}]},{"name":"Symphonie fantastique, Op. 14","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/274774a7-1cde-486a-bc3d-375ec54d552d","@type":["Person","MusicGroup"],"name":"Hector Berlioz"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"},{"@type":["Person","MusicGroup"],"name":"Leonard Bernstein","@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"}],"creditedTo":"Berlioz; Orchestre National de France, Leonard Bernstein","@id":"https://musicbrainz.org/release-group/eef0eb8c-4a06-389b-9da7-60ae78547bfa"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235","@type":["Person","MusicGroup"],"name":"Georges Bizet"},{"@type":["Person","MusicGroup"],"name":"Jessye Norman","@id":"https://musicbrainz.org/artist/bde64de3-01d4-4ed9-afe9-88b7d9db922d"},{"@type":["Person","MusicGroup"],"name":"Neil Shicoff","@id":"https://musicbrainz.org/artist/b90d862f-692e-41f4-bea4-9babed2a5ba8"},{"name":"Mirella Freni","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/be81ad1d-b280-40e9-8097-2c999420ed0b"},{"@id":"https://musicbrainz.org/artist/2c34219b-3393-461d-b586-3d171bdf25a3","name":"Simon Estes","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0","name":"Chœur de Radio France","@type":"MusicGroup"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"name":"小澤征爾","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Carmen","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7a646c70-9c7b-39fc-8750-9acd019e2e37","creditedTo":"Georges Bizet; Jessye Norman, Neil Shicoff, Mirella Freni, Simon Estes, Chœur de Radio France, Orchestre National de France, Seiji Ozawa"},{"byArtist":[{"name":"Jacques Offenbach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/27bc8cf5-72e1-4888-87de-259fbcaac3ff"},{"@type":["Person","MusicGroup"],"name":"Plácido Domingo","@id":"https://musicbrainz.org/artist/521df2bd-01f6-456e-9d5f-f081068819c2"},{"name":"Edita Gruberová","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0c461736-995c-421c-84dd-af2858dc1f31"},{"@id":"https://musicbrainz.org/artist/468ef63e-3014-4805-9d0f-a8046a517111","name":"Claudia Eder","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/3a36b2b8-5450-4464-9bee-d7a0ab6dd255","name":"Gabriel Bacquier","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/960b8f33-f87b-4086-8a07-839f6cf43640","name":"Justino Díaz","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/92ed4e66-d2a4-44f8-8e24-672235331b50","@type":["Person","MusicGroup"],"name":"James Morris"},{"name":"Chœur de Radio France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"name":"小澤征爾","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Les Contes d’Hoffmann","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3520b6fe-eb3f-3789-8f14-41ab0d993bfa","creditedTo":"Jacques Offenbach; Plácido Domingo, Edita Gruberová, Claudia Eder, Gabriel Bacquier, Justino Díaz, James Morris, Chœur de Radio France, Orchestre National de France, Seiji Ozawa"},{"creditedTo":"Francis Poulenc; Chœur de Radio France, Orchestre National de France \u0026 Georges Prêtre","@id":"https://musicbrainz.org/release-group/b2f1a143-4dee-47b9-9b04-e85d9a9ed0e5","name":"Gloria / Stabat Mater","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/5e1ef22b-310a-46ad-885b-4897b8c9c85a","name":"Francis Poulenc","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0","@type":"MusicGroup","name":"Chœur de Radio France"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"},{"@id":"https://musicbrainz.org/artist/33ff592d-0cf8-4d40-895d-993aad15d311","name":"Georges Prêtre","@type":["Person","MusicGroup"]}]},{"@id":"https://musicbrainz.org/release-group/0276b749-8faf-376d-b995-50d06c207146","creditedTo":"Giacomo Puccini; Barbara Hendricks, José Carreras, Gino Quilico, Angela Maria Blasi, Chœur de Radio France, Maîtrise de Radio France, Orchestre National de France, James Conlon","byArtist":[{"name":"Giacomo Puccini","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a693df4a-8762-4a45-b7fd-6695b558385e"},{"name":"Barbara Hendricks","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/21b3c493-68fd-4d56-bd93-bed911d21de5"},{"@type":["Person","MusicGroup"],"name":"José Carreras","@id":"https://musicbrainz.org/artist/7716ddac-2f24-44fa-81b1-bfa920811445"},{"@id":"https://musicbrainz.org/artist/c4a9b764-88c1-4652-a05b-b7076e55eae7","name":"Gino Quilico","@type":["Person","MusicGroup"]},{"name":"Angela Maria Blasi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/78d6405f-76a8-4173-8091-0ae065da3676"},{"name":"Chœur de Radio France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0"},{"@id":"https://musicbrainz.org/artist/29df4b64-272b-411b-886d-ab656d809952","@type":"MusicGroup","name":"Maîtrise de Radio France"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@type":["Person","MusicGroup"],"name":"James Conlon","@id":"https://musicbrainz.org/artist/0a4a9585-c3c7-4231-a19a-465041b7d99f"}],"@type":"MusicAlbum","name":"La bohème","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Dutilleux; Collegium Musicum, Paul Sacher, Orchestre National de France, Mstislav Rostropovitch","@id":"https://musicbrainz.org/release-group/0eb8c0a8-1b80-309b-a581-45cc94c47776","albumReleaseType":"http://schema.org/AlbumRelease","name":"Mystère de l'instant / Métaboles / Timbres, espace, mouvement","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/ee79471f-3ae5-426e-a469-d9f2aa312986","@type":["Person","MusicGroup"],"name":"Henri Dutilleux"},{"@type":"MusicGroup","name":"Collegium Musicum Zürich","@id":"https://musicbrainz.org/artist/1108869f-2e4d-4ff3-b08b-335171e4316d"},{"@type":["Person","MusicGroup"],"name":"Paul Sacher","@id":"https://musicbrainz.org/artist/b698488d-3dc8-4c76-a751-69ad10db6b9b"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@type":["Person","MusicGroup"],"name":"Мстислав Ростропович","@id":"https://musicbrainz.org/artist/e2b294b7-f705-4317-a96b-fd94da3719e5"}],"@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/0871a7eb-9485-35e6-a6f0-0a2c49b73fa8","creditedTo":"Lalo, Sarasate; Anne-Sophie Mutter, Seiji Ozawa, Orchestre National de France","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Édouard Lalo","@id":"https://musicbrainz.org/artist/9736c049-7923-49a8-bfc8-73f71bcc77be"},{"@id":"https://musicbrainz.org/artist/05f12d97-ecae-4fd6-bb03-53a4bd1322a8","@type":["Person","MusicGroup"],"name":"Pablo de Sarasate"},{"@type":["Person","MusicGroup"],"name":"Anne-Sophie Mutter","@id":"https://musicbrainz.org/artist/206e3a6b-301f-4a0d-8632-7dfd7927cbcf"},{"@id":"https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461","name":"小澤征爾","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Lalo: Symphonie Espagnole / Sarasate: Zigeunerweisen","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/a8788391-fc91-4185-8c8c-bf70292dca49","name":"Albert Roussel","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Georges Prêtre","@id":"https://musicbrainz.org/artist/33ff592d-0cf8-4d40-895d-993aad15d311"}],"@type":"MusicAlbum","name":"Bacchus et Ariane / Le Festin de l'araignée","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b479aa9d-7c95-338b-8759-39c15e5f3056","creditedTo":"Albert Roussel; Orchestre National de France, Georges Prêtre"},{"@id":"https://musicbrainz.org/release-group/fd7696c6-eb91-36dc-b8f0-cecb6d9e9bfd","creditedTo":"Edgard Varèse; Phyllis Bryn-Julson, Orchestre National de France, Kent Nagano","byArtist":[{"@type":["Person","MusicGroup"],"name":"Edgard Varèse","@id":"https://musicbrainz.org/artist/9a6d6ce0-3496-4db2-8c7a-f2a9a14548a9"},{"name":"Phyllis Bryn-Julson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f0f0d88c-d107-44cc-861c-450aedbf999d"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"},{"@id":"https://musicbrainz.org/artist/af15f678-f190-4c83-8b4c-46e88efd4597","@type":["Person","MusicGroup"],"name":"Kent Nagano"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"L'Œuvre de Edgar Varèse, Volume 1: 1920-1927"},{"name":"España","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Emmanuel Chabrier","@id":"https://musicbrainz.org/artist/3d217bc1-cc90-4261-a230-46c0f6b7492c"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"name":"Armin Jordan","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/67a68055-b649-495d-8be4-18919d2cc2e3"}],"@type":"MusicAlbum","creditedTo":"Chabrier ; Orchestre National de France, Armin Jordan","@id":"https://musicbrainz.org/release-group/d12ba5e1-17bb-47fa-bea5-5a6e111c50b8"},{"byArtist":[{"name":"César Franck","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/69802473-e361-4e15-bbd8-53fe83cd1587"},{"@type":["Person","MusicGroup"],"name":"Albert Roussel","@id":"https://musicbrainz.org/artist/a8788391-fc91-4185-8c8c-bf70292dca49"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@type":["Person","MusicGroup"],"name":"Leonard Bernstein","@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Franck: Symphonie / Roussel: Symphonie no. 3","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ddd1aef5-8d3c-33c2-8116-b23b78828c76","creditedTo":"Franck, Roussel; Orchestre National de France, Leonard Bernstein"},{"@id":"https://musicbrainz.org/release-group/4d30be6b-1581-38ae-9065-d1d976638275","creditedTo":"Edgard Varèse; Bryn-Julson, Isherwood, Pierlot, Orchestre National de France, Kent Nagano","byArtist":[{"@type":["Person","MusicGroup"],"name":"Edgard Varèse","@id":"https://musicbrainz.org/artist/9a6d6ce0-3496-4db2-8c7a-f2a9a14548a9"},{"@id":"https://musicbrainz.org/artist/f0f0d88c-d107-44cc-861c-450aedbf999d","@type":["Person","MusicGroup"],"name":"Phyllis Bryn-Julson"},{"name":"Nicholas Isherwood","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f1daf2ba-5b96-46fa-9972-9408a22293bf"},{"@type":["Person","MusicGroup"],"name":"Philippe Pierlot","@id":"https://musicbrainz.org/artist/db9d907d-f392-4b78-9a93-6ea4b8672084"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@id":"https://musicbrainz.org/artist/af15f678-f190-4c83-8b4c-46e88efd4597","name":"Kent Nagano","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"L'Œuvre de Edgar Varèse, Volume 2: 1925-1961","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphony No. 3 \"Organ\" / Phaéton / Le Rouet d'Omphale","byArtist":[{"@type":["Person","MusicGroup"],"name":"Camille Saint‐Saëns","@id":"https://musicbrainz.org/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461","name":"小澤征爾","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","creditedTo":"Saint-Saëns; Orchestre National de France, Seiji Ozawa","@id":"https://musicbrainz.org/release-group/f0afeb0a-b308-3f27-9c1e-fbf1afba1aaf"},{"@id":"https://musicbrainz.org/release-group/2cb722ef-b98b-4c1a-b3cd-47d219cae463","creditedTo":"Berlioz; Orchestre National de France, Charles Munch","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/274774a7-1cde-486a-bc3d-375ec54d552d","@type":["Person","MusicGroup"],"name":"Hector Berlioz"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Charles Munch","@id":"https://musicbrainz.org/artist/372402df-47a1-42da-8100-d3377a50266c"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Symphonie fantastique / Ouvertures","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Symphonie n°6 \"Tragique\"","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Gustav Mahler","@id":"https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@id":"https://musicbrainz.org/artist/8bc0b4b4-cc3f-40cf-8223-4ee980cb768d","name":"Bernard Haitink","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","creditedTo":"Gustav Mahler; Orchestre National de France, Bernard Haitink","@id":"https://musicbrainz.org/release-group/592fbf62-bd73-4fd9-b2f0-ee414671b264"},{"creditedTo":"Shostakovich; Orchestre National de France, André Cluytens, Dmitri Shostakovich","@id":"https://musicbrainz.org/release-group/a6a54ca8-05cb-3451-a2f1-6ed6f3cf00fe","name":"Piano Concertos / 3 Fantastic Dances / 5 Preludes and Fuges, Op. 87","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/519dd32e-8f30-4380-8826-7aa99169e1bb","@type":["Person","MusicGroup"],"name":"Дмитрий Дмитриевич Шостакович"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"André Cluytens","@id":"https://musicbrainz.org/artist/e188340b-b756-40e6-bf08-ae8d78906875"},{"@id":"https://musicbrainz.org/artist/519dd32e-8f30-4380-8826-7aa99169e1bb","name":"Дмитрий Дмитриевич Шостакович","@type":["Person","MusicGroup"]}]},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/bbb098da-4edc-489e-8a18-a6329da3c9dc","@type":["Person","MusicGroup"],"name":"Qigang Chen"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Iris dévoilée / Reflet d'un temps disparu / Wu Xing","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/538b86c6-fffa-4297-8b3a-3131607e873a","creditedTo":"Qigang Chen; Orchestre National de France"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Violin Concertos","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Дмитрий Дмитриевич Шостакович","@id":"https://musicbrainz.org/artist/519dd32e-8f30-4380-8826-7aa99169e1bb"},{"@id":"https://musicbrainz.org/artist/7fe5b36a-9ef7-476f-8a5e-ca78fcea4d8e","name":"Սերգեյ Խաչատրյան","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/a46387cc-ae5b-4232-9522-045d561c3b89","@type":["Person","MusicGroup"],"name":"Kurt Masur"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"}],"creditedTo":"Dmitry Shostakovich; Sergey Khachatryan, Kurt Masur, Orchestre National de France","@id":"https://musicbrainz.org/release-group/553e17d6-cb7e-484f-bc3f-3efea07d4bd9"},{"creditedTo":"Darius Milhaud; Orchestre National de France, The Concert Arts Orchestra, Leonard Bernstein, Darius Milhaud","@id":"https://musicbrainz.org/release-group/d8bbdb2f-abfb-4330-9ef8-eb7efb50275b","albumReleaseType":"http://schema.org/AlbumRelease","name":"La Création du monde / Le Bœuf sur le toit / Saudades do Brasil","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"name":"Darius Milhaud","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a7ef6698-3056-4e80-880d-0f9d106cc8e2"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"@type":"MusicGroup","name":"Concert Arts Orchestra","@id":"https://musicbrainz.org/artist/64ad9b82-1fce-4ccb-bcd4-810b2e627fdc"},{"@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac","name":"Leonard Bernstein","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Darius Milhaud","@id":"https://musicbrainz.org/artist/a7ef6698-3056-4e80-880d-0f9d106cc8e2"}],"@type":"MusicAlbum"},{"creditedTo":"Fauré; Sandrine Piau, Stéphane Degout, Membres de L'Orchestre National de France, Accentus, Laurence Equilbey","@id":"https://musicbrainz.org/release-group/f6f008d5-a948-4510-9630-aa41f1855325","albumProductionType":"http://schema.org/StudioAlbum","name":"Requiem","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Gabriel Fauré","@id":"https://musicbrainz.org/artist/fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f"},{"name":"Sandrine Piau","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8edb9f7e-7a63-452f-aa96-1e7f4b3bb8c2"},{"@type":["Person","MusicGroup"],"name":"Stéphane Degout","@id":"https://musicbrainz.org/artist/801b4b4b-78f9-4620-ac00-759c2a8e9f4a"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"@type":"MusicGroup","name":"Accentus","@id":"https://musicbrainz.org/artist/7245effd-99bf-4863-b01f-5af4f7425ac1"},{"@id":"https://musicbrainz.org/artist/54b5b733-c736-4dd7-bd4d-8789a28ae6df","name":"Laurence Equilbey","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum"},{"creditedTo":"Lalo, Saint-Saëns; Yo‐Yo Ma, Orchestre National de France, Lorin Maazel","@id":"https://musicbrainz.org/release-group/b84f0d91-e7a6-420f-94ed-03ed265d002f","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Cello Concertos","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Édouard Lalo","@id":"https://musicbrainz.org/artist/9736c049-7923-49a8-bfc8-73f71bcc77be"},{"@id":"https://musicbrainz.org/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8","@type":["Person","MusicGroup"],"name":"Camille Saint‐Saëns"},{"@id":"https://musicbrainz.org/artist/62fe877d-b7a5-43e8-952e-2610d7614bff","name":"Yo‐Yo Ma","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@id":"https://musicbrainz.org/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955","@type":["Person","MusicGroup"],"name":"Lorin Maazel"}]},{"@id":"https://musicbrainz.org/release-group/0a44248f-c9be-47d6-a2eb-2633a1e2ed4d","creditedTo":"Franck, Saint‐Saëns; Orchestre National de France, Leonard Bernstein","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/69802473-e361-4e15-bbd8-53fe83cd1587","@type":["Person","MusicGroup"],"name":"César Franck"},{"@id":"https://musicbrainz.org/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8","name":"Camille Saint‐Saëns","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"name":"Leonard Bernstein","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Symphonie en ré mineur","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/fa876b14-f1df-4e1d-8ef9-baa8e5405cc0","creditedTo":"Anne Gastinel, Sandrine Piau, Violoncelles de l'Orchestre National de France","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/66b6dcd0-8d8f-4272-b37b-c84fed45cd9d","name":"Anne Gastinel","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/8edb9f7e-7a63-452f-aa96-1e7f4b3bb8c2","@type":["Person","MusicGroup"],"name":"Sandrine Piau"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Americas","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Bernard Giraudeau raconte Pierre et le Loup","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},"creditedTo":"Orchestre National de France","@id":"https://musicbrainz.org/release-group/038b993f-1008-4e67-9151-09cc7fb57b6f"},{"@id":"https://musicbrainz.org/release-group/f81204e5-6027-3847-b2b2-6b8eaeb7efb0","creditedTo":"Ravel; Orchestre National de France, Lorin Maazel","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a","name":"Maurice Ravel","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"name":"Lorin Maazel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955"}],"name":"Boléro / La Valse / Rapsodie espagnole / Alborada del gracioso","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Carmen Suite / L'Arlésienne Suites nos. 1 \u0026 2","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Georges Bizet","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"name":"小澤征爾","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461"}],"@type":"MusicAlbum","creditedTo":"Bizet; Orchestre National de France, Seiji Ozawa","@id":"https://musicbrainz.org/release-group/15228474-c5fe-4ca1-a557-1f86bda8fb97"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8","name":"Camille Saint‐Saëns","@type":["Person","MusicGroup"]},{"name":"Ottorino Respighi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/788c380d-247b-42f0-b7a9-64881e1f0fd9"},{"@id":"https://musicbrainz.org/artist/13f892fc-05e3-4b37-967e-3f3c057d430c","@type":["Person","MusicGroup"],"name":"Pierre Amoyal"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"name":"Charles Dutoit","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/64a7dc4d-79b0-4033-9b9a-6c64671de8b7"}],"name":"Saint‐Saëns: Violin Concerto no. 3 / Respighi: Concerto gregoriano","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9e438e53-845d-40ed-a400-8e2200583dd5","creditedTo":"Saint‐Saëns; Respighi; Pierre Amoyal, Orchestre National de France, Dutoit"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphonie nr. 6 in F-dur, op. 68","byArtist":[{"@id":"https://musicbrainz.org/artist/1f9df192-a621-4f54-8850-2c5373b7eac9","name":"Ludwig van Beethoven","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"},{"name":"Paul Kletzki","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/eef731e7-ee74-43a3-b93c-6ed16e367a9f"}],"@type":"MusicAlbum","creditedTo":"Beethoven; Orchestre National de France, Paul Kletzki","@id":"https://musicbrainz.org/release-group/b8116237-0542-4bca-b29e-b55295723342"},{"creditedTo":"Vivaldi; Orchestre National de France, Lorin Maazel","@id":"https://musicbrainz.org/release-group/60a71650-aef7-3904-a52b-00db2dadca00","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Four Seasons","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","name":"Antonio Vivaldi","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","name":"Orchestre National de France","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955","name":"Lorin Maazel","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":[{"name":"Maurice Ravel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a"},{"@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac","@type":["Person","MusicGroup"],"name":"Leonard Bernstein"},{"@id":"https://musicbrainz.org/artist/7cdb68bc-c4f1-4a92-9bd2-739641c5eff0","name":"New York Philharmonic","@type":"MusicGroup"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"CBS Great Performances, Volume 1: Boléro / La Valse / Alborada del gracioso / Daphnis et Chloé Suite no. 2","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/f6a6fb0b-914d-30ba-8326-d3152f47a1d0","creditedTo":"Maurice Ravel; Leonard Bernstein, New York Philharmonic, Orchestre National de France"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235","@type":["Person","MusicGroup"],"name":"Georges Bizet"},{"@id":"https://musicbrainz.org/artist/bde64de3-01d4-4ed9-afe9-88b7d9db922d","@type":["Person","MusicGroup"],"name":"Jessye Norman"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@type":["Person","MusicGroup"],"name":"小澤征爾","@id":"https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Carmen: Highlights","@id":"https://musicbrainz.org/release-group/4a831cb6-0e31-30b4-b9b8-24807bf597ba","creditedTo":"Bizet; Jessye Norman, Orchestre National de France, Seiji Ozawa"},{"creditedTo":"Berlioz; Orchestre National de France, Orchestre philharmonique de Radio France, Chœur de Radio France, Leonard Bernstein, Orchestre de Paris, Daniel Barenboim","@id":"https://musicbrainz.org/release-group/9111e67e-019a-4933-9d62-66e9d800dfda","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Requiem, Op. 5 / Te Deum, Op. 22","byArtist":[{"@id":"https://musicbrainz.org/artist/274774a7-1cde-486a-bc3d-375ec54d552d","@type":["Person","MusicGroup"],"name":"Hector Berlioz"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@id":"https://musicbrainz.org/artist/03413312-ea2f-4cbd-9621-2249c7ac9ce8","@type":"MusicGroup","name":"Orchestre philharmonique de Radio France"},{"@id":"https://musicbrainz.org/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0","@type":"MusicGroup","name":"Chœur de Radio France"},{"name":"Leonard Bernstein","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"},{"name":"Orchestre de Paris","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c3aa140f-0121-43e5-b44d-39578c29f57a"},{"@id":"https://musicbrainz.org/artist/fac566b2-7a0e-4977-ad92-533f43420975","@type":["Person","MusicGroup"],"name":"Daniel Barenboim"}],"@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/51a1255d-4a07-4701-9f07-bd343e51d85c","creditedTo":"Berlioz; Orchestre National de France, Orchestre philharmonique de Radio France, New York Philharmonic, Leonard Bernstein, Stuart Burrows, Jennie Tourel","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/274774a7-1cde-486a-bc3d-375ec54d552d","name":"Hector Berlioz","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@id":"https://musicbrainz.org/artist/03413312-ea2f-4cbd-9621-2249c7ac9ce8","@type":"MusicGroup","name":"Orchestre philharmonique de Radio France"},{"@type":"MusicGroup","name":"New York Philharmonic","@id":"https://musicbrainz.org/artist/7cdb68bc-c4f1-4a92-9bd2-739641c5eff0"},{"name":"Leonard Bernstein","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"},{"name":"Stuart Burrows","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6a445bad-75a0-437b-a925-adb00c16e229"},{"@id":"https://musicbrainz.org/artist/1f03f898-9488-454a-b991-1ec6d12e164b","@type":["Person","MusicGroup"],"name":"Jennie Tourel"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Requiem / Mort de Cléopâtre / Roméo et Juliette (excerpts)","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"Boléro / Alborada del Gracioso / La Valse / Daphnis et Chloé Suite no. 2","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Maurice Ravel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@id":"https://musicbrainz.org/artist/7cdb68bc-c4f1-4a92-9bd2-739641c5eff0","@type":"MusicGroup","name":"New York Philharmonic"},{"@type":"MusicGroup","name":"Schola Cantorum","@id":"https://musicbrainz.org/artist/79a22726-c8ad-484e-b547-55b728e55d9c"},{"name":"Leonard Bernstein","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"}],"creditedTo":"Ravel; Orchestre National de France, New York Philharmonic, Schola Cantorum, Leonard Bernstein","@id":"https://musicbrainz.org/release-group/fdb94e24-2453-4d57-adec-2d9efc7ede81"},{"creditedTo":"Paul Dukas; Orchestre National de France, Leonard Slatkin","@id":"https://musicbrainz.org/release-group/b27d9788-39c5-3482-8400-dea880efc875","albumProductionType":"http://schema.org/CompilationAlbum","name":"Symphonie en ut / La Péri Fanfare / La Péri / L’Apprenti sorcier","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Paul Dukas","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8048b7be-cda8-4e5a-bc4b-57267fc05be1"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"},{"@id":"https://musicbrainz.org/artist/97e78ecf-0d07-461f-817d-16765bc9da25","@type":["Person","MusicGroup"],"name":"Leonard Slatkin"}]},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/21f39bff-fdec-4424-8ad7-86207565d571","name":"Hugo Wolf","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16","name":"Richard Strauss","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Elisabeth Schwarzkopf","@id":"https://musicbrainz.org/artist/f17aa6af-8d75-4559-b212-b83b9549758e"},{"@type":["Person","MusicGroup"],"name":"Gerald Moore","@id":"https://musicbrainz.org/artist/5978ca05-f0dd-42ef-b716-4ec0cbf659f8"},{"@id":"https://musicbrainz.org/artist/a96e61bc-1da0-45d0-816d-ebd00b70ff9d","@type":["Person","MusicGroup"],"name":"Montserrat Caballé"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@type":["Person","MusicGroup"],"name":"Leonard Bernstein","@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"}],"albumProductionType":"http://schema.org/CompilationAlbum","name":"Deutsche Grammophon Collection: Wolf: The Spanish Songbook / Strauss: Five Songs for Voice and Orchestra","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7eb76ba4-5675-4c9c-917b-17e6262abf8e","creditedTo":"Hugo Wolf, Richard Strauss; Elisabeth Schwarzkopf, Gerald Moore, Montserrat Caballé, Orchestre National de France, Leonard Bernstein"},{"creditedTo":"Ravel; Orchestre National de France, Eliahu Inbal","@id":"https://musicbrainz.org/release-group/119c7dae-064a-3106-a75f-1978d2602775","name":"Complete Orchestral Works","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Maurice Ravel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@type":["Person","MusicGroup"],"name":"Eliahu Inbal","@id":"https://musicbrainz.org/artist/a34fb252-833a-4fee-b53a-892428ad91d7"}],"@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/cfbb36bc-3c1b-3498-b3d8-aae695b64cbc","creditedTo":"Holst, Prokofiev; Orchestre National de France, Lorin Maazel","byArtist":[{"@type":["Person","MusicGroup"],"name":"Gustav Holst","@id":"https://musicbrainz.org/artist/3ba68671-e3b5-4263-81dc-76b16b29bbc6"},{"name":"Сергей Сергеевич Прокофьев","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1"},{"name":"Orchestre National de France","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@id":"https://musicbrainz.org/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955","name":"Lorin Maazel","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","name":"Holst: The Planets / Prokofiev: Suite from “Love for Three Oranges”","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/89386713-19f8-404d-b621-1fc89882bda4","creditedTo":"Poulenc; Pascal Rogé, François Le Roux, Françoise Pollet, Orchestre National de France, Charles Dutoit","byArtist":[{"name":"Francis Poulenc","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e1ef22b-310a-46ad-885b-4897b8c9c85a"},{"name":"Pascal Rogé","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/191df02c-dd85-4197-9f50-4b3ef1486f4e"},{"@id":"https://musicbrainz.org/artist/05bf6dcc-9ad6-4a42-a53e-64f27c4cf416","@type":["Person","MusicGroup"],"name":"François Le Roux"},{"@id":"https://musicbrainz.org/artist/6f1af292-c6a8-4b50-aa38-98311b609ca8","@type":["Person","MusicGroup"],"name":"Françoise Pollet"},{"@type":"MusicGroup","name":"Orchestre National de France","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b"},{"@type":["Person","MusicGroup"],"name":"Charles Dutoit","@id":"https://musicbrainz.org/artist/64a7dc4d-79b0-4033-9b9a-6c64671de8b7"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Orchestral \u0026 Choral Works","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":[{"name":"Сергей Сергеевич Прокофьев","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1"},{"@type":"MusicGroup","name":"Chœur de Radio France","@id":"https://musicbrainz.org/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0"},{"@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","@type":"MusicGroup","name":"Orchestre National de France"},{"@id":"https://musicbrainz.org/artist/e2b294b7-f705-4317-a96b-fd94da3719e5","@type":["Person","MusicGroup"],"name":"Мстислав Ростропович"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Guerre et Paix","@id":"https://musicbrainz.org/release-group/998ac0ef-52db-4702-884f-ce54749a7c03","creditedTo":"Prokofiev; Chœur de Radio France, Orchestre National de France, Mstislav Rostropovitch"}],"location":{"@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115","@type":"Country","name":"France"},"name":"Orchestre National de France","foundingDate":"1975-01-01","@id":"https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b","sameAs":["http://sites.radiofrance.fr/chaines/formations/national/accueil/","http://www.allmusic.com/artist/mn0002344147","https://en.wikipedia.org/wiki/Orchestre_National_de_France","https://musicbrainz.org/artist/59eedae2-5381-40fa-9789-e3470e048caa","https://www.discogs.com/artist/626175","https://www.wikidata.org/wiki/Q686537"],"member":[{"member":{"@type":["Person","MusicGroup"],"name":"Luc Héry","@id":"https://musicbrainz.org/artist/1f81b04f-dd6f-4b90-b4d0-53b5479d59a5"},"startDate":"1992","roleName":"solo violinist","@type":"OrganizationRole"},{"@type":"OrganizationRole","member":{"name":"Raphaël Perraud","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4fd7d78c-a853-467a-8e20-b5d60f55aab2"},"roleName":"cello"},{"@type":"OrganizationRole","roleName":"cello","member":{"@type":["Person","MusicGroup"],"name":"Alexandre Giordan","@id":"https://musicbrainz.org/artist/619c1907-f5cf-40ea-9a19-807cebb64cd7"}},{"@type":"OrganizationRole","member":{"name":"Muriel Gallien","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/81c4bd8d-05dd-42a1-aeee-498cb35b3e68"},"roleName":"cello"},{"@type":"OrganizationRole","roleName":"cello","member":{"@id":"https://musicbrainz.org/artist/8500e44e-5894-4607-a673-8b7f385dc258","@type":["Person","MusicGroup"],"name":"Laure Vavasseur"}},{"@type":"OrganizationRole","roleName":"cello","member":{"@id":"https://musicbrainz.org/artist/85eb265d-4f59-424f-8efb-fe5b805f82c5","name":"Jean-Luc Bourré","@type":["Person","MusicGroup"]}},{"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/8b907633-8ac1-4152-b39b-e35f7b019f3d","@type":["Person","MusicGroup"],"name":"Pierre Vavasseur"},"roleName":"cello"},{"@type":"OrganizationRole","roleName":"cello","member":{"@id":"https://musicbrainz.org/artist/a1eafe5c-7eff-46ee-8ec9-e8cdee39959e","name":"Emma Savouret","@type":["Person","MusicGroup"]}},{"@type":"OrganizationRole","member":{"name":"Oana Unc","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b44bf0a9-0352-47c9-b6af-1631fa381ad3"},"startDate":"1999","roleName":"cello"},{"@type":"OrganizationRole","roleName":"cello","member":{"name":"Florent Carriere","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d412d34c-f372-439e-857a-c57dcb498f3b"}},{"roleName":[],"member":{"name":"Philippe Pierlot","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/db9d907d-f392-4b78-9a93-6ea4b8672084"},"@type":"OrganizationRole"}],"@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5dba6ba9-b79c-4a1e-927e-3862589c112b">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5dba6ba9-b79c-4a1e-927e-3862589c112b">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Orchestra
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France – Orchestre National de France"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/releases" title="Orchestre National de France"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/recordings" title="Orchestre National de France"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/works" title="Orchestre National de France"><bdi>Works</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/events" title="Orchestre National de France"><bdi>Events</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/relationships" title="Orchestre National de France"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/aliases" title="Orchestre National de France"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/tags" title="Orchestre National de France"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/details" title="Orchestre National de France"><bdi>Details</bdi></a></li>            <li><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/edit" title="Orchestre National de France"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>Formerly <em><a href="http://musicbrainz.org/artist/1107c8ae-05ab-4fb1-979b-f5461c40d4e1" rel="nofollow">Orchestre National de l'ORTF</a></em>.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2012-05-19 08:17 UTC.
+            
+        </div>
+    </div>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p>The <b>Orchestre national de France</b> (ONF; literal translation, <i>National Orchestra of France</i>) is a French symphony orchestra based in Paris, founded in 1934. Placed under the administration of the French national radio (named Radio France since 1975), the ONF performs mainly in the Théâtre des Champs-Élysées from where all its concerts are broadcast. Some concerts are also held in the <i>Salle Olivier Messiaen</i> in the Maison de Radio France (formerly known as Maison de la Radio).</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Orchestre_National_de_France">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=236802" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/b0a24ca5-963f-3441-a6d1-fc98ec7c4b78"><bdi>The Planets, Op. 32</bdi></a></td>
+        
+        <td><a href="/artist/3ba68671-e3b5-4263-81dc-76b16b29bbc6" title="Holst, Gustav"><bdi>Gustav Holst</bdi></a>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955" title="Maazel, Lorin"><bdi>Lorin Maazel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/73c93d3d-06b1-4c27-9322-a01c3a88f73e"><bdi>Orchestral Works, Volume 1: Daphnis et Chloé</bdi></a></td>
+        
+        <td><a href="/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a" title="Ravel, Maurice (classical composer)"><bdi>Maurice Ravel</bdi></a>, <a href="/artist/a34fb252-833a-4fee-b53a-892428ad91d7" title="Inbal, Eliahu"><bdi>Eliahu Inbal</bdi></a>, <span class="name-variation"><a href="/artist/fb9ed0fc-6166-4d93-8bbf-5230fe2da368" title="Chœur national de France – Chœur national de France"><bdi>Chœur</bdi></a></span> et <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/eef0eb8c-4a06-389b-9da7-60ae78547bfa"><bdi>Symphonie fantastique, Op. 14</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/274774a7-1cde-486a-bc3d-375ec54d552d" title="Hector Berlioz – Berlioz, Hector"><bdi>Berlioz</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/7a646c70-9c7b-39fc-8750-9acd019e2e37"><bdi>Carmen</bdi></a> <span class="comment">(<bdi>1988 studio cast</bdi>)</span></td>
+        
+        <td><a href="/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235" title="Bizet, Georges"><bdi>Georges Bizet</bdi></a>; <a href="/artist/bde64de3-01d4-4ed9-afe9-88b7d9db922d" title="Norman, Jessye"><bdi>Jessye Norman</bdi></a>, <a href="/artist/b90d862f-692e-41f4-bea4-9babed2a5ba8" title="Shicoff, Neil"><bdi>Neil Shicoff</bdi></a>, <a href="/artist/be81ad1d-b280-40e9-8097-2c999420ed0b" title="Freni, Mirella"><bdi>Mirella Freni</bdi></a>, <a href="/artist/2c34219b-3393-461d-b586-3d171bdf25a3" title="Estes, Simon"><bdi>Simon Estes</bdi></a>, <a href="/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0" title="Chœur de Radio France"><bdi>Chœur de Radio France</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461" title="小澤征爾 – Ozawa, Seiji (conductor)"><bdi>Seiji Ozawa</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/3520b6fe-eb3f-3789-8f14-41ab0d993bfa"><bdi>Les Contes d’Hoffmann</bdi></a></td>
+        
+        <td><a href="/artist/27bc8cf5-72e1-4888-87de-259fbcaac3ff" title="Offenbach, Jacques"><bdi>Jacques Offenbach</bdi></a>; <a href="/artist/521df2bd-01f6-456e-9d5f-f081068819c2" title="Domingo, Plácido"><bdi>Plácido Domingo</bdi></a>, <a href="/artist/0c461736-995c-421c-84dd-af2858dc1f31" title="Gruberová, Edita"><bdi>Edita Gruberová</bdi></a>, <a href="/artist/468ef63e-3014-4805-9d0f-a8046a517111" title="Eder, Claudia (German mezzo-soprano)"><bdi>Claudia Eder</bdi></a>, <a href="/artist/3a36b2b8-5450-4464-9bee-d7a0ab6dd255" title="Bacquier, Gabriel"><bdi>Gabriel Bacquier</bdi></a>, <a href="/artist/960b8f33-f87b-4086-8a07-839f6cf43640" title="Díaz, Justino"><bdi>Justino Díaz</bdi></a>, <a href="/artist/92ed4e66-d2a4-44f8-8e24-672235331b50" title="Morris, James (operatic bass-baritone)"><bdi>James Morris</bdi></a>, <a href="/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0" title="Chœur de Radio France"><bdi>Chœur de Radio France</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461" title="小澤征爾 – Ozawa, Seiji (conductor)"><bdi>Seiji Ozawa</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/b2f1a143-4dee-47b9-9b04-e85d9a9ed0e5"><bdi>Gloria / Stabat Mater</bdi></a></td>
+        
+        <td><a href="/artist/5e1ef22b-310a-46ad-885b-4897b8c9c85a" title="Poulenc, Francis"><bdi>Francis Poulenc</bdi></a>; <a href="/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0" title="Chœur de Radio France"><bdi>Chœur de Radio France</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a> &amp; <a href="/artist/33ff592d-0cf8-4d40-895d-993aad15d311" title="Prêtre, Georges"><bdi>Georges Prêtre</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/0276b749-8faf-376d-b995-50d06c207146"><bdi>La bohème</bdi></a> <span class="comment">(<bdi>1987 film cast</bdi>)</span></td>
+        
+        <td><a href="/artist/a693df4a-8762-4a45-b7fd-6695b558385e" title="Puccini, Giacomo (Italian composer)"><bdi>Giacomo Puccini</bdi></a>; <a href="/artist/21b3c493-68fd-4d56-bd93-bed911d21de5" title="Hendricks, Barbara"><bdi>Barbara Hendricks</bdi></a>, <a href="/artist/7716ddac-2f24-44fa-81b1-bfa920811445" title="Carreras, José"><bdi>José Carreras</bdi></a>, <a href="/artist/c4a9b764-88c1-4652-a05b-b7076e55eae7" title="Quilico, Gino"><bdi>Gino Quilico</bdi></a>, <a href="/artist/78d6405f-76a8-4173-8091-0ae065da3676" title="Blasi, Angela Maria"><bdi>Angela Maria Blasi</bdi></a>, <a href="/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0" title="Chœur de Radio France"><bdi>Chœur de Radio France</bdi></a>, <a href="/artist/29df4b64-272b-411b-886d-ab656d809952" title="Maîtrise de Radio France"><bdi>Maîtrise de Radio France</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/0a4a9585-c3c7-4231-a19a-465041b7d99f" title="Conlon, James"><bdi>James Conlon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/0eb8c0a8-1b80-309b-a581-45cc94c47776"><bdi>Mystère de l'instant / Métaboles / Timbres, espace, mouvement</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ee79471f-3ae5-426e-a469-d9f2aa312986" title="Henri Dutilleux – Dutilleux, Henri"><bdi>Dutilleux</bdi></a></span>; <span class="name-variation"><a href="/artist/1108869f-2e4d-4ff3-b08b-335171e4316d" title="Collegium Musicum Zürich – Collegium Musicum Zürich"><bdi>Collegium Musicum</bdi></a></span>, <a href="/artist/b698488d-3dc8-4c76-a751-69ad10db6b9b" title="Sacher, Paul"><bdi>Paul Sacher</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/e2b294b7-f705-4317-a96b-fd94da3719e5" title="Мстислав Ростропович – Rostropovich, Mstislav"><bdi>Mstislav Rostropovitch</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/0871a7eb-9485-35e6-a6f0-0a2c49b73fa8"><bdi>Lalo: Symphonie Espagnole / Sarasate: Zigeunerweisen</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9736c049-7923-49a8-bfc8-73f71bcc77be" title="Édouard Lalo – Lalo, Édouard"><bdi>Lalo</bdi></a></span>, <span class="name-variation"><a href="/artist/05f12d97-ecae-4fd6-bb03-53a4bd1322a8" title="Pablo de Sarasate – Sarasate, Pablo de"><bdi>Sarasate</bdi></a></span>; <a href="/artist/206e3a6b-301f-4a0d-8632-7dfd7927cbcf" title="Mutter, Anne-Sophie"><bdi>Anne-Sophie Mutter</bdi></a>, <span class="name-variation"><a href="/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461" title="小澤征爾 – Ozawa, Seiji (conductor)"><bdi>Seiji Ozawa</bdi></a></span>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/b479aa9d-7c95-338b-8759-39c15e5f3056"><bdi>Bacchus et Ariane / Le Festin de l'araignée</bdi></a></td>
+        
+        <td><a href="/artist/a8788391-fc91-4185-8c8c-bf70292dca49" title="Roussel, Albert"><bdi>Albert Roussel</bdi></a>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/33ff592d-0cf8-4d40-895d-993aad15d311" title="Prêtre, Georges"><bdi>Georges Prêtre</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/fd7696c6-eb91-36dc-b8f0-cecb6d9e9bfd"><bdi>L'Œuvre de Edgar Varèse, Volume 1: 1920-1927</bdi></a></td>
+        
+        <td><a href="/artist/9a6d6ce0-3496-4db2-8c7a-f2a9a14548a9" title="Varèse, Edgard"><bdi>Edgard Varèse</bdi></a>; <a href="/artist/f0f0d88c-d107-44cc-861c-450aedbf999d" title="Bryn-Julson, Phyllis"><bdi>Phyllis Bryn-Julson</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/af15f678-f190-4c83-8b4c-46e88efd4597" title="Nagano, Kent"><bdi>Kent Nagano</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/d12ba5e1-17bb-47fa-bea5-5a6e111c50b8"><bdi>España</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/3d217bc1-cc90-4261-a230-46c0f6b7492c" title="Emmanuel Chabrier – Chabrier, Emmanuel"><bdi>Chabrier</bdi></a></span> ; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/67a68055-b649-495d-8be4-18919d2cc2e3" title="Jordan, Armin"><bdi>Armin Jordan</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/ddd1aef5-8d3c-33c2-8116-b23b78828c76"><bdi>Franck: Symphonie / Roussel: Symphonie no. 3</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/69802473-e361-4e15-bbd8-53fe83cd1587" title="César Franck – Franck, César"><bdi>Franck</bdi></a></span>, <span class="name-variation"><a href="/artist/a8788391-fc91-4185-8c8c-bf70292dca49" title="Albert Roussel – Roussel, Albert"><bdi>Roussel</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/4d30be6b-1581-38ae-9065-d1d976638275"><bdi>L'Œuvre de Edgar Varèse, Volume 2: 1925-1961</bdi></a></td>
+        
+        <td><a href="/artist/9a6d6ce0-3496-4db2-8c7a-f2a9a14548a9" title="Varèse, Edgard"><bdi>Edgard Varèse</bdi></a>; <span class="name-variation"><a href="/artist/f0f0d88c-d107-44cc-861c-450aedbf999d" title="Phyllis Bryn-Julson – Bryn-Julson, Phyllis"><bdi>Bryn-Julson</bdi></a></span>, <span class="name-variation"><a href="/artist/f1daf2ba-5b96-46fa-9972-9408a22293bf" title="Nicholas Isherwood – Isherwood, Nicholas (bass singer)"><bdi>Isherwood</bdi></a></span>, <span class="name-variation"><a href="/artist/db9d907d-f392-4b78-9a93-6ea4b8672084" title="Philippe Pierlot – Pierlot, Philippe (French flutist)"><bdi>Pierlot</bdi></a></span>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/af15f678-f190-4c83-8b4c-46e88efd4597" title="Nagano, Kent"><bdi>Kent Nagano</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/f0afeb0a-b308-3f27-9c1e-fbf1afba1aaf"><bdi>Symphony No. 3 &quot;Organ&quot; / Phaéton / Le Rouet d'Omphale</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8" title="Camille Saint‐Saëns – Saint‐Saëns, Camille"><bdi>Saint-Saëns</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461" title="小澤征爾 – Ozawa, Seiji (conductor)"><bdi>Seiji Ozawa</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/2cb722ef-b98b-4c1a-b3cd-47d219cae463"><bdi>Symphonie fantastique / Ouvertures</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/274774a7-1cde-486a-bc3d-375ec54d552d" title="Hector Berlioz – Berlioz, Hector"><bdi>Berlioz</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/372402df-47a1-42da-8100-d3377a50266c" title="Munch, Charles (conductor and violinist)"><bdi>Charles Munch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/592fbf62-bd73-4fd9-b2f0-ee414671b264"><bdi>Symphonie n°6 &quot;Tragique&quot;</bdi></a></td>
+        
+        <td><a href="/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9" title="Mahler, Gustav"><bdi>Gustav Mahler</bdi></a>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/8bc0b4b4-cc3f-40cf-8223-4ee980cb768d" title="Haitink, Bernard"><bdi>Bernard Haitink</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/a6a54ca8-05cb-3451-a2f1-6ed6f3cf00fe"><bdi>Piano Concertos / 3 Fantastic Dances / 5 Preludes and Fuges, Op. 87</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/519dd32e-8f30-4380-8826-7aa99169e1bb" title="Дмитрий Дмитриевич Шостакович – Shostakovich, Dmitri Dmitrievich (composer)"><bdi>Shostakovich</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/e188340b-b756-40e6-bf08-ae8d78906875" title="Cluytens, André"><bdi>André Cluytens</bdi></a>, <span class="name-variation"><a href="/artist/519dd32e-8f30-4380-8826-7aa99169e1bb" title="Дмитрий Дмитриевич Шостакович – Shostakovich, Dmitri Dmitrievich (composer)"><bdi>Dmitri Shostakovich</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/538b86c6-fffa-4297-8b3a-3131607e873a"><bdi>Iris dévoilée / Reflet d'un temps disparu / Wu Xing</bdi></a></td>
+        
+        <td><a href="/artist/bbb098da-4edc-489e-8a18-a6329da3c9dc" title="Chen, Qigang (French-Chinese classical composer)"><bdi>Qigang Chen</bdi></a>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/553e17d6-cb7e-484f-bc3f-3efea07d4bd9"><bdi>Violin Concertos</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/519dd32e-8f30-4380-8826-7aa99169e1bb" title="Дмитрий Дмитриевич Шостакович – Shostakovich, Dmitri Dmitrievich (composer)"><bdi>Dmitry Shostakovich</bdi></a></span>; <span class="name-variation"><a href="/artist/7fe5b36a-9ef7-476f-8a5e-ca78fcea4d8e" title="Սերգեյ Խաչատրյան – Sergey Khachatryan (Armenian violinist, Sergey Khachatryan)"><bdi>Sergey Khachatryan</bdi></a></span>, <a href="/artist/a46387cc-ae5b-4232-9522-045d561c3b89" title="Masur, Kurt"><bdi>Kurt Masur</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/d8bbdb2f-abfb-4330-9ef8-eb7efb50275b"><bdi>La Création du monde / Le Bœuf sur le toit / Saudades do Brasil</bdi></a></td>
+        
+        <td><a href="/artist/a7ef6698-3056-4e80-880d-0f9d106cc8e2" title="Milhaud, Darius"><bdi>Darius Milhaud</bdi></a>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/64ad9b82-1fce-4ccb-bcd4-810b2e627fdc" title="Concert Arts Orchestra – Concert Arts Orchestra"><bdi>The Concert Arts Orchestra</bdi></a></span>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a>, <a href="/artist/a7ef6698-3056-4e80-880d-0f9d106cc8e2" title="Milhaud, Darius"><bdi>Darius Milhaud</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/f6f008d5-a948-4510-9630-aa41f1855325"><bdi>Requiem</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f" title="Gabriel Fauré – Fauré, Gabriel"><bdi>Fauré</bdi></a></span>; <a href="/artist/8edb9f7e-7a63-452f-aa96-1e7f4b3bb8c2" title="Piau, Sandrine"><bdi>Sandrine Piau</bdi></a>, <a href="/artist/801b4b4b-78f9-4620-ac00-759c2a8e9f4a" title="Degout, Stéphane"><bdi>Stéphane Degout</bdi></a>, <span class="name-variation"><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France – Orchestre National de France"><bdi>Membres de L'Orchestre National de France</bdi></a></span>, <a href="/artist/7245effd-99bf-4863-b01f-5af4f7425ac1" title="Accentus (Chœur de Chambre Accentus)"><bdi>Accentus</bdi></a>, <a href="/artist/54b5b733-c736-4dd7-bd4d-8789a28ae6df" title="Equilbey, Laurence"><bdi>Laurence Equilbey</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/b84f0d91-e7a6-420f-94ed-03ed265d002f"><bdi>Cello Concertos</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9736c049-7923-49a8-bfc8-73f71bcc77be" title="Édouard Lalo – Lalo, Édouard"><bdi>Lalo</bdi></a></span>, <span class="name-variation"><a href="/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8" title="Camille Saint‐Saëns – Saint‐Saëns, Camille"><bdi>Saint-Saëns</bdi></a></span>; <a href="/artist/62fe877d-b7a5-43e8-952e-2610d7614bff" title="Ma, Yo‐Yo"><bdi>Yo‐Yo Ma</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955" title="Maazel, Lorin"><bdi>Lorin Maazel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/0a44248f-c9be-47d6-a2eb-2633a1e2ed4d"><bdi>Symphonie en ré mineur</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/69802473-e361-4e15-bbd8-53fe83cd1587" title="César Franck – Franck, César"><bdi>Franck</bdi></a></span>, <span class="name-variation"><a href="/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8" title="Camille Saint‐Saëns – Saint‐Saëns, Camille"><bdi>Saint‐Saëns</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/fa876b14-f1df-4e1d-8ef9-baa8e5405cc0"><bdi>Americas</bdi></a></td>
+        
+        <td><a href="/artist/66b6dcd0-8d8f-4272-b37b-c84fed45cd9d" title="Gastinel, Anne"><bdi>Anne Gastinel</bdi></a>, <a href="/artist/8edb9f7e-7a63-452f-aa96-1e7f4b3bb8c2" title="Piau, Sandrine"><bdi>Sandrine Piau</bdi></a>, <span class="name-variation"><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France – Orchestre National de France"><bdi>Violoncelles de l'Orchestre National de France</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/038b993f-1008-4e67-9151-09cc7fb57b6f"><bdi>Bernard Giraudeau raconte Pierre et le Loup</bdi></a></td>
+        
+        <td><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f81204e5-6027-3847-b2b2-6b8eaeb7efb0"><bdi>Boléro / La Valse / Rapsodie espagnole / Alborada del gracioso</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a" title="Maurice Ravel – Ravel, Maurice (classical composer)"><bdi>Ravel</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955" title="Maazel, Lorin"><bdi>Lorin Maazel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/15228474-c5fe-4ca1-a557-1f86bda8fb97"><bdi>Carmen Suite / L'Arlésienne Suites nos. 1 &amp; 2</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235" title="Georges Bizet – Bizet, Georges"><bdi>Bizet</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461" title="小澤征爾 – Ozawa, Seiji (conductor)"><bdi>Seiji Ozawa</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/9e438e53-845d-40ed-a400-8e2200583dd5"><bdi>Saint‐Saëns: Violin Concerto no. 3 / Respighi: Concerto gregoriano</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8" title="Camille Saint‐Saëns – Saint‐Saëns, Camille"><bdi>Saint‐Saëns</bdi></a></span>; <span class="name-variation"><a href="/artist/788c380d-247b-42f0-b7a9-64881e1f0fd9" title="Ottorino Respighi – Respighi, Ottorino"><bdi>Respighi</bdi></a></span>; <a href="/artist/13f892fc-05e3-4b37-967e-3f3c057d430c" title="Amoyal, Pierre"><bdi>Pierre Amoyal</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/64a7dc4d-79b0-4033-9b9a-6c64671de8b7" title="Charles Dutoit – Dutoit, Charles"><bdi>Dutoit</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/b8116237-0542-4bca-b29e-b55295723342"><bdi>Symphonie nr. 6 in F-dur, op. 68</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/1f9df192-a621-4f54-8850-2c5373b7eac9" title="Ludwig van Beethoven – Beethoven, Ludwig van"><bdi>Beethoven</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/eef731e7-ee74-43a3-b93c-6ed16e367a9f" title="Kletzki, Paul"><bdi>Paul Kletzki</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/60a71650-aef7-3904-a52b-00db2dadca00"><bdi>The Four Seasons</bdi></a> <span class="comment">(<bdi>Lorin Maazel</bdi>)</span></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955" title="Maazel, Lorin"><bdi>Lorin Maazel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/f6a6fb0b-914d-30ba-8326-d3152f47a1d0"><bdi>CBS Great Performances, Volume 1: Boléro / La Valse / Alborada del gracioso / Daphnis et Chloé Suite no. 2</bdi></a></td>
+        
+        <td><a href="/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a" title="Ravel, Maurice (classical composer)"><bdi>Maurice Ravel</bdi></a>; <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a>, <a href="/artist/7cdb68bc-c4f1-4a92-9bd2-739641c5eff0" title="New York Philharmonic"><bdi>New York Philharmonic</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/4a831cb6-0e31-30b4-b9b8-24807bf597ba"><bdi>Carmen: Highlights</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9bd20e6a-b41d-4983-a5b6-c0ff849fa235" title="Georges Bizet – Bizet, Georges"><bdi>Bizet</bdi></a></span>; <a href="/artist/bde64de3-01d4-4ed9-afe9-88b7d9db922d" title="Norman, Jessye"><bdi>Jessye Norman</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461" title="小澤征爾 – Ozawa, Seiji (conductor)"><bdi>Seiji Ozawa</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/9111e67e-019a-4933-9d62-66e9d800dfda"><bdi>Requiem, Op. 5 / Te Deum, Op. 22</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/274774a7-1cde-486a-bc3d-375ec54d552d" title="Hector Berlioz – Berlioz, Hector"><bdi>Berlioz</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/03413312-ea2f-4cbd-9621-2249c7ac9ce8" title="Orchestre philharmonique de Radio France"><bdi>Orchestre philharmonique de Radio France</bdi></a>, <a href="/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0" title="Chœur de Radio France"><bdi>Chœur de Radio France</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a>, <a href="/artist/c3aa140f-0121-43e5-b44d-39578c29f57a" title="Orchestre de Paris"><bdi>Orchestre de Paris</bdi></a>, <a href="/artist/fac566b2-7a0e-4977-ad92-533f43420975" title="Barenboim, Daniel"><bdi>Daniel Barenboim</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/51a1255d-4a07-4701-9f07-bd343e51d85c"><bdi>Requiem / Mort de Cléopâtre / Roméo et Juliette (excerpts)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/274774a7-1cde-486a-bc3d-375ec54d552d" title="Hector Berlioz – Berlioz, Hector"><bdi>Berlioz</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/03413312-ea2f-4cbd-9621-2249c7ac9ce8" title="Orchestre philharmonique de Radio France"><bdi>Orchestre philharmonique de Radio France</bdi></a>, <a href="/artist/7cdb68bc-c4f1-4a92-9bd2-739641c5eff0" title="New York Philharmonic"><bdi>New York Philharmonic</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a>, <a href="/artist/6a445bad-75a0-437b-a925-adb00c16e229" title="Burrows, Stuart"><bdi>Stuart Burrows</bdi></a>, <a href="/artist/1f03f898-9488-454a-b991-1ec6d12e164b" title="Tourel, Jennie"><bdi>Jennie Tourel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/fdb94e24-2453-4d57-adec-2d9efc7ede81"><bdi>Boléro / Alborada del Gracioso / La Valse / Daphnis et Chloé Suite no. 2</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a" title="Maurice Ravel – Ravel, Maurice (classical composer)"><bdi>Ravel</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/7cdb68bc-c4f1-4a92-9bd2-739641c5eff0" title="New York Philharmonic"><bdi>New York Philharmonic</bdi></a>, <a href="/artist/79a22726-c8ad-484e-b547-55b728e55d9c" title="Schola Cantorum (New York)"><bdi>Schola Cantorum</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/b27d9788-39c5-3482-8400-dea880efc875"><bdi>Symphonie en ut / La Péri Fanfare / La Péri / L’Apprenti sorcier</bdi></a></td>
+        
+        <td><a href="/artist/8048b7be-cda8-4e5a-bc4b-57267fc05be1" title="Dukas, Paul"><bdi>Paul Dukas</bdi></a>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/97e78ecf-0d07-461f-817d-16765bc9da25" title="Slatkin, Leonard"><bdi>Leonard Slatkin</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/7eb76ba4-5675-4c9c-917b-17e6262abf8e"><bdi>Deutsche Grammophon Collection: Wolf: The Spanish Songbook / Strauss: Five Songs for Voice and Orchestra</bdi></a></td>
+        
+        <td><a href="/artist/21f39bff-fdec-4424-8ad7-86207565d571" title="Wolf, Hugo"><bdi>Hugo Wolf</bdi></a>, <a href="/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16" title="Strauss, Richard (German composer)"><bdi>Richard Strauss</bdi></a>; <a href="/artist/f17aa6af-8d75-4559-b212-b83b9549758e" title="Schwarzkopf, Elisabeth (German-born Austrian/British soprano opera)"><bdi>Elisabeth Schwarzkopf</bdi></a>, <a href="/artist/5978ca05-f0dd-42ef-b716-4ec0cbf659f8" title="Moore, Gerald (pianist)"><bdi>Gerald Moore</bdi></a>, <a href="/artist/a96e61bc-1da0-45d0-816d-ebd00b70ff9d" title="Caballé, Montserrat"><bdi>Montserrat Caballé</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/119c7dae-064a-3106-a75f-1978d2602775"><bdi>Complete Orchestral Works</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a" title="Maurice Ravel – Ravel, Maurice (classical composer)"><bdi>Ravel</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/a34fb252-833a-4fee-b53a-892428ad91d7" title="Inbal, Eliahu"><bdi>Eliahu Inbal</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/cfbb36bc-3c1b-3498-b3d8-aae695b64cbc"><bdi>Holst: The Planets / Prokofiev: Suite from “Love for Three Oranges”</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/3ba68671-e3b5-4263-81dc-76b16b29bbc6" title="Gustav Holst – Holst, Gustav"><bdi>Holst</bdi></a></span>, <span class="name-variation"><a href="/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1" title="Сергей Сергеевич Прокофьев – Prokofiev, Sergei Sergeyevich (Russian composer)"><bdi>Prokofiev</bdi></a></span>; <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/e38bb7a2-c3e5-4be2-894b-7078c40b9955" title="Maazel, Lorin"><bdi>Lorin Maazel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/89386713-19f8-404d-b621-1fc89882bda4"><bdi>Orchestral &amp; Choral Works</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/5e1ef22b-310a-46ad-885b-4897b8c9c85a" title="Francis Poulenc – Poulenc, Francis"><bdi>Poulenc</bdi></a></span>; <a href="/artist/191df02c-dd85-4197-9f50-4b3ef1486f4e" title="Rogé, Pascal (pianist)"><bdi>Pascal Rogé</bdi></a>, <a href="/artist/05bf6dcc-9ad6-4a42-a53e-64f27c4cf416" title="Roux, François Le"><bdi>François Le Roux</bdi></a>, <a href="/artist/6f1af292-c6a8-4b50-aa38-98311b609ca8" title="Pollet, Françoise"><bdi>Françoise Pollet</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <a href="/artist/64a7dc4d-79b0-4033-9b9a-6c64671de8b7" title="Dutoit, Charles"><bdi>Charles Dutoit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/998ac0ef-52db-4702-884f-ce54749a7c03"><bdi>Guerre et Paix</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1" title="Сергей Сергеевич Прокофьев – Prokofiev, Sergei Sergeyevich (Russian composer)"><bdi>Prokofiev</bdi></a></span>; <a href="/artist/d723f673-ecf9-43b7-8b59-963c3480f5a0" title="Chœur de Radio France"><bdi>Chœur de Radio France</bdi></a>, <a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b" title="Orchestre National de France"><bdi>Orchestre National de France</bdi></a>, <span class="name-variation"><a href="/artist/e2b294b7-f705-4317-a96b-fd94da3719e5" title="Мстислав Ростропович – Rostropovich, Mstislav"><bdi>Mstislav Rostropovitch</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Orchestre_national_de_France.jpg/250px-Orchestre_national_de_France.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Orchestre national de France.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Orchestra</dd>
+<dt>Founded:</dt>
+<dd>1975-01-01 (41 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/symphony%20orchestra"><bdi>symphony orchestra</bdi></a>, <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/french%20orchestra"><bdi>french orchestra</bdi></a>, <a href="/tag/orchestra"><bdi>orchestra</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://sites.radiofrance.fr/chaines/formations/national/accueil/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0002344147">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/626175">Discogs</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q686537">Q686537</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Orchestre_National_de_France">en: Orchestre National de France</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5dba6ba9-b79c-4a1e-927e-3862589c112b/relationships" title="Orchestre National de France"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5dba6ba9-b79c-4a1e-927e-3862589c112b">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-11-12 12:57 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

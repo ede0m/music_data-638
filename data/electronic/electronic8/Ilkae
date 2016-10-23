@@ -1,0 +1,659 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ilkae - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1999, Area: Canada"/><script type="application/ld+json">{"location":{"@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b","name":"Canada","@type":"Country"},"sameAs":["http://ilkae.bandcamp.com/","http://www.allmusic.com/artist/mn0001849553","http://www.last.fm/music/Ilkae","https://rateyourmusic.com/artist/ilkae","https://www.discogs.com/artist/2208"],"@type":"MusicGroup","member":[{"member":{"name":"Aaron Munson","@id":"https://musicbrainz.org/artist/640b3788-8c90-441b-bd68-0543cc23435c","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Krystian Lubiszewski","@id":"https://musicbrainz.org/artist/a705b334-8144-4c2f-9126-a8a129bd6a9b","@type":["Person","MusicGroup"]}}],"name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","album":[{"@type":"MusicAlbum","creditedTo":"Ilkae","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1c920d4a-8949-36c2-ac9e-b0eb3e979860","albumProductionType":"http://schema.org/StudioAlbum","name":"Pistachio Island","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae"}},{"creditedTo":"Ilkae","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de"},"@id":"https://musicbrainz.org/release-group/304aa562-796b-34e6-ab4d-8bd799216190","albumReleaseType":"http://schema.org/AlbumRelease","name":"Bring Extra Dragons","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"Ilkae","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/92428ed3-0f9b-3011-99f0-65f05218e081","name":"Stained Glass Piñata","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","@type":"MusicGroup"}},{"creditedTo":"Ilkae","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c7715358-87e9-3444-a92a-d32ee074e098","name":"Light Industry","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae","@type":"MusicGroup"}},{"name":"Can't Play Guitar","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ee082288-bfda-4716-b789-1b0147575e06","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae"},"creditedTo":"Ilkae","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/be754c2a-963c-40e5-a942-7ddfc1015783","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"4EP","creditedTo":"Ilkae","@type":"MusicAlbum"},{"creditedTo":"Ilkae","@type":"MusicAlbum","name":"Bovine Rearrangement","albumProductionType":"http://schema.org/RemixAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/acc870fe-9ece-3ce3-9c85-e2b411e008db","byArtist":{"@type":"MusicGroup","name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de"}},{"byArtist":{"@type":"MusicGroup","name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de"},"name":"Jump Math Cupboard EP","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/06bb1f6b-d5b7-3bc8-8382-fbe45c71bdd2","creditedTo":"Ilkae","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Stained Glass Confetti EP","@id":"https://musicbrainz.org/release-group/f742072e-b005-3129-b0ed-cf990f45a481","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Ilkae"},{"creditedTo":"Ilkae","@type":"MusicAlbum","name":"Lighter Industry EP","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/02b0ca58-79a0-311b-8a43-052d24ffe7d1","byArtist":{"@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de"},"@id":"https://musicbrainz.org/release-group/3d83f119-1ba4-4458-ab75-c2a9aa3c7f04","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Negative VGA","creditedTo":"Ilkae","@type":"MusicAlbum"},{"creditedTo":"Valance Drakes / Ilkae","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Strategy for Change","@id":"https://musicbrainz.org/release-group/935b8bc4-f618-4943-90a0-a5ea8e1786e2","albumReleaseType":"http://schema.org/EPRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/86bdd339-541d-4f6c-9671-082f5b5954bb","name":"Valance Drakes","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae"}]},{"creditedTo":"Ilkae \u0026 tempsoundsolutions","@type":"MusicAlbum","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","name":"Ilkae"},{"@type":["Person","MusicGroup"],"name":"Temp Sound Solutions","@id":"https://musicbrainz.org/artist/6b061a4b-025a-46aa-908e-8b2e72c83f31"}],"name":"Your Past is Our Future","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/577dc0d3-11bf-397a-86ff-2d45089e3896","albumReleaseType":"http://schema.org/EPRelease"},{"name":"Porpoise!","albumProductionType":"http://schema.org/DJMixAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/763b587f-1f5e-4760-9e60-f54a974df369","byArtist":{"name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Ilkae"},{"albumProductionType":"http://schema.org/RemixAlbum","name":"Remixes of Ilkae","@id":"https://musicbrainz.org/release-group/6c26a01e-cbd2-349a-ada4-6e83b1362157","byArtist":{"@type":"MusicGroup","name":"Ilkae","@id":"https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de"},"@type":"MusicAlbum","creditedTo":"Ilkae"}],"foundingDate":"1999","@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F83def1ca-9d9d-436c-ba72-3e800256d7de">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F83def1ca-9d9d-436c-ba72-3e800256d7de">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae – Ilkae"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/releases" title="Ilkae"><bdi>Releases</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/recordings" title="Ilkae"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/works" title="Ilkae"><bdi>Works</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/events" title="Ilkae"><bdi>Events</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/relationships" title="Ilkae"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/aliases" title="Ilkae"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/tags" title="Ilkae"><bdi>Tags</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/details" title="Ilkae"><bdi>Details</bdi></a></li>            <li><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/edit" title="Ilkae"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=41204" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/1c920d4a-8949-36c2-ac9e-b0eb3e979860"><bdi>Pistachio Island</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/304aa562-796b-34e6-ab4d-8bd799216190"><bdi>Bring Extra Dragons</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/92428ed3-0f9b-3011-99f0-65f05218e081"><bdi>Stained Glass Piñata</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c7715358-87e9-3444-a92a-d32ee074e098"><bdi>Light Industry</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/ee082288-bfda-4716-b789-1b0147575e06"><bdi>Can't Play Guitar</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/be754c2a-963c-40e5-a942-7ddfc1015783"><bdi>4EP</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/acc870fe-9ece-3ce3-9c85-e2b411e008db"><bdi>Bovine Rearrangement</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/06bb1f6b-d5b7-3bc8-8382-fbe45c71bdd2"><bdi>Jump Math Cupboard EP</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f742072e-b005-3129-b0ed-cf990f45a481"><bdi>Stained Glass Confetti EP</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/02b0ca58-79a0-311b-8a43-052d24ffe7d1"><bdi>Lighter Industry EP</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/3d83f119-1ba4-4458-ab75-c2a9aa3c7f04"><bdi>Negative VGA</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/935b8bc4-f618-4943-90a0-a5ea8e1786e2"><bdi>Strategy for Change</bdi></a></td>
+        
+        <td><a href="/artist/86bdd339-541d-4f6c-9671-082f5b5954bb" title="Drakes, Valance (MusSck)"><bdi>Valance Drakes</bdi></a> / <a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/577dc0d3-11bf-397a-86ff-2d45089e3896"><bdi>Your Past is Our Future</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a> &amp; <span class="name-variation"><a href="/artist/6b061a4b-025a-46aa-908e-8b2e72c83f31" title="Temp Sound Solutions – Temp Sound Solutions"><bdi>tempsoundsolutions</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + DJ-mix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/763b587f-1f5e-4760-9e60-f54a974df369"><bdi>Porpoise!</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/6c26a01e-cbd2-349a-ada4-6e83b1362157"><bdi>Remixes of Ilkae</bdi></a></td>
+        
+        <td><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de" title="Ilkae"><bdi>Ilkae</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1999 (17 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/downtempo"><bdi>downtempo</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/glitch"><bdi>glitch</bdi></a>, <a href="/tag/tpolm"><bdi>tpolm</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0001849553">AllMusic</a>
+          
+          
+        </li>               <li class="bandcamp-favicon">
+          
+          
+          <a href="//ilkae.bandcamp.com/">Bandcamp</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/2208">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Ilkae">Ilkae</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/ilkae">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/ilkae">@ilkae</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/irukae">irukae</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/ilkae">ilkae</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/83def1ca-9d9d-436c-ba72-3e800256d7de/relationships" title="Ilkae"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F83def1ca-9d9d-436c-ba72-3e800256d7de">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-09-30 17:28 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

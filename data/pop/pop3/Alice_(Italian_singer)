@@ -1,0 +1,836 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Alice - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Italian singer, Type: Person, Gender: Female, Born: 1954-09-26 in Forlì, Area: Italy"/><script type="application/ld+json">{"location":{"@id":"https://musicbrainz.org/area/c6500277-9a3d-349b-bf30-41afdbf42add","name":"Italy","@type":"Country"},"@type":["Person","MusicGroup"],"birthPlace":{"containedIn":{"@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"Italy","@id":"https://musicbrainz.org/area/c6500277-9a3d-349b-bf30-41afdbf42add"},"@id":"https://musicbrainz.org/area/9ee12b8e-e2f5-46c7-89c5-196b4ea58863","name":"Forlì-Cesena"},"@type":"City","name":"Forlì","@id":"https://musicbrainz.org/area/2afa520a-c6c6-4675-837e-a75534cbae1b"},"sameAs":["http://en.wikipedia.org/wiki/Alice_(singer)","http://isni-url.oclc.nl/isni/0000000081702143","http://isni-url.oclc.nl/isni/0000000382686781","http://rateyourmusic.com/artist/alice","http://viaf.org/viaf/100987038","http://www.45cat.com/artist/alice/all","http://www.alice-officialwebsite.com/","http://www.allmusic.com/artist/mn0000004673","http://www.secondhandsongs.com/artist/9004","https://musicbrainz.org/artist/f3ed7660-74dd-4b6e-bef5-89f32b77e034","https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","https://www.discogs.com/artist/345919","https://www.wikidata.org/wiki/Q286547"],"album":[{"name":"La mia poca grande età","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/75167f73-aa5d-49c5-a4c8-1d2dca774584","byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice"},"creditedTo":"Alice","@type":"MusicAlbum"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"name":"Cosa resta... un fiore","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/14ce6289-ec1b-4489-8692-b1d734b81f88","creditedTo":"Alice","@type":"MusicAlbum"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b644411b-c3df-43b8-90f7-1a1c4b04629e","albumProductionType":"http://schema.org/StudioAlbum","name":"Capo Nord","@type":"MusicAlbum","creditedTo":"Alice"},{"byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a5b125fa-7009-4358-bce1-5d0df6b51f98","name":"Alice","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Alice"},{"creditedTo":"Alice","@type":"MusicAlbum","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Azimut","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/af2ba0dd-ec06-32c6-8a7e-2d57a761ec31"},{"name":"Per Elisa","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2b62867d-4838-4b77-b4dc-4bcca0bce2f4","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"@type":"MusicAlbum","creditedTo":"Alice"},{"creditedTo":"Alice","@type":"MusicAlbum","name":"Falsi allarmi","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fe6dc4dc-81ae-420f-bed1-a97681bc846f","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05"}},{"@type":"MusicAlbum","creditedTo":"Alice","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","name":"Gioielli rubati","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f4d6760f-071d-39c0-92f6-76fcd977e793"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Park Hotel","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/21c1d00e-ee23-3051-af52-d8159530162a","byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"creditedTo":"Alice","@type":"MusicAlbum"},{"creditedTo":"Alice","@type":"MusicAlbum","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","name":"Elisir","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6e2f62a8-23d8-4f4c-94d3-c9db8ca3de96"},{"@type":"MusicAlbum","creditedTo":"Alice","@id":"https://musicbrainz.org/release-group/892c6157-ab58-456e-8be3-1559c91a8628","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Mélodie passagère","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice"}},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1ca338dc-12ee-3d09-965c-a81239e95d49","name":"Il sole nella pioggia","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"@type":"MusicAlbum","creditedTo":"Alice"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"name":"Mezzogiorno sulle Alpi","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0e893f23-7b8f-33a6-8d24-3bd859ba24b9","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Alice","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Alice","byArtist":{"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/199e0571-f52e-40b2-a703-6e15a9ebe6a6","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Charade"},{"@type":"MusicAlbum","creditedTo":"Alice","name":"Exit","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/00e01064-9301-3b17-99b6-121623bff7e7","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"}},{"@id":"https://musicbrainz.org/release-group/d2f09642-84a0-3221-97f8-befd56a0b717","albumReleaseType":"http://schema.org/AlbumRelease","name":"God Is My DJ","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice"},"@type":"MusicAlbum","creditedTo":"Alice"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"@id":"https://musicbrainz.org/release-group/4bcda3ef-3c8d-311a-835e-e653538237a8","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Viaggio in Italia","creditedTo":"Alice","@type":"MusicAlbum"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"@id":"https://musicbrainz.org/release-group/af8ff479-8cd6-4218-b69f-7cdb29441267","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Samsara","creditedTo":"Alice","@type":"MusicAlbum"},{"creditedTo":"Alice","@type":"MusicAlbum","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Weekend","@id":"https://musicbrainz.org/release-group/1bd290ef-3e33-4a44-8b02-f4ed8aef4d80","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Alice","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c7ced3d8-9fcc-3ef3-869a-ddcfcdddfa66","albumProductionType":"http://schema.org/CompilationAlbum","name":"Alice","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]}},{"@type":"MusicAlbum","creditedTo":"Alice","@id":"https://musicbrainz.org/release-group/5baa0902-d98a-4e03-9ea0-8332c2d5d992","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Alice","byArtist":{"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05"}},{"@id":"https://musicbrainz.org/release-group/200627d8-741a-3f91-8e7b-8535dede92f5","albumReleaseType":"http://schema.org/AlbumRelease","name":"Il vento caldo dell’estate","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]},"creditedTo":"Alice","@type":"MusicAlbum"},{"name":"Alice canta Battiato","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/dfa72b9c-754d-3435-9ae8-2090eb5fc8b1","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice"},"@type":"MusicAlbum","creditedTo":"Alice"},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"Personal Juke Box","@id":"https://musicbrainz.org/release-group/b4218e02-a3c6-3ab8-b689-b2f2ad1b5e6d","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","creditedTo":"Alice"},{"creditedTo":"Alice","@type":"MusicAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"],"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee"},"@id":"https://musicbrainz.org/release-group/9496bdb2-9d6d-4845-8e0d-2e7190ae8f00","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Studio Collection"},{"creditedTo":"Alice","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e03e811e-d7b5-49e6-9b14-098432972493","name":"Alice","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]}},{"creditedTo":"Alice","@type":"MusicAlbum","name":"I grandi successi di","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f788e9fa-82ba-3b4f-ba22-94af0f602cd8","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]}},{"@type":"MusicAlbum","creditedTo":"Alice","name":"Viaggiatrice solitaria","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/d8669b3b-c27e-3fe8-bafb-3c2d11f3f461","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]}},{"@type":"MusicAlbum","creditedTo":"Alice","byArtist":{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05"},"name":"Lungo la strada: Live","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/674bf8c5-fad8-4930-863b-99060114abda"},{"byArtist":[{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0cd117b2-2e21-406d-80cf-5ce0a6065e37","name":"Franco Battiato"}],"@id":"https://musicbrainz.org/release-group/2a3e6296-448c-4815-9e43-fafb798f2245","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"I treni di Tozeur / Le biciclette di Forlì","creditedTo":"Alice \u0026 Franco Battiato","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Alice","albumProductionType":"http://schema.org/StudioAlbum","name":"I Am a Taxi","@id":"https://musicbrainz.org/release-group/1b11a70f-d32d-4951-9eb1-99031ae1e0a4","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice","sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05","@type":["Person","MusicGroup"]}},{"creditedTo":"Alice feat. Paolo Fresu","@type":"MusicAlbum","byArtist":[{"name":"Alice","@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c7301466-d75c-45d5-aea7-d6ab8ea63e1c","name":"Paolo Fresu"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Tante belle cose","@id":"https://musicbrainz.org/release-group/dbc0bcc9-9b6b-4917-a852-2fd839de7284","albumReleaseType":"http://schema.org/SingleRelease"}],"@id":"https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee","name":"Alice","@context":"http://schema.org","alternateName":["Carla Bissi"],"birthDate":"1954-09-26"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fe32f2cd6-8695-4914-9c24-72e02ebd09ee">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fe32f2cd6-8695-4914-9c24-72e02ebd09ee">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a> <span class="comment">(<bdi>Italian singer</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice – Alice (Italian singer)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/releases" title="Alice (Italian singer)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/recordings" title="Alice (Italian singer)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/works" title="Alice (Italian singer)"><bdi>Works</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/events" title="Alice (Italian singer)"><bdi>Events</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/relationships" title="Alice (Italian singer)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/aliases" title="Alice (Italian singer)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/tags" title="Alice (Italian singer)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/details" title="Alice (Italian singer)"><bdi>Details</bdi></a></li>            <li><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/edit" title="Alice (Italian singer)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/f7619429-7eef-4c0e-8f49-f1d06a5b9d05" title="Bissi, Carla"><bdi>Carla Bissi</bdi></a></p>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Alice</b> (<small>Italian pronunciation: </small><span title="Representation in the International Phonetic Alphabet (IPA)">[aˈliːtʃɛ]</span>), also known as <b>Alice Visconti</b> (born <b>Carla Bissi</b>, 26 September 1954, Forlì, Province of Forlì-Cesena, Italy) is an Italian singer-songwriter and pianist, active since 1971. Alice had her breakthrough after winning the Sanremo Music Festival with the song "Per Elisa" in 1981, followed by European hit singles like "Una notte speciale", "Messaggio", "Chan-son Egocentrique", "Prospettiva Nevski" and "Nomadi" and albums like <i>Gioielli rubati</i>, <i>Park Hotel</i>, <i>Elisir</i> and <i>Il sole nella pioggia</i> charting in both Continental Europe, Scandinavia and Japan. In 1984 she represented Italy in the Eurovision Song Contest with "I treni di Tozeur", a duet with longtime collaborator Franco Battiato. In her more recent career Alice has explored a diverse range of musical genres including classical, jazz, electronica and ambient and has collaborated with a large number of renowned English and American musicians. Her latest album <i>Samsara</i> was released in 2012.</p></div>
+<a href="https://en.wikipedia.org/wiki/Alice_%28singer%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=36730" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/75167f73-aa5d-49c5-a4c8-1d2dca774584"><bdi>La mia poca grande età</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/14ce6289-ec1b-4489-8692-b1d734b81f88"><bdi>Cosa resta... un fiore</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/b644411b-c3df-43b8-90f7-1a1c4b04629e"><bdi>Capo Nord</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/a5b125fa-7009-4358-bce1-5d0df6b51f98"><bdi>Alice</bdi></a> <span class="comment">(<bdi>Per Elisa</bdi>)</span></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/af2ba0dd-ec06-32c6-8a7e-2d57a761ec31"><bdi>Azimut</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/2b62867d-4838-4b77-b4dc-4bcca0bce2f4"><bdi>Per Elisa</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/fe6dc4dc-81ae-420f-bed1-a97681bc846f"><bdi>Falsi allarmi</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/f4d6760f-071d-39c0-92f6-76fcd977e793"><bdi>Gioielli rubati</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/21c1d00e-ee23-3051-af52-d8159530162a"><bdi>Park Hotel</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/6e2f62a8-23d8-4f4c-94d3-c9db8ca3de96"><bdi>Elisir</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/892c6157-ab58-456e-8be3-1559c91a8628"><bdi>Mélodie passagère</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/1ca338dc-12ee-3d09-965c-a81239e95d49"><bdi>Il sole nella pioggia</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/0e893f23-7b8f-33a6-8d24-3bd859ba24b9"><bdi>Mezzogiorno sulle Alpi</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/199e0571-f52e-40b2-a703-6e15a9ebe6a6"><bdi>Charade</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/00e01064-9301-3b17-99b6-121623bff7e7"><bdi>Exit</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/d2f09642-84a0-3221-97f8-befd56a0b717"><bdi>God Is My DJ</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/4bcda3ef-3c8d-311a-835e-e653538237a8"><bdi>Viaggio in Italia</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/af8ff479-8cd6-4218-b69f-7cdb29441267"><bdi>Samsara</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/1bd290ef-3e33-4a44-8b02-f4ed8aef4d80"><bdi>Weekend</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/c7ced3d8-9fcc-3ef3-869a-ddcfcdddfa66"><bdi>Alice</bdi></a> <span class="comment">(<bdi>1986 compilation, EMI</bdi>)</span></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/5baa0902-d98a-4e03-9ea0-8332c2d5d992"><bdi>Alice</bdi></a> <span class="comment">(<bdi>1984 compilation, CGD</bdi>)</span></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/200627d8-741a-3f91-8e7b-8535dede92f5"><bdi>Il vento caldo dell’estate</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/dfa72b9c-754d-3435-9ae8-2090eb5fc8b1"><bdi>Alice canta Battiato</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/b4218e02-a3c6-3ab8-b689-b2f2ad1b5e6d"><bdi>Personal Juke Box</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/9496bdb2-9d6d-4845-8e0d-2e7190ae8f00"><bdi>Studio Collection</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/e03e811e-d7b5-49e6-9b14-098432972493"><bdi>Alice</bdi></a> <span class="comment">(<bdi>&quot;Solo grandi successi&quot; series</bdi>)</span></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f788e9fa-82ba-3b4f-ba22-94af0f602cd8"><bdi>I grandi successi di</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/d8669b3b-c27e-3fe8-bafb-3c2d11f3f461"><bdi>Viaggiatrice solitaria</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/674bf8c5-fad8-4930-863b-99060114abda"><bdi>Lungo la strada: Live</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/2a3e6296-448c-4815-9e43-fafb798f2245"><bdi>I treni di Tozeur / Le biciclette di Forlì</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a> &amp; <a href="/artist/0cd117b2-2e21-406d-80cf-5ce0a6065e37" title="Battiato, Franco (Italian singer-songwriter and composer)"><bdi>Franco Battiato</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/1b11a70f-d32d-4951-9eb1-99031ae1e0a4"><bdi>I Am a Taxi</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/dbc0bcc9-9b6b-4917-a852-2fd839de7284"><bdi>Tante belle cose</bdi></a></td>
+        
+        <td><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee" title="Alice (Italian singer)"><bdi>Alice</bdi></a> feat. <a href="/artist/c7301466-d75c-45d5-aea7-d6ab8ea63e1c" title="Fresu, Paolo"><bdi>Paolo Fresu</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alice%2C_concerto_a_firenze%2C_2012%2C_01.JPG/250px-Alice%2C_concerto_a_firenze%2C_2012%2C_01.JPG"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Alice, concerto a firenze, 2012, 01.JPG">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Female</dd>
+<dt>Born:</dt>
+<dd>1954-09-26 (62 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/2afa520a-c6c6-4675-837e-a75534cbae1b"><bdi>Forlì</bdi></a>, <a href="/area/9ee12b8e-e2f5-46c7-89c5-196b4ea58863"><bdi>Forlì-Cesena</bdi></a>, <span class="flag flag-IT"><a href="/area/c6500277-9a3d-349b-bf30-41afdbf42add"><bdi>Italy</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-IT"><a href="/area/c6500277-9a3d-349b-bf30-41afdbf42add"><bdi>Italy</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000081702143">0000 0000 8170 2143    </a></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000382686781">0000 0003 8268 6781    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span>    (<a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/ratings" title="Alice (Italian singer)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/ambient"><bdi>ambient</bdi></a>, <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/electronica"><bdi>electronica</bdi></a>, <a href="/tag/experimental"><bdi>experimental</bdi></a>, <a href="/tag/folk"><bdi>folk</bdi></a>, <a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/tags" title="Alice (Italian singer)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.alice-officialwebsite.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000004673">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/345919">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/wiki/Alice">LyricWiki</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/alice">Rateyourmusic</a>
+          
+          
+        </li>               <li class="fortyfivecat-favicon">
+          
+          
+          <a href="http://www.45cat.com/artist/alice/all">45cat</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/9004">SecondHandSongs</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/100987038">VIAF: 100987038</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q286547">Q286547</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Alice_(singer)">en: Alice (singer)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/e32f2cd6-8695-4914-9c24-72e02ebd09ee/relationships" title="Alice (Italian singer)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fe32f2cd6-8695-4914-9c24-72e02ebd09ee">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-07-29 01:14 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

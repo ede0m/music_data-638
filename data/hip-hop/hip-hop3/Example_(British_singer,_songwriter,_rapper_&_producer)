@@ -1,0 +1,1008 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Example - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="British singer, songwriter, rapper &amp; producer, Type: Person, Gender: Male, Born: 1982-06-20, Area: United Kingdom"/><script type="application/ld+json">{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","sameAs":["http://en.wikipedia.org/wiki/Example_(musician)","http://www.allmusic.com/artist/mn0002139647","http://www.trythisforexample.com/","https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","https://www.discogs.com/artist/489089","https://www.wikidata.org/wiki/Q352098"],"@context":"http://schema.org","location":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"alternateName":["Elliot Gleave"],"birthDate":"1982-06-20","album":[{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4e98a674-6863-3f05-b59e-a1e3ffa3bd3a","name":"What We Made"},{"creditedTo":"Example","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/6bab80c4-3f79-418b-a02f-086d34cbc252","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Won’t Go Quietly","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477"}},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68"},"name":"Playing in the Shadows","@id":"https://musicbrainz.org/release-group/aaafbd3a-ea1d-48a5-a09f-2f1e6969dc4d","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},"name":"The Evolution of Man","@id":"https://musicbrainz.org/release-group/d19bc756-2bfe-472c-b853-f78a386a0d5a","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]},"name":"Live Life Living","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/da84e39e-c4c3-4b68-9e77-2e828b670d4b"},{"@type":"MusicAlbum","creditedTo":"Example \u002b DJ Wire","byArtist":[{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68"},{"@id":"https://musicbrainz.org/artist/1b1e9039-2061-420d-a260-b8a92df18803","name":"DJ Wire","@type":"MusicGroup"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/050b99c7-ee1d-446b-8e92-be3234a0a4b0","name":"Example \u002b DJ Wire Present The Playlist"},{"byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68"},"name":"#hits","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/31b42973-76c6-40b9-9538-dae574ccaf07","@type":"MusicAlbum","creditedTo":"Example"},{"byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]},"name":"We Didn't Invent The Remix","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/7efc110d-25e8-4cbd-8871-e8734c8ade42","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Example"},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/53d36852-74cd-36c7-95bc-a95173e57f68","name":"What We Almost Made"},{"creditedTo":"Example","@type":"MusicAlbum","name":"What We Made","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d5813a20-a52e-45b9-906b-9d9dd943feef","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68"}},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2f935a95-d1c7-3e9e-8040-edbff9ef4dd5","albumReleaseType":"http://schema.org/SingleRelease","name":"You Can't Rap","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},"creditedTo":"Example","@type":"MusicAlbum"},{"creditedTo":"Example","@type":"MusicAlbum","name":"So Many Roads","@id":"https://musicbrainz.org/release-group/7d142229-ac45-4a4c-8cc9-3891aeb928b9","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"}},{"name":"Watch the Sun Come Up","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ac6cd88f-cae7-4f0b-bcee-ae9057dcb3a9","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},"creditedTo":"Example","@type":"MusicAlbum"},{"creditedTo":"Example","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e2a4ffc7-6d0a-439e-90af-e4a48f61e9dc","albumReleaseType":"http://schema.org/SingleRelease","name":"Won't Go Quietly","byArtist":{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]}},{"byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68"},"name":"Last Ones Standing","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e9e63e7f-8538-4942-98f0-580680fa5247","@type":"MusicAlbum","creditedTo":"Example"},{"name":"Shot Yourself in the Foot Again","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e3c7eff2-4976-49d2-91e4-6f9d1840818c","byArtist":[{"@type":["Person","MusicGroup"],"name":"Skream","@id":"https://musicbrainz.org/artist/fb5ee67e-e31a-40cf-8b06-5f1a0f53529a"},{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"}],"creditedTo":"Skream \u0026 Example","@type":"MusicAlbum"},{"creditedTo":"Example","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1adc9498-326f-4d52-bff7-d4caa8d034ab","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Two Lives","byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]}},{"byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9a3b2d4a-2da4-49c6-9ab3-c680434dbabf","name":"Wretch 32"},{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477"}],"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/51aac39f-89f5-4af0-a5c9-ca0f69175850","name":"Unorthodox","@type":"MusicAlbum","creditedTo":"Wretch 32 feat. Example"},{"@id":"https://musicbrainz.org/release-group/d78d9ae5-8701-4436-9c5e-56df6b8d4de3","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Changed the Way You Kiss Me","byArtist":{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477"},"creditedTo":"Example","@type":"MusicAlbum"},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Laidback Luke","@id":"https://musicbrainz.org/artist/281e12a2-ad6e-46e8-b813-bdcbbea5e35e"},{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68"}],"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0b758b66-503a-4599-b2fa-5e641f26dcce","albumReleaseType":"http://schema.org/SingleRelease","name":"Natural Disaster","@type":"MusicAlbum","creditedTo":"Laidback Luke vs. Example"},{"creditedTo":"Example","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d9a2cb1c-c555-4046-bcd8-983a1da0e5b7","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Midnight Run","byArtist":{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]}},{"@type":"MusicAlbum","creditedTo":"Flux Pavilion feat. Example","byArtist":[{"@id":"https://musicbrainz.org/artist/3ce513c5-bdd4-492c-a875-07e0f3e1993b","name":"Flux Pavilion","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]}],"name":"Daydreamer","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/06a4e3fa-3dae-446e-97b4-0970a1f2569c","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Calvin Harris feat. Example","@type":"MusicAlbum","name":"We'll Be Coming Back","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d9393dec-e903-452c-a1ec-d4cf85030f46","byArtist":[{"name":"Calvin Harris","@id":"https://musicbrainz.org/artist/8dd98bdc-80ec-4e93-8509-2f46bafc09a7","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"}]},{"@type":"MusicAlbum","creditedTo":"Pet Shop Boys feat. Example","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/be540c02-7898-4b79-9acc-c8122c7d9e83","name":"Pet Shop Boys"},{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]}],"name":"Thursday","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a5772e48-7713-4557-90c7-5e88c6f29cc7"},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68"},"name":"Kids Again","@id":"https://musicbrainz.org/release-group/71d8d7b4-a9ba-43ee-a02e-6944c7b8e56a","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/9e2990ab-4d3d-4fb5-bd9b-1252440f043a","name":"Tinchy Stryder","@type":["Person","MusicGroup"]},{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},{"name":"Tempa T","@id":"https://musicbrainz.org/artist/110350b2-76da-4335-80bf-34bfbb0e4163","@type":["Person","MusicGroup"]}],"name":"Chat Shit Get Banged","@id":"https://musicbrainz.org/release-group/d861517f-a9bc-477a-8f30-884a6955b2dc","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Tinchy Stryder x Example x Tempa T"},{"byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},"name":"Last Ones Standing","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/025a9cb8-374c-4890-b7ef-ef4690211e40","@type":"MusicAlbum","creditedTo":"Example"},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]},"name":"Close Enemies","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/3415e169-d589-4873-83f3-726e9e8db972"},{"byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},"name":"I Don't Want To (Radio Version)","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/2717e7dd-2f6c-4c42-a7a4-595b66acc9ca","@type":"MusicAlbum","creditedTo":"Example"},{"byArtist":{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]},"name":"So Many Roads","@id":"https://musicbrainz.org/release-group/0e63bf2c-91ff-4851-b68c-234626874a27","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","creditedTo":"Example"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0b14f106-4871-4469-bff0-75cf457a3564","albumReleaseType":"http://schema.org/EPRelease","name":"Me \u0026 Mandy","@type":"MusicAlbum","creditedTo":"Example"},{"name":"iTunes Festival: London 2011","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/de037112-27ac-42d6-8cf5-2cd7c4cce526","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477"},"creditedTo":"Example","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/ffe1fd4d-e8e7-4668-84ba-fb2934f66dcd","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Kids Again (Remixes)"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/3ce513c5-bdd4-492c-a875-07e0f3e1993b","name":"Flux Pavilion","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"}],"albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/9e6d61d6-c726-45d1-bca7-ad892045c5f2","albumReleaseType":"http://schema.org/EPRelease","name":"Daydreamer (remixes)","@type":"MusicAlbum","creditedTo":"Flux Pavilion feat. Example"},{"@type":"MusicAlbum","creditedTo":"Example","byArtist":{"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example","sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/5f99b3cd-a092-4d23-9830-7405fd5ff4ea","albumReleaseType":"http://schema.org/EPRelease","name":"All the Wrong Places (Remixes)"},{"albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/25255721-de65-4bc4-b3a4-e8dc0c68bdcd","name":"Say Nothing (Remixes)","byArtist":{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477","name":"Example"},"creditedTo":"Example","@type":"MusicAlbum"},{"creditedTo":"Example","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/ae5be1d7-e668-4a67-a8dc-66fd56049171","albumProductionType":"http://schema.org/StudioAlbum","name":"Stay Awake","byArtist":{"sameAs":"https://musicbrainz.org/artist/8f6381eb-dc62-4f92-be73-ab40905fba68","@type":["Person","MusicGroup"],"name":"Example","@id":"https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477"}}],"@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fddeb3502-8693-4619-b41d-263105f84477">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fddeb3502-8693-4619-b41d-263105f84477">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a> <span class="comment">(<bdi>British singer, songwriter, rapper &amp; producer</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example – Example (British singer, songwriter, rapper &amp; producer)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/releases" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/recordings" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/works" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Works</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/events" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Events</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/relationships" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/aliases" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/tags" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/details" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Details</bdi></a></li>            <li><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/edit" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/8f6381eb-dc62-4f92-be73-ab40905fba68" title="Gleave, Elliot"><bdi>Elliot Gleave</bdi></a></p>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=435138" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/4e98a674-6863-3f05-b59e-a1e3ffa3bd3a"><bdi>What We Made</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/6bab80c4-3f79-418b-a02f-086d34cbc252"><bdi>Won’t Go Quietly</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/aaafbd3a-ea1d-48a5-a09f-2f1e6969dc4d"><bdi>Playing in the Shadows</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/d19bc756-2bfe-472c-b853-f78a386a0d5a"><bdi>The Evolution of Man</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/da84e39e-c4c3-4b68-9e77-2e828b670d4b"><bdi>Live Life Living</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/050b99c7-ee1d-446b-8e92-be3234a0a4b0"><bdi>Example + DJ Wire Present The Playlist</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a> + <a href="/artist/1b1e9039-2061-420d-a260-b8a92df18803" title="Wire, DJ"><bdi>DJ Wire</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/31b42973-76c6-40b9-9538-dae574ccaf07"><bdi>#hits</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/7efc110d-25e8-4cbd-8871-e8734c8ade42"><bdi>We Didn't Invent The Remix</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/53d36852-74cd-36c7-95bc-a95173e57f68"><bdi>What We Almost Made</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/d5813a20-a52e-45b9-906b-9d9dd943feef"><bdi>What We Made</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/2f935a95-d1c7-3e9e-8040-edbff9ef4dd5"><bdi>You Can't Rap</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/7d142229-ac45-4a4c-8cc9-3891aeb928b9"><bdi>So Many Roads</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/ac6cd88f-cae7-4f0b-bcee-ae9057dcb3a9"><bdi>Watch the Sun Come Up</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/e2a4ffc7-6d0a-439e-90af-e4a48f61e9dc"><bdi>Won't Go Quietly</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/e9e63e7f-8538-4942-98f0-580680fa5247"><bdi>Last Ones Standing</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/e3c7eff2-4976-49d2-91e4-6f9d1840818c"><bdi>Shot Yourself in the Foot Again</bdi></a></td>
+        
+        <td><a href="/artist/fb5ee67e-e31a-40cf-8b06-5f1a0f53529a" title="Skream (UK dubstep artist)"><bdi>Skream</bdi></a> &amp; <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/1adc9498-326f-4d52-bff7-d4caa8d034ab"><bdi>Two Lives</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/51aac39f-89f5-4af0-a5c9-ca0f69175850"><bdi>Unorthodox</bdi></a></td>
+        
+        <td><a href="/artist/9a3b2d4a-2da4-49c6-9ab3-c680434dbabf" title="Wretch 32"><bdi>Wretch 32</bdi></a> feat. <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/d78d9ae5-8701-4436-9c5e-56df6b8d4de3"><bdi>Changed the Way You Kiss Me</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/0b758b66-503a-4599-b2fa-5e641f26dcce"><bdi>Natural Disaster</bdi></a></td>
+        
+        <td><a href="/artist/281e12a2-ad6e-46e8-b813-bdcbbea5e35e" title="Laidback Luke"><bdi>Laidback Luke</bdi></a> vs. <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/d9a2cb1c-c555-4046-bcd8-983a1da0e5b7"><bdi>Midnight Run</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/06a4e3fa-3dae-446e-97b4-0970a1f2569c"><bdi>Daydreamer</bdi></a></td>
+        
+        <td><a href="/artist/3ce513c5-bdd4-492c-a875-07e0f3e1993b" title="Flux Pavilion"><bdi>Flux Pavilion</bdi></a> feat. <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/d9393dec-e903-452c-a1ec-d4cf85030f46"><bdi>We'll Be Coming Back</bdi></a></td>
+        
+        <td><a href="/artist/8dd98bdc-80ec-4e93-8509-2f46bafc09a7" title="Harris, Calvin (Scottish producer/songwriter)"><bdi>Calvin Harris</bdi></a> feat. <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/a5772e48-7713-4557-90c7-5e88c6f29cc7"><bdi>Thursday</bdi></a></td>
+        
+        <td><a href="/artist/be540c02-7898-4b79-9acc-c8122c7d9e83" title="Pet Shop Boys"><bdi>Pet Shop Boys</bdi></a> feat. <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/71d8d7b4-a9ba-43ee-a02e-6944c7b8e56a"><bdi>Kids Again</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/d861517f-a9bc-477a-8f30-884a6955b2dc"><bdi>Chat Shit Get Banged</bdi></a></td>
+        
+        <td><a href="/artist/9e2990ab-4d3d-4fb5-bd9b-1252440f043a" title="Tinchy Stryder"><bdi>Tinchy Stryder</bdi></a> x <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a> x <a href="/artist/110350b2-76da-4335-80bf-34bfbb0e4163" title="Tempa T (UK Grime MC)"><bdi>Tempa T</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/025a9cb8-374c-4890-b7ef-ef4690211e40"><bdi>Last Ones Standing</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/3415e169-d589-4873-83f3-726e9e8db972"><bdi>Close Enemies</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/2717e7dd-2f6c-4c42-a7a4-595b66acc9ca"><bdi>I Don't Want To (Radio Version)</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/0e63bf2c-91ff-4851-b68c-234626874a27"><bdi>So Many Roads</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/0b14f106-4871-4469-bff0-75cf457a3564"><bdi>Me &amp; Mandy</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/de037112-27ac-42d6-8cf5-2cd7c4cce526"><bdi>iTunes Festival: London 2011</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/ffe1fd4d-e8e7-4668-84ba-fb2934f66dcd"><bdi>Kids Again (Remixes)</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/9e6d61d6-c726-45d1-bca7-ad892045c5f2"><bdi>Daydreamer (remixes)</bdi></a></td>
+        
+        <td><a href="/artist/3ce513c5-bdd4-492c-a875-07e0f3e1993b" title="Flux Pavilion"><bdi>Flux Pavilion</bdi></a> feat. <a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/5f99b3cd-a092-4d23-9830-7405fd5ff4ea"><bdi>All the Wrong Places (Remixes)</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/25255721-de65-4bc4-b3a4-e8dc0c68bdcd"><bdi>Say Nothing (Remixes)</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/ae5be1d7-e668-4a67-a8dc-66fd56049171"><bdi>Stay Awake</bdi></a></td>
+        
+        <td><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>Example</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/ddeb3502-8693-4619-b41d-263105f84477/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1982-06-20 (34 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/uk"><bdi>uk</bdi></a>, <a href="/tag/eletro"><bdi>eletro</bdi></a>, <a href="/tag/hip-hop"><bdi>hip-hop</bdi></a>, <a href="/tag/hiphop"><bdi>hiphop</bdi></a>, <a href="/tag/rapper"><bdi>rapper</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.trythisforexample.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0002139647">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/489089">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/leadingbyexample">leadingbyexample</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/example">example</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q352098">Q352098</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Example_(musician)">en: Example (musician)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/example">example</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/exampleVEVO">exampleVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/ddeb3502-8693-4619-b41d-263105f84477/relationships" title="Example (British singer, songwriter, rapper &amp; producer)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fddeb3502-8693-4619-b41d-263105f84477">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-06-23 15:31 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

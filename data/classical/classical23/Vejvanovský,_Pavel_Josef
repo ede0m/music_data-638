@@ -1,0 +1,590 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pavel Josef Vejvanovský - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1633, Died: 1693 in Kroměříž, Area: Czech Republic"/><script type="application/ld+json">{"album":[{"@id":"https://musicbrainz.org/release-group/cb1794f9-62dd-376b-ae5c-69fc432417bf","creditedTo":"Corelli, Torelli; Academy of Ancient Music, Christopher Hogwood","@type":"MusicAlbum","name":"Christmas Concertos","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/a3546087-fe59-47d3-a3a8-42d58e2573c7","name":"Arcangelo Corelli","@type":["Person","MusicGroup"]},{"name":"Giuseppe Torelli","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f346a19a-e909-4a0d-9a66-4c32a92e8abc"},{"@type":"MusicGroup","name":"Academy of Ancient Music","@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0"},{"@id":"https://musicbrainz.org/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97","name":"Christopher Hogwood","@type":["Person","MusicGroup"]}]},{"@id":"https://musicbrainz.org/release-group/051fcc7b-18ff-3c71-8752-7b5408bf393f","byArtist":[{"name":"Kamil Roško","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/532fac7a-bde1-4531-adf1-1ebde3c597f1"},{"@id":"https://musicbrainz.org/artist/a111c29c-273a-4142-b355-2345eae048d9","name":"Vladimír Rusó","@type":["Person","MusicGroup"]}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Kamil Roško, Vladimír Rusó","name":"Music for Trumpet and Organ","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/85565971-a24f-4637-a8d4-d5cc3a64f037","name":"Richard Steuart","@type":["Person","MusicGroup"]},"name":"Biber - Finger - Neruda - Vejvanovsky","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Richard Steuart","@id":"https://musicbrainz.org/release-group/7b6cd39a-06c3-4935-a056-cb702cbde4b2"},{"@id":"https://musicbrainz.org/release-group/366b46bb-36d2-4778-9b8e-2c4e0d81e660","byArtist":[{"@type":["Person","MusicGroup"],"name":"Paul Plunkett","@id":"https://musicbrainz.org/artist/59839adb-8cbe-4746-8425-7eed10b05ffd"},{"@type":"MusicGroup","name":"Bell’arte Salzburg","@id":"https://musicbrainz.org/artist/94a11e94-5945-4c23-ba36-0d681e75a3de"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Tromba Triumphans: Kammermusik und Barocktrompete","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Paul Plunkett, Bell’arte Salzburg","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/b7b26d74-423e-4545-9e62-1375380dd73a","albumProductionType":"http://schema.org/StudioAlbum","name":"Vánoční hudba pro žestě / Christmas Brass Music (Pražští žesťoví sólisté / Prague Brass Soloists)","creditedTo":"Various Artists","@type":"MusicAlbum","byArtist":{"name":"Various Artists","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Musik der Hofkapelle zu Kremsier (Anima Mea feat. baroque trumpet: Ute Hartwich)","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Various Artists","byArtist":{"@id":"https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377","@type":"MusicGroup","name":"Various Artists"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4dff22eb-aae4-4433-a771-11d6f688d4b2"},{"@id":"https://musicbrainz.org/release-group/1944c834-923e-4d07-998e-cda36ffd8466","byArtist":[{"@type":"MusicGroup","name":"English Chamber Orchestra","@id":"https://musicbrainz.org/artist/8c936585-f1e5-4729-9402-98f319d265b0"},{"name":"Simon Preston","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/32c98fc8-e7de-4c43-af5b-2f0a7a0dd4c7"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"English Chamber Orchestra, Simon Preston","albumProductionType":"http://schema.org/StudioAlbum","name":"Christmas Concertos"},{"@id":"https://musicbrainz.org/release-group/ce4dcfc0-2316-4b95-aa6a-1d824ca61147","albumProductionType":"http://schema.org/StudioAlbum","name":"Musique à la cour de Kromeriz","@type":"MusicAlbum","creditedTo":"Les Sacqueboutiers","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/7969b882-d0ba-4189-9c7b-dd57bba2fec1","name":"Les Sacqueboutiers","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Bell’arte Salzburg","name":"In nativitate Domini: Festliche Weihnachtsmusik","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/94a11e94-5945-4c23-ba36-0d681e75a3de","name":"Bell’arte Salzburg","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1047084a-d554-45bf-8bf8-da553bdc60dc"},{"name":"Ludwig Güttler in der Frauenkirche Dresden","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ludwig Güttler, Friedrich Kircheis","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Ludwig Güttler","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6217e9fd-3029-499b-b574-0c4aaaf17ee8"},{"@type":["Person","MusicGroup"],"name":"Friedrich Kircheis","@id":"https://musicbrainz.org/artist/cc5d3fec-2b1f-44d4-9e63-3c2b9312f7bf"}],"@id":"https://musicbrainz.org/release-group/789d4921-ddaf-4011-8a34-e8122455661e"},{"@id":"https://musicbrainz.org/release-group/c1c659f3-2672-4d0b-b4e8-355e9dc75be9","albumProductionType":"http://schema.org/CompilationAlbum","name":"Die Trompete meisterhaft gespielt, Helmut Schneidewind","creditedTo":"Helhut Schneidewind","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/80ff92ea-c4a4-4526-9f22-a6d5dc8ab7d7","@type":["Person","MusicGroup"],"name":"Helmut Schneidewind"}},{"@id":"https://musicbrainz.org/release-group/fc70991b-4918-408b-842b-adfd6e7e4171","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Various Artists","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377"},"name":"Intermezzo: Audiophile Klänge für Klassische Liebhaber","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Various Artists","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/e6e6d9da-32b2-4097-bb7f-00b943e57771","creditedTo":"Neville Marriner, Academy of St Martin in the Fields","@type":"MusicAlbum","name":"The Argo Years","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/afb8d624-52d7-4a72-8d0b-62fff3e29f79","name":"Sir Neville Marriner","@type":["Person","MusicGroup"]},{"name":"Academy of St Martin in the Fields","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f0ac992d-edd9-4672-ac23-ba0ca93f6539"}]},{"@id":"https://musicbrainz.org/release-group/885ee281-97e6-3832-8507-0451b1bb1fa8","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3","@type":["Person","MusicGroup"],"name":"Georg Philipp Telemann"},{"@id":"https://musicbrainz.org/artist/ddea5540-2c7d-4266-8507-b367c2635d35","@type":["Person","MusicGroup"],"name":"Henry Purcell"},{"@type":["Person","MusicGroup"],"name":"Domenico Gabrielli","@id":"https://musicbrainz.org/artist/febe9df8-0058-459c-8327-a09c9a9e0aaa"}],"name":"Sound the Trumpet! (The Academy of St. Martin-in-the-Fields feat. conductor: Sir Neville Marriner, trumpets: Don Smithers \u0026 Michael Laird)","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Telemann, Purcell, Gabrielli","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/62382956-bd62-4ecd-8961-a3c88f39f82b","byArtist":{"@id":"https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377","name":"Various Artists","@type":"MusicGroup"},"creditedTo":"Various Artists","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Classical Music: Volume 3"}],"birthDate":"1633","deathDate":"1693","sameAs":["http://imslp.org/wiki/Category:Vejvanovsk%C3%BD,_Pavel_Josef","http://isni-url.oclc.nl/isni/0000000109801013","http://viaf.org/viaf/64273108","https://en.wikipedia.org/wiki/Pavel_Josef_Vejvanovsk%C3%BD","https://www.discogs.com/artist/915279","https://www.wikidata.org/wiki/Q709689"],"@type":["Person","MusicGroup"],"location":{"@type":"Country","name":"Czech Republic","@id":"https://musicbrainz.org/area/51d34c28-61bf-3d21-849f-7492672a9d44"},"@id":"https://musicbrainz.org/artist/0396b09f-3510-428b-9240-61c7247a776d","@context":"http://schema.org","name":"Pavel Josef Vejvanovský","deathPlace":{"containedIn":{"@id":"https://musicbrainz.org/area/56e47717-ebb6-4ad0-8354-779290c76e51","containedIn":{"@type":"Country","name":"Czech Republic","@id":"https://musicbrainz.org/area/51d34c28-61bf-3d21-849f-7492672a9d44"},"@type":"AdministrativeArea","name":"Zlínský kraj"},"@id":"https://musicbrainz.org/area/51a37cb8-d694-406a-967e-30f187c36e76","name":"Kroměříž","@type":"AdministrativeArea"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0396b09f-3510-428b-9240-61c7247a776d">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F0396b09f-3510-428b-9240-61c7247a776d">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d" title="Vejvanovský, Pavel Josef"><bdi>Pavel Josef Vejvanovský</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d" title="Pavel Josef Vejvanovský – Vejvanovský, Pavel Josef"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/releases" title="Vejvanovský, Pavel Josef"><bdi>Releases</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/recordings" title="Vejvanovský, Pavel Josef"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/works" title="Vejvanovský, Pavel Josef"><bdi>Works</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/events" title="Vejvanovský, Pavel Josef"><bdi>Events</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/relationships" title="Vejvanovský, Pavel Josef"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/aliases" title="Vejvanovský, Pavel Josef"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/tags" title="Vejvanovský, Pavel Josef"><bdi>Tags</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/details" title="Vejvanovský, Pavel Josef"><bdi>Details</bdi></a></li>            <li><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/edit" title="Vejvanovský, Pavel Josef"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0396b09f-3510-428b-9240-61c7247a776d/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=182891" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/cb1794f9-62dd-376b-ae5c-69fc432417bf"><bdi>Christmas Concertos</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/a3546087-fe59-47d3-a3a8-42d58e2573c7" title="Arcangelo Corelli – Corelli, Arcangelo"><bdi>Corelli</bdi></a></span>, <span class="name-variation"><a href="/artist/f346a19a-e909-4a0d-9a66-4c32a92e8abc" title="Giuseppe Torelli – Torelli, Giuseppe"><bdi>Torelli</bdi></a></span>; <a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music"><bdi>Academy of Ancient Music</bdi></a>, <a href="/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97" title="Hogwood, Christopher"><bdi>Christopher Hogwood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/051fcc7b-18ff-3c71-8752-7b5408bf393f"><bdi>Music for Trumpet and Organ</bdi></a></td>
+        
+        <td><a href="/artist/532fac7a-bde1-4531-adf1-1ebde3c597f1" title="Roško, Kamil"><bdi>Kamil Roško</bdi></a>, <a href="/artist/a111c29c-273a-4142-b355-2345eae048d9" title="Rusó, Vladimír"><bdi>Vladimír Rusó</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/7b6cd39a-06c3-4935-a056-cb702cbde4b2"><bdi>Biber - Finger - Neruda - Vejvanovsky</bdi></a></td>
+        
+        <td><a href="/artist/85565971-a24f-4637-a8d4-d5cc3a64f037" title="Steuart, Richard (trumpet)"><bdi>Richard Steuart</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/366b46bb-36d2-4778-9b8e-2c4e0d81e660"><bdi>Tromba Triumphans: Kammermusik und Barocktrompete</bdi></a></td>
+        
+        <td><a href="/artist/59839adb-8cbe-4746-8425-7eed10b05ffd" title="Plunkett, Paul"><bdi>Paul Plunkett</bdi></a>, <a href="/artist/94a11e94-5945-4c23-ba36-0d681e75a3de" title="Bell’arte Salzburg"><bdi>Bell’arte Salzburg</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/b7b26d74-423e-4545-9e62-1375380dd73a"><bdi>Vánoční hudba pro žestě / Christmas Brass Music (Pražští žesťoví sólisté / Prague Brass Soloists)</bdi></a></td>
+        
+        <td><a href="/artist/89ad4ac3-39f7-470e-963a-56509c546377" title="Various Artists (add compilations to this artist)"><bdi>Various Artists</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/4dff22eb-aae4-4433-a771-11d6f688d4b2"><bdi>Musik der Hofkapelle zu Kremsier (Anima Mea feat. baroque trumpet: Ute Hartwich)</bdi></a></td>
+        
+        <td><a href="/artist/89ad4ac3-39f7-470e-963a-56509c546377" title="Various Artists (add compilations to this artist)"><bdi>Various Artists</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/1944c834-923e-4d07-998e-cda36ffd8466"><bdi>Christmas Concertos</bdi></a></td>
+        
+        <td><a href="/artist/8c936585-f1e5-4729-9402-98f319d265b0" title="English Chamber Orchestra"><bdi>English Chamber Orchestra</bdi></a>, <a href="/artist/32c98fc8-e7de-4c43-af5b-2f0a7a0dd4c7" title="Preston, Simon"><bdi>Simon Preston</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/ce4dcfc0-2316-4b95-aa6a-1d824ca61147"><bdi>Musique à la cour de Kromeriz</bdi></a></td>
+        
+        <td><a href="/artist/7969b882-d0ba-4189-9c7b-dd57bba2fec1" title="Sacqueboutiers, Les"><bdi>Les Sacqueboutiers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/1047084a-d554-45bf-8bf8-da553bdc60dc"><bdi>In nativitate Domini: Festliche Weihnachtsmusik</bdi></a></td>
+        
+        <td><a href="/artist/94a11e94-5945-4c23-ba36-0d681e75a3de" title="Bell’arte Salzburg"><bdi>Bell’arte Salzburg</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/789d4921-ddaf-4011-8a34-e8122455661e"><bdi>Ludwig Güttler in der Frauenkirche Dresden</bdi></a></td>
+        
+        <td><a href="/artist/6217e9fd-3029-499b-b574-0c4aaaf17ee8" title="Güttler, Ludwig"><bdi>Ludwig Güttler</bdi></a>, <a href="/artist/cc5d3fec-2b1f-44d4-9e63-3c2b9312f7bf" title="Kircheis, Friedrich"><bdi>Friedrich Kircheis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1970</td>
+        <td><a href="/release-group/c1c659f3-2672-4d0b-b4e8-355e9dc75be9"><bdi>Die Trompete meisterhaft gespielt, Helmut Schneidewind</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/80ff92ea-c4a4-4526-9f22-a6d5dc8ab7d7" title="Helmut Schneidewind – Schneidewind, Helmut (Trumpet player)"><bdi>Helhut Schneidewind</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/fc70991b-4918-408b-842b-adfd6e7e4171"><bdi>Intermezzo: Audiophile Klänge für Klassische Liebhaber</bdi></a></td>
+        
+        <td><a href="/artist/89ad4ac3-39f7-470e-963a-56509c546377" title="Various Artists (add compilations to this artist)"><bdi>Various Artists</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/e6e6d9da-32b2-4097-bb7f-00b943e57771"><bdi>The Argo Years</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/afb8d624-52d7-4a72-8d0b-62fff3e29f79" title="Sir Neville Marriner – Marriner, Neville, Sir"><bdi>Neville Marriner</bdi></a></span>, <a href="/artist/f0ac992d-edd9-4672-ac23-ba0ca93f6539" title="Academy of St Martin in the Fields"><bdi>Academy of St Martin in the Fields</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/885ee281-97e6-3832-8507-0451b1bb1fa8"><bdi>Sound the Trumpet! (The Academy of St. Martin-in-the-Fields feat. conductor: Sir Neville Marriner, trumpets: Don Smithers &amp; Michael Laird)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3" title="Georg Philipp Telemann – Telemann, Georg Philipp"><bdi>Telemann</bdi></a></span>, <span class="name-variation"><a href="/artist/ddea5540-2c7d-4266-8507-b367c2635d35" title="Henry Purcell – Purcell, Henry (baroque composer)"><bdi>Purcell</bdi></a></span>, <span class="name-variation"><a href="/artist/febe9df8-0058-459c-8327-a09c9a9e0aaa" title="Domenico Gabrielli – Gabrielli, Domenico"><bdi>Gabrielli</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/62382956-bd62-4ecd-8961-a3c88f39f82b"><bdi>Classical Music: Volume 3</bdi></a></td>
+        
+        <td><a href="/artist/89ad4ac3-39f7-470e-963a-56509c546377" title="Various Artists (add compilations to this artist)"><bdi>Various Artists</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>This artist only has release groups by various artists. Showing official release groups for various artists. <a href="https://musicbrainz.org/artist/0396b09f-3510-428b-9240-61c7247a776d?all=1&amp;va=1">Show all various artists release groups instead</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0396b09f-3510-428b-9240-61c7247a776d/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Vejvanovský, Pavel Josef</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1633</dd>
+<dt>Died:</dt>
+<dd>1693 (aged 60)</dd>
+<dt>Died in:</dt>
+<dd class="end_area"><a href="/area/51a37cb8-d694-406a-967e-30f187c36e76"><bdi>Kroměříž</bdi></a>, <a href="/area/56e47717-ebb6-4ad0-8354-779290c76e51"><bdi>Zlínský kraj</bdi></a>, <span class="flag flag-CZ"><a href="/area/51d34c28-61bf-3d21-849f-7492672a9d44"><bdi>Czech Republic</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-CZ"><a href="/area/51d34c28-61bf-3d21-849f-7492672a9d44"><bdi>Czech Republic</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000109801013">0000 0001 0980 1013    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/composer"><bdi>composer</bdi></a>, <a href="/tag/czech%20composer"><bdi>czech composer</bdi></a>, <a href="/tag/czech%20trumpeter"><bdi>czech trumpeter</bdi></a>, <a href="/tag/trumpeter"><bdi>trumpeter</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/915279">Discogs</a>
+          
+          
+        </li>               <li class="imslp-favicon">
+          
+          
+          <a href="http://imslp.org/wiki/Category:Vejvanovsk%C3%BD,_Pavel_Josef">IMSLP</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/64273108">VIAF: 64273108</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q709689">Q709689</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Pavel_Josef_Vejvanovsk%C3%BD">en: Pavel Josef Vejvanovský</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/0396b09f-3510-428b-9240-61c7247a776d/relationships" title="Vejvanovský, Pavel Josef"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0396b09f-3510-428b-9240-61c7247a776d">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-01-10 19:21 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

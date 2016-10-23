@@ -1,0 +1,1641 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Puhdys - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1969-11-19, Area: Germany"/><script type="application/ld+json">{"foundingDate":"1969-11-19","location":{"name":"Germany","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","@type":"Country"},"member":[{"startDate":"1969","roleName":"bass guitar","@type":"OrganizationRole","endDate":"1997","member":{"@id":"https://musicbrainz.org/artist/115fbbaa-e4c8-47ed-a16d-0768d9cfb695","name":"Harry Jeske","@type":["Person","MusicGroup"]}},{"startDate":"1969","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Dieter Hertrampf","@id":"https://musicbrainz.org/artist/204b7fa7-2f06-4433-be5c-4255c10ac59f"},"roleName":[]},{"startDate":"1997","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4f649417-b083-4070-a69a-5523ff7d75de","name":"Peter Rasym"},"@type":"OrganizationRole"},{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/801883eb-2987-4d39-8531-96ba7ff331d9","name":"Peter Meyer","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"startDate":"1979","@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/cedc262e-0a80-4aa8-9483-96819ea09315","name":"Klaus Scharfschwerdt","@type":["Person","MusicGroup"]},"roleName":[]},{"member":{"@id":"https://musicbrainz.org/artist/d6f3a7e1-3ab0-45dd-b424-4757b7575615","name":"Dieter Birr","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[],"startDate":"1969"}],"sameAs":["http://en.wikipedia.org/wiki/Puhdys","http://www.puhdys.com/","https://www.discogs.com/artist/150374","https://www.wikidata.org/wiki/Q657976"],"album":[{"name":"Die Puhdys","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/42cb5805-9a85-3a7a-9150-84d2d85abd83","@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/1556425b-2e91-47c7-ac9b-c40ec86a1537","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Puhdys 2","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Puhdys","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Rock'n'Roll Music","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"@id":"https://musicbrainz.org/release-group/9f8a32ad-e586-4f1f-a56c-34579b83be23"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Perlenfischer","@id":"https://musicbrainz.org/release-group/2cf67d9e-b72a-3f45-9075-b840ef5dcac5"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/68bc4766-991c-34a1-939d-705d622bd725","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"10 wilde Jahre: 1969-1979"},{"@id":"https://musicbrainz.org/release-group/c16ae662-1a10-3398-8ea3-68cfe4ee268c","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Heiß wie Schnee","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Puhdys","@id":"https://musicbrainz.org/release-group/08e0bb9d-ce1c-3213-bff7-bc93b3f28ea2","name":"Far From Home","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"}},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Schattenreiter","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/547509a2-30d6-4ac9-a839-f399d2b401fe"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Puhdys","@id":"https://musicbrainz.org/release-group/d4029471-8a44-474f-ba97-31d9b01d13ce","name":"Sturmvogel","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/efe497fc-9b7a-3db3-9c44-72495ec160a9","name":"Computer-Karriere","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Puhdys"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Das Buch","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/7b5d2541-fab0-3117-aa00-0739cd2f9938"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Ohne Schminke","@id":"https://musicbrainz.org/release-group/1a8d5906-f1cf-39fb-a89d-84a995117f0d"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/35b26831-2681-32f4-99fd-ac86bdae2910","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Neue Helden"},{"name":"Wie ein Engel","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/f38f1410-cc9e-3385-ae72-a841429baee0","@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Heiß wie Schnee / Schattenreiter","@id":"https://musicbrainz.org/release-group/fb0251f8-af85-33f1-b306-06a64310d254","creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/2532c562-e506-3e0b-867f-36cdb323de76","name":"Zeiten ändern sich","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Puhdys"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8f9b50b8-00c4-3b1d-8bd9-a57747cd8b37","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Frei wie die Geier"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Wilder Frieden","@id":"https://musicbrainz.org/release-group/258d102a-a925-36b0-a659-ca4da5f50196"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Dezembertage","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"@id":"https://musicbrainz.org/release-group/60e6be35-03b4-3233-b68c-d0a7cd013075"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Zufrieden?","@id":"https://musicbrainz.org/release-group/f6bc98d4-ace0-38e6-84fc-cee9900d7c02"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Undercover","@id":"https://musicbrainz.org/release-group/75cea60a-30cf-3a57-8d04-8d9c113b7bff"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Puhdys","@id":"https://musicbrainz.org/release-group/5c5dd01b-f7dc-3681-8aab-d9667ed59237","name":"Alles hat seine Zeit","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"}},{"@id":"https://musicbrainz.org/release-group/32dbd670-0eb3-35ab-8c15-6fab68156431","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Dezembernächte","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Abenteuer - Das Jubiläumsalbum","@id":"https://musicbrainz.org/release-group/77626c88-5939-41b4-92b4-f85475011b3d"},{"@id":"https://musicbrainz.org/release-group/716b898b-7f82-4dd3-ae45-7c850ad90d71","name":"Es war schön","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Puhdys"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Heilige Nächte","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/4c18043a-9297-4d77-bd2d-eace574e8c6a"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Puhdys 1","@id":"https://musicbrainz.org/release-group/18afb1b5-b4a0-45a4-9fc1-d4c20a85e83e"},{"@id":"https://musicbrainz.org/release-group/080dc750-671b-35d7-897d-ea75b66bd643","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Die großen Erfolge","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Puhdys","@type":"MusicAlbum"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Puhdys 3","@id":"https://musicbrainz.org/release-group/ebc15464-8204-471e-adcd-c0fd206366d1"},{"@type":"MusicAlbum","creditedTo":"Пудис","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Пудис","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/a16587d3-e5e8-49a7-9879-935b0c21d894"},{"@id":"https://musicbrainz.org/release-group/3a171c16-2bcd-4d64-95c3-8c809f89a7c4","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Puhdys 4 - Die wilden Jahre","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum"},{"name":"Puhdys 5","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/de74f815-d4e9-3ff7-8bb6-06f3e7cf955b","@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Jubiläumsalbum (20 Jahre Puhdys)","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/ed2914a7-9533-4bf4-aa87-30dc71304cea","@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/eb1966cb-123f-3fea-aafb-ca123ae73eed","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Rock aus Deutschland: Ost, Volume 19","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Puhdys","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5f074c02-b488-3512-b63b-854d1d2c0965","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Das Beste aus 25 Jahren"},{"@id":"https://musicbrainz.org/release-group/285e5718-b41b-430a-b15e-4f7aa8c3c993","name":"Castle Masters Collection","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Puhdys"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Raritäten: Besondere Hits","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"@id":"https://musicbrainz.org/release-group/afc64cfb-0f34-3ce4-bea1-9f7461a21538"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Das Beste aus 25 Jahren, Volume 2","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/3485ea79-6afd-37c9-8a49-2fcd938d3916"},{"@id":"https://musicbrainz.org/release-group/8627a56a-04c2-3530-bdc5-921fcdce5b81","name":"Bis ans Ende der Welt","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Puhdys"},{"byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Die Hit-Singles","@id":"https://musicbrainz.org/release-group/c6a05b28-8017-4c3e-8c1b-949128fda768","creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Die schönsten Balladen","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/70b09a63-07a8-49ee-a22e-4974896b1a72"},{"name":"Golden Stars","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/754ddde9-cf67-3c6e-b56d-ff6c90ab4d47","@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1a61cef9-879f-3947-889a-bad45925ff00","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Pur"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Solo","@id":"https://musicbrainz.org/release-group/2ad79312-3bd4-45ef-8571-0d7044750caf"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Puhdys I \u002b II","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"@id":"https://musicbrainz.org/release-group/880dae46-3f8f-3b6b-bc78-332940c2abcf"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Rock'n'Roll Music / Jubiläumsalbum","@id":"https://musicbrainz.org/release-group/21132928-d152-44ed-8e9b-0a667c8ec5c9","creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"1969-1999","@id":"https://musicbrainz.org/release-group/cbcb9c5d-9520-367f-bc19-982ce00e8b5d"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Sturmvogel / 10 wilde Jahre","@id":"https://musicbrainz.org/release-group/43ab99fa-7a98-3d5c-9fa9-2a66f1f5ede5","creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"... was bleibt ...","@id":"https://musicbrainz.org/release-group/4cc8ba20-ef34-3a86-8083-86448cd33953","creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/9c648a06-b725-3456-a245-9033e425d62a","name":"Raritäten Volume 2","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Puhdys"},{"@id":"https://musicbrainz.org/release-group/ef66a721-270a-4c88-9552-6cefd55b46be","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Best - Lebenszeit","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum"},{"name":"Puhdys Forever","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/fd5a9791-5ac5-49f5-9a60-728cec0b40b0","@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"36 Lieder aus 36 Jahren","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"@id":"https://musicbrainz.org/release-group/ffcbec9a-1805-3d93-8942-9504a83ec31c"},{"@id":"https://musicbrainz.org/release-group/36440a3d-a171-4459-90f6-ca5c4a3774fb","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Nur das Beste (Die Lieder 1970 bis 1984)","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum"},{"byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Das Beste aus der DDR","@id":"https://musicbrainz.org/release-group/0d4bf991-5f20-4a07-9841-af08f566ddda","creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/484e04b9-6353-4701-921f-38beb4f312c9","name":"Ein Fest für die Sinne","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Puhdys"},{"byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Die 10 größten Hits aus 40 Jahren","@id":"https://musicbrainz.org/release-group/18fac75f-95dc-4760-aec2-ebcbd5fdfbcf","creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Lieder für Generationen","@id":"https://musicbrainz.org/release-group/993259f2-e471-4aee-9bc5-4a593772bdc8"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Perlenfischer / Computer-Karriere","@id":"https://musicbrainz.org/release-group/fca333fa-a077-4b38-84d2-12a28a10560f"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Original Album Classics","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"@id":"https://musicbrainz.org/release-group/aecec4c0-c7b5-487b-b142-4993054c57dc"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Puhdys","@id":"https://musicbrainz.org/release-group/ed5f85bd-1a7a-45dc-ae17-e4cb70cd426b","name":"Best of","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"}},{"@id":"https://musicbrainz.org/release-group/ea333aff-988d-41b1-841a-d0f8413681da","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Musik unserer Generation - Die grössten Hits","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Puhdys","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/696e15f1-e963-4636-8d6e-05b71587c43b","name":"Live in Sachsen","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Puhdys"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"25 Jahre die totale Aktion","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/4baea4b5-fd3a-4fd2-97a2-53eb25340d4e"},{"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5e181f02-34cf-4e91-b69c-4b82f1b1a4d3","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Live im Friedrichstadtpalast"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Inflagranti","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"@id":"https://musicbrainz.org/release-group/9eb08ca3-c75d-47df-9398-202fc3a69415"},{"@id":"https://musicbrainz.org/release-group/b57fca4f-7323-4241-b92f-82c559fa7410","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Akustisch: Die Hits","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Puhdys","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Puhdys, City \u0026 Karat","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/86cb7687-48c0-4abf-83b5-4a868719fda4","byArtist":[{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa","name":"City","@type":"MusicGroup"},{"@type":"MusicGroup","name":"Karat","@id":"https://musicbrainz.org/artist/4cf53152-5ab5-42ca-ac0d-dfcf8bc48f46"}],"name":"Rock Legenden"},{"@type":"MusicAlbum","creditedTo":"Puhdys, City \u0026 Karat","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Rock Legenden Live","byArtist":[{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},{"name":"City","@id":"https://musicbrainz.org/artist/bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/4cf53152-5ab5-42ca-ac0d-dfcf8bc48f46","name":"Karat","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/aa9c8263-992b-42f3-a545-623af617c3ac"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Das letzte Konzert","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"@id":"https://musicbrainz.org/release-group/027be915-b1ee-4ab6-9400-8e636f905236"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Puhdys","@id":"https://musicbrainz.org/release-group/ea05e9c2-fa9b-406b-99e1-c0897d999403","name":"DT 64 Musikstudio, Volume 16","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"}},{"creditedTo":"Die Puhdys / Electra-Combo","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},{"@type":"MusicGroup","name":"electra","@id":"https://musicbrainz.org/artist/9c10353f-b62a-4291-a29d-3c986c9f232e"}],"name":"DT 64 Musikstudio, Volume 17","@id":"https://musicbrainz.org/release-group/bca6f6f7-b541-3ad5-92a9-392b8c9e30c5"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Hell Raiser / Highway Star","@id":"https://musicbrainz.org/release-group/a81f0c02-4414-44f8-8845-3da037cbff05"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/edf511db-8f38-4724-8333-e45d52e9044f","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Ikarus / Sommernacht"},{"name":"Эстрада Планеты","byArtist":[{"name":"Karel Gott","@id":"https://musicbrainz.org/artist/c5e0328e-035a-45da-9ae5-908bf22169aa","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},{"@id":"https://musicbrainz.org/artist/323ed974-8bf6-4f54-9525-b774a659f805","name":"Johnny Hallyday","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/a34efb25-b0f1-4ac0-9d16-e33ea2f5357c","name":"Юрий Антонов","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/a4e4c72d-40af-4575-ab2b-724cd7d09520","@type":"MusicAlbum","creditedTo":"Karel Gott, Puhdys, Johnny Hallyday \u0026 Юрий Антонов","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/ceefbcc3-67bc-4a4a-b380-0d2ade203038","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Wie ein Pfeil / Lied für Generationen"},{"@id":"https://musicbrainz.org/release-group/c78e0fc0-eef0-4d26-99c6-6fb2e59b9817","name":"Die Sonne kennt ihren Weg / Spiel zu zweit","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Puhdys"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/f8a10265-865d-4535-ac13-49533625105e","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Sturmvogel / Einsamkeit"},{"byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Alt wie ein Baum / Erinnerung","@id":"https://musicbrainz.org/release-group/111c91d0-e1d9-4503-b2f0-c02d13e43103","creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Geh' zu ihr / Lied für Generationen","@id":"https://musicbrainz.org/release-group/a7f1e616-9181-4201-8453-b326bfd93e5c"},{"byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Long Tall Sally/Party/Rock and Roll Music / Bye Bye Love","@id":"https://musicbrainz.org/release-group/c79c0621-6a60-4eac-8639-8beb2527f5be","creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Alt wie ein Baum / Perlenfischer","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/1bff1ff2-a655-44b8-8066-a3a245d4bc9d"},{"name":"Dem Frieden die Freiheit","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},{"@type":"MusicGroup","name":"Inti-Illimani","@id":"https://musicbrainz.org/artist/a962cd78-1f5f-4cef-838d-07e2f9d8b02d"},{"name":"Oktoberklub","@id":"https://musicbrainz.org/artist/45244c17-89c0-4aed-a240-fbb90b6dd00d","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/735ba1ca-9f15-4d14-b335-273a6b337af5","@type":"MusicAlbum","creditedTo":"Puhdys, Inti-Illimani \u0026 Oktoberklub","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Wenn Träume sterben / Perlenfischer","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"@id":"https://musicbrainz.org/release-group/4ea7d448-0786-4f01-b742-d1f800bbf187","@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/3d87d972-bb15-47e3-b05b-74601f250736","name":"Wilde Jahre / Die Sterne verspäten sich nicht","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Puhdys"},{"name":"Doch die Gitter schweigen / Hören und sehen","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/5d9775ea-386f-4c4e-93f0-7c759ebd8329","@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Puhdys","@id":"https://musicbrainz.org/release-group/fdac703d-d256-4097-9884-f7d6c910f4bb","name":"Ikarus II / Flieg, Vogel, flieg","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"}},{"creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"name":"Gitter schweigen / Ikarus II","@id":"https://musicbrainz.org/release-group/a1aa0ddb-ee3f-474a-ade1-10a6cefd144f"},{"byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Heiß wie Schnee / Melanie","@id":"https://musicbrainz.org/release-group/ab5492c3-5745-4964-b502-eb45a51ede8a","creditedTo":"Puhdys","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Puhdys","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/621f9ea9-0378-4c08-a1c1-17fbcf197683","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"Kein Paradies / Wiedersehn"},{"@id":"https://musicbrainz.org/release-group/8435f60f-3544-4692-82a0-22db6ad8e8e8","name":"Bis ans Ende der Welt / Lied für Anja","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Puhdys"},{"@id":"https://musicbrainz.org/release-group/8b8abf61-c202-4c27-9608-b93294916b9e","name":"Bis ans Ende der Welt / Nie wieder werde ich weinen um dich","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Puhdys"},{"@id":"https://musicbrainz.org/release-group/1b5876fe-fdcc-439d-9ae5-8381ce723a41","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"name":"Schattenreiter / Wenn ein Mensch lebt","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Puhdys","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/9d42f45d-27f1-4460-a789-c16099edce5c","name":"Der Außenseiter / An den Ufern der Nacht","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Puhdys"},{"byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"name":"He John / Fern von Zuhaus","@id":"https://musicbrainz.org/release-group/b4cf9ca6-786e-4423-813a-6270ef8a19fc","creditedTo":"Puhdys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"He, John / Was vom Leben bleibt","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/999e8c50-aae2-4729-be51-2d1398243343","@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Hiroshima / Computerträume","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys"},"@id":"https://musicbrainz.org/release-group/7f9eadd5-842a-4608-8cb9-67c0e5fe981e"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Jahreszeiten / TV-Show","byArtist":{"name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/4b2280a8-8af9-4881-883f-8c016cde3d83"},{"@id":"https://musicbrainz.org/release-group/6856f9eb-0ba5-4e96-b422-cf53352dfe3d","byArtist":{"@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","name":"Puhdys","@type":"MusicGroup"},"name":"Sehnsucht / Computer-Mann","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Puhdys","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Puhdys","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Ich will nicht vergessen / Die Wärme der Nacht","byArtist":{"@type":"MusicGroup","name":"Puhdys","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac"},"@id":"https://musicbrainz.org/release-group/a1495d8e-435d-4a17-aafb-140c305fcd01"}],"name":"Puhdys","@context":"http://schema.org","@id":"https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac","@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F60955940-d401-4f4a-8a9b-43c870454aac">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F60955940-d401-4f4a-8a9b-43c870454aac">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys – Puhdys"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/releases" title="Puhdys"><bdi>Releases</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/recordings" title="Puhdys"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/works" title="Puhdys"><bdi>Works</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/events" title="Puhdys"><bdi>Events</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/relationships" title="Puhdys"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/aliases" title="Puhdys"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/tags" title="Puhdys"><bdi>Tags</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/details" title="Puhdys"><bdi>Details</bdi></a></li>            <li><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/edit" title="Puhdys"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=22374" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        <nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?page=2">2</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?page=2">Next</a></li>
+</ul>
+</nav>
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/42cb5805-9a85-3a7a-9150-84d2d85abd83"><bdi>Die Puhdys</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/1556425b-2e91-47c7-ac9b-c40ec86a1537"><bdi>Puhdys 2</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/9f8a32ad-e586-4f1f-a56c-34579b83be23"><bdi>Rock'n'Roll Music</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/2cf67d9e-b72a-3f45-9075-b840ef5dcac5"><bdi>Perlenfischer</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/68bc4766-991c-34a1-939d-705d622bd725"><bdi>10 wilde Jahre: 1969-1979</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/c16ae662-1a10-3398-8ea3-68cfe4ee268c"><bdi>Heiß wie Schnee</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/08e0bb9d-ce1c-3213-bff7-bc93b3f28ea2"><bdi>Far From Home</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/547509a2-30d6-4ac9-a839-f399d2b401fe"><bdi>Schattenreiter</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/d4029471-8a44-474f-ba97-31d9b01d13ce"><bdi>Sturmvogel</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/efe497fc-9b7a-3db3-9c44-72495ec160a9"><bdi>Computer-Karriere</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/7b5d2541-fab0-3117-aa00-0739cd2f9938"><bdi>Das Buch</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/1a8d5906-f1cf-39fb-a89d-84a995117f0d"><bdi>Ohne Schminke</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/35b26831-2681-32f4-99fd-ac86bdae2910"><bdi>Neue Helden</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/f38f1410-cc9e-3385-ae72-a841429baee0"><bdi>Wie ein Engel</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/fb0251f8-af85-33f1-b306-06a64310d254"><bdi>Heiß wie Schnee / Schattenreiter</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/2532c562-e506-3e0b-867f-36cdb323de76"><bdi>Zeiten ändern sich</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/8f9b50b8-00c4-3b1d-8bd9-a57747cd8b37"><bdi>Frei wie die Geier</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/258d102a-a925-36b0-a659-ca4da5f50196"><bdi>Wilder Frieden</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/60e6be35-03b4-3233-b68c-d0a7cd013075"><bdi>Dezembertage</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/f6bc98d4-ace0-38e6-84fc-cee9900d7c02"><bdi>Zufrieden?</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/75cea60a-30cf-3a57-8d04-8d9c113b7bff"><bdi>Undercover</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5c5dd01b-f7dc-3681-8aab-d9667ed59237"><bdi>Alles hat seine Zeit</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/32dbd670-0eb3-35ab-8c15-6fab68156431"><bdi>Dezembernächte</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/77626c88-5939-41b4-92b4-f85475011b3d"><bdi>Abenteuer - Das Jubiläumsalbum</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/716b898b-7f82-4dd3-ae45-7c850ad90d71"><bdi>Es war schön</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/4c18043a-9297-4d77-bd2d-eace574e8c6a"><bdi>Heilige Nächte</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/18afb1b5-b4a0-45a4-9fc1-d4c20a85e83e"><bdi>Puhdys 1</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/080dc750-671b-35d7-897d-ea75b66bd643"><bdi>Die großen Erfolge</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/ebc15464-8204-471e-adcd-c0fd206366d1"><bdi>Puhdys 3</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/a16587d3-e5e8-49a7-9879-935b0c21d894"><bdi>Пудис</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys – Puhdys"><bdi>Пудис</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/3a171c16-2bcd-4d64-95c3-8c809f89a7c4"><bdi>Puhdys 4 - Die wilden Jahre</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/de74f815-d4e9-3ff7-8bb6-06f3e7cf955b"><bdi>Puhdys 5</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/ed2914a7-9533-4bf4-aa87-30dc71304cea"><bdi>Jubiläumsalbum (20 Jahre Puhdys)</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/eb1966cb-123f-3fea-aafb-ca123ae73eed"><bdi>Rock aus Deutschland: Ost, Volume 19</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/5f074c02-b488-3512-b63b-854d1d2c0965"><bdi>Das Beste aus 25 Jahren</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/285e5718-b41b-430a-b15e-4f7aa8c3c993"><bdi>Castle Masters Collection</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/afc64cfb-0f34-3ce4-bea1-9f7461a21538"><bdi>Raritäten: Besondere Hits</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/3485ea79-6afd-37c9-8a49-2fcd938d3916"><bdi>Das Beste aus 25 Jahren, Volume 2</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/8627a56a-04c2-3530-bdc5-921fcdce5b81"><bdi>Bis ans Ende der Welt</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/c6a05b28-8017-4c3e-8c1b-949128fda768"><bdi>Die Hit-Singles</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/70b09a63-07a8-49ee-a22e-4974896b1a72"><bdi>Die schönsten Balladen</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/754ddde9-cf67-3c6e-b56d-ff6c90ab4d47"><bdi>Golden Stars</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/1a61cef9-879f-3947-889a-bad45925ff00"><bdi>Pur</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/2ad79312-3bd4-45ef-8571-0d7044750caf"><bdi>Solo</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/880dae46-3f8f-3b6b-bc78-332940c2abcf"><bdi>Puhdys I + II</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/21132928-d152-44ed-8e9b-0a667c8ec5c9"><bdi>Rock'n'Roll Music / Jubiläumsalbum</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/cbcb9c5d-9520-367f-bc19-982ce00e8b5d"><bdi>1969-1999</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/43ab99fa-7a98-3d5c-9fa9-2a66f1f5ede5"><bdi>Sturmvogel / 10 wilde Jahre</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/4cc8ba20-ef34-3a86-8083-86448cd33953"><bdi>... was bleibt ...</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/9c648a06-b725-3456-a245-9033e425d62a"><bdi>Raritäten Volume 2</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/ef66a721-270a-4c88-9552-6cefd55b46be"><bdi>Best - Lebenszeit</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/fd5a9791-5ac5-49f5-9a60-728cec0b40b0"><bdi>Puhdys Forever</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/ffcbec9a-1805-3d93-8942-9504a83ec31c"><bdi>36 Lieder aus 36 Jahren</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/36440a3d-a171-4459-90f6-ca5c4a3774fb"><bdi>Nur das Beste (Die Lieder 1970 bis 1984)</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/0d4bf991-5f20-4a07-9841-af08f566ddda"><bdi>Das Beste aus der DDR</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/484e04b9-6353-4701-921f-38beb4f312c9"><bdi>Ein Fest für die Sinne</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/18fac75f-95dc-4760-aec2-ebcbd5fdfbcf"><bdi>Die 10 größten Hits aus 40 Jahren</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/993259f2-e471-4aee-9bc5-4a593772bdc8"><bdi>Lieder für Generationen</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/fca333fa-a077-4b38-84d2-12a28a10560f"><bdi>Perlenfischer / Computer-Karriere</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/aecec4c0-c7b5-487b-b142-4993054c57dc"><bdi>Original Album Classics</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/ed5f85bd-1a7a-45dc-ae17-e4cb70cd426b"><bdi>Best of</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/ea333aff-988d-41b1-841a-d0f8413681da"><bdi>Musik unserer Generation - Die grössten Hits</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/696e15f1-e963-4636-8d6e-05b71587c43b"><bdi>Live in Sachsen</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/4baea4b5-fd3a-4fd2-97a2-53eb25340d4e"><bdi>25 Jahre die totale Aktion</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/5e181f02-34cf-4e91-b69c-4b82f1b1a4d3"><bdi>Live im Friedrichstadtpalast</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/9eb08ca3-c75d-47df-9398-202fc3a69415"><bdi>Inflagranti</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/b57fca4f-7323-4241-b92f-82c559fa7410"><bdi>Akustisch: Die Hits</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/86cb7687-48c0-4abf-83b5-4a868719fda4"><bdi>Rock Legenden</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a>, <a href="/artist/bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa" title="City (German rock band)"><bdi>City</bdi></a> &amp; <a href="/artist/4cf53152-5ab5-42ca-ac0d-dfcf8bc48f46" title="Karat (German rock band)"><bdi>Karat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/aa9c8263-992b-42f3-a545-623af617c3ac"><bdi>Rock Legenden Live</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a>, <a href="/artist/bb1ee9fe-c5b9-46da-94ab-ea6bec84b7aa" title="City (German rock band)"><bdi>City</bdi></a> &amp; <a href="/artist/4cf53152-5ab5-42ca-ac0d-dfcf8bc48f46" title="Karat (German rock band)"><bdi>Karat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/027be915-b1ee-4ab6-9400-8e636f905236"><bdi>Das letzte Konzert</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/ea05e9c2-fa9b-406b-99e1-c0897d999403"><bdi>DT 64 Musikstudio, Volume 16</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/bca6f6f7-b541-3ad5-92a9-392b8c9e30c5"><bdi>DT 64 Musikstudio, Volume 17</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys – Puhdys"><bdi>Die Puhdys</bdi></a></span> / <span class="name-variation"><a href="/artist/9c10353f-b62a-4291-a29d-3c986c9f232e" title="electra – electra (70s/80s German rock band)"><bdi>Electra-Combo</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/a81f0c02-4414-44f8-8845-3da037cbff05"><bdi>Hell Raiser / Highway Star</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/edf511db-8f38-4724-8333-e45d52e9044f"><bdi>Ikarus / Sommernacht</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/a4e4c72d-40af-4575-ab2b-724cd7d09520"><bdi>Эстрада Планеты</bdi></a></td>
+        
+        <td><a href="/artist/c5e0328e-035a-45da-9ae5-908bf22169aa" title="Gott, Karel"><bdi>Karel Gott</bdi></a>, <a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a>, <a href="/artist/323ed974-8bf6-4f54-9525-b774a659f805" title="Hallyday, Johnny"><bdi>Johnny Hallyday</bdi></a> &amp; <a href="/artist/a34efb25-b0f1-4ac0-9d16-e33ea2f5357c" title="Antonov, Yuri"><bdi>Юрий Антонов</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/ceefbcc3-67bc-4a4a-b380-0d2ade203038"><bdi>Wie ein Pfeil / Lied für Generationen</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/c78e0fc0-eef0-4d26-99c6-6fb2e59b9817"><bdi>Die Sonne kennt ihren Weg / Spiel zu zweit</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/f8a10265-865d-4535-ac13-49533625105e"><bdi>Sturmvogel / Einsamkeit</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/111c91d0-e1d9-4503-b2f0-c02d13e43103"><bdi>Alt wie ein Baum / Erinnerung</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/a7f1e616-9181-4201-8453-b326bfd93e5c"><bdi>Geh' zu ihr / Lied für Generationen</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/c79c0621-6a60-4eac-8639-8beb2527f5be"><bdi>Long Tall Sally/Party/Rock and Roll Music / Bye Bye Love</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/1bff1ff2-a655-44b8-8066-a3a245d4bc9d"><bdi>Alt wie ein Baum / Perlenfischer</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/735ba1ca-9f15-4d14-b335-273a6b337af5"><bdi>Dem Frieden die Freiheit</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a>, <a href="/artist/a962cd78-1f5f-4cef-838d-07e2f9d8b02d" title="Inti-Illimani"><bdi>Inti-Illimani</bdi></a> &amp; <a href="/artist/45244c17-89c0-4aed-a240-fbb90b6dd00d" title="Oktoberklub"><bdi>Oktoberklub</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/4ea7d448-0786-4f01-b742-d1f800bbf187"><bdi>Wenn Träume sterben / Perlenfischer</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/3d87d972-bb15-47e3-b05b-74601f250736"><bdi>Wilde Jahre / Die Sterne verspäten sich nicht</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/5d9775ea-386f-4c4e-93f0-7c759ebd8329"><bdi>Doch die Gitter schweigen / Hören und sehen</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/fdac703d-d256-4097-9884-f7d6c910f4bb"><bdi>Ikarus II / Flieg, Vogel, flieg</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/a1aa0ddb-ee3f-474a-ade1-10a6cefd144f"><bdi>Gitter schweigen / Ikarus II</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/ab5492c3-5745-4964-b502-eb45a51ede8a"><bdi>Heiß wie Schnee / Melanie</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/621f9ea9-0378-4c08-a1c1-17fbcf197683"><bdi>Kein Paradies / Wiedersehn</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/8435f60f-3544-4692-82a0-22db6ad8e8e8"><bdi>Bis ans Ende der Welt / Lied für Anja</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/8b8abf61-c202-4c27-9608-b93294916b9e"><bdi>Bis ans Ende der Welt / Nie wieder werde ich weinen um dich</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/1b5876fe-fdcc-439d-9ae5-8381ce723a41"><bdi>Schattenreiter / Wenn ein Mensch lebt</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/9d42f45d-27f1-4460-a789-c16099edce5c"><bdi>Der Außenseiter / An den Ufern der Nacht</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/b4cf9ca6-786e-4423-813a-6270ef8a19fc"><bdi>He John / Fern von Zuhaus</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/999e8c50-aae2-4729-be51-2d1398243343"><bdi>He, John / Was vom Leben bleibt</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/7f9eadd5-842a-4608-8cb9-67c0e5fe981e"><bdi>Hiroshima / Computerträume</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/4b2280a8-8af9-4881-883f-8c016cde3d83"><bdi>Jahreszeiten / TV-Show</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/6856f9eb-0ba5-4e96-b422-cf53352dfe3d"><bdi>Sehnsucht / Computer-Mann</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/a1495d8e-435d-4a17-aafb-140c305fcd01"><bdi>Ich will nicht vergessen / Die Wärme der Nacht</bdi></a></td>
+        
+        <td><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac" title="Puhdys"><bdi>Puhdys</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+<nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?page=2">2</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?page=2">Next</a></li>
+</ul>
+</nav>
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/60955940-d401-4f4a-8a9b-43c870454aac/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1969-11-19 (46 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/deutschrock"><bdi>deutschrock</bdi></a>, <a href="/tag/german"><bdi>german</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.puhdys.com/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/150374">Discogs</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/pages/PUHDYS/209198642449889">PUHDYS</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q657976">Q657976</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Puhdys">en: Puhdys</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/60955940-d401-4f4a-8a9b-43c870454aac/relationships" title="Puhdys"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F60955940-d401-4f4a-8a9b-43c870454aac">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-07-13 16:02 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

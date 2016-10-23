@@ -1,0 +1,903 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sublime - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="ska punk, Type: Group, Founded: 1986 in Long Beach, Dissolved: 1996-05-25 in San Francisco, Area: Long Beach"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","member":[{"startDate":"1988","member":{"@type":["Person","MusicGroup"],"name":"Eric Wilson","@id":"https://musicbrainz.org/artist/07d91070-1fc7-4ff6-9b23-1bfb20d9724a"},"endDate":"1997","@type":"OrganizationRole","roleName":"bass guitar"},{"startDate":"1988","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0fa337f2-9f5e-44eb-b6eb-3286e6945c8f","name":"Bud Gaugh"},"endDate":"1997","@type":"OrganizationRole","roleName":"drums"},{"roleName":["guitar","lead vocals"],"@type":"OrganizationRole","endDate":"1996-05-25","member":{"name":"Bradley Nowell","@id":"https://musicbrainz.org/artist/354c7145-01f0-4bf6-b35f-6db936f6a17e","@type":["Person","MusicGroup"]},"startDate":"1988"}],"name":"Sublime","dissolutionDate":"1996-05-25","album":[{"creditedTo":"Sublime","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"},"@id":"https://musicbrainz.org/release-group/8e874f9b-7630-3a4c-baf4-73e0e553b2b4","albumReleaseType":"http://schema.org/AlbumRelease","name":"40 oz. to Freedom","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Sublime","@type":"MusicAlbum","name":"Robbin’ the Hood","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/34abb96d-dc57-37a4-a56f-f36d406818e9","byArtist":{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime"},"@id":"https://musicbrainz.org/release-group/0430d8c5-7417-3c4c-9f2a-b7d02ef7d164","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sublime","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sublime","@type":"MusicAlbum"},{"name":"Sublime","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/80673f08-dda6-31e6-88f6-05fd7e312e23","byArtist":{"@type":"MusicGroup","name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"},"@type":"MusicAlbum","creditedTo":"Sublime"},{"@type":"MusicAlbum","creditedTo":"Sublime","byArtist":{"name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/918ea3b9-246c-37f8-bc55-1bf7d4c61783","albumProductionType":"http://schema.org/CompilationAlbum","name":"Second-Hand Smoke"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/98ed38ca-1b5a-3961-858d-16f2627c1d7f","name":"Acoustic: Bradley Nowell \u0026 Friends","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime"},"creditedTo":"Sublime","@type":"MusicAlbum"},{"byArtist":{"name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/2eff12ae-6999-3964-b103-615c26493ab2","albumReleaseType":"http://schema.org/AlbumRelease","name":"Greatest Hits","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Sublime"},{"creditedTo":"Sublime","@type":"MusicAlbum","byArtist":{"name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","@type":"MusicGroup"},"name":"20th Century Masters: The Millennium Collection: The Best of Sublime","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/42b60829-20a1-3f5a-b574-9ea7f4c24b03"},{"byArtist":{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Gold","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ef018a8e-4e26-31cc-86e6-49513c8b8013","@type":"MusicAlbum","creditedTo":"Sublime"},{"@type":"MusicAlbum","creditedTo":"Sublime","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/110cfaf9-822e-38e9-ad4b-d84da7b74daa","albumProductionType":"http://schema.org/CompilationAlbum","name":"Everything Under the Sun","byArtist":{"name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Sublime","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Best of Sublime","@id":"https://musicbrainz.org/release-group/8a8519f4-3edd-3730-9451-64e50ad7f9bd","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"},"name":"Playlist Your Way","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/87f7d572-bf84-4ef3-ab64-9add5e509ba7","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Sublime"},{"creditedTo":"Sublime","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/17ec1639-6705-4c4e-a139-18f7693e2544","albumProductionType":"http://schema.org/CompilationAlbum","name":"Icon","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/e5122157-5554-3c75-84ba-62a72ebc9a53","albumReleaseType":"http://schema.org/AlbumRelease","name":"Stand by Your Van","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/LiveAlbum"],"creditedTo":"Sublime","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime"},"@id":"https://musicbrainz.org/release-group/95e1798e-12fb-3fc9-8c10-e84c3113ffad","albumReleaseType":"http://schema.org/AlbumRelease","name":"Jah Won’t Pay the Bills","albumProductionType":"http://schema.org/DemoAlbum","@type":"MusicAlbum","creditedTo":"Sublime"},{"albumProductionType":"http://schema.org/LiveAlbum","name":"3-Ring Circus: Live at The Palace, Hollywood, CA: October 21, 1995","@id":"https://musicbrainz.org/release-group/e518a810-04bb-4323-98d0-6c5626cf5115","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Sublime"},{"@type":"MusicAlbum","creditedTo":"Sublime","byArtist":{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ca813ed8-b630-46ac-8cd5-8e9fb3674acc","albumProductionType":"http://schema.org/StudioAlbum","name":"Date Rape"},{"name":"Work That We Do","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5cea950b-f798-4cdf-af5d-137778c9d1c7","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"},"creditedTo":"Sublime","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b888c7a1-f627-3315-8c4a-a36437ed9c8f","albumProductionType":"http://schema.org/StudioAlbum","name":"Badfish","@type":"MusicAlbum","creditedTo":"Sublime"},{"@type":"MusicAlbum","creditedTo":"Sublime / The Wesley Willis Fiasco","name":"All You Need / Get on the Bus","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a0fdc303-b0ff-4dac-b331-62d5490e3db5","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime"},{"@id":"https://musicbrainz.org/artist/fc7242e2-e873-4a99-9654-5cf2caa50870","name":"The Wesley Willis Fiasco","@type":"MusicGroup"}]},{"byArtist":{"name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/0f1c7e3e-d615-4b90-acdd-c80ad79dc0b7","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Doin’ Time","@type":"MusicAlbum","creditedTo":"Sublime"},{"@type":"MusicAlbum","creditedTo":"Sublime","albumProductionType":"http://schema.org/StudioAlbum","name":"What I Got","@id":"https://musicbrainz.org/release-group/58c0fc35-331f-3757-885c-c082850768ba","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","name":"Sublime","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/e907d6df-115e-43ca-9727-04f0848712cc","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"April 29th 1992 (Leary)","creditedTo":"Sublime","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"},"name":"Living In a Boring Nation","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/253078ac-1d67-3554-91d8-6982028bd71e","@type":"MusicAlbum","creditedTo":"Sublime"},{"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/05512dd7-c3c9-3293-ad5f-9be7a9c5618e","name":"What I Got… The 7 Song EP","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"},"creditedTo":"Sublime","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/81fe95fc-a0f1-4468-9267-2f503217ab0b","albumReleaseType":"http://schema.org/EPRelease","name":"Sublime","albumProductionType":"http://schema.org/DemoAlbum","byArtist":{"name":"Sublime","@id":"https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0","@type":"MusicGroup"},"creditedTo":"Sublime","@type":"MusicAlbum"}],"foundingDate":"1986","@context":"http://schema.org","location":{"@id":"https://musicbrainz.org/area/e183ffae-1d35-4c78-b552-957535e40af1","name":"Long Beach","@type":"City","containedIn":{"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","name":"California","@type":"AdministrativeArea","containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"}}},"sameAs":["http://rateyourmusic.com/artist/sublime","http://sublimelbc.com/","http://viaf.org/viaf/167580473","http://www.allmusic.com/artist/mn0000486047","http://www.imdb.com/name/nm1455964/","http://www.last.fm/music/Sublime","http://www.musik-sammler.de/artist/5848","http://www.secondhandsongs.com/artist/10608","http://www.worldcat.org/identities/lccn-no97060632/","https://www.discogs.com/artist/98600","https://www.wikidata.org/wiki/Q591691"],"@type":"MusicGroup","groupOrigin":{"name":"Long Beach","@id":"https://musicbrainz.org/area/e183ffae-1d35-4c78-b552-957535e40af1","containedIn":{"@type":"AdministrativeArea","containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","name":"California"},"@type":"City"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F95f5b748-d370-47fe-85bd-0af2dc450bc0">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F95f5b748-d370-47fe-85bd-0af2dc450bc0">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a> <span class="comment">(<bdi>ska punk</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime – Sublime (ska punk)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/releases" title="Sublime (ska punk)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/recordings" title="Sublime (ska punk)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/works" title="Sublime (ska punk)"><bdi>Works</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/events" title="Sublime (ska punk)"><bdi>Events</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/relationships" title="Sublime (ska punk)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/aliases" title="Sublime (ska punk)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/tags" title="Sublime (ska punk)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/details" title="Sublime (ska punk)"><bdi>Details</bdi></a></li>            <li><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/edit" title="Sublime (ska punk)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>This is the band led by <a href="https://musicbrainz.org/artist/354c7145-01f0-4bf6-b35f-6db936f6a17e" rel="nofollow">Bradley Nowell</a>. For the band led by <a href="http://musicbrainz.org/artist/ad51ea4c-c1bd-4a4c-9361-ba1325e2ea30" rel="nofollow">Rome Ramirez</a> that likewise has <a href="http://musicbrainz.org/artist/07d91070-1fc7-4ff6-9b23-1bfb20d9724a" rel="nofollow">Eric Wilson</a> and <a href="http://musicbrainz.org/artist/0fa337f2-9f5e-44eb-b6eb-3286e6945c8f" rel="nofollow">Bud Gaugh</a> as members see <a href="http://musicbrainz.org/artist/079f2e2b-b3f9-4574-ac5c-add977b40762" rel="nofollow">Sublime With Rome</a>.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2016-05-04 22:11 UTC.
+            
+        </div>
+    </div>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Sublime</b> was an American ska punk band from Long Beach, California, formed in 1988. The band's line-up, unchanged until their breakup, consisted of Bradley Nowell (vocals and guitar), Eric Wilson (bass) and Bud Gaugh (drums). Lou Dog, Nowell's dalmatian, was the mascot of the band. Nowell died of a heroin overdose in 1996. In 1997, posthumous songs such as "What I Got", "Santeria", "Wrong Way", "Doin' Time", and "April 29, 1992 (Miami)" were released to U.S. radio.</p>
+<p>Sublime released three studio albums, one live album, five compilation albums (one of which also contains never-before released material), three EPs and one box set. Although their first two albums—<i>40oz. to Freedom</i> (1992) and <i>Robbin' the Hood</i> (1994)—were quite popular in the United States, Sublime did not experience major commercial success until 1996 with their self-titled third album, released two months after Nowell's death, which peaked at No. 13 on the <i>Billboard</i> 200, and spawned the single "What I Got", which remains the band's only No. 1 hit single (on the <i>Billboard</i> Alternative Songs chart) in their musical career. As of 2009, the band has sold over 17 million albums worldwide, including about 10 million in the U.S. alone. Michael 'Miguel' Happoldt and Marshall Goodman "Ras MG" contributed to several Sublime songs.</p>
+<p>In 2009, the surviving members decided to reform the band with Rome Ramirez, a young guitarist and admitted Sublime fan from California. However, not long after performing at Cypress Hill's Smokeout Festival, a Los Angeles judge banned the new lineup from using the Sublime name. This was because Nowell had owned rights to the Sublime name, and as a result, they were not allowed to use it without approval and permission from his estate. In January 2010, the lawsuit was settled and the new lineup now performs together as Sublime with Rome, who released their debut album <i>Yours Truly</i> on July 12, 2011. Five months after its release, Gaugh announced his departure from the band.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Sublime_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=397" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/8e874f9b-7630-3a4c-baf4-73e0e553b2b4"><bdi>40 oz. to Freedom</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">13</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/34abb96d-dc57-37a4-a56f-f36d406818e9"><bdi>Robbin’ the Hood</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/0430d8c5-7417-3c4c-9f2a-b7d02ef7d164"><bdi>Sublime</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/80673f08-dda6-31e6-88f6-05fd7e312e23"><bdi>Sublime</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/918ea3b9-246c-37f8-bc55-1bf7d4c61783"><bdi>Second-Hand Smoke</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/98ed38ca-1b5a-3961-858d-16f2627c1d7f"><bdi>Acoustic: Bradley Nowell &amp; Friends</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/2eff12ae-6999-3964-b103-615c26493ab2"><bdi>Greatest Hits</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/42b60829-20a1-3f5a-b574-9ea7f4c24b03"><bdi>20th Century Masters: The Millennium Collection: The Best of Sublime</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/ef018a8e-4e26-31cc-86e6-49513c8b8013"><bdi>Gold</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/110cfaf9-822e-38e9-ad4b-d84da7b74daa"><bdi>Everything Under the Sun</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/8a8519f4-3edd-3730-9451-64e50ad7f9bd"><bdi>The Best of Sublime</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/87f7d572-bf84-4ef3-ab64-9add5e509ba7"><bdi>Playlist Your Way</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/17ec1639-6705-4c4e-a139-18f7693e2544"><bdi>Icon</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/e5122157-5554-3c75-84ba-62a72ebc9a53"><bdi>Stand by Your Van</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Demo</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/95e1798e-12fb-3fc9-8c10-e84c3113ffad"><bdi>Jah Won’t Pay the Bills</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/e518a810-04bb-4323-98d0-6c5626cf5115"><bdi>3-Ring Circus: Live at The Palace, Hollywood, CA: October 21, 1995</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/ca813ed8-b630-46ac-8cd5-8e9fb3674acc"><bdi>Date Rape</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/5cea950b-f798-4cdf-af5d-137778c9d1c7"><bdi>Work That We Do</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/b888c7a1-f627-3315-8c4a-a36437ed9c8f"><bdi>Badfish</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/a0fdc303-b0ff-4dac-b331-62d5490e3db5"><bdi>All You Need / Get on the Bus</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a> / <a href="/artist/fc7242e2-e873-4a99-9654-5cf2caa50870" title="Wesley Willis Fiasco, The"><bdi>The Wesley Willis Fiasco</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/0f1c7e3e-d615-4b90-acdd-c80ad79dc0b7"><bdi>Doin’ Time</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/58c0fc35-331f-3757-885c-c082850768ba"><bdi>What I Got</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/e907d6df-115e-43ca-9727-04f0848712cc"><bdi>April 29th 1992 (Leary)</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/253078ac-1d67-3554-91d8-6982028bd71e"><bdi>Living In a Boring Nation</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/05512dd7-c3c9-3293-ad5f-9be7a9c5618e"><bdi>What I Got… The 7 Song EP</bdi></a></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Demo</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/81fe95fc-a0f1-4468-9267-2f503217ab0b"><bdi>Sublime</bdi></a> <span class="comment">(<bdi>c003: 16 track demo</bdi>)</span></td>
+        
+        <td><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0" title="Sublime (ska punk)"><bdi>Sublime</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1986</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/e183ffae-1d35-4c78-b552-957535e40af1"><bdi>Long Beach</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>1996-05-25 (10 years)</dd>
+<dt>Dissolved in:</dt>
+<dd class="end_area"><a href="/area/83f22bb6-4631-443c-bace-9fae8540362a"><bdi>San Francisco</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><a href="/area/e183ffae-1d35-4c78-b552-957535e40af1"><bdi>Long Beach</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:95%;">4.75</span>    </span>
+</span>    (<a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/ratings" title="Sublime (ska punk)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/dub"><bdi>dub</bdi></a>, <a href="/tag/punk"><bdi>punk</bdi></a>, <a href="/tag/punk%20rock"><bdi>punk rock</bdi></a>, <a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/tags" title="Sublime (ska punk)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://sublimelbc.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000486047">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/98600">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1455964/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Sublime">Sublime</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Sublime">LyricWiki</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/sublime">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/5848">Musik-Sammler</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/lccn-no97060632/">WorldCat</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/10608">SecondHandSongs</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Sublime">Sublime</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/167580473">VIAF: 167580473</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q591691">Q591691</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/SublimeVideos">SublimeVideos</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0/relationships" title="Sublime (ska punk)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F95f5b748-d370-47fe-85bd-0af2dc450bc0">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-10-17 21:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

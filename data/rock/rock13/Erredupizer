@@ -1,0 +1,695 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Erredupizer - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2007-09-28"/><script type="application/ld+json">{"@type":"MusicGroup","@context":"http://schema.org","foundingDate":"2007-09-28","album":[{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Kebab Madness","@id":"https://musicbrainz.org/release-group/51e50543-653a-4287-884d-f1114c6a1e5c","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Erredupizer","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Erredupizer","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/dd8ac7ee-9274-4bd5-b167-23c1d37c32d3","@type":"MusicAlbum","creditedTo":"Erredupizer"},{"@type":"MusicAlbum","creditedTo":"Erredupizer","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Russian Punk","@id":"https://musicbrainz.org/release-group/232025f9-a5b0-4837-9425-24c8f4aa41cd","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Erredupizer","name":"Cała Kupa Zeszytów i Jeden Rolnik Który Myślał Że To Nawóz","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/cf939d66-03dc-427c-98eb-1899b3e6c09c","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"}},{"creditedTo":"Erredupizer","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/435b970d-e319-45db-9b99-961813788ce3","name":"Epicus Anus","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"name":"UnTr00Py","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1e5c8697-b6eb-4cbf-9e29-fa747b7ac8be","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Erredupizer"},{"byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"name":"Rise of Death","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/819c469e-aac2-4e56-aed9-106313bcee9b","@type":"MusicAlbum","creditedTo":"Erredupizer"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b0f295ef-5a57-4f53-bfb4-47541b94da67","albumProductionType":"http://schema.org/StudioAlbum","name":"Zóe Dźwięki","byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"@id":"https://musicbrainz.org/release-group/0877dc58-37bc-4a7c-9bd0-1c6b11e9e82d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Piwnica Inc","byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"creditedTo":"Erredupizer","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer","@type":"MusicGroup"},"name":"Ride the S.L.U.T.","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a0ccdf40-bab1-4ae3-8c95-e9bf8a0c6a09","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Erredupizer","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"name":"Psychomachia I","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f9815d4d-287f-4113-a505-529a87dbb6f3"},{"creditedTo":"Erredupizer","@type":"MusicAlbum","name":"Psychomachia II","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e6347892-4d60-4977-a008-d5ca17c19dd9","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"}},{"@id":"https://musicbrainz.org/release-group/a455c2ab-f9b9-4c7b-ba91-30cbfa450087","albumReleaseType":"http://schema.org/AlbumRelease","name":"Całka z Twojego Mózgu","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"creditedTo":"Erredupizer","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f038215e-3405-44c5-8439-bf2f1123e936","albumProductionType":"http://schema.org/StudioAlbum","name":"The Penis is Evil","byArtist":{"@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"name":"Kebab Forevor","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/359c9d87-dfb6-4c23-96ab-6d25b3370dec","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"name":"Jezus Umarł za ten Album","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/eaeb3f4c-7a4c-4047-b829-3cbf3b240c5f","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Wielka Księga Spaczenia","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f7f46f01-0de9-4377-8cb7-d31a0f84fb04","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"creditedTo":"Erredupizer","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Erredupizer","byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d62fdd48-30af-4996-9eb7-b931144b51c2","name":"Ü","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Erredupizer","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"name":"Ponad 9000 Punktów Życia","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2a5066e2-3366-4560-a383-18944045bce9","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Erredupizer","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"name":"...i chuj","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ace6ce14-4711-4b39-99d5-930f204cb33e"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4e9f8b80-bb66-4168-8a80-60e7ef34186b","albumProductionType":"http://schema.org/StudioAlbum","name":"O Kurwa, Wskrzesiliśmy Hitlera","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"name":"Transformata Laprasa","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1dad7c04-ecca-4e6e-b5fa-f3f12a38d7ac","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"name":"Jestem Głodny","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8466db32-0f05-44b6-afaf-49878a8a6573","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"creditedTo":"Erredupizer","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Erredupizer","byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3b7878d4-ff82-4413-931d-ad35ed4db65c","albumProductionType":"http://schema.org/StudioAlbum","name":"Radio Twoja Stara"},{"creditedTo":"Erredupizer","@type":"MusicAlbum","name":"Rzeźnik Przyjdzie Po Ciebie","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1e1c6b57-56cb-4fe7-ae2f-395e722ddded","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"}},{"name":"Live w Piwnicy u Fritzla","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6d7d6d7c-fc09-4b94-8d64-c6b3ea35250c","byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"creditedTo":"Erredupizer","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/6613add5-36b2-47cc-9a4e-265be4d8ce80","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Lato z Erredupizerem","byArtist":{"name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Erredupizer"},{"byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"name":"Narcolepsy Blues","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9495fc88-83af-4fc1-8aaf-ecd90225fd6d","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Erredupizer","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Erredupizer","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/10ba1980-ad6a-4732-a547-fbcd5e44a254","albumProductionType":"http://schema.org/StudioAlbum","name":"Banzai!","byArtist":{"@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer","@type":"MusicGroup"}},{"creditedTo":"Erredupizer","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"name":"Songs for Ola","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/8377879e-3b7d-4f93-8a5b-65f865cd84c1"},{"byArtist":{"@type":"MusicGroup","name":"Erredupizer","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/c8552555-8420-4c9f-ac0b-6e11fa01bdff","name":"Szczęśliwego Nowego Roku","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Erredupizer"},{"creditedTo":"Erredupizer","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/0a054eff-9848-4969-94f4-dc94eec69563","albumProductionType":"http://schema.org/StudioAlbum","name":"Nie Słuchaj Tego"}],"@id":"https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6","name":"Erredupizer"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd84ce41a-f5b6-4fc3-8da4-4529b65952e6">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fd84ce41a-f5b6-4fc3-8da4-4529b65952e6">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6" title="Erredupizer"><bdi>Erredupizer</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6" title="Erredupizer – Erredupizer"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/releases" title="Erredupizer"><bdi>Releases</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/recordings" title="Erredupizer"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/works" title="Erredupizer"><bdi>Works</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/events" title="Erredupizer"><bdi>Events</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/relationships" title="Erredupizer"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/aliases" title="Erredupizer"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/tags" title="Erredupizer"><bdi>Tags</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/details" title="Erredupizer"><bdi>Details</bdi></a></li>            <li><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/edit" title="Erredupizer"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=625693" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/51e50543-653a-4287-884d-f1114c6a1e5c"><bdi>Kebab Madness</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/dd8ac7ee-9274-4bd5-b167-23c1d37c32d3"><bdi>Erredupizer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/232025f9-a5b0-4837-9425-24c8f4aa41cd"><bdi>Russian Punk</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/cf939d66-03dc-427c-98eb-1899b3e6c09c"><bdi>Cała Kupa Zeszytów i Jeden Rolnik Który Myślał Że To Nawóz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/435b970d-e319-45db-9b99-961813788ce3"><bdi>Epicus Anus</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/1e5c8697-b6eb-4cbf-9e29-fa747b7ac8be"><bdi>UnTr00Py</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/819c469e-aac2-4e56-aed9-106313bcee9b"><bdi>Rise of Death</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/b0f295ef-5a57-4f53-bfb4-47541b94da67"><bdi>Zóe Dźwięki</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/0877dc58-37bc-4a7c-9bd0-1c6b11e9e82d"><bdi>Piwnica Inc</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a0ccdf40-bab1-4ae3-8c95-e9bf8a0c6a09"><bdi>Ride the S.L.U.T.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/f9815d4d-287f-4113-a505-529a87dbb6f3"><bdi>Psychomachia I</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/e6347892-4d60-4977-a008-d5ca17c19dd9"><bdi>Psychomachia II</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/a455c2ab-f9b9-4c7b-ba91-30cbfa450087"><bdi>Całka z Twojego Mózgu</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/f038215e-3405-44c5-8439-bf2f1123e936"><bdi>The Penis is Evil</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/359c9d87-dfb6-4c23-96ab-6d25b3370dec"><bdi>Kebab Forevor</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/eaeb3f4c-7a4c-4047-b829-3cbf3b240c5f"><bdi>Jezus Umarł za ten Album</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f7f46f01-0de9-4377-8cb7-d31a0f84fb04"><bdi>Wielka Księga Spaczenia</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d62fdd48-30af-4996-9eb7-b931144b51c2"><bdi>Ü</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/2a5066e2-3366-4560-a383-18944045bce9"><bdi>Ponad 9000 Punktów Życia</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/ace6ce14-4711-4b39-99d5-930f204cb33e"><bdi>...i chuj</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/4e9f8b80-bb66-4168-8a80-60e7ef34186b"><bdi>O Kurwa, Wskrzesiliśmy Hitlera</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/1dad7c04-ecca-4e6e-b5fa-f3f12a38d7ac"><bdi>Transformata Laprasa</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/8466db32-0f05-44b6-afaf-49878a8a6573"><bdi>Jestem Głodny</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/3b7878d4-ff82-4413-931d-ad35ed4db65c"><bdi>Radio Twoja Stara</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/1e1c6b57-56cb-4fe7-ae2f-395e722ddded"><bdi>Rzeźnik Przyjdzie Po Ciebie</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/6d7d6d7c-fc09-4b94-8d64-c6b3ea35250c"><bdi>Live w Piwnicy u Fritzla</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/6613add5-36b2-47cc-9a4e-265be4d8ce80"><bdi>Lato z Erredupizerem</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/9495fc88-83af-4fc1-8aaf-ecd90225fd6d"><bdi>Narcolepsy Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/10ba1980-ad6a-4732-a547-fbcd5e44a254"><bdi>Banzai!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/8377879e-3b7d-4f93-8a5b-65f865cd84c1"><bdi>Songs for Ola</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c8552555-8420-4c9f-ac0b-6e11fa01bdff"><bdi>Szczęśliwego Nowego Roku</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/0a054eff-9848-4969-94f4-dc94eec69563"><bdi>Nie Słuchaj Tego</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2007-09-28 (9 years ago)</dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/ratings" title="Erredupizer"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/absurdal"><bdi>absurdal</bdi></a>, <a href="/tag/absurdal%20punk"><bdi>absurdal punk</bdi></a>, <a href="/tag/punk"><bdi>punk</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/trzy%20akordy%20darcie%20mordy"><bdi>trzy akordy darcie mordy</bdi></a>, <a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/tags" title="Erredupizer"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">        <li class="all-relationships"><a href="/artist/d84ce41a-f5b6-4fc3-8da4-4529b65952e6/relationships" title="Erredupizer"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd84ce41a-f5b6-4fc3-8da4-4529b65952e6">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2009-06-28 00:06 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

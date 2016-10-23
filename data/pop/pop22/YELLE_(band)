@@ -1,0 +1,759 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YELLE - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="band, Type: Group, Founded: 2005, Area: France"/><script type="application/ld+json">{"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","foundingDate":"2005","sameAs":["http://en.wikipedia.org/wiki/Yelle","http://fr.wikipedia.org/wiki/Yelle_(groupe)","http://imvdb.com/n/yelle","http://isni-url.oclc.nl/isni/0000000079958334","http://www.allmusic.com/artist/mn0000659804","http://www.last.fm/music/Yelle","http://www.residentadvisor.net/dj/yelle","http://www.yelle.fr/","http://yelle.bandcamp.com/","https://rateyourmusic.com/artist/yelle","https://www.discogs.com/artist/575865","https://www.wikidata.org/wiki/Q254848"],"location":{"@type":"Country","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115","name":"France"},"@type":"MusicGroup","member":[{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/063b295f-6712-442d-a20c-3a7a4d709c2c","name":"Yelle","@type":["Person","MusicGroup"]}},{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/473a4689-e6c6-4918-8faf-f6cefeab4424","name":"GrandMarnier","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"endDate":"2014","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"TEPR","@id":"https://musicbrainz.org/artist/63768df8-b589-49e6-ae62-899206bab9a2"},"@type":"OrganizationRole","startDate":"2006"}],"name":"YELLE","album":[{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8"},"creditedTo":"YELLE","name":"Pop-up","@id":"https://musicbrainz.org/release-group/4f482111-6a6d-3a82-9c93-53c3c01d9bfb","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Safari Disco Club","@id":"https://musicbrainz.org/release-group/9ba7659f-36ad-487e-9ada-8d69a8027eb5","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"YELLE","byArtist":{"@type":"MusicGroup","name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8"}},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/aa650a27-df34-42c5-9989-101e43891d3f","name":"Complètement fou","byArtist":{"@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","name":"YELLE","@type":"MusicGroup"},"creditedTo":"YELLE","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Safari Disco Club: Remixes","@id":"https://musicbrainz.org/release-group/eedd6a92-dd21-40fb-adec-ab75d0dd0fd7","creditedTo":"YELLE","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","name":"YELLE"},"albumProductionType":"http://schema.org/RemixAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"YELLE","byArtist":{"@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","name":"YELLE","@type":"MusicGroup"},"name":"Je veux te voir","@id":"https://musicbrainz.org/release-group/c89d7722-9639-39e3-9c4d-bb4a6187bdfd","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","@type":"MusicGroup"},"creditedTo":"YELLE","@id":"https://musicbrainz.org/release-group/b345df49-5522-3f97-aa46-9b52c9ae147e","name":"À cause des garçons","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/7f9d277d-b3a9-3354-b10a-f855296b4bb2","name":"Ce jeu","byArtist":{"@type":"MusicGroup","name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8"},"creditedTo":"YELLE","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":"MusicGroup","name":"Crookers","@id":"https://musicbrainz.org/artist/ff711332-b409-44dd-ad1d-f7714f8906db"},{"name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","@type":"MusicGroup"}],"creditedTo":"Crookers feat. YELLE","name":"Cooler Couleur","@id":"https://musicbrainz.org/release-group/0eaf223d-dbd6-4009-8980-2e8bf8313a3b","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"byArtist":{"name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","@type":"MusicGroup"},"creditedTo":"YELLE","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"La Musique","@id":"https://musicbrainz.org/release-group/853c1415-7212-4613-b581-8f914619cf97"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","name":"YELLE"},"creditedTo":"YELLE","@id":"https://musicbrainz.org/release-group/4b18f80b-d132-4dda-8c51-46dfbe1ee37b","name":"Que veux-tu","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Comme un enfant","@id":"https://musicbrainz.org/release-group/8f3ebcce-9185-486e-8777-3999a38d069f","creditedTo":"YELLE","byArtist":{"name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"L’Amour parfait","@id":"https://musicbrainz.org/release-group/7aeb07d3-0f53-4257-b75c-e6badc80288a","creditedTo":"YELLE","byArtist":{"@type":"MusicGroup","name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8"},"albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/e35a3859-bbdd-45b7-a8e1-8078094300ff","name":"Un million","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","name":"YELLE"},"creditedTo":"YELLE"},{"albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","name":"iTunes Foreign Exchange","@id":"https://musicbrainz.org/release-group/053009b5-5534-4c5c-9533-7f7d9745c2c1","byArtist":{"@type":"MusicGroup","name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8"},"creditedTo":"YELLE","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/a09893aa-fc14-43d0-82a0-bba14adf1dff","name":"iTunes Live: London Festival '08","byArtist":{"name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","@type":"MusicGroup"},"creditedTo":"YELLE","albumProductionType":"http://schema.org/LiveAlbum"},{"albumProductionType":"http://schema.org/RemixAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","name":"YELLE","@type":"MusicGroup"},"creditedTo":"YELLE","name":"The Contest Pack","@id":"https://musicbrainz.org/release-group/ce437a55-c9cd-4b46-901d-8ee097f58c6c","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/RemixAlbum","creditedTo":"YELLE","byArtist":{"name":"YELLE","@id":"https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8","@type":"MusicGroup"},"name":"Complètement fou (remix EP)","@id":"https://musicbrainz.org/release-group/801aa207-e5fa-479f-9376-6184ca2f78d7","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ff43d43c8-eedf-4628-99b0-04120e7124c8">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Ff43d43c8-eedf-4628-99b0-04120e7124c8">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a> <span class="comment">(<bdi>band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE – YELLE (band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/releases" title="YELLE (band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/recordings" title="YELLE (band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/works" title="YELLE (band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/events" title="YELLE (band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/relationships" title="YELLE (band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/aliases" title="YELLE (band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/tags" title="YELLE (band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/details" title="YELLE (band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/edit" title="YELLE (band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=409498" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/4f482111-6a6d-3a82-9c93-53c3c01d9bfb"><bdi>Pop-up</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/9ba7659f-36ad-487e-9ada-8d69a8027eb5"><bdi>Safari Disco Club</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/aa650a27-df34-42c5-9989-101e43891d3f"><bdi>Complètement fou</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/eedd6a92-dd21-40fb-adec-ab75d0dd0fd7"><bdi>Safari Disco Club: Remixes</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/c89d7722-9639-39e3-9c4d-bb4a6187bdfd"><bdi>Je veux te voir</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/b345df49-5522-3f97-aa46-9b52c9ae147e"><bdi>À cause des garçons</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/7f9d277d-b3a9-3354-b10a-f855296b4bb2"><bdi>Ce jeu</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/0eaf223d-dbd6-4009-8980-2e8bf8313a3b"><bdi>Cooler Couleur</bdi></a></td>
+        
+        <td><a href="/artist/ff711332-b409-44dd-ad1d-f7714f8906db" title="Crookers"><bdi>Crookers</bdi></a> feat. <a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/853c1415-7212-4613-b581-8f914619cf97"><bdi>La Musique</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/4b18f80b-d132-4dda-8c51-46dfbe1ee37b"><bdi>Que veux-tu</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/8f3ebcce-9185-486e-8777-3999a38d069f"><bdi>Comme un enfant</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/7aeb07d3-0f53-4257-b75c-e6badc80288a"><bdi>L’Amour parfait</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/e35a3859-bbdd-45b7-a8e1-8078094300ff"><bdi>Un million</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/053009b5-5534-4c5c-9533-7f7d9745c2c1"><bdi>iTunes Foreign Exchange</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a09893aa-fc14-43d0-82a0-bba14adf1dff"><bdi>iTunes Live: London Festival '08</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/ce437a55-c9cd-4b46-901d-8ee097f58c6c"><bdi>The Contest Pack</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/801aa207-e5fa-479f-9376-6184ca2f78d7"><bdi>Complètement fou (remix EP)</bdi></a></td>
+        
+        <td><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8" title="YELLE (band)"><bdi>YELLE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2005 (11 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000079958334">0000 0000 7995 8334    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/fran%C3%A7ais"><bdi>français</bdi></a>, <a href="/tag/france"><bdi>france</bdi></a>, <a href="/tag/francophone"><bdi>francophone</bdi></a>, <a href="/tag/french"><bdi>french</bdi></a>, <a href="/tag/pop"><bdi>pop</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.yelle.fr/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000659804">AllMusic</a>
+          
+          
+        </li>               <li class="bandcamp-favicon">
+          
+          
+          <a href="//yelle.bandcamp.com/">Bandcamp</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/575865">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Yelle">Yelle</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/iloveyelle">iloveyelle</a>
+          
+          
+        </li>               <li class="imvdb-favicon">
+          
+          
+          <a href="http://imvdb.com/n/yelle">IMVDb</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/yelle">Rateyourmusic</a>
+          
+          
+        </li>               <li class="residentadvisor-favicon">
+          
+          
+          <a href="http://www.residentadvisor.net/dj/yelle">Resident Advisor</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id160360801">iTunes</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/yelle">@yelle</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/yelle">yelle</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="https://www.instagram.com/yellestagram/">@yellestagram</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/yelle">yelle</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q254848">Q254848</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Yelle">en: Yelle</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//fr.wikipedia.org/wiki/Yelle_(groupe)">fr: Yelle (groupe)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/yelle">yelle</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/f43d43c8-eedf-4628-99b0-04120e7124c8/relationships" title="YELLE (band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ff43d43c8-eedf-4628-99b0-04120e7124c8">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-08-30 14:01 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

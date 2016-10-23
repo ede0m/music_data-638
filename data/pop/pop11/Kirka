@@ -1,0 +1,798 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kirka - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1950-09-22 in Helsinki, Died: 2007-01-31 in Helsinki, Area: Finland"/><script type="application/ld+json">{"birthDate":"1950-09-22","deathPlace":{"@id":"https://musicbrainz.org/area/39d62198-1e76-4de4-b079-e86e3a393bbc","name":"Helsinki","@type":"City","containedIn":{"name":"Uusimaa","@id":"https://musicbrainz.org/area/942bd6e5-e590-4202-b16f-de6335211dd5","containedIn":{"name":"Finland","@id":"https://musicbrainz.org/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616","@type":"Country"},"@type":"AdministrativeArea"}},"name":"Kirka","album":[{"byArtist":{"@type":["Person","MusicGroup"],"name":"Kirka","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930"},"creditedTo":"Kirka","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"Kirka","@id":"https://musicbrainz.org/release-group/e3908fed-e5d4-419f-ab2b-468b0c4ad719","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Saat kaiken","@id":"https://musicbrainz.org/release-group/017fdcfc-0401-44c6-937b-211839134c2b","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@type":["Person","MusicGroup"]},"creditedTo":"Kirka"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka","@type":["Person","MusicGroup"]},"creditedTo":"Kirka","name":"Nykyaikaa","@id":"https://musicbrainz.org/release-group/27a42ab4-982d-4781-9344-9dbd3cb4c62c","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Rautaa ja kettinkiä","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/226ff17a-38a9-4465-b2cc-5da0bc3d8b8c","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Kirka","byArtist":{"@type":["Person","MusicGroup"],"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f"}},{"creditedTo":"Kirka","byArtist":{"@type":["Person","MusicGroup"],"name":"Kirka","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ee0c27f8-2f39-4786-9111-62abfe5957b0","name":"Tiukka linja"},{"name":"Kaksi puolta","@id":"https://musicbrainz.org/release-group/90fd91de-43b6-4bc6-ac2a-784d2cd18d61","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Kirka","byArtist":{"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka","@type":["Person","MusicGroup"]}},{"name":"Kirka","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/811719f0-5f32-400a-a932-138989c2e3e0","byArtist":{"@type":["Person","MusicGroup"],"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f"},"creditedTo":"Kirka","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/75295b93-cffa-4bc5-b455-c57df23c2aaf","albumReleaseType":"http://schema.org/AlbumRelease","name":"Täytyy uskaltaa","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Kirka","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka"}},{"creditedTo":"Kirka","byArtist":{"@type":["Person","MusicGroup"],"name":"Kirka","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3ccaed67-ce47-40b7-8171-6b859be44153","name":"Hengaillaan"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka"},"creditedTo":"Kirka","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8c54a79d-5eb3-4dec-9779-c6b63c675d95","albumReleaseType":"http://schema.org/AlbumRelease","name":"Älä sano ei"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/762ef785-2392-369e-85f4-6e9a15f30364","name":"R.O.C.K.","byArtist":{"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka","@type":["Person","MusicGroup"]},"creditedTo":"Kirka","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"The Spell","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8f67b4ff-4cc5-32db-88a6-a564cdd0744c","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka"},"creditedTo":"Kirka"},{"name":"Surun pyyhit silmistäni","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3bdfa854-d085-3627-96f3-d73313955d37","byArtist":{"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka","@type":["Person","MusicGroup"]},"creditedTo":"Kirka","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@type":["Person","MusicGroup"]},"creditedTo":"Kirka","@id":"https://musicbrainz.org/release-group/66c32330-bcfd-4e7f-a3e5-d34a0ce3abbc","albumReleaseType":"http://schema.org/AlbumRelease","name":"Anna käsi"},{"name":"Ota lähellesi","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/453c648a-8acf-438c-82cf-0000dc887b92","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Kirka","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka"}},{"name":"Kirka","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/30712b4c-72f9-4b9f-b433-e6b553785e08","creditedTo":"Kirka","byArtist":{"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Kirka","byArtist":{"@type":["Person","MusicGroup"],"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e399e36f-d506-4837-93ea-2cb670436ca3","name":"Tie huomiseen"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka","@type":["Person","MusicGroup"]},"creditedTo":"Kirka","@id":"https://musicbrainz.org/release-group/7fdf959f-670a-3f3c-a600-f80189460edc","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sinut siinä nään"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@type":["Person","MusicGroup"]},"creditedTo":"Kirka","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bb50fdc5-d09b-4a9f-a479-2c9602d27f10","name":"Elämääni eksynyt"},{"@id":"https://musicbrainz.org/release-group/6a495d36-9f91-4bc3-8dee-1c03be91d94a","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sadness in Your Eyes","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka"},"creditedTo":"Kirka","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka","@type":["Person","MusicGroup"]},"creditedTo":"Kirka","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/46f8c9a0-f8c8-4964-a2ac-687ff0836f77","albumReleaseType":"http://schema.org/AlbumRelease","name":"Kirkan parhaita"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","name":"Kirka"},"creditedTo":"Kirka","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","name":"Parhaat, uudet versiot","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/75815243-45d6-4936-86d0-ad26cfe9589d"},{"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Kirka, Anna, Muska \u0026 Sammy Babitzin","byArtist":[{"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/f964f797-4538-489a-85ce-c36698d7f9ee","name":"Anna Babitzin","@type":["Person","MusicGroup"]},{"name":"Muska","@id":"https://musicbrainz.org/artist/8021d7c0-c61c-430b-a082-ae7f6122d59c","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Sammy Babitzin","@id":"https://musicbrainz.org/artist/7660c285-9e11-4479-b37c-1927e86c3f42"}],"name":"Kirka, Anna, Muska \u0026 Sammy Babitzin","@id":"https://musicbrainz.org/release-group/474a8cf0-6dc9-4c5b-95de-8fdd0e39060b","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/439fb51e-1c08-48c1-a855-8291030b26fd","name":"20 suosikkia: Surun pyyhit silmistäni","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"name":"Kirka","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","@type":["Person","MusicGroup"]},"creditedTo":"Kirka"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Kirka","byArtist":{"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/d2335f89-18a0-3f01-9eca-9341d33e852f","albumReleaseType":"http://schema.org/AlbumRelease","name":"Hetki lyö 1967-1997"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4cbddb6f-2cc8-4bc8-81c9-36469e2c43da","name":"Suomen huiput","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka"},"creditedTo":"Kirka","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"name":"40 Unohtumatonta Laulua","@id":"https://musicbrainz.org/release-group/b64f43d8-5329-4a1e-9de1-259b50c73c1e","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","name":"Kirka"},"creditedTo":"Kirka","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum"},{"name":"Kaikki parhaat 1967 - 2007","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c89fea04-d3f9-33b0-b20c-4a744aefcde0","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Kirka","byArtist":{"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@type":["Person","MusicGroup"]}},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Kirka","byArtist":{"@type":["Person","MusicGroup"],"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f"},"@id":"https://musicbrainz.org/release-group/3b40bf18-973c-4105-acf7-fae984d431ee","albumReleaseType":"http://schema.org/AlbumRelease","name":"CBS - Klassikot"},{"name":"Parhaista parhaat","@id":"https://musicbrainz.org/release-group/c9b8755f-c752-4a2a-b550-38643d7558b0","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"name":"Kirka","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@type":["Person","MusicGroup"]},"creditedTo":"Kirka"},{"name":"Mestarit Areenalla","@id":"https://musicbrainz.org/release-group/a9a9d4ef-a489-390a-a11c-9d279ccc78ee","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Hector, Kirka, Pepe Willberg ja Pave Maijanen","byArtist":[{"name":"Hector","@id":"https://musicbrainz.org/artist/600bec42-17d9-432b-949c-9ec362b13348","@type":["Person","MusicGroup"]},{"name":"Kirka","sameAs":"https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Pepe Willberg","@id":"https://musicbrainz.org/artist/2ab99816-4446-4629-ae1c-a3f0f84d02a6"},{"name":"Pave Maijanen","@id":"https://musicbrainz.org/artist/f10fc77d-66da-4a84-92fb-4e9b3d46187a","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum"}],"@context":"http://schema.org","@type":["Person","MusicGroup"],"deathDate":"2007-01-31","birthPlace":{"@type":"City","containedIn":{"name":"Uusimaa","@id":"https://musicbrainz.org/area/942bd6e5-e590-4202-b16f-de6335211dd5","containedIn":{"name":"Finland","@id":"https://musicbrainz.org/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616","@type":"Country"},"@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/39d62198-1e76-4de4-b079-e86e3a393bbc","name":"Helsinki"},"alternateName":["Kirill Babitzin"],"location":{"@type":"Country","@id":"https://musicbrainz.org/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616","name":"Finland"},"@id":"https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930","sameAs":["http://en.wikipedia.org/wiki/Kirka","http://www.allmusic.com/artist/mn0001318209","http://www.imdb.com/name/nm1464252/","http://www.kirka.com/","http://www.secondhandsongs.com/artist/41424","https://musicbrainz.org/artist/25a0c858-d90d-4520-a9ac-eb160992c93f","https://www.discogs.com/artist/310649","https://www.wikidata.org/wiki/Q720971"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F985184b0-7772-4508-9d4a-c66a99562930">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F985184b0-7772-4508-9d4a-c66a99562930">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka – Kirka"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/releases" title="Kirka"><bdi>Releases</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/recordings" title="Kirka"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/works" title="Kirka"><bdi>Works</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/events" title="Kirka"><bdi>Events</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/relationships" title="Kirka"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/aliases" title="Kirka"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/tags" title="Kirka"><bdi>Tags</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/details" title="Kirka"><bdi>Details</bdi></a></li>            <li><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/edit" title="Kirka"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/25a0c858-d90d-4520-a9ac-eb160992c93f" title="Babitzin, Kirill"><bdi>Kirill Babitzin</bdi></a></p>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=97025" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/e3908fed-e5d4-419f-ab2b-468b0c4ad719"><bdi>Kirka</bdi></a> <span class="comment">(<bdi>1969</bdi>)</span></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/017fdcfc-0401-44c6-937b-211839134c2b"><bdi>Saat kaiken</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/27a42ab4-982d-4781-9344-9dbd3cb4c62c"><bdi>Nykyaikaa</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/226ff17a-38a9-4465-b2cc-5da0bc3d8b8c"><bdi>Rautaa ja kettinkiä</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/ee0c27f8-2f39-4786-9111-62abfe5957b0"><bdi>Tiukka linja</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/90fd91de-43b6-4bc6-ac2a-784d2cd18d61"><bdi>Kaksi puolta</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/811719f0-5f32-400a-a932-138989c2e3e0"><bdi>Kirka</bdi></a> <span class="comment">(<bdi>1981</bdi>)</span></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/75295b93-cffa-4bc5-b455-c57df23c2aaf"><bdi>Täytyy uskaltaa</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/3ccaed67-ce47-40b7-8171-6b859be44153"><bdi>Hengaillaan</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/8c54a79d-5eb3-4dec-9779-c6b63c675d95"><bdi>Älä sano ei</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/762ef785-2392-369e-85f4-6e9a15f30364"><bdi>R.O.C.K.</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/8f67b4ff-4cc5-32db-88a6-a564cdd0744c"><bdi>The Spell</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/3bdfa854-d085-3627-96f3-d73313955d37"><bdi>Surun pyyhit silmistäni</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/66c32330-bcfd-4e7f-a3e5-d34a0ce3abbc"><bdi>Anna käsi</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/453c648a-8acf-438c-82cf-0000dc887b92"><bdi>Ota lähellesi</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/30712b4c-72f9-4b9f-b433-e6b553785e08"><bdi>Kirka</bdi></a> <span class="comment">(<bdi>1994</bdi>)</span></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/e399e36f-d506-4837-93ea-2cb670436ca3"><bdi>Tie huomiseen</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7fdf959f-670a-3f3c-a600-f80189460edc"><bdi>Sinut siinä nään</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/bb50fdc5-d09b-4a9f-a479-2c9602d27f10"><bdi>Elämääni eksynyt</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/6a495d36-9f91-4bc3-8dee-1c03be91d94a"><bdi>Sadness in Your Eyes</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/46f8c9a0-f8c8-4964-a2ac-687ff0836f77"><bdi>Kirkan parhaita</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/75815243-45d6-4936-86d0-ad26cfe9589d"><bdi>Parhaat, uudet versiot</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/474a8cf0-6dc9-4c5b-95de-8fdd0e39060b"><bdi>Kirka, Anna, Muska &amp; Sammy Babitzin</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a>, <span class="name-variation"><a href="/artist/f964f797-4538-489a-85ce-c36698d7f9ee" title="Anna Babitzin – Babitzin, Anna"><bdi>Anna</bdi></a></span>, <a href="/artist/8021d7c0-c61c-430b-a082-ae7f6122d59c" title="Muska"><bdi>Muska</bdi></a> &amp; <span class="name-variation"><a href="/artist/7660c285-9e11-4479-b37c-1927e86c3f42" title="Sammy Babitzin – Babitzin, Sammy"><bdi>Sammy</bdi></a></span> Babitzin</td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/439fb51e-1c08-48c1-a855-8291030b26fd"><bdi>20 suosikkia: Surun pyyhit silmistäni</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/d2335f89-18a0-3f01-9eca-9341d33e852f"><bdi>Hetki lyö 1967-1997</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/4cbddb6f-2cc8-4bc8-81c9-36469e2c43da"><bdi>Suomen huiput</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/b64f43d8-5329-4a1e-9de1-259b50c73c1e"><bdi>40 Unohtumatonta Laulua</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/c89fea04-d3f9-33b0-b20c-4a744aefcde0"><bdi>Kaikki parhaat 1967 - 2007</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/3b40bf18-973c-4105-acf7-fae984d431ee"><bdi>CBS - Klassikot</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c9b8755f-c752-4a2a-b550-38643d7558b0"><bdi>Parhaista parhaat</bdi></a></td>
+        
+        <td><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/a9a9d4ef-a489-390a-a11c-9d279ccc78ee"><bdi>Mestarit Areenalla</bdi></a></td>
+        
+        <td><a href="/artist/600bec42-17d9-432b-949c-9ec362b13348" title="Hector (Finnish artist Heikki Harma)"><bdi>Hector</bdi></a>, <a href="/artist/985184b0-7772-4508-9d4a-c66a99562930" title="Kirka"><bdi>Kirka</bdi></a>, <a href="/artist/2ab99816-4446-4629-ae1c-a3f0f84d02a6" title="Willberg, Pepe"><bdi>Pepe Willberg</bdi></a> ja <a href="/artist/f10fc77d-66da-4a84-92fb-4e9b3d46187a" title="Maijanen, Pave"><bdi>Pave Maijanen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/985184b0-7772-4508-9d4a-c66a99562930/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1950-09-22</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/39d62198-1e76-4de4-b079-e86e3a393bbc"><bdi>Helsinki</bdi></a>, <a href="/area/942bd6e5-e590-4202-b16f-de6335211dd5"><bdi>Uusimaa</bdi></a>, <span class="flag flag-FI"><a href="/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616"><bdi>Finland</bdi></a></span></dd>
+<dt>Died:</dt>
+<dd>2007-01-31 (aged 56)</dd>
+<dt>Died in:</dt>
+<dd class="end_area"><a href="/area/39d62198-1e76-4de4-b079-e86e3a393bbc"><bdi>Helsinki</bdi></a>, <a href="/area/942bd6e5-e590-4202-b16f-de6335211dd5"><bdi>Uusimaa</bdi></a>, <span class="flag flag-FI"><a href="/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616"><bdi>Finland</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-FI"><a href="/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616"><bdi>Finland</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/finnish"><bdi>finnish</bdi></a>, <a href="/tag/iskelm%C3%A4"><bdi>iskelmä</bdi></a>, <a href="/tag/pop"><bdi>pop</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/schlager"><bdi>schlager</bdi></a>, <a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/tags" title="Kirka"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.kirka.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0001318209">AllMusic</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://pomus.net/001624">Pomus</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/310649">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1464252/">IMDb</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/41424">SecondHandSongs</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q720971">Q720971</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Kirka">en: Kirka</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/985184b0-7772-4508-9d4a-c66a99562930/relationships" title="Kirka"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F985184b0-7772-4508-9d4a-c66a99562930">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-01-12 01:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

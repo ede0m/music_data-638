@@ -1,0 +1,759 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Stars - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Canadian indie pop band, Type: Group, Founded: 2000 in Toronto, Area: Montreal"/><script type="application/ld+json">{"foundingDate":"2000","location":{"containedIn":{"containedIn":{"name":"Canada","@type":"Country","@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"},"@type":"AdministrativeArea","name":"Quebec","@id":"https://musicbrainz.org/area/a510b9b1-404d-4e23-8db8-0f6585909ed8"},"@id":"https://musicbrainz.org/area/c3cc624e-b963-49cf-ad0b-e318cb341963","@type":"City","name":"Montreal"},"@context":"http://schema.org","member":[{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/6d81a648-5ba4-4970-8007-739ee18cb880","@type":["Person","MusicGroup"],"name":"Pat McGee"}},{"roleName":[],"@type":"OrganizationRole","member":{"name":"Torquil Campbell","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6e02ca43-f89c-43aa-9bbd-b2288e313ab8"}},{"member":{"@id":"https://musicbrainz.org/artist/7fd0b732-9152-48bb-b1a8-87784ee9850d","name":"Chris Seligman","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Evan Cranley","@id":"https://musicbrainz.org/artist/cda46343-7b52-4661-bcdb-790d2fc03db3"}},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Amy Millan","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f40fb1a6-f1ff-4819-b9f1-8629fb4f36f6"}}],"album":[{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/fa518e3f-1633-3ee6-9a72-73aa3794411d","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Nightsongs"},{"name":"Heart","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"},"@id":"https://musicbrainz.org/release-group/4b1b3f7b-d526-4436-afe8-5bf43520f7e9","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars"},{"@type":"MusicAlbum","name":"Set Yourself on Fire","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c2ebd36a-f9e5-3e51-b298-8020fc5e9dc5","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars"},{"byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/8c7833b8-7c3d-3645-b190-0a110edcc926","@type":"MusicAlbum","name":"In Our Bedroom After the War","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"},"@id":"https://musicbrainz.org/release-group/baf7263f-51f7-4c4a-90b2-07d9e88d729c","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Five Ghosts","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars","name":"The North","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Stars","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/a54762e0-ffa2-4ab4-b2c9-93d1df911407"},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d316a2ca-36aa-46ec-9e05-045eefa69d61","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","name":"Stars","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"No One Is Lost","@type":"MusicAlbum"},{"@type":"MusicAlbum","name":"The Bedroom Demos","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/95fe6a9e-ebd6-4471-8ca9-962c2d2018dd","byArtist":{"@type":"MusicGroup","name":"Stars","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"albumProductionType":"http://schema.org/DemoAlbum","creditedTo":"Stars"},{"albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Stars","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live at Austin City Limits Music Festival 2006","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"},"@id":"https://musicbrainz.org/release-group/415c929f-b981-3877-9206-ae589465f985"},{"@id":"https://musicbrainz.org/release-group/5449e802-3ae4-4db3-92e3-caf8892e4ba0","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","name":"Stars","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"iTunes Live From Montreal","@type":"MusicAlbum","creditedTo":"Stars","albumProductionType":"http://schema.org/LiveAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live at Lollapalooza 2006","byArtist":{"@type":"MusicGroup","name":"Stars","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/5ff78ba5-0e19-3f6f-bed7-983e88ba2b3d","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Stars"},{"@id":"https://musicbrainz.org/release-group/9404213f-c27e-3c88-9467-e1e9bab2c055","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","name":"Stars","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Do You Trust Your Friends?","@type":"MusicAlbum","creditedTo":"Stars","albumProductionType":"http://schema.org/RemixAlbum"},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","name":"Stars","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/c32131b9-33c0-38ac-a048-c044b00bf9b5","@type":"MusicAlbum","name":"Elevator Love Letter","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"},"@id":"https://musicbrainz.org/release-group/c41c5856-fd50-357c-812f-d2cdaf23af75","albumReleaseType":"http://schema.org/SingleRelease","name":"Petite Mort","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/5424286c-8756-3b1f-a36f-489ceb188a16","byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Ageless Beauty","creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/4649be23-6b85-3c82-837b-45819068895f","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","name":"Stars","@type":"MusicGroup"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Your Ex-Lover Is Dead","creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars","name":"It's Alchemy!","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/074d754f-82da-47dd-a8f7-1dfa4d6f79c8","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"}},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Stars","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/f5b58b5a-c16d-356e-aa64-3d66bfedac47","name":"Take Me to the Riot","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/bb405022-ea72-48e6-9d60-93df05b7942c","byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"albumReleaseType":"http://schema.org/SingleRelease","name":"Hold On When You Get Love and Let Go When You Give It (Sem Thomasson Remix)","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Wishful / The Light","byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/75678f3a-cfa8-4ff8-9f77-a96d76789e16","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars"},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/c52e5ac7-5c7e-4414-9759-83ca4e010ff6","name":"Streetlights","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"creditedTo":"Stars","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ad5ba9b5-4b4c-3988-b9c4-af88e30967f0","byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"A Lot of Little Lies for the Sake of One Big Truth"},{"albumReleaseType":"http://schema.org/EPRelease","name":"The Comeback EP","@type":"MusicAlbum","byArtist":{"name":"Stars","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a"},"@id":"https://musicbrainz.org/release-group/248b331a-0065-398d-a104-dbfa81720dc4","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars"},{"name":"Dead Child Stars","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/0668f0ee-059f-333f-b206-b2cb64da8732","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","name":"Stars","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Sad Robots EP","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"},"@id":"https://musicbrainz.org/release-group/d62e636e-1ddd-3dfd-aa53-823cd751e82d","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stars","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Lost \u0026 Found EP","byArtist":{"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"},"@id":"https://musicbrainz.org/release-group/de7d6084-4e83-4329-b91b-8e25328b26d6"}],"groupOrigin":{"containedIn":{"containedIn":{"name":"Canada","@type":"Country","@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"},"name":"Ontario","@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/2747553f-b44d-44c4-a7c3-b67412b6f10b"},"name":"Toronto","@type":"City","@id":"https://musicbrainz.org/area/74b24e62-d2fe-42d2-9d96-31f2da756c77"},"sameAs":["http://www.allmusic.com/artist/mn0000018828","http://www.arts-crafts.ca/stars/","http://www.bbc.co.uk/music/artists/5aeb21a3-4606-4a0d-8369-50c768d1e99a","http://www.last.fm/music/Stars","http://www.youarestars.com/","https://en.wikipedia.org/wiki/Stars_(Canadian_band)","https://musicbrainz.org/artist/16ebb731-7ba0-4dc0-ad87-ef4c56461d81","https://rateyourmusic.com/artist/stars_f1","https://www.discogs.com/artist/127607","https://www.wikidata.org/wiki/Q1752259"],"@id":"https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a","@type":"MusicGroup","name":"Stars"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5aeb21a3-4606-4a0d-8369-50c768d1e99a">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5aeb21a3-4606-4a0d-8369-50c768d1e99a">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a" title="Stars (Canadian indie pop band)"><bdi>Stars</bdi></a> <span class="comment">(<bdi>Canadian indie pop band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a" title="Stars – Stars (Canadian indie pop band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/releases" title="Stars (Canadian indie pop band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/recordings" title="Stars (Canadian indie pop band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/works" title="Stars (Canadian indie pop band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/events" title="Stars (Canadian indie pop band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/relationships" title="Stars (Canadian indie pop band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/aliases" title="Stars (Canadian indie pop band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/tags" title="Stars (Canadian indie pop band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/details" title="Stars (Canadian indie pop band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/edit" title="Stars (Canadian indie pop band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Stars</b> is a Canadian indie pop band formed in 2000.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Stars_%28Canadian_band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=52743" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/fa518e3f-1633-3ee6-9a72-73aa3794411d"><bdi>Nightsongs</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/4b1b3f7b-d526-4436-afe8-5bf43520f7e9"><bdi>Heart</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/c2ebd36a-f9e5-3e51-b298-8020fc5e9dc5"><bdi>Set Yourself on Fire</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/8c7833b8-7c3d-3645-b190-0a110edcc926"><bdi>In Our Bedroom After the War</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:65%;">3.25</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/baf7263f-51f7-4c4a-90b2-07d9e88d729c"><bdi>The Five Ghosts</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:67%;">3.35</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/a54762e0-ffa2-4ab4-b2c9-93d1df911407"><bdi>The North</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/d316a2ca-36aa-46ec-9e05-045eefa69d61"><bdi>No One Is Lost</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Demo</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/95fe6a9e-ebd6-4471-8ca9-962c2d2018dd"><bdi>The Bedroom Demos</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/415c929f-b981-3877-9206-ae589465f985"><bdi>Live at Austin City Limits Music Festival 2006</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/5449e802-3ae4-4db3-92e3-caf8892e4ba0"><bdi>iTunes Live From Montreal</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/5ff78ba5-0e19-3f6f-bed7-983e88ba2b3d"><bdi>Live at Lollapalooza 2006</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/9404213f-c27e-3c88-9467-e1e9bab2c055"><bdi>Do You Trust Your Friends?</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/c32131b9-33c0-38ac-a048-c044b00bf9b5"><bdi>Elevator Love Letter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/c41c5856-fd50-357c-812f-d2cdaf23af75"><bdi>Petite Mort</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5424286c-8756-3b1f-a36f-489ceb188a16"><bdi>Ageless Beauty</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/4649be23-6b85-3c82-837b-45819068895f"><bdi>Your Ex-Lover Is Dead</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/074d754f-82da-47dd-a8f7-1dfa4d6f79c8"><bdi>It's Alchemy!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/f5b58b5a-c16d-356e-aa64-3d66bfedac47"><bdi>Take Me to the Riot</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/bb405022-ea72-48e6-9d60-93df05b7942c"><bdi>Hold On When You Get Love and Let Go When You Give It (Sem Thomasson Remix)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/75678f3a-cfa8-4ff8-9f77-a96d76789e16"><bdi>Wishful / The Light</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/c52e5ac7-5c7e-4414-9759-83ca4e010ff6"><bdi>Streetlights</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ad5ba9b5-4b4c-3988-b9c4-af88e30967f0"><bdi>A Lot of Little Lies for the Sake of One Big Truth</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/248b331a-0065-398d-a104-dbfa81720dc4"><bdi>The Comeback EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/0668f0ee-059f-333f-b206-b2cb64da8732"><bdi>Dead Child Stars</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/d62e636e-1ddd-3dfd-aa53-823cd751e82d"><bdi>Sad Robots EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/de7d6084-4e83-4329-b91b-8e25328b26d6"><bdi>Lost &amp; Found EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stars_live_20050707.jpg/250px-Stars_live_20050707.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Stars live 20050707.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2000 (16 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/74b24e62-d2fe-42d2-9d96-31f2da756c77"><bdi>Toronto</bdi></a>, <a href="/area/2747553f-b44d-44c4-a7c3-b67412b6f10b"><bdi>Ontario</bdi></a>, <span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><a href="/area/c3cc624e-b963-49cf-ad0b-e318cb341963"><bdi>Montreal</bdi></a>, <a href="/area/a510b9b1-404d-4e23-8db8-0f6585909ed8"><bdi>Quebec</bdi></a>, <span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/ratings" title="Stars (Canadian indie pop band)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classic%20pop%20and%20rock"><bdi>classic pop and rock</bdi></a>, <a href="/tag/indie"><bdi>indie</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.arts-crafts.ca/stars/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://www.youarestars.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000018828">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/5aeb21a3-4606-4a0d-8369-50c768d1e99a">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/127607">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Stars">Stars</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/stars">stars</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/stars_f1">Rateyourmusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/starsstars">starsstars</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/youarestars">youarestars</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1752259">Q1752259</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Stars_(Canadian_band)">en: Stars (Canadian band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/StarsMontreal">StarsMontreal</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5aeb21a3-4606-4a0d-8369-50c768d1e99a/relationships" title="Stars (Canadian indie pop band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5aeb21a3-4606-4a0d-8369-50c768d1e99a">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-05-26 19:12 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,985 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Max Richter - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1966-03-22 in Hamelin, Area: United Kingdom"/><script type="application/ld+json">{"sameAs":["http://en.wikipedia.org/wiki/Max_Richter","http://isni-url.oclc.nl/isni/0000000071408901","http://soundtrackcollector.com/composer/8681/","http://viaf.org/viaf/42175299","http://www.allmusic.com/artist/mn0000203592","http://www.bbc.co.uk/music/artists/509f20b2-5df3-4aec-9bbc-002131fb3f99","http://www.imdb.com/name/nm2068037/","http://www.last.fm/music/Max\u002bRichter","http://www.maxrichtermusic.com/","https://www.discogs.com/artist/171698","https://www.wikidata.org/wiki/Q714325"],"birthPlace":{"name":"Hamelin","@id":"https://musicbrainz.org/area/163074df-66ba-4c99-8627-1a61592699a5","@type":"City","containedIn":{"name":"Niedersachsen","@id":"https://musicbrainz.org/area/2978b457-3c4a-4a34-8b3c-d35e4804c42b","containedIn":{"@type":"Country","name":"Germany","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"},"@type":"AdministrativeArea"}},"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","album":[{"@type":"MusicAlbum","creditedTo":"Max Richter","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7d21b2d4-8292-3d15-8e7c-3d9d38c221a0","name":"Memoryhouse"},{"creditedTo":"Max Richter","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/85995b65-06fd-382d-9197-499c5b53f10d","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Blue Notebooks","byArtist":{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"}},{"@type":"MusicAlbum","creditedTo":"Max Richter","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"},"name":"Songs From Before","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4bb0fe70-c58a-3e1c-b906-9e6abf40876d","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"24 Postcards in Full Colour","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/cfb454fa-63d3-3dde-8481-93f7d93443af","byArtist":{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"},"creditedTo":"Max Richter","@type":"MusicAlbum"},{"creditedTo":"Max Richter","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/81e26dc2-aa1e-4184-9c37-d899a4a2418b","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"infra","byArtist":{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"}},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b932f5eb-dd3d-479d-b2a0-694cb61327bb","name":"Daniel Hope"},{"@type":"MusicGroup","name":"Konzerthaus Kammerorchester Berlin","@id":"https://musicbrainz.org/artist/3bb3cd04-e82b-45d7-b684-bf56742398d4"},{"@type":["Person","MusicGroup"],"name":"André de Ridder","@id":"https://musicbrainz.org/artist/b6c47394-cb4e-4b41-9f3a-22d94afb9903"}],"name":"Recomposed by Max Richter: Vivaldi – The Four Seasons","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b921615e-355b-47af-a13d-6a223ead16e6","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Max Richter; Daniel Hope, Konzerthaus Kammerorchester Berlin, André de Ridder"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/98c79e9a-fc74-42ac-85eb-19f9ffc49b16","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sleep","byArtist":{"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","@type":["Person","MusicGroup"]},"creditedTo":"Max Richter","@type":"MusicAlbum"},{"creditedTo":"Max Richter","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/786e5c5e-69ba-4fa4-806c-7e863683bf4e","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sleep Remixes","byArtist":{"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","@type":["Person","MusicGroup"]}},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"},"@id":"https://musicbrainz.org/release-group/5bf553f1-df05-3261-a62c-4050a402b91e","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Vals Im Bashir","@type":"MusicAlbum","creditedTo":"Max Richter"},{"creditedTo":"Max Richter","@type":"MusicAlbum","name":"Henry May Long","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/ea0d0ac8-c5c8-4851-acf3-77d0824d4ae1","byArtist":{"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","@type":["Person","MusicGroup"]}},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/59a019c5-aba3-4f15-aeea-0cc691253086","name":"La Prima Linea","byArtist":{"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","@type":["Person","MusicGroup"]},"creditedTo":"Max Richter","@type":"MusicAlbum"},{"creditedTo":"Max Richter / Stéphane Moucha","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/166fa8ba-e205-4fa7-bba7-c0b21bc53212","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Die Fremde","byArtist":[{"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/35f5b15e-01d5-41da-ba43-189cc563fd5a","name":"Stéphane Moucha"}]},{"creditedTo":"Max Richter","@type":"MusicAlbum","name":"La Vie sauvage des animaux domestiques","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/dc450e2b-0458-4090-a6b7-dd6355dbbae3","byArtist":{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"}},{"name":"Elle s'appelait Sarah","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/17a7bd0a-5fd0-4aa5-9be6-1d8c8e5e75da","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","@type":["Person","MusicGroup"]},"creditedTo":"Max Richter","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"},"@id":"https://musicbrainz.org/release-group/e27b8d56-f428-4db4-9a07-1b25eeb43b09","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Perfect Sense","@type":"MusicAlbum","creditedTo":"Max Richter"},{"@type":"MusicAlbum","creditedTo":"Max Richter","byArtist":{"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/090a485d-6005-424e-8077-60ccd9f835dd","name":"Disconnect"},{"creditedTo":"Max Richter","@type":"MusicAlbum","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fb30f458-89dc-428d-a2de-e7bd2b6f20b1","name":"La marque des anges - Miserere","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"}},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/e455c736-92e8-481c-9334-9153c71656d5","name":"The Congress","@type":"MusicAlbum","creditedTo":"Max Richter"},{"@type":"MusicAlbum","creditedTo":"Max Richter","byArtist":{"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/1056b636-3a87-4829-8455-440d7890debc","name":"Lore"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/c57b4b5b-fd7a-40de-a484-2b6898c831e0","name":"Wadjda","byArtist":{"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","@type":["Person","MusicGroup"]},"creditedTo":"Max Richter","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"},"name":"Last Days on Mars","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/de31541f-c643-4c82-8827-eed651dd7712","@type":"MusicAlbum","creditedTo":"Max Richter"},{"name":"The Leftovers (Music from the HBO Series) [Season 1]","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fae49bf7-4acb-49f9-9ad8-f24ab50bd639","byArtist":{"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","@type":["Person","MusicGroup"]},"creditedTo":"Max Richter","@type":"MusicAlbum"},{"creditedTo":"Max Richter","@type":"MusicAlbum","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1aaf7252-99d7-4ee3-ba27-0bbf24fb81b0","name":"Testament of Youth","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"}},{"albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/44ab362e-5564-458a-8585-131a8ba7ae12","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Leftovers (Music from the HBO® Series) Season 2","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"},"creditedTo":"Max Richter","@type":"MusicAlbum"},{"creditedTo":"Max Richter","@type":"MusicAlbum","name":"Embers (Alt Version 2014)","@id":"https://musicbrainz.org/release-group/70f6a902-27d3-4f5b-ba1b-21fff9019df3","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"}},{"@type":"MusicAlbum","creditedTo":"Max Richter","byArtist":{"@type":["Person","MusicGroup"],"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99"},"albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/a7def085-4b3b-46dd-aeee-a0fb6b97f553","albumReleaseType":"http://schema.org/SingleRelease","name":"Path 5 (Mogwai Remix)"},{"byArtist":{"name":"Max Richter","@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","@type":["Person","MusicGroup"]},"name":"Path 5 (Clark Remix)","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/b5b2e611-f92b-4a8c-8f14-00b9810627f9","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Max Richter"},{"creditedTo":"Max Richter","@type":"MusicAlbum","name":"Berlin by Overnight","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/5d7d1049-1ff4-4c34-96c0-f0e1ed961825","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"}},{"@type":"MusicAlbum","creditedTo":"Max Richter","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/41c6f10a-4599-4449-8b28-047d975d3502","name":"From \"The Art of Mirrors\""},{"creditedTo":"Max Richter","@type":"MusicAlbum","name":"Retrospective","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/c7ec32f0-06b1-4aae-867b-97ed3f4e8469","byArtist":{"@id":"https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99","name":"Max Richter","@type":["Person","MusicGroup"]}}],"@type":["Person","MusicGroup"],"location":{"name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country"},"birthDate":"1966-03-22"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F509f20b2-5df3-4aec-9bbc-002131fb3f99">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F509f20b2-5df3-4aec-9bbc-002131fb3f99">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Max Richter – Richter, Max"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/releases" title="Richter, Max"><bdi>Releases</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/recordings" title="Richter, Max"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/works" title="Richter, Max"><bdi>Works</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/events" title="Richter, Max"><bdi>Events</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/relationships" title="Richter, Max"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/aliases" title="Richter, Max"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/tags" title="Richter, Max"><bdi>Tags</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/details" title="Richter, Max"><bdi>Details</bdi></a></li>            <li><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/edit" title="Richter, Max"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>German-born British composer, pianist and producer</p>
+<p>Archived old homepage:<br />
+<a href="http://web.archive.org/web/20101114081917/http://www.maxrichter.com/en/index.php" rel="nofollow">http://web.archive.org/web/20101114081917/http://www.maxrichter.com/en/index.php</a></p>
+<p>Page at his label's website:<br />
+<a href="http://fat-cat.co.uk/site/artists/max-richter" rel="nofollow">http://fat-cat.co.uk/site/artists/max-richter</a></p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2012-02-21 16:05 UTC.
+            
+        </div>
+    </div>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=152260" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7d21b2d4-8292-3d15-8e7c-3d9d38c221a0"><bdi>Memoryhouse</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/85995b65-06fd-382d-9197-499c5b53f10d"><bdi>The Blue Notebooks</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/4bb0fe70-c58a-3e1c-b906-9e6abf40876d"><bdi>Songs From Before</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/cfb454fa-63d3-3dde-8481-93f7d93443af"><bdi>24 Postcards in Full Colour</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/81e26dc2-aa1e-4184-9c37-d899a4a2418b"><bdi>infra</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/b921615e-355b-47af-a13d-6a223ead16e6"><bdi>Recomposed by Max Richter: Vivaldi – The Four Seasons</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a>; <a href="/artist/b932f5eb-dd3d-479d-b2a0-694cb61327bb" title="Hope, Daniel (violinist)"><bdi>Daniel Hope</bdi></a>, <a href="/artist/3bb3cd04-e82b-45d7-b684-bf56742398d4" title="Konzerthaus Kammerorchester Berlin"><bdi>Konzerthaus Kammerorchester Berlin</bdi></a>, <a href="/artist/b6c47394-cb4e-4b41-9f3a-22d94afb9903" title="Ridder, André de"><bdi>André de Ridder</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/98c79e9a-fc74-42ac-85eb-19f9ffc49b16"><bdi>Sleep</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/786e5c5e-69ba-4fa4-806c-7e863683bf4e"><bdi>Sleep Remixes</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/5bf553f1-df05-3261-a62c-4050a402b91e"><bdi>Vals Im Bashir</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/ea0d0ac8-c5c8-4851-acf3-77d0824d4ae1"><bdi>Henry May Long</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/59a019c5-aba3-4f15-aeea-0cc691253086"><bdi>La Prima Linea</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/166fa8ba-e205-4fa7-bba7-c0b21bc53212"><bdi>Die Fremde</bdi></a> <span class="comment">(<bdi>2010</bdi>)</span></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a> / <a href="/artist/35f5b15e-01d5-41da-ba43-189cc563fd5a" title="Moucha, Stéphane"><bdi>Stéphane Moucha</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/dc450e2b-0458-4090-a6b7-dd6355dbbae3"><bdi>La Vie sauvage des animaux domestiques</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/17a7bd0a-5fd0-4aa5-9be6-1d8c8e5e75da"><bdi>Elle s'appelait Sarah</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/e27b8d56-f428-4db4-9a07-1b25eeb43b09"><bdi>Perfect Sense</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/090a485d-6005-424e-8077-60ccd9f835dd"><bdi>Disconnect</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/fb30f458-89dc-428d-a2de-e7bd2b6f20b1"><bdi>La marque des anges - Miserere</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/e455c736-92e8-481c-9334-9153c71656d5"><bdi>The Congress</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/1056b636-3a87-4829-8455-440d7890debc"><bdi>Lore</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/c57b4b5b-fd7a-40de-a484-2b6898c831e0"><bdi>Wadjda</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/de31541f-c643-4c82-8827-eed651dd7712"><bdi>Last Days on Mars</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/fae49bf7-4acb-49f9-9ad8-f24ab50bd639"><bdi>The Leftovers (Music from the HBO Series) [Season 1]</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/1aaf7252-99d7-4ee3-ba27-0bbf24fb81b0"><bdi>Testament of Youth</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/44ab362e-5564-458a-8585-131a8ba7ae12"><bdi>The Leftovers (Music from the HBO® Series) Season 2</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/70f6a902-27d3-4f5b-ba1b-21fff9019df3"><bdi>Embers (Alt Version 2014)</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/a7def085-4b3b-46dd-aeee-a0fb6b97f553"><bdi>Path 5 (Mogwai Remix)</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/b5b2e611-f92b-4a8c-8f14-00b9810627f9"><bdi>Path 5 (Clark Remix)</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/5d7d1049-1ff4-4c34-96c0-f0e1ed961825"><bdi>Berlin by Overnight</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/41c6f10a-4599-4449-8b28-047d975d3502"><bdi>From &quot;The Art of Mirrors&quot;</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/c7ec32f0-06b1-4aae-867b-97ed3f4e8469"><bdi>Retrospective</bdi></a></td>
+        
+        <td><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99" title="Richter, Max"><bdi>Max Richter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Richter, Max</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1966-03-22 (50 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/163074df-66ba-4c99-8627-1a61592699a5"><bdi>Hamelin</bdi></a>, <a href="/area/2978b457-3c4a-4a34-8b3c-d35e4804c42b"><bdi>Niedersachsen</bdi></a>, <span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>IPI code:</dt>
+<dd class="ipi-code">00269472428</dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000071408901">0000 0000 7140 8901    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/ratings" title="Richter, Max"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/composer"><bdi>composer</bdi></a>, <a href="/tag/ambient"><bdi>ambient</bdi></a>, <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/british%20composer"><bdi>british composer</bdi></a>, <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/tags" title="Richter, Max"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.maxrichtermusic.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000203592">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/509f20b2-5df3-4aec-9bbc-002131fb3f99">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/171698">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm2068037/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Max+Richter">Max Richter</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Max_Richter">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/maxrichtermusic">maxrichtermusic</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://soundtrackcollector.com/composer/8681/">SoundtrackCollector</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/us/artist/id54782697">iTunes</a>
+          
+          
+        </li>               <li class="amazon-favicon">
+          
+          
+          <a href="//www.amazon.com/-/e/B001LHF8XA?tag=musicbrainz0d-20">US: B001LHF8XA</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/maxrichtermusic">@maxrichtermusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/MaxRichterMusic">MaxRichterMusic</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/max-richter">max-richter</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/42175299">VIAF: 42175299</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q714325">Q714325</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Max_Richter">en: Max Richter</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/maxrichtermusic">maxrichtermusic</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/509f20b2-5df3-4aec-9bbc-002131fb3f99/relationships" title="Richter, Max"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F509f20b2-5df3-4aec-9bbc-002131fb3f99">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-02-13 11:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

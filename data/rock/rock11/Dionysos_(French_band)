@@ -1,0 +1,662 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dionysos - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="French band, Type: Group, Founded: 1993 in Valence, Area: Valence"/><script type="application/ld+json">{"foundingDate":"1993","@context":"http://schema.org","name":"Dionysos","member":[{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4dc71b09-cc18-47bc-96ae-595192c45af4","name":"Stéphan Bertholio"},"startDate":"2002","roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"name":"Mathias Malzieu","@id":"https://musicbrainz.org/artist/534b60b6-011e-4212-af35-625a66fca472","@type":["Person","MusicGroup"]},"startDate":"1993"},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/a7b82c18-6f30-4c7c-b43f-8482ef186b0a","name":"Rico","@type":["Person","MusicGroup"]},"startDate":"1993"},{"member":{"name":"Babet","@id":"https://musicbrainz.org/artist/b981ff9f-06e8-486b-a79e-09568697d71a","@type":["Person","MusicGroup"]},"startDate":"1997","roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"startDate":"1993","member":{"@type":["Person","MusicGroup"],"name":"Guillaume Garidel","@id":"https://musicbrainz.org/artist/d126d7a1-b96c-4703-87d5-4dca185a1534"}},{"startDate":"1993","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/df39a07e-9eca-4ccf-b63f-b615530cbfd4","name":"Miky-Biky"},"@type":"OrganizationRole","roleName":[]}],"@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","album":[{"creditedTo":"Dionysos","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3c0c2f61-1d06-3b35-8170-836a1c7c773a","name":"Happening Songs","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81"}},{"creditedTo":"Dionysos","@type":"MusicAlbum","name":"The Sun Is Blue Like the Eggs in Winter","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/346b133e-351c-3616-b3db-1841a6951c45","byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/e71b607f-f2d8-36e9-aa71-9934c96ed477","albumReleaseType":"http://schema.org/AlbumRelease","name":"Haïku","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Dionysos","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Dionysos","byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"},"name":"Western sous la neige","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/18d9a286-2b2a-3baf-92bd-d6628507194f"},{"creditedTo":"Dionysos","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3575b042-1294-3ce2-8b03-443787fa1426","name":"Monsters in Love","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos"},"albumProductionType":"http://schema.org/StudioAlbum","name":"La Mécanique du cœur","@id":"https://musicbrainz.org/release-group/6b04b475-aef5-3035-8904-07636b2a53f5","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Dionysos","@type":"MusicAlbum"},{"creditedTo":"Dionysos","@type":"MusicAlbum","byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"},"name":"Dionysos Plays Bird'n'Roll!","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fdae6ddb-685c-4b8b-beb7-b1ec66d96016"},{"name":"Vampire en pyjama","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/aa3dbe5a-4226-4a95-a9bc-356f2aa03442","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"},"creditedTo":"Dionysos","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Old School Recordings","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e6e615cc-c1b4-3fd7-96a6-529ec2ebbd0b","creditedTo":"Dionysos","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Dionysos","@id":"https://musicbrainz.org/release-group/69e4aaac-1b0a-4f34-b62e-a8ff89f2c773","albumReleaseType":"http://schema.org/AlbumRelease","name":"Eats Music!!!","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos","@type":"MusicGroup"},"name":"Whatever the Weather: Concert acoustique","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/2d20da5b-2b1d-379d-98b0-aa6df9b97b01","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Dionysos"},{"creditedTo":"Dionysos","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/14319dc6-f089-3ab9-9e9d-d9b1f72874bc","name":"Whatever the Weather: Concert électrique","albumProductionType":"http://schema.org/LiveAlbum"},{"creditedTo":"Dionysos","@type":"MusicAlbum","name":"Monsters in Live","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/ba9396d1-08af-3c19-97d7-6fefd97c502a","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/51fd0c4b-526e-4994-8cab-f39f74979582","name":"Coccinelle / Wet","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos"},"@type":"MusicAlbum","creditedTo":"Dionysos"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Song for Jedi","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/798e9cf6-9c63-45c7-b29f-a288ad173d64","creditedTo":"Dionysos","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Dionysos","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6dabb66b-97a3-4543-b78f-674f903b859b","name":"Don Diego 2000","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/30bc7646-b7cf-429f-8bb3-399e7608428f","name":"On aime, on aide","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Dionysos"},{"@type":"MusicAlbum","creditedTo":"Dionysos","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","name":"Dionysos"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0074eb33-8c0e-4483-b69b-4a1f3c2e2a02","albumProductionType":"http://schema.org/StudioAlbum","name":"Cloudman"},{"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/1d92a7a2-23e2-48d6-a999-8e61e6cba4e3","name":"Les Métamorphoses de Mister Chat","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Dionysos","@id":"https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81","@type":"MusicGroup"},"creditedTo":"Dionysos","@type":"MusicAlbum"}],"sameAs":["http://en.wikipedia.org/wiki/Dionysos_(French_band)","http://www.allmusic.com/artist/mn0000405804","http://www.dionyweb.com/","https://rateyourmusic.com/artist/dionysos_f1","https://www.discogs.com/artist/36779","https://www.wikidata.org/wiki/Q745513"],"groupOrigin":{"containedIn":{"@id":"https://musicbrainz.org/area/475d8350-a598-4da8-ada4-b4c2dd1d93fe","name":"Drôme","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"France","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115"}},"@type":"City","name":"Valence","@id":"https://musicbrainz.org/area/9828e130-c29c-4bb3-a248-0b3a5970d76e"},"@type":"MusicGroup","location":{"@type":"City","containedIn":{"@id":"https://musicbrainz.org/area/475d8350-a598-4da8-ada4-b4c2dd1d93fe","name":"Drôme","@type":"AdministrativeArea","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115","name":"France"}},"@id":"https://musicbrainz.org/area/9828e130-c29c-4bb3-a248-0b3a5970d76e","name":"Valence"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7d248ccb-588a-414e-ab3e-be6dd8b71f81">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F7d248ccb-588a-414e-ab3e-be6dd8b71f81">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81" title="Dionysos (French band)"><bdi>Dionysos</bdi></a> <span class="comment">(<bdi>French band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81" title="Dionysos – Dionysos (French band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/releases" title="Dionysos (French band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/recordings" title="Dionysos (French band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/works" title="Dionysos (French band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/events" title="Dionysos (French band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/relationships" title="Dionysos (French band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/aliases" title="Dionysos (French band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/tags" title="Dionysos (French band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/details" title="Dionysos (French band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/edit" title="Dionysos (French band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Dionysos</b> is a French rock band formed in 1993 in Valence, Drôme; they formed at their lycée. They perform songs in both French and English, and have released six studio albums. They are well known in France for their surrealism and eccentricity.</p>
+<p>Their first album, <i>Happening Songs</i>, was self-produced and with entirely English lyrics. With their second album <i>The sun is blue like eggs in Winter</i> (also self-produced) Babet became a member. In 1999, they signed to a major label (the now defunct Trema) and released <i>Haïku</i> which brought the band in to the public eye, mainly thanks to the success of the single "Coccinelle".</p>
+<p>The name of the band comes from the ancient Greek god Dionysus, which in French is <i>Dionysos</i>.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Dionysos_%28French_band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=50680" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/3c0c2f61-1d06-3b35-8170-836a1c7c773a"><bdi>Happening Songs</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/346b133e-351c-3616-b3db-1841a6951c45"><bdi>The Sun Is Blue Like the Eggs in Winter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/e71b607f-f2d8-36e9-aa71-9934c96ed477"><bdi>Haïku</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:53%;">2.65</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/18d9a286-2b2a-3baf-92bd-d6628507194f"><bdi>Western sous la neige</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/3575b042-1294-3ce2-8b03-443787fa1426"><bdi>Monsters in Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/6b04b475-aef5-3035-8904-07636b2a53f5"><bdi>La Mécanique du cœur</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/fdae6ddb-685c-4b8b-beb7-b1ec66d96016"><bdi>Dionysos Plays Bird'n'Roll!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/aa3dbe5a-4226-4a95-a9bc-356f2aa03442"><bdi>Vampire en pyjama</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/e6e615cc-c1b4-3fd7-96a6-529ec2ebbd0b"><bdi>Old School Recordings</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/69e4aaac-1b0a-4f34-b62e-a8ff89f2c773"><bdi>Eats Music!!!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/2d20da5b-2b1d-379d-98b0-aa6df9b97b01"><bdi>Whatever the Weather: Concert acoustique</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/14319dc6-f089-3ab9-9e9d-d9b1f72874bc"><bdi>Whatever the Weather: Concert électrique</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/ba9396d1-08af-3c19-97d7-6fefd97c502a"><bdi>Monsters in Live</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/51fd0c4b-526e-4994-8cab-f39f74979582"><bdi>Coccinelle / Wet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/798e9cf6-9c63-45c7-b29f-a288ad173d64"><bdi>Song for Jedi</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/6dabb66b-97a3-4543-b78f-674f903b859b"><bdi>Don Diego 2000</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/30bc7646-b7cf-429f-8bb3-399e7608428f"><bdi>On aime, on aide</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/0074eb33-8c0e-4483-b69b-4a1f3c2e2a02"><bdi>Cloudman</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/1d92a7a2-23e2-48d6-a999-8e61e6cba4e3"><bdi>Les Métamorphoses de Mister Chat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1993 (23 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/9828e130-c29c-4bb3-a248-0b3a5970d76e"><bdi>Valence</bdi></a>, <a href="/area/475d8350-a598-4da8-ada4-b4c2dd1d93fe"><bdi>Drôme</bdi></a>, <span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><a href="/area/9828e130-c29c-4bb3-a248-0b3a5970d76e"><bdi>Valence</bdi></a>, <a href="/area/475d8350-a598-4da8-ada4-b4c2dd1d93fe"><bdi>Drôme</bdi></a>, <span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span>    (<a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/ratings" title="Dionysos (French band)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/french"><bdi>french</bdi></a>, <a href="/tag/folk%20rock"><bdi>folk rock</bdi></a>, <a href="/tag/fran%C3%A7ais"><bdi>français</bdi></a>, <a href="/tag/france"><bdi>france</bdi></a>, <a href="/tag/francophone"><bdi>francophone</bdi></a>, <a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/tags" title="Dionysos (French band)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.dionyweb.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000405804">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/36779">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/dionyweb">dionyweb</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/dionysos_f1">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/DionysosTweets">@DionysosTweets</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/officieldionysos">officieldionysos</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q745513">Q745513</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Dionysos_(French_band)">en: Dionysos (French band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/DionysosVEVO">DionysosVEVO</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/officieldionysos">officieldionysos</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/7d248ccb-588a-414e-ab3e-be6dd8b71f81/relationships" title="Dionysos (French band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7d248ccb-588a-414e-ab3e-be6dd8b71f81">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-01-28 20:15 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,669 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mary Black - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Female, Born: 1955-05-22 in Dublin, Area: Ireland"/><script type="application/ld+json">{"location":{"@id":"https://musicbrainz.org/area/390b05d4-11ec-3bce-a343-703a366b34a5","@type":"Country","name":"Ireland"},"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","@context":"http://schema.org","name":"Mary Black","birthPlace":{"name":"Dublin","@type":"City","containedIn":{"@type":"AdministrativeArea","name":"County Dublin","containedIn":{"@id":"https://musicbrainz.org/area/390b05d4-11ec-3bce-a343-703a366b34a5","name":"Ireland","@type":"Country"},"@id":"https://musicbrainz.org/area/a4382217-8e68-4101-8ac0-2f14a31dd44d"},"@id":"https://musicbrainz.org/area/462e7952-4fa9-43cd-bc24-2c5c9cd5dd47"},"album":[{"albumProductionType":"http://schema.org/StudioAlbum","name":"Mary Black","creditedTo":"Mary Black","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Mary Black","@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d8c5adb4-1bc8-369b-bc13-4bb25aa61ba3"},{"@id":"https://musicbrainz.org/release-group/adfb85e6-ef81-39ef-a05f-bef266158c61","@type":"MusicAlbum","creditedTo":"Mary Black","albumProductionType":"http://schema.org/StudioAlbum","name":"Without the Fanfare","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]}},{"name":"By the Time It Gets Dark","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Mary Black","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","@type":["Person","MusicGroup"],"name":"Mary Black"},"@id":"https://musicbrainz.org/release-group/afe32e9c-26ed-3066-bfdf-784cfd2eb403"},{"@id":"https://musicbrainz.org/release-group/d8994e3e-e7f6-3cbe-9bc1-b633bfc1fd54","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","creditedTo":"Mary Black","albumProductionType":"http://schema.org/StudioAlbum","name":"No Frontiers"},{"byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Mary Black","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Babes in the Wood","@id":"https://musicbrainz.org/release-group/01cb8aee-babc-358c-b98e-5013f0a6baf1"},{"@id":"https://musicbrainz.org/release-group/4422a489-183a-3ff2-9c7b-64ebfd2270ec","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"The Holy Ground","@type":"MusicAlbum","creditedTo":"Mary Black"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Mary Black","@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Mary Black","albumProductionType":"http://schema.org/StudioAlbum","name":"Circus","@id":"https://musicbrainz.org/release-group/ef870328-ebe2-369d-8531-a079151d39aa"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Shine","@type":"MusicAlbum","creditedTo":"Mary Black","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","@type":["Person","MusicGroup"],"name":"Mary Black"},"@id":"https://musicbrainz.org/release-group/39de4767-7cb2-397d-aeff-f12cb7e849e0"},{"@id":"https://musicbrainz.org/release-group/23096bf3-3655-347a-bdb4-22fe10e79111","name":"Song for Ireland","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Mary Black","byArtist":{"name":"Mary Black","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Mary Black","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f"},"name":"Speaking With the Angel","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Mary Black","@id":"https://musicbrainz.org/release-group/c28fba9e-22d1-3783-9747-4a3e120e0823"},{"byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Full Tide","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Mary Black","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/a6f6b126-4308-36d6-8ed0-c7bb3206ca45"},{"@id":"https://musicbrainz.org/release-group/9fae0d13-5cb7-485a-97cb-98cdd0297564","byArtist":{"name":"Mary Black","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Stories From the Steeples","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Mary Black"},{"@id":"https://musicbrainz.org/release-group/65d8c724-f068-378c-878e-bf03ff15150e","@type":"MusicAlbum","creditedTo":"Mary Black","name":"Hidden Harvest","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"name":"Mary Black","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Wonder Child","creditedTo":"Mary Black","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1118e912-03f0-33eb-8c72-84177f0df45f"},{"creditedTo":"Mary Black","@type":"MusicAlbum","name":"Collected","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","@type":["Person","MusicGroup"],"name":"Mary Black"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/40241006-3847-3131-b41f-050366cb1508"},{"@id":"https://musicbrainz.org/release-group/b99c8d4f-d4a0-459d-992d-01399fd5469b","byArtist":{"name":"Mary Black","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Best of Mary Black","creditedTo":"Mary Black","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/1c21ebeb-0199-3360-aa77-1e36a379456a","@type":"MusicAlbum","creditedTo":"Mary Black","albumProductionType":"http://schema.org/CompilationAlbum","name":"Looking Back","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]}},{"creditedTo":"Mary Black","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Best of Mary Black 1991-2001","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","@type":["Person","MusicGroup"],"name":"Mary Black"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/27d1e2a2-08a5-332b-ad63-b3a6f605b37e"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","creditedTo":"Mary Black","name":"The Collection","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/775b2d5b-7961-3a5f-b8c1-80a03db03e33"},{"@type":"MusicAlbum","creditedTo":"Mary Black","name":"Twenty-Five Years, Twenty-Five Songs","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","name":"Mary Black","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/327bb8b0-a888-40e8-a743-0a9688d2201f"},{"@id":"https://musicbrainz.org/release-group/76a28c73-2e18-3208-9d80-7e0a2dad31f6","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","@type":["Person","MusicGroup"],"name":"Mary Black"},"@type":"MusicAlbum","creditedTo":"Mary Black","albumProductionType":"http://schema.org/LiveAlbum","name":"Live"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"The Circus","creditedTo":"Mary Black","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f","@type":["Person","MusicGroup"],"name":"Mary Black"},"@id":"https://musicbrainz.org/release-group/d3738c9f-3dca-41f3-afb4-dcd30c1cca4b"}],"birthDate":"1955-05-22","sameAs":["http://musicmoz.org/Bands_and_Artists/B/Black,_Mary/","http://viaf.org/viaf/100192160","http://www.allmusic.com/artist/mn0000313128","http://www.imdb.com/name/nm0085421/","http://www.mary-black.net/","https://rateyourmusic.com/artist/mary_black","https://www.discogs.com/artist/353445","https://www.wikidata.org/wiki/Q262746"],"@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fdcc0e816-31d2-4501-93c6-b5b64fcda39f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fdcc0e816-31d2-4501-93c6-b5b64fcda39f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f" title="Black, Mary"><bdi>Mary Black</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f" title="Mary Black – Black, Mary"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/releases" title="Black, Mary"><bdi>Releases</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/recordings" title="Black, Mary"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/works" title="Black, Mary"><bdi>Works</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/events" title="Black, Mary"><bdi>Events</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/relationships" title="Black, Mary"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/aliases" title="Black, Mary"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/tags" title="Black, Mary"><bdi>Tags</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/details" title="Black, Mary"><bdi>Details</bdi></a></li>            <li><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/edit" title="Black, Mary"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Mary Black</b> (born 23 May 1955) is an Irish folk singer. She is well known as an interpreter of both traditional folk and modern material which has made her a major recording artist in her native Ireland.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Mary_Black">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=14674" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/d8c5adb4-1bc8-369b-bc13-4bb25aa61ba3"><bdi>Mary Black</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/adfb85e6-ef81-39ef-a05f-bef266158c61"><bdi>Without the Fanfare</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/afe32e9c-26ed-3066-bfdf-784cfd2eb403"><bdi>By the Time It Gets Dark</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/d8994e3e-e7f6-3cbe-9bc1-b633bfc1fd54"><bdi>No Frontiers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/01cb8aee-babc-358c-b98e-5013f0a6baf1"><bdi>Babes in the Wood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/4422a489-183a-3ff2-9c7b-64ebfd2270ec"><bdi>The Holy Ground</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/ef870328-ebe2-369d-8531-a079151d39aa"><bdi>Circus</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/39de4767-7cb2-397d-aeff-f12cb7e849e0"><bdi>Shine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/23096bf3-3655-347a-bdb4-22fe10e79111"><bdi>Song for Ireland</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/c28fba9e-22d1-3783-9747-4a3e120e0823"><bdi>Speaking With the Angel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/a6f6b126-4308-36d6-8ed0-c7bb3206ca45"><bdi>Full Tide</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/9fae0d13-5cb7-485a-97cb-98cdd0297564"><bdi>Stories From the Steeples</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/65d8c724-f068-378c-878e-bf03ff15150e"><bdi>Hidden Harvest</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/1118e912-03f0-33eb-8c72-84177f0df45f"><bdi>Wonder Child</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/40241006-3847-3131-b41f-050366cb1508"><bdi>Collected</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/b99c8d4f-d4a0-459d-992d-01399fd5469b"><bdi>The Best of Mary Black</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/1c21ebeb-0199-3360-aa77-1e36a379456a"><bdi>Looking Back</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/27d1e2a2-08a5-332b-ad63-b3a6f605b37e"><bdi>The Best of Mary Black 1991-2001</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/775b2d5b-7961-3a5f-b8c1-80a03db03e33"><bdi>The Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/327bb8b0-a888-40e8-a743-0a9688d2201f"><bdi>Twenty-Five Years, Twenty-Five Songs</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/76a28c73-2e18-3208-9d80-7e0a2dad31f6"><bdi>Live</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/d3738c9f-3dca-41f3-afb4-dcd30c1cca4b"><bdi>The Circus</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Maryolympia.jpg/250px-Maryolympia.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Maryolympia.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Black, Mary</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Female</dd>
+<dt>Born:</dt>
+<dd>1955-05-22 (61 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/462e7952-4fa9-43cd-bc24-2c5c9cd5dd47"><bdi>Dublin</bdi></a>, <a href="/area/a4382217-8e68-4101-8ac0-2f14a31dd44d"><bdi>County Dublin</bdi></a>, <span class="flag flag-IE"><a href="/area/390b05d4-11ec-3bce-a343-703a366b34a5"><bdi>Ireland</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-IE"><a href="/area/390b05d4-11ec-3bce-a343-703a366b34a5"><bdi>Ireland</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/folk"><bdi>folk</bdi></a>, <a href="/tag/irish"><bdi>irish</bdi></a>, <a href="/tag/irish%20folk"><bdi>irish folk</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.mary-black.net/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000313128">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/353445">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm0085421/">IMDb</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/B/Black,_Mary/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/mary_black">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/MaryBlackSinger">@MaryBlackSinger</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/pages/Mary-Black/137848202917754">Mary-Black</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/100192160">VIAF: 100192160</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q262746">Q262746</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/maryblacknet">maryblacknet</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/dcc0e816-31d2-4501-93c6-b5b64fcda39f/relationships" title="Black, Mary"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fdcc0e816-31d2-4501-93c6-b5b64fcda39f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-07-02 05:32 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

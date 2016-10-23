@@ -1,0 +1,563 @@
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tag “jazz” - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Ftag%2Fjazz%2Fartist%3Fpage%3D1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Ftag%2Fjazz%2Fartist%3Fpage%3D1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page" class="fullwidth">
+    <div id="content">
+<h1>Tag “<a href="/tag/jazz"><bdi>jazz</bdi></a>”</h1>
+
+<div class="tabs">
+    <ul class="tabs">            <li><a href="/tag/jazz"><bdi>Overview</bdi></a></li>            <li class="sel"><a href="/tag/jazz/artist"><bdi>Artists</bdi></a></li>            <li><a href="/tag/jazz/release-group"><bdi>Release Groups</bdi></a></li>            <li><a href="/tag/jazz/release"><bdi>Releases</bdi></a></li>            <li><a href="/tag/jazz/recording"><bdi>Recordings</bdi></a></li>            <li><a href="/tag/jazz/work"><bdi>Works</bdi></a></li>            <li><a href="/tag/jazz/label"><bdi>Labels</bdi></a></li>            <li><a href="/tag/jazz/place"><bdi>Places</bdi></a></li>            <li><a href="/tag/jazz/area"><bdi>Areas</bdi></a></li>            <li><a href="/tag/jazz/instrument"><bdi>Instruments</bdi></a></li>            <li><a href="/tag/jazz/series"><bdi>Series</bdi></a></li>            <li><a href="/tag/jazz/event"><bdi>Events</bdi></a></li>    </ul>
+</div>
+
+    <h2>1,194 artists found</h2><nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/jazz/artist?page=12">12</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/jazz/artist?page=2">Next</a></li>
+</ul>
+</nav>
+
+            <ul>                <li>
+                    11 -
+                    <a href="/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a" title="Davis, Miles (jazz trumpeter, bandleader, songwriter)"><bdi>Miles Davis</bdi></a> <span class="comment">(<bdi>jazz trumpeter, bandleader, songwriter</bdi>)</span>
+                </li>                <li>
+                    8 -
+                    <a href="/artist/b625448e-bf4a-41c3-a421-72ad46cdb831" title="Coltrane, John"><bdi>John Coltrane</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/b09ae88f-4156-4caa-b129-1cacb5e1632e" title="Goodman, Benny (clarinetist and bandleader)"><bdi>Benny Goodman</bdi></a> <span class="comment">(<bdi>clarinetist and bandleader</bdi>)</span>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/d59c4cda-11d9-48db-8bfe-b557ee602aed" title="Holiday, Billie"><bdi>Billie Holiday</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/f3b8e107-abe8-4743-b6a3-4a4ee995e71f" title="Mingus, Charles"><bdi>Charles Mingus</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98" title="Krall, Diana"><bdi>Diana Krall</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/169c0d1b-fcb8-4a43-9097-829aa7b39205" title="Coleman, Ornette"><bdi>Ornette Coleman</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/3b47247e-5b57-49b6-a0ed-bad80243802a" title="Rollins, Sonny"><bdi>Sonny Rollins</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/d385947d-c00d-4311-9cf1-a032a1d4040b" title="Washington, Dinah"><bdi>Dinah Washington</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd" title="Hancock, Herbie (US jazz pianist, keyboardist, bandleader and composer)"><bdi>Herbie Hancock</bdi></a> <span class="comment">(<bdi>US jazz pianist, keyboardist, bandleader and composer</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/d185d986-ee96-4fd3-bd61-8c848a4765b6" title="Silver, Horace"><bdi>Horace Silver</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/a1235272-3650-4ed7-9317-5a55a08701ec" title="Morgan, Lee"><bdi>Lee Morgan</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/eea8a864-fcda-4602-9569-38ab446decd6" title="Armstrong, Louis"><bdi>Louis Armstrong</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/b3a0912a-a62a-4388-9368-7cb21ed5caf9" title="Sanders, Pharoah"><bdi>Pharoah Sanders</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/8f2422ab-0ec6-4c92-80c4-afe9622fab32" title="Getz, Stan"><bdi>Stan Getz</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/8e8c7417-c905-46b1-b42a-5260b4274ed4" title="Monk, Thelonious"><bdi>Thelonious Monk</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e6d29475-236e-4eb4-9ba6-47072c2b2667" title="Akin (Nigerian - Canadian Artist)"><bdi>Akin</bdi></a> <span class="comment">(<bdi>Nigerian - Canadian Artist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3" title="Winehouse, Amy"><bdi>Amy Winehouse</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/6438bd71-ddc1-4619-a383-20d28ee55b43" title="Vollenweider, Andreas"><bdi>Andreas Vollenweider</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/9516242e-ab62-4e6e-8404-c453668567c2" title="O'Day, Anita"><bdi>Anita O’Day</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee" title="Blakey, Art &amp; Jazz Messengers, The"><bdi>Art Blakey &amp; The Jazz Messengers</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e073f6af-d696-4340-b847-e81fabc4d55b" title="Tatum, Art"><bdi>Art Tatum</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/95a203ad-8b9c-4524-9787-235bde1b0413" title="Green, Bennie"><bdi>Bennie Green</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/0211756e-139e-4b4c-a721-9ee9db363f12" title="Bruford, Bill"><bdi>Bill Bruford</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8247a3f2-3a8e-4256-b322-6c57b03a4e36" title="Evans, Bill (pianist)"><bdi>Bill Evans</bdi></a> <span class="comment">(<bdi>pianist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb" title="Björk"><bdi>Björk</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/a91fbcd5-a74b-436e-ae0d-d2f6bb817820" title="Kaspers, Bo, orkester"><bdi>Bo Kaspers orkester</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/dbc5809c-7837-4b6f-961e-340d64fbb41c" title="Powell, Bud"><bdi>Bud Powell</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8bad6c8e-c8a1-427d-b082-1275e3ebbe60" title="Rich, Buddy"><bdi>Buddy Rich</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1f92d1d9-7b72-4774-9cf2-719b1203c0ff" title="Candido"><bdi>Candido</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/9d99c378-247c-47a3-94ea-753efa330023" title="Byrd, Charlie"><bdi>Charlie Byrd</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1ba1d493-7114-45e2-b163-a36d49a0c065" title="Baker, Chet"><bdi>Chet Baker</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/5c8cb181-38fe-4300-8153-650b2ed0258f" title="Hawkins, Coleman"><bdi>Coleman Hawkins</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/0dbd6300-efdc-420b-857e-895e18fad317" title="Basie, Count"><bdi>Count Basie</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7915b61a-da59-4e4e-83d3-bde7a24bd1ba" title="Grusin, Dave"><bdi>Dave Grusin</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e9ba8ccb-505f-4e5c-b909-65998d0d35b5" title="Gillespie, Dizzy"><bdi>Dizzy Gillespie</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/54799c0e-eb45-4eea-996d-c4d71a63c499" title="Fitzgerald, Ella"><bdi>Ella Fitzgerald</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/badda5cf-f2c5-4dc2-b3d3-07467bdf0f71" title="Dolphy, Eric"><bdi>Eric Dolphy</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/197450cd-0124-4164-b723-3c22dd16494d" title="Sinatra, Frank"><bdi>Frank Sinatra</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e20747e7-55a4-452e-8766-7b985585082d" title="Zappa, Frank"><bdi>Frank Zappa</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/467f69b6-8d6d-4d2c-bfad-e89adf2806ff" title="Benson, George (jazz guitarist/singer)"><bdi>George Benson</bdi></a> <span class="comment">(<bdi>jazz guitarist/singer</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9" title="Schneider, Helge"><bdi>Helge Schneider</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/5c71ea68-9238-4dfc-8519-bd6eff6bc28b" title="Jaga Jazzist"><bdi>Jaga Jazzist</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/4f8a0d9b-5777-40da-b29a-e9753d5ae693" title="Smith, Jimmy (US jazz organist)"><bdi>Jimmy Smith</bdi></a> <span class="comment">(<bdi>US jazz organist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/2f43e416-f1bf-4f04-8853-a0019aa12441" title="Pass, Joe (jazz guitarist)"><bdi>Joe Pass</bdi></a> <span class="comment">(<bdi>jazz guitarist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/791eaba5-dafe-4385-aac7-d8489508b27e" title="Etheridge, John"><bdi>John Etheridge</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/fcbc2086-5863-4659-b03d-44be704697d2" title="McLaughlin, John (guitarist)"><bdi>John McLaughlin</bdi></a> <span class="comment">(<bdi>guitarist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b0d74c9f-7d78-463e-9cee-38704ea18318" title="Lourau, Julien"><bdi>Julien Lourau</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/061c4920-3ea6-4835-98f6-02f3b82f5e3a" title="Jarrett, Keith"><bdi>Keith Jarrett</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/0b6aea55-d855-4a33-ae08-b0280dd28684" title="Roach, Max"><bdi>Max Roach</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/4439c2fd-a754-4f6a-b3a6-791b47726156" title="Tormé, Mel"><bdi>Mel Tormé</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/611700cf-27f0-4dc9-ae80-c513a767853e" title="Bublé, Michael"><bdi>Michael Bublé</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/2944824d-4c26-476f-a981-be849081942f" title="Simone, Nina"><bdi>Nina Simone</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/ed801bdd-f057-41c0-94fb-76cb5676cd59" title="Peterson, Oscar"><bdi>Oscar Peterson</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/5a2463af-eef0-4a22-bc8f-5865fbe9c78e" title="Lee, Peggy (jazz vocalist)"><bdi>Peggy Lee</bdi></a> <span class="comment">(<bdi>jazz vocalist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/2ce02909-598b-44ef-a456-151ba0a3bd70" title="Charles, Ray (soul musician, singer and songwriter)"><bdi>Ray Charles</bdi></a> <span class="comment">(<bdi>soul musician, singer and songwriter</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/202936c9-063b-492a-a20e-cc15ce97aaa1" title="Bona, Richard"><bdi>Richard Bona</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/31810c40-932a-4f2d-8cfd-17849844e2a6" title="Squirrel Nut Zippers"><bdi>Squirrel Nut Zippers</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/82eb0cc2-84be-44b2-8b5d-543e3a1a4003" title="Goodman, Benny, Sextet, The"><bdi>The Benny Goodman Sextet</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7" title="Brubeck, Dave, Quartet, The"><bdi>The Dave Brubeck Quartet</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e9ac5139-2da0-4f00-9ac2-c713e3813ff4" title="Silver, Horace, Quintet, The"><bdi>The Horace Silver Quintet</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f19ad155-d809-4770-ab8d-7579467d9f55" title="Puente, Tito"><bdi>Tito Puente</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b370defd-86cc-42f3-85b4-7c2a8305c04a" title="Us3"><bdi>Us3</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/663f8232-8c46-4851-803f-a91d31593b14" title="Montgomery, Wes"><bdi>Wes Montgomery</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/f8bbba72-30f3-4838-a55b-9d8f29b376ef" title="[iks]"><bdi>[iks]</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/4b50ed0c-ede0-4695-bd5b-c1d997e89d2a" title="Gate (Lajos Ishibashi-Brons)"><bdi>|˟˟|</bdi></a> <span class="comment">(<bdi>Lajos Ishibashi-Brons</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/407659a1-3436-458d-88ae-c849367c981b" title="3 Voices &amp; A Bass"><bdi>3 Voices &amp; A Bass</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/2f53411b-ec29-4979-aa46-62786a2bb377" title="Neville, Aaron"><bdi>Aaron Neville</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/027b27ac-cb3f-40c8-8abb-aac46eaf16ef" title="Ezra, Adam Ben (upright bass virtuoso, composer, multi-instrumentalist)"><bdi>Adam Ben Ezra</bdi></a> <span class="comment">(<bdi>upright bass virtuoso, composer, multi-instrumentalist</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/fd85cfd1-597b-49c6-962e-ea8350b0466d" title="Afro Kolektyw"><bdi>Afro Kolektyw</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/7713db60-6c64-4e4b-96b9-539c945b9cf0" title="After the Ibis"><bdi>After the Ibis</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/cf816800-4e0e-4d80-9cca-50a725e93787" title="Jamal, Ahmad"><bdi>Ahmad Jamal</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/cb67438a-7f50-4f2b-a6f1-2bb2729fd538" title="Air (French band)"><bdi>Air</bdi></a> <span class="comment">(<bdi>French band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/6d7d1aea-ac7e-40f3-af72-3c8ed2376107" title="Åkervinda"><bdi>Åkervinda</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/996b444f-2f1c-4f41-bb85-c3b9a709c9bf" title="Cohn, Al"><bdi>Al Cohn</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/086dd6b2-0d17-4421-885b-14e4f1816390" title="Foster, Al"><bdi>Al Foster</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/d14ab1ae-0400-4345-9f5b-6083110a5c7a" title="Hirt, Al"><bdi>Al Hirt</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/8ce4615c-2788-4d3b-9466-524e1cb5738f" title="Broadbent, Alan"><bdi>Alan Broadbent</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/4ecf6297-c99e-489a-9df2-45f1ea49385e" title="Alan Steward"><bdi>Alan Steward</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/c50b6526-30cc-4782-850f-71b295773e1e" title="Alarum"><bdi>Alarum</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/7ee9e938-53b7-410d-9838-fe07969d3c62" title="Nicholas, Albert"><bdi>Albert Nicholas</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/aaf580a2-acfb-42a6-b9f7-0c810ba815d7" title="Alea (chamber ensemble Slovakia)"><bdi>Alea</bdi></a> <span class="comment">(<bdi>chamber ensemble Slovakia</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/2440aa7d-21ba-4f65-82d8-1320698a662a" title="Saks, Aleksei"><bdi>Aleksei Saks</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/c332fcf2-cc5c-424e-a5ea-317b31f6c035" title="Lion, Alfred"><bdi>Alfred Lion</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/fef1f576-aea8-4e31-a37e-029561beb276" title="Losik Heyer, Ali (singer, songwriter, pianist, ukelele player)"><bdi>Ali Losik Heyer</bdi></a> <span class="comment">(<bdi>singer, songwriter, pianist, ukelele player</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/a6396e33-9298-493e-9409-f0e1366b326b" title="Holdsworth, Allan"><bdi>Allan Holdsworth</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/a1ac7d73-63db-4f92-a291-2dacd18c76f8" title="allbut6ix"><bdi>allbut6ix</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/ec21cced-2d22-4883-9ee3-f642e6e52f58" title="Toussaint, Allen"><bdi>Allen Toussaint</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/cc3ce10b-616f-47fa-b532-c7422a8459f2" title="Vizzutti, Allen"><bdi>Allen Vizzutti</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/989a13f6-b58c-4559-b09e-76ae0adb94ed" title="Crowe, Allison"><bdi>Allison Crowe</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/2f2608ed-ff2b-400e-b614-8c648bfaae7b" title="Lear, Amanda"><bdi>Amanda Lear</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/f0b3cc8a-a50a-4a48-9c35-d60cc0aedc4e" title="Ambrose (Ambrose Splescia)"><bdi>Ambrose</bdi></a> <span class="comment">(<bdi>Ambrose Splescia</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/b9d7f4dd-0811-4cb7-a62d-1c3da8262467" title="McConnell, Amy"><bdi>Amy McConnell</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/131fe16f-73fd-45cb-9502-c18f41d51e7b" title="Andor's Jazz Band"><bdi>Andor's Jazz Band</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/776e2c73-b75a-4806-aaa9-86f797dbd042" title="Borlo, Andra"><bdi>Andra Borlo</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/7d76ab7e-9714-4a63-85f5-3d2452239dff" title="Ward, Andre"><bdi>Andre Ward</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/165bb472-7ca0-4018-b686-42a0ce8c054d" title="Panayi, Andreas"><bdi>Andreas Panayi</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/ede80a9f-f114-4041-b0d9-2584a0b30ec9" title="Hill, Andrew (Jazz pianist)"><bdi>Andrew Hill</bdi></a> <span class="comment">(<bdi>Jazz pianist</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/f7533313-24a9-490a-a648-700167d42ae6" title="Triana, Andreya"><bdi>Andreya Triana</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/98b05af0-5f89-4f6c-a727-b27ddc8b4a83" title="Megaoctet, Andy Emler"><bdi>Andy Emler MegaOctet</bdi></a>
+                </li>            </ul>
+<nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/jazz/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/jazz/artist?page=12">12</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/jazz/artist?page=2">Next</a></li>
+</ul>
+</nav>
+    </div>
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>

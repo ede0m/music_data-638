@@ -1,0 +1,656 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Architecture in Helsinki - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2000 in Melbourne, Area: Australia"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","album":[{"@id":"https://musicbrainz.org/release-group/10dd830f-fd4e-38a0-9665-432e0ccca3ef","byArtist":{"name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","@type":"MusicGroup"},"name":"Fingers Crossed","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Architecture in Helsinki","@type":"MusicAlbum"},{"name":"In Case We Die","byArtist":{"name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/b390d6ba-d766-3f89-9624-4ba9b8a63a46","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/4513f038-76be-3aeb-a99d-ffd98c1369a8","name":"Places Like This","byArtist":{"@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","name":"Architecture in Helsinki","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki","@id":"https://musicbrainz.org/release-group/f71f4a42-18ae-495c-881c-11556cf957e6","name":"Moment Bends","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","name":"Architecture in Helsinki"}},{"byArtist":{"name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","@type":"MusicGroup"},"name":"Now \u002b 4EVA","@id":"https://musicbrainz.org/release-group/82e1f93d-f689-4ffc-9b57-65699f1e3e61","creditedTo":"Architecture in Helsinki","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/97844f6b-e2fd-3f5c-a897-c0a9860b9ffa","name":"We Died, They Remixed","byArtist":{"@type":"MusicGroup","name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Architecture in Helsinki","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8114c17c-9096-3b7d-bd7e-b8ab135d64ad","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","name":"Architecture in Helsinki"},"name":"Do the Whirlwind"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Architecture in Helsinki","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/66dbdb02-40a3-33fd-8381-68d79a872ae4","byArtist":{"name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","@type":"MusicGroup"},"name":"Wishbone"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki","@id":"https://musicbrainz.org/release-group/01dff84f-0b4a-3ecd-9676-cf706ae703db","name":"Maybe You Can Owe Me / It'5!","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","name":"Architecture in Helsinki"}},{"@id":"https://musicbrainz.org/release-group/ba5f22ef-757d-3c7e-b756-40ba8058f5cb","name":"Heart It Races","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","name":"Architecture in Helsinki"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki"},{"creditedTo":"Architecture in Helsinki","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","@type":"MusicGroup"},"name":"Hold Music","@id":"https://musicbrainz.org/release-group/c79aec93-f3b9-3e21-8598-37601e79c8cd"},{"byArtist":{"@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","name":"Architecture in Helsinki","@type":"MusicGroup"},"name":"That Beep","@id":"https://musicbrainz.org/release-group/ff81e133-5945-30ba-bdd5-3032c39925aa","creditedTo":"Architecture in Helsinki","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/e24b4dca-542c-3b56-b07a-09d7a89c1d01","name":"Like a Call","byArtist":{"@type":"MusicGroup","name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki"},{"name":"Kindling","byArtist":{"@type":"MusicGroup","name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53"},"@id":"https://musicbrainz.org/release-group/93581850-59bd-3201-ae8c-c2d074ee1cda","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"byArtist":{"@type":"MusicGroup","name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53"},"name":"Keepsake","@id":"https://musicbrainz.org/release-group/27fe3092-52d7-3334-8007-b4ef89ab516a","creditedTo":"Architecture in Helsinki","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/d537da7c-27b4-38f4-842a-153a3c870f3b","byArtist":{"name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","@type":"MusicGroup"},"name":"Like It or Not","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Architecture in Helsinki","@type":"MusicAlbum"},{"name":"That Beep","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53","name":"Architecture in Helsinki"},"@id":"https://musicbrainz.org/release-group/909eb9ea-e8e9-3446-9f1c-14b5ab891173","@type":"MusicAlbum","creditedTo":"Architecture in Helsinki","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"@type":"MusicAlbum","creditedTo":"Architecture in Helsinki","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Daytrotter Session","byArtist":{"@type":"MusicGroup","name":"Architecture in Helsinki","@id":"https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53"},"@id":"https://musicbrainz.org/release-group/8ac90a72-2877-3961-9d44-e5ab17c3f6b0"}],"name":"Architecture in Helsinki","@context":"http://schema.org","@type":"MusicGroup","sameAs":["http://en.wikipedia.org/wiki/Architecture_in_Helsinki","http://isni-url.oclc.nl/isni/0000000121615109","http://www.allmusic.com/artist/mn0000598877","http://www.architectureinhelsinki.com/","http://www.bbc.co.uk/music/artists/b91f0973-002e-4237-a39f-c7e02e786e53","https://musicbrainz.org/artist/6247b769-bb8a-4b48-b917-7068d04d10d7","https://rateyourmusic.com/artist/architecture_in_helsinki","https://www.discogs.com/artist/177909","https://www.wikidata.org/wiki/Q61107"],"groupOrigin":{"@type":"City","@id":"https://musicbrainz.org/area/b4e9352c-8edf-4911-8fa3-e852afa30501","containedIn":{"@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/09936ede-4dcc-4794-a1e7-83d3af37bf4e","name":"Victoria","containedIn":{"@type":"Country","name":"Australia","@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e"}},"name":"Melbourne"},"member":[{"roleName":[],"endDate":"2008-01-01","member":{"@type":["Person","MusicGroup"],"name":"James Cecil","@id":"https://musicbrainz.org/artist/2eab2a3f-66ec-43d1-a4cd-4cc862d2a049"},"@type":"OrganizationRole"},{"member":{"name":"Jamie Mildren","@id":"https://musicbrainz.org/artist/644a7ce7-b698-40bd-908f-656fbc7a19ca","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Gus Franklin","@id":"https://musicbrainz.org/artist/7f34af49-bc71-4033-bb3f-a5bd43935ef1"},"@type":"OrganizationRole"},{"member":{"name":"Isobel Knowles","@id":"https://musicbrainz.org/artist/84fe7a3c-3f33-4039-b46c-82df83e41ce5","@type":["Person","MusicGroup"]},"endDate":"2006","@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/cc9737e2-b2cf-4cc4-8298-bc76a6563541","name":"Kellie Sutherland"},"roleName":[]},{"endDate":"2006","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Tara Shackell","@id":"https://musicbrainz.org/artist/d45ebc01-625d-4585-afc4-91d6435d61b0"},"roleName":[]},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/df8876f0-4478-49a9-91be-64b0bef5e725","name":"Sam Perry"},"roleName":[]},{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/e215f345-3c1c-4819-9ea4-ce4fe4c71add","name":"Cameron Bird","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"}],"location":{"name":"Australia","@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e","@type":"Country"},"foundingDate":"2000"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fb91f0973-002e-4237-a39f-c7e02e786e53">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fb91f0973-002e-4237-a39f-c7e02e786e53">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53" title="Architecture in Helsinki"><bdi>Architecture in Helsinki</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53" title="Architecture in Helsinki – Architecture in Helsinki"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/releases" title="Architecture in Helsinki"><bdi>Releases</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/recordings" title="Architecture in Helsinki"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/works" title="Architecture in Helsinki"><bdi>Works</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/events" title="Architecture in Helsinki"><bdi>Events</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/relationships" title="Architecture in Helsinki"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/aliases" title="Architecture in Helsinki"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/tags" title="Architecture in Helsinki"><bdi>Tags</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/details" title="Architecture in Helsinki"><bdi>Details</bdi></a></li>            <li><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/edit" title="Architecture in Helsinki"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=93327" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/10dd830f-fd4e-38a0-9665-432e0ccca3ef"><bdi>Fingers Crossed</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/b390d6ba-d766-3f89-9624-4ba9b8a63a46"><bdi>In Case We Die</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/4513f038-76be-3aeb-a99d-ffd98c1369a8"><bdi>Places Like This</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/f71f4a42-18ae-495c-881c-11556cf957e6"><bdi>Moment Bends</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/82e1f93d-f689-4ffc-9b57-65699f1e3e61"><bdi>Now + 4EVA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/97844f6b-e2fd-3f5c-a897-c0a9860b9ffa"><bdi>We Died, They Remixed</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/8114c17c-9096-3b7d-bd7e-b8ab135d64ad"><bdi>Do the Whirlwind</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/66dbdb02-40a3-33fd-8381-68d79a872ae4"><bdi>Wishbone</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/01dff84f-0b4a-3ecd-9676-cf706ae703db"><bdi>Maybe You Can Owe Me / It'5!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/ba5f22ef-757d-3c7e-b756-40ba8058f5cb"><bdi>Heart It Races</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/c79aec93-f3b9-3e21-8598-37601e79c8cd"><bdi>Hold Music</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/ff81e133-5945-30ba-bdd5-3032c39925aa"><bdi>That Beep</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e24b4dca-542c-3b56-b07a-09d7a89c1d01"><bdi>Like a Call</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/93581850-59bd-3201-ae8c-c2d074ee1cda"><bdi>Kindling</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/27fe3092-52d7-3334-8007-b4ef89ab516a"><bdi>Keepsake</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/d537da7c-27b4-38f4-842a-153a3c870f3b"><bdi>Like It or Not</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/909eb9ea-e8e9-3446-9f1c-14b5ab891173"><bdi>That Beep</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/8ac90a72-2877-3961-9d44-e5ab17c3f6b0"><bdi>Daytrotter Session</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/b91f0973-002e-4237-a39f-c7e02e786e53/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2000 (16 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/b4e9352c-8edf-4911-8fa3-e852afa30501"><bdi>Melbourne</bdi></a>, <a href="/area/09936ede-4dcc-4794-a1e7-83d3af37bf4e"><bdi>Victoria</bdi></a>, <span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000121615109">0000 0001 2161 5109    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/indie"><bdi>indie</bdi></a>, <a href="/tag/alternative"><bdi>alternative</bdi></a>, <a href="/tag/aussie"><bdi>aussie</bdi></a>, <a href="/tag/australian"><bdi>australian</bdi></a>, <a href="/tag/indie%20pop"><bdi>indie pop</bdi></a>, <a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/tags" title="Architecture in Helsinki"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.architectureinhelsinki.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000598877">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/b91f0973-002e-4237-a39f-c7e02e786e53">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/177909">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/aihmusic">aihmusic</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/architecture_in_helsinki">Rateyourmusic</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/architectureinhelsinki">PureVolume</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/aihmusic">@aihmusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/architectureinhelsinki">architectureinhelsinki</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q61107">Q61107</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Architecture_in_Helsinki">en: Architecture in Helsinki</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53/relationships" title="Architecture in Helsinki"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fb91f0973-002e-4237-a39f-c7e02e786e53">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-08-20 10:02 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

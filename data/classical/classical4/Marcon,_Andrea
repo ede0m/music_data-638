@@ -1,0 +1,594 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Andrea Marcon - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1963, Area: Italy"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","name":"Andrea Marcon","birthDate":"1963","album":[{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Domenico Scarlatti; Andrea Marcon","name":"Sonate per Organo","byArtist":[{"@type":["Person","MusicGroup"],"name":"Domenico Scarlatti","@id":"https://musicbrainz.org/artist/95c7a1d1-5cfd-41d5-99f9-0611262de8e1"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","name":"Andrea Marcon","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7219d949-0614-4668-a21e-5421fdec0508"},{"@id":"https://musicbrainz.org/release-group/508e39b8-2832-3bab-99b3-20a5791798c2","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","name":"Antonio Vivaldi","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0","name":"Giuliano Carmignola","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Venice Baroque Orchestra","@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","@type":["Person","MusicGroup"],"name":"Andrea Marcon"}],"name":"The Four Seasons / Three Violin Concertos","creditedTo":"Antonio Vivaldi; Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon"},{"@id":"https://musicbrainz.org/release-group/abcec850-7470-3395-8b2c-8a1082606ba8","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Antonio Vivaldi; Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","name":"Late Violin Concertos","byArtist":[{"name":"Antonio Vivaldi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@type":["Person","MusicGroup"],"name":"Giuliano Carmignola","@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0"},{"@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9","name":"Venice Baroque Orchestra","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Andrea Marcon","@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/68173f23-780c-3c7d-9003-af78a73afa33","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","name":"Johann Sebastian Bach","@type":["Person","MusicGroup"]},{"name":"Giuliano Carmignola","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","name":"Andrea Marcon","@type":["Person","MusicGroup"]}],"creditedTo":"Johann Sebastian Bach; Giuliano Carmignola, Andrea Marcon","name":"Sonatas for Violin and Harpsichord","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Pietro Antonio Locatelli","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8dc575fe-7a0d-435b-8fb7-9c76ea8eb109"},{"name":"Giuliano Carmignola","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0"},{"@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9","name":"Venice Baroque Orchestra","@type":"MusicGroup"},{"name":"Andrea Marcon","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}],"creditedTo":"Pietro Antonio Locatelli; Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","name":"L’arte del violino: Concertos no. 1,2,10,11","@id":"https://musicbrainz.org/release-group/92b65aae-19c6-4e9b-861f-649ed42cb221","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":[{"name":"Antonio Vivaldi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@type":["Person","MusicGroup"],"name":"Giuliano Carmignola","@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0"},{"@type":"MusicGroup","name":"Venice Baroque Orchestra","@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","@type":["Person","MusicGroup"],"name":"Andrea Marcon"}],"name":"Late Vivaldi Concertos","creditedTo":"Antonio Vivaldi; Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/7d0e5d0d-d8a9-3512-89ea-a814a0a1601b","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f8665b61-7b7f-3db1-a31b-269e7bb343a0","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Antonio Vivaldi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@type":["Person","MusicGroup"],"name":"Pietro Antonio Locatelli","@id":"https://musicbrainz.org/artist/8dc575fe-7a0d-435b-8fb7-9c76ea8eb109"},{"@id":"https://musicbrainz.org/artist/90c8118e-b5cc-4df8-80d3-8079879c9cef","name":"Giuseppe Tartini","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0","@type":["Person","MusicGroup"],"name":"Giuliano Carmignola"},{"@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9","@type":"MusicGroup","name":"Venice Baroque Orchestra"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","name":"Andrea Marcon","@type":["Person","MusicGroup"]}],"creditedTo":"Vivaldi, Locatelli, Tartini; Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","name":"Concerto veneziano"},{"byArtist":[{"name":"Antonio Vivaldi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@type":["Person","MusicGroup"],"name":"Giuliano Carmignola","@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0"},{"@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9","name":"Venice Baroque Orchestra","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Andrea Marcon","@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}],"creditedTo":"Antonio Vivaldi; Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","name":"Concertos for Violin, Strings and Continuo","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fe6bb944-d80a-3da8-9ba6-d73b837dd9f4","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","name":"Antonio Vivaldi","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Venice Baroque Orchestra","@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","@type":["Person","MusicGroup"],"name":"Andrea Marcon"}],"creditedTo":"Antonio Vivaldi; Venice Baroque Orchestra, Andrea Marcon","name":"Concertos and Sinfonias for Strings","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/4fd7ed36-f403-3ec5-8bf3-23f49a5b0292","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ebfe7cc3-7004-429f-b55f-f78a6cec7d4e","byArtist":[{"name":"Antonio Vivaldi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"name":"Simone Kermes","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1e48e74f-7162-4232-80e0-fe8998fd9dfc"},{"name":"Venice Baroque Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","name":"Andrea Marcon","@type":["Person","MusicGroup"]}],"creditedTo":"Vivaldi; Simone Kermes, Venice Baroque Orchestra, Andrea Marcon","name":"Amor sacro: Vivaldi mottetti","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Ah! mio cor","creditedTo":"George Frideric Handel; Magdalena Kožená, Venice Baroque Orchestra, Andrea Marcon","byArtist":[{"@type":["Person","MusicGroup"],"name":"George Frideric Handel","@id":"https://musicbrainz.org/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc"},{"@id":"https://musicbrainz.org/artist/a08918ab-bfe3-4468-b6d8-429b36e79a53","@type":["Person","MusicGroup"],"name":"Magdalena Kožená"},{"@type":"MusicGroup","name":"Venice Baroque Orchestra","@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9"},{"@type":["Person","MusicGroup"],"name":"Andrea Marcon","@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e389019d-8ba5-4e7d-bf2d-45eeb32c7488","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/c8b18f88-84dd-4e50-bcb8-e4a5c61880c9","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Antonio Vivaldi","@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@type":["Person","MusicGroup"],"name":"Виктория Муллова","@id":"https://musicbrainz.org/artist/02bd2dff-f337-4788-9e75-0eb6beb932ac"},{"@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0","@type":["Person","MusicGroup"],"name":"Giuliano Carmignola"},{"@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9","@type":"MusicGroup","name":"Venice Baroque Orchestra"},{"@type":["Person","MusicGroup"],"name":"Andrea Marcon","@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}],"creditedTo":"Vivaldi; Viktoria Mullova, Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","name":"Concertos for Two Violins","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b0ea2a4f-9114-42f7-a5d4-4fc8cb5b463c","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Antonio Vivaldi; Simone Kermes, Venice Baroque Orchestra, Andrea Marcon","name":"Amor profano: Vivaldi Arias","byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","name":"Antonio Vivaldi","@type":["Person","MusicGroup"]},{"name":"Simone Kermes","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1e48e74f-7162-4232-80e0-fe8998fd9dfc"},{"name":"Venice Baroque Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9"},{"name":"Andrea Marcon","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}]},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/de44352a-1209-4dc1-bd01-cadcca3849ff","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Antonio Vivaldi","@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@type":["Person","MusicGroup"],"name":"Magdalena Kožená","@id":"https://musicbrainz.org/artist/a08918ab-bfe3-4468-b6d8-429b36e79a53"},{"@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9","@type":"MusicGroup","name":"Venice Baroque Orchestra"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","@type":["Person","MusicGroup"],"name":"Andrea Marcon"}],"creditedTo":"Vivaldi; Magdalena Kožená, Venice Baroque Orchestra, Andrea Marcon","name":"Vivaldi"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0","name":"Giuliano Carmignola","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Venice Baroque Orchestra","@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9"},{"@type":["Person","MusicGroup"],"name":"Andrea Marcon","@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}],"name":"Concerto Italiano","creditedTo":"Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8a81c151-275d-40cd-95bf-c56934df0976"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"La concordia de' pianeti","creditedTo":"Antonio Caldara; La Cetra, Andrea Marcon","byArtist":[{"@id":"https://musicbrainz.org/artist/fb698413-0e4f-4e78-9ac2-f085bc4a2b2d","@type":["Person","MusicGroup"],"name":"Antonio Caldara"},{"@type":"MusicGroup","name":"La Cetra Barockorchester Basel","@id":"https://musicbrainz.org/artist/0f8a79ba-8a22-4704-8f91-540a0dfe465c"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","name":"Andrea Marcon","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/d7479736-ef20-4a65-8335-389c9843ead1","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9a33a7ad-f725-473a-b50a-1d1796183af1","name":"Claudio Monteverdi","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/a08918ab-bfe3-4468-b6d8-429b36e79a53","@type":["Person","MusicGroup"],"name":"Magdalena Kožená"},{"name":"La Cetra Barockorchester Basel","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f8a79ba-8a22-4704-8f91-540a0dfe465c"},{"name":"Andrea Marcon","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f"}],"creditedTo":"Claudio Monteverdi; Magdalena Kožená, La Cetra, Andrea Marcon","name":"Monteverdi","@id":"https://musicbrainz.org/release-group/e3f77978-3b15-4ab8-a28c-a979a18595f8","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/e02589ac-ecee-3b9a-9ba5-7103423e50bb","byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","name":"Antonio Vivaldi","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Pietro Antonio Locatelli","@id":"https://musicbrainz.org/artist/8dc575fe-7a0d-435b-8fb7-9c76ea8eb109"},{"@type":["Person","MusicGroup"],"name":"Giuliano Carmignola","@id":"https://musicbrainz.org/artist/87d34772-7aaa-4476-852c-93e492793cf0"},{"@id":"https://musicbrainz.org/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9","@type":"MusicGroup","name":"Venice Baroque Orchestra"},{"@id":"https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f","@type":["Person","MusicGroup"],"name":"Andrea Marcon"}],"creditedTo":"Vivaldi, Locatelli; Giuliano Carmignola, Venice Baroque Orchestra, Andrea Marcon","name":"Vivaldi: The Four Seasons / Locatelli: Concertos in F major and D major","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"}],"@context":"http://schema.org","sameAs":["http://viaf.org/viaf/46962486","http://www.marcon.tv/Andrea-Marcon.3.0.html","https://en.wikipedia.org/wiki/Andrea_Marcon","https://www.discogs.com/artist/1823637","https://www.wikidata.org/wiki/Q494368"],"location":{"@id":"https://musicbrainz.org/area/c6500277-9a3d-349b-bf30-41afdbf42add","name":"Italy","@type":"Country"},"@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F273b9d8c-816f-4cef-9e77-887361d2051f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F273b9d8c-816f-4cef-9e77-887361d2051f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Andrea Marcon – Marcon, Andrea"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/releases" title="Marcon, Andrea"><bdi>Releases</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/recordings" title="Marcon, Andrea"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/works" title="Marcon, Andrea"><bdi>Works</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/events" title="Marcon, Andrea"><bdi>Events</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/relationships" title="Marcon, Andrea"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/aliases" title="Marcon, Andrea"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/tags" title="Marcon, Andrea"><bdi>Tags</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/details" title="Marcon, Andrea"><bdi>Details</bdi></a></li>            <li><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/edit" title="Marcon, Andrea"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Andrea Marcon</b> (born 1963 in Treviso, Italy) is an Italian conductor, organist, harpsichordist, and scholar. In 1997, he founded the Venice Baroque Orchestra.</p></div>
+<a href="https://en.wikipedia.org/wiki/Andrea_Marcon">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=415410" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/7219d949-0614-4668-a21e-5421fdec0508"><bdi>Sonate per Organo</bdi></a></td>
+        
+        <td><a href="/artist/95c7a1d1-5cfd-41d5-99f9-0611262de8e1" title="Scarlatti, Domenico"><bdi>Domenico Scarlatti</bdi></a>; <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/508e39b8-2832-3bab-99b3-20a5791798c2"><bdi>The Four Seasons / Three Violin Concertos</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/abcec850-7470-3395-8b2c-8a1082606ba8"><bdi>Late Violin Concertos</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/68173f23-780c-3c7d-9003-af78a73afa33"><bdi>Sonatas for Violin and Harpsichord</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/92b65aae-19c6-4e9b-861f-649ed42cb221"><bdi>L’arte del violino: Concertos no. 1,2,10,11</bdi></a></td>
+        
+        <td><a href="/artist/8dc575fe-7a0d-435b-8fb7-9c76ea8eb109" title="Locatelli, Pietro Antonio"><bdi>Pietro Antonio Locatelli</bdi></a>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7d0e5d0d-d8a9-3512-89ea-a814a0a1601b"><bdi>Late Vivaldi Concertos</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f8665b61-7b7f-3db1-a31b-269e7bb343a0"><bdi>Concerto veneziano</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>, <span class="name-variation"><a href="/artist/8dc575fe-7a0d-435b-8fb7-9c76ea8eb109" title="Pietro Antonio Locatelli – Locatelli, Pietro Antonio"><bdi>Locatelli</bdi></a></span>, <span class="name-variation"><a href="/artist/90c8118e-b5cc-4df8-80d3-8079879c9cef" title="Giuseppe Tartini – Tartini, Giuseppe"><bdi>Tartini</bdi></a></span>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/fe6bb944-d80a-3da8-9ba6-d73b837dd9f4"><bdi>Concertos for Violin, Strings and Continuo</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/4fd7ed36-f403-3ec5-8bf3-23f49a5b0292"><bdi>Concertos and Sinfonias for Strings</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/ebfe7cc3-7004-429f-b55f-f78a6cec7d4e"><bdi>Amor sacro: Vivaldi mottetti</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>; <a href="/artist/1e48e74f-7162-4232-80e0-fe8998fd9dfc" title="Kermes, Simone"><bdi>Simone Kermes</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/e389019d-8ba5-4e7d-bf2d-45eeb32c7488"><bdi>Ah! mio cor</bdi></a></td>
+        
+        <td><a href="/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc" title="Handel, George Frideric (German‐British baroque composer)"><bdi>George Frideric Handel</bdi></a>; <a href="/artist/a08918ab-bfe3-4468-b6d8-429b36e79a53" title="Kožená, Magdalena"><bdi>Magdalena Kožená</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c8b18f88-84dd-4e50-bcb8-e4a5c61880c9"><bdi>Concertos for Two Violins</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>; <span class="name-variation"><a href="/artist/02bd2dff-f337-4788-9e75-0eb6beb932ac" title="Виктория Муллова – Mullova, Viktoria"><bdi>Viktoria Mullova</bdi></a></span>, <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/b0ea2a4f-9114-42f7-a5d4-4fc8cb5b463c"><bdi>Amor profano: Vivaldi Arias</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/1e48e74f-7162-4232-80e0-fe8998fd9dfc" title="Kermes, Simone"><bdi>Simone Kermes</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/de44352a-1209-4dc1-bd01-cadcca3849ff"><bdi>Vivaldi</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>; <a href="/artist/a08918ab-bfe3-4468-b6d8-429b36e79a53" title="Kožená, Magdalena"><bdi>Magdalena Kožená</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/8a81c151-275d-40cd-95bf-c56934df0976"><bdi>Concerto Italiano</bdi></a></td>
+        
+        <td><a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/d7479736-ef20-4a65-8335-389c9843ead1"><bdi>La concordia de' pianeti</bdi></a></td>
+        
+        <td><a href="/artist/fb698413-0e4f-4e78-9ac2-f085bc4a2b2d" title="Caldara, Antonio"><bdi>Antonio Caldara</bdi></a>; <span class="name-variation"><a href="/artist/0f8a79ba-8a22-4704-8f91-540a0dfe465c" title="La Cetra Barockorchester Basel – La Cetra Barockorchester Basel"><bdi>La Cetra</bdi></a></span>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/e3f77978-3b15-4ab8-a28c-a979a18595f8"><bdi>Monteverdi</bdi></a></td>
+        
+        <td><a href="/artist/9a33a7ad-f725-473a-b50a-1d1796183af1" title="Monteverdi, Claudio"><bdi>Claudio Monteverdi</bdi></a>; <a href="/artist/a08918ab-bfe3-4468-b6d8-429b36e79a53" title="Kožená, Magdalena"><bdi>Magdalena Kožená</bdi></a>, <span class="name-variation"><a href="/artist/0f8a79ba-8a22-4704-8f91-540a0dfe465c" title="La Cetra Barockorchester Basel – La Cetra Barockorchester Basel"><bdi>La Cetra</bdi></a></span>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e02589ac-ecee-3b9a-9ba5-7103423e50bb"><bdi>Vivaldi: The Four Seasons / Locatelli: Concertos in F major and D major</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>, <span class="name-variation"><a href="/artist/8dc575fe-7a0d-435b-8fb7-9c76ea8eb109" title="Pietro Antonio Locatelli – Locatelli, Pietro Antonio"><bdi>Locatelli</bdi></a></span>; <a href="/artist/87d34772-7aaa-4476-852c-93e492793cf0" title="Carmignola, Giuliano"><bdi>Giuliano Carmignola</bdi></a>, <a href="/artist/457ef80d-96a3-4b22-903e-70e2ef45a1f9" title="Venice Baroque Orchestra"><bdi>Venice Baroque Orchestra</bdi></a>, <a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f" title="Marcon, Andrea"><bdi>Andrea Marcon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/273b9d8c-816f-4cef-9e77-887361d2051f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Andrea_Marcon%2C_in_Treviso%2C_Italien_geborener_Dirigent%2C_Organist%2C_Cembalist%2C_Musiklehrer_und_Professor_der_Schola_Cantorum_Basiliensis_an_der_Musik_Akademie_Basel.jpg/250px-thumbnail.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Andrea Marcon, in Treviso, Italien geborener Dirigent, Organist, Cembalist, Musiklehrer und Professor der Schola Cantorum Basiliensis an der Musik Akademie Basel.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Marcon, Andrea</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1963 (53 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-IT"><a href="/area/c6500277-9a3d-349b-bf30-41afdbf42add"><bdi>Italy</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/conductor"><bdi>conductor</bdi></a>, <a href="/tag/italian%20conductor"><bdi>italian conductor</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.marcon.tv/Andrea-Marcon.3.0.html">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/1823637">Discogs</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/3VmMw22C6Yt9rM2T8tcZKU">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/46962486">VIAF: 46962486</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q494368">Q494368</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Andrea_Marcon">en: Andrea Marcon</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/273b9d8c-816f-4cef-9e77-887361d2051f/relationships" title="Marcon, Andrea"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F273b9d8c-816f-4cef-9e77-887361d2051f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2012-02-02 06:14 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

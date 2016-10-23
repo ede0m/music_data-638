@@ -1,0 +1,987 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gorillaz - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1999 in Essex, Area: United Kingdom"/><script type="application/ld+json">{"member":[{"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/50095d57-e16e-40f1-b774-6d6b839f18d4","name":"Dan Nakamura","@type":["Person","MusicGroup"]},"roleName":[]},{"member":{"@id":"https://musicbrainz.org/artist/583f2f7b-a29d-4378-9e7c-454d114be30d","@type":"MusicGroup","name":"2D"},"roleName":["keyboard","lead vocals","melodica"],"@type":"OrganizationRole","startDate":"1998"},{"startDate":"2010","@type":"OrganizationRole","endDate":"2011","member":{"name":"Cyborg Noodle","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/679c4c44-588c-4f3e-b393-c52e6cc1c391"},"roleName":"guitars"},{"@type":"OrganizationRole","startDate":"1998","roleName":["bass guitar","drum machine"],"member":{"@id":"https://musicbrainz.org/artist/6ff7e6e2-f4bb-406a-aa4b-7afa615a389f","@type":"MusicGroup","name":"Murdoc Niccals"}},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Teren Delvon Jones","@id":"https://musicbrainz.org/artist/769eea9b-6288-451a-b627-533cc273ba2a"},"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Damon Albarn","@id":"https://musicbrainz.org/artist/7d7a5fdd-0d04-4c36-8bee-906feeae239c"},"roleName":[],"startDate":"1998","@type":"OrganizationRole"},{"@type":"OrganizationRole","startDate":"1998","member":{"name":"Noodle","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b88e3a88-3e87-4e83-8a70-6300b9fe15f1"},"roleName":["background vocals","guitars","keyboard"]},{"startDate":"1998","@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/ddc1ff36-41f7-4681-95be-3fe34c8dd53c","@type":"MusicGroup","name":"Russel Hobbs"},"roleName":["drums","percussion"]},{"member":{"@id":"https://musicbrainz.org/artist/e5b438b9-a9f1-4eb8-af51-4540c769821d","name":"Jamie Hewlett","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole","startDate":"1998"},{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/eb9075cd-0440-414a-b309-5da6ecc50911","@type":["Person","MusicGroup"],"name":"Brian Burton"},"startDate":"2004","@type":"OrganizationRole"}],"album":[{"name":"Gorillaz","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gorillaz","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/b0405d2a-5720-340a-bb56-4e135d031cc2"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"},"creditedTo":"Gorillaz","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Demon Days","@id":"https://musicbrainz.org/release-group/f959a46a-a136-3134-9412-6572b23fad95"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"},"@type":"MusicAlbum","creditedTo":"Gorillaz","name":"Plastic Beach","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5a676824-18cd-4f7f-89f0-df21623e2042"},{"@id":"https://musicbrainz.org/release-group/d7dcf004-6ff8-491b-bd17-01eef10ebb72","creditedTo":"Gorillaz","@type":"MusicAlbum","name":"The Fall","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"}},{"name":"G Sides","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Gorillaz","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"@id":"https://musicbrainz.org/release-group/69d9be54-760f-3bdd-be18-45212db84bad"},{"@id":"https://musicbrainz.org/release-group/6cb6a296-951d-33da-8e14-9350cea33b71","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"creditedTo":"Gorillaz","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"D-Sides"},{"@id":"https://musicbrainz.org/release-group/67a84eed-14f2-4874-88c7-d046cc52b998","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"The Singles Collection 2001–2011","@type":"MusicAlbum","creditedTo":"Gorillaz"},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"Greatest Hits","@type":"MusicAlbum","creditedTo":"Gorillaz","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/01316e72-f5ac-3106-9a82-63b35417bb91"},{"byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Demon Days Live at the Manchester Opera House","creditedTo":"Gorillaz","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/a75149ba-c345-3500-9f2f-ace851e5ba14"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Gorillaz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"albumProductionType":"http://schema.org/LiveAlbum","name":"iTunes Session","creditedTo":"Gorillaz","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/36dd9740-4afb-4c40-8143-7247d18e20d5"},{"name":"Laika Come Home","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","creditedTo":"Spacemonkeyz vs. Gorillaz","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":"MusicGroup","name":"Spacemonkeyz","@id":"https://musicbrainz.org/artist/8df68f6c-40c0-4c9a-9343-ed949cb5ffcd"},{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/a8039d5a-9819-3f26-a47c-10a0d6eff0b3"},{"@id":"https://musicbrainz.org/release-group/295d4e63-a57f-3bdc-9e41-0468134b523c","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"},"albumReleaseType":"http://schema.org/SingleRelease","name":"Clint Eastwood","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gorillaz","@type":"MusicAlbum"},{"creditedTo":"Gorillaz","@type":"MusicAlbum","name":"19/2000","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/11f1809e-9913-3093-be26-83198c2c90f6"},{"name":"Rock the House","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Gorillaz","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"@id":"https://musicbrainz.org/release-group/6559aa73-1f8c-39c9-a401-f291748751a6"},{"albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Gorillaz","name":"Tomorrow Comes Today","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/28b283a9-396a-35ae-b7e8-57ef7001555e"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Dirty Harry","@type":"MusicAlbum","creditedTo":"Gorillaz","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6c7bb311-b69d-3315-bb2f-6deffc6fc007"},{"@id":"https://musicbrainz.org/release-group/122990dd-643d-4e4e-bc13-a56318d6431b","albumProductionType":"http://schema.org/StudioAlbum","name":"Feel Good Inc","creditedTo":"Gorillaz","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"}},{"byArtist":{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Gorillaz","@type":"MusicAlbum","name":"DARE","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1d6864ce-ddc4-3206-bd82-d594e41d0b01"},{"albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Gorillaz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Kids With Guns / El Mañana","@type":"MusicAlbum","creditedTo":"Gorillaz","@id":"https://musicbrainz.org/release-group/a20ceff8-35c6-38b9-a475-e729b71aaa40"},{"@id":"https://musicbrainz.org/release-group/7a781048-d950-4fcc-a6c2-f38fa3420685","@type":"MusicAlbum","creditedTo":"Gorillaz","name":"White Flag","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"},"albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/9494bf98-73ec-4752-b70c-e12958b26d6a","name":"Doncamatic","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gorillaz feat. Daley","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/bb19c7c7-e6f2-471b-bb59-7261a480396c","@type":["Person","MusicGroup"],"name":"Daley"}]},{"@id":"https://musicbrainz.org/release-group/1dd34c83-f150-4cb9-9460-a1b29a8fde37","albumProductionType":"http://schema.org/StudioAlbum","name":"Revolving Doors / Amarillo","@type":"MusicAlbum","creditedTo":"Gorillaz","byArtist":{"name":"Gorillaz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Rhinestone Eyes","creditedTo":"Gorillaz","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"@id":"https://musicbrainz.org/release-group/1707f952-e9da-475b-b782-712de01908da"},{"albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","name":"Gorillaz","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"André 3000","@id":"https://musicbrainz.org/artist/f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b"},{"@id":"https://musicbrainz.org/artist/6b70c46c-5c83-4cc7-99c1-e76b68919c6a","name":"James Murphy","@type":["Person","MusicGroup"]}],"creditedTo":"Gorillaz feat. André 3000 \u0026 James Murphy","@type":"MusicAlbum","name":"DoYaThing","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d31daab8-3a47-48f1-8171-7a32ff840dcc"},{"albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Gorillaz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"name":"Whirlwind","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gorillaz","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/81b3d306-808a-4cd0-a6e7-5f1f1b5454c6"},{"creditedTo":"Spacemonkeyz vs. Gorillaz","@type":"MusicAlbum","name":"Lil' Dub Chefin'","albumProductionType":"http://schema.org/RemixAlbum","byArtist":[{"name":"Spacemonkeyz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/8df68f6c-40c0-4c9a-9343-ed949cb5ffcd"},{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"}],"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/627ea778-fed8-35e2-84c4-7257b39540f2"},{"@type":"MusicAlbum","creditedTo":"Gorillaz","albumProductionType":"http://schema.org/StudioAlbum","name":"Tomorrow Comes Today EP","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@type":"MusicGroup","name":"Gorillaz","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"@id":"https://musicbrainz.org/release-group/3753d953-89ea-3831-bcbf-0e426d4b7845"},{"@id":"https://musicbrainz.org/release-group/7395d546-a07d-48a6-9b39-b3131acc3edf","byArtist":{"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@type":"MusicGroup","name":"Gorillaz"},"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"On Melancholy Hill","creditedTo":"Gorillaz","@type":"MusicAlbum"},{"byArtist":{"name":"Gorillaz","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"},"albumReleaseType":"http://schema.org/BroadcastRelease","creditedTo":"Gorillaz","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"2010-11-20: BBC Radio 1 Live Lounge","@id":"https://musicbrainz.org/release-group/e7eded0d-0d6a-490d-955e-d92cb2beb28a"}],"sameAs":["http://gorillaz.com/","http://isni-url.oclc.nl/isni/0000000114814345","http://musicmoz.org/Bands_and_Artists/G/Gorillaz/","http://rateyourmusic.com/artist/gorillaz","http://viaf.org/viaf/133543207","http://www.allmusic.com/artist/mn0000664770","http://www.bbc.co.uk/music/artists/e21857d5-3256-4547-afb3-4b6ded592596","http://www.imdb.com/name/nm2064964/","http://www.last.fm/music/Gorillaz","http://www.musik-sammler.de/artist/3436","http://www.secondhandsongs.com/artist/44794","http://www.worldcat.org/wcidentities/lccn-no2002-20758","https://en.wikipedia.org/wiki/Gorillaz","https://www.discogs.com/artist/6378","https://www.wikidata.org/wiki/Q189991"],"@type":"MusicGroup","location":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"@id":"https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596","@context":"http://schema.org","groupOrigin":{"containedIn":{"name":"England","@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/9d5dd675-3cf4-4296-9e39-67865ebee758","containedIn":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"}},"@id":"https://musicbrainz.org/area/c58e25fa-9d99-4ff3-b4b8-a7e7b2cf452c","@type":"AdministrativeArea","name":"Essex"},"name":"Gorillaz","foundingDate":"1999"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fe21857d5-3256-4547-afb3-4b6ded592596">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fe21857d5-3256-4547-afb3-4b6ded592596">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz – Gorillaz"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/releases" title="Gorillaz"><bdi>Releases</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/recordings" title="Gorillaz"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/works" title="Gorillaz"><bdi>Works</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/events" title="Gorillaz"><bdi>Events</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/relationships" title="Gorillaz"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/aliases" title="Gorillaz"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/tags" title="Gorillaz"><bdi>Tags</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/details" title="Gorillaz"><bdi>Details</bdi></a></li>            <li><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/edit" title="Gorillaz"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>This is a <a href="//wiki.musicbrainz.org/Fictitious%20Artist">Fictitious Artist</a>.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2010-04-28 13:39 UTC.
+            
+        </div>
+    </div>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=22532" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/b0405d2a-5720-340a-bb56-4e135d031cc2"><bdi>Gorillaz</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:83%;">4.15</span>    </span>
+</span></td><td class="c">14</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f959a46a-a136-3134-9412-6572b23fad95"><bdi>Demon Days</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:84%;">4.2</span>    </span>
+</span></td><td class="c">17</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/5a676824-18cd-4f7f-89f0-df21623e2042"><bdi>Plastic Beach</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span></td><td class="c">12</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d7dcf004-6ff8-491b-bd17-01eef10ebb72"><bdi>The Fall</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:67%;">3.35</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/69d9be54-760f-3bdd-be18-45212db84bad"><bdi>G Sides</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/6cb6a296-951d-33da-8e14-9350cea33b71"><bdi>D-Sides</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:65%;">3.25</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/67a84eed-14f2-4874-88c7-d046cc52b998"><bdi>The Singles Collection 2001–2011</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/01316e72-f5ac-3106-9a82-63b35417bb91"><bdi>Greatest Hits</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/a75149ba-c345-3500-9f2f-ace851e5ba14"><bdi>Demon Days Live at the Manchester Opera House</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/36dd9740-4afb-4c40-8143-7247d18e20d5"><bdi>iTunes Session</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/a8039d5a-9819-3f26-a47c-10a0d6eff0b3"><bdi>Laika Come Home</bdi></a></td>
+        
+        <td><a href="/artist/8df68f6c-40c0-4c9a-9343-ed949cb5ffcd" title="Spacemonkeyz"><bdi>Spacemonkeyz</bdi></a> vs. <a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">17</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/295d4e63-a57f-3bdc-9e41-0468134b523c"><bdi>Clint Eastwood</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/11f1809e-9913-3093-be26-83198c2c90f6"><bdi>19/2000</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/6559aa73-1f8c-39c9-a401-f291748751a6"><bdi>Rock the House</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/28b283a9-396a-35ae-b7e8-57ef7001555e"><bdi>Tomorrow Comes Today</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/6c7bb311-b69d-3315-bb2f-6deffc6fc007"><bdi>Dirty Harry</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/122990dd-643d-4e4e-bc13-a56318d6431b"><bdi>Feel Good Inc</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/1d6864ce-ddc4-3206-bd82-d594e41d0b01"><bdi>DARE</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/a20ceff8-35c6-38b9-a475-e729b71aaa40"><bdi>Kids With Guns / El Mañana</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/7a781048-d950-4fcc-a6c2-f38fa3420685"><bdi>White Flag</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/9494bf98-73ec-4752-b70c-e12958b26d6a"><bdi>Doncamatic</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a> feat. <a href="/artist/bb19c7c7-e6f2-471b-bb59-7261a480396c" title="Daley (UK soul artist)"><bdi>Daley</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/1dd34c83-f150-4cb9-9460-a1b29a8fde37"><bdi>Revolving Doors / Amarillo</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/1707f952-e9da-475b-b782-712de01908da"><bdi>Rhinestone Eyes</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/d31daab8-3a47-48f1-8171-7a32ff840dcc"><bdi>DoYaThing</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a> feat. <a href="/artist/f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b" title="André 3000"><bdi>André 3000</bdi></a> &amp; <a href="/artist/6b70c46c-5c83-4cc7-99c1-e76b68919c6a" title="Murphy, James (DFA, LCD Soundsystem)"><bdi>James Murphy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/81b3d306-808a-4cd0-a6e7-5f1f1b5454c6"><bdi>Whirlwind</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/627ea778-fed8-35e2-84c4-7257b39540f2"><bdi>Lil' Dub Chefin'</bdi></a></td>
+        
+        <td><a href="/artist/8df68f6c-40c0-4c9a-9343-ed949cb5ffcd" title="Spacemonkeyz"><bdi>Spacemonkeyz</bdi></a> vs. <a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/3753d953-89ea-3831-bcbf-0e426d4b7845"><bdi>Tomorrow Comes Today EP</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/7395d546-a07d-48a6-9b39-b3131acc3edf"><bdi>On Melancholy Hill</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Broadcast + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e7eded0d-0d6a-490d-955e-d92cb2beb28a"><bdi>2010-11-20: BBC Radio 1 Live Lounge</bdi></a></td>
+        
+        <td><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1999 (17 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/c58e25fa-9d99-4ff3-b4b8-a7e7b2cf452c"><bdi>Essex</bdi></a>, <a href="/area/9d5dd675-3cf4-4296-9e39-67865ebee758"><bdi>England</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000114814345">0000 0001 1481 4345    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:88%;">4.4</span>    </span>
+</span>    (<a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/ratings" title="Gorillaz"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/electropop"><bdi>electropop</bdi></a>, <a href="/tag/hip%20hop"><bdi>hip hop</bdi></a>, <a href="/tag/trip%20hop"><bdi>trip hop</bdi></a>, <a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/tags" title="Gorillaz"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://gorillaz.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000664770">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/e21857d5-3256-4547-afb3-4b6ded592596">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/6378">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm2064964/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Gorillaz">Gorillaz</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Gorillaz">LyricWiki</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/wiki/Gorillaz">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/gorillaz">gorillaz</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/G/Gorillaz/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/gorillaz">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/3436">Musik-Sammler</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/wcidentities/lccn-no2002-20758">WorldCat</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/gorillazofficial">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/44794">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/gorillazband">@gorillazband</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Gorillaz">Gorillaz</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/gorillaz">gorillaz</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/133543207">VIAF: 133543207</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q189991">Q189991</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Gorillaz">en: Gorillaz</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/gorillaz">gorillaz</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/GorillazVEVO">GorillazVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596/relationships" title="Gorillaz"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fe21857d5-3256-4547-afb3-4b6ded592596">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-05-26 15:58 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

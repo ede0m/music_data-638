@@ -1,0 +1,707 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Apollo 440 - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1990 in Liverpool, Area: United Kingdom"/><script type="application/ld+json">{"member":[{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Jim Gardner","@id":"https://musicbrainz.org/artist/1e6a6fcb-aca6-4478-b6fd-40adc511317e"}},{"member":{"name":"Noko","@id":"https://musicbrainz.org/artist/3786c3db-183b-4371-92fe-1e81a24d7827","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Howard Gray","@id":"https://musicbrainz.org/artist/90e0158e-4152-463e-8a76-212dd48cbcf1"}},{"member":{"@type":["Person","MusicGroup"],"name":"Trevor Gray","@id":"https://musicbrainz.org/artist/9ccaf9f7-3ff6-469a-bdf6-f36f16c4b01a"},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/c33feada-e1a2-45a2-ae40-8b69410661fd","name":"Norman Fisher-Jones","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/f48da62f-4102-43d7-9285-2b0c6dee731d","name":"James Gardner","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"}],"name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","album":[{"@id":"https://musicbrainz.org/release-group/b2b4546d-ff38-3139-8932-bad5fc4e0590","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Millennium Fever","byArtist":{"name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Apollo 440"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d5dd05d0-774e-3c1e-b802-5f09aed585bd","name":"Electro Glide in Blue","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b"},"creditedTo":"Apollo 440","@type":"MusicAlbum"},{"name":"Gettin' High on Your Own Supply","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d9b8543e-b058-305a-8bd3-e841382a6168","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"},"@type":"MusicAlbum","creditedTo":"Apollo Four Forty"},{"creditedTo":"Apollo 440","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b00cbc28-58ed-317f-9fa1-ea6d00d50814","albumProductionType":"http://schema.org/StudioAlbum","name":"Dude Descending a Staircase","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"The Future's What It Used to Be","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b5c3cf60-90eb-4bce-b1d4-e1c553f19582","byArtist":{"@type":"MusicGroup","name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b"},"@type":"MusicAlbum","creditedTo":"Apollo 440"},{"name":"Blackout","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/90ab336c-1abd-3472-abd2-80bcf9a74077","byArtist":{"name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","@type":"MusicGroup"},"creditedTo":"Apollo 440","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"},"@id":"https://musicbrainz.org/release-group/2c2d90a9-40aa-434c-8cc0-0d419fce7029","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Destiny","creditedTo":"Apollo 440","@type":"MusicAlbum"},{"byArtist":{"name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/b76cadf1-62d3-3010-9d6c-c650b90fe621","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Astral America","@type":"MusicAlbum","creditedTo":"Apollo 440"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Liquid Cool","@id":"https://musicbrainz.org/release-group/344be918-bfda-3715-9ffb-a785c5881c26","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"},"creditedTo":"Apollo 440","@type":"MusicAlbum"},{"name":"(Don't Fear) The Reaper","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c2c4f165-cb86-3234-aa97-62b4f58b8737","byArtist":{"@type":"MusicGroup","name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b"},"@type":"MusicAlbum","creditedTo":"Apollo 440"},{"@type":"MusicAlbum","creditedTo":"Apollo 440","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/acfca7f4-bc29-3953-955b-9b5e1a7e77a5","name":"Krupa","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"}},{"name":"Ain't Talkin' 'Bout Dub","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a21e1dcc-25b0-37ee-be26-8705553cceda","byArtist":{"name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Apollo 440"},{"@type":"MusicAlbum","creditedTo":"Apollo 440","albumProductionType":"http://schema.org/StudioAlbum","name":"Raw Power","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ff7b293b-dcee-3770-a64f-8bcdde05cb16","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/fd53241f-3c5e-35d7-8ab5-057dcb66bc59","albumProductionType":"http://schema.org/StudioAlbum","name":"Carrera Rapida (Theme From Rapid Racer)","@type":"MusicAlbum","creditedTo":"Apollo 440"},{"byArtist":[{"name":"Jean Michel Jarre","@id":"https://musicbrainz.org/artist/86e2e2ad-6d1b-44fd-9463-b6683718a1cc","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"}],"name":"Rendez-Vous 98","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/60b16307-f76f-359c-9ab8-54bd46365530","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Jean Michel Jarre \u0026 Apollo 440"},{"creditedTo":"Apollo 440","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"},"@id":"https://musicbrainz.org/release-group/d63c168c-d8b3-3ddf-91dd-b8710b28f916","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Lost in Space"},{"@type":"MusicAlbum","creditedTo":"Apollo 440","name":"Stop the Rock","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b0dfb18d-e653-3191-bc2f-74e9eade6af1","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","@type":"MusicGroup"}},{"creditedTo":"Apollo 440","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Heart Go Boom","@id":"https://musicbrainz.org/release-group/7abf3596-901a-3657-ac45-71ffd167a8ec","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440"}},{"@type":"MusicAlbum","creditedTo":"Apollo Fourforty","byArtist":{"@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b","name":"Apollo 440","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Charlie's Angels 2000","@id":"https://musicbrainz.org/release-group/eace9735-4c89-37ca-aa05-28c6cb56e99f","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Say What?","@id":"https://musicbrainz.org/release-group/822f0cff-c1ed-3465-8f2f-4b0ffd3a12b0","albumReleaseType":"http://schema.org/EPRelease","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/690c818f-a578-4e04-834a-a94dac6e3759","name":"28 Days"},{"@type":"MusicGroup","name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b"}],"@type":"MusicAlbum","creditedTo":"28 Days and Apollo 440"},{"creditedTo":"Apollo 440","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Apollo 440","@id":"https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b"},"@id":"https://musicbrainz.org/release-group/47ffb845-369a-4162-994e-2d42bb8317f9","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"A Deeper Dub"}],"foundingDate":"1990","@context":"http://schema.org","location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"sameAs":["http://apollo440.com/","http://en.wikipedia.org/wiki/Apollo_440","http://isni-url.oclc.nl/isni/000000012202268X","http://musicmoz.org/Bands_and_Artists/A/Apollo_440/","http://rateyourmusic.com/artist/apollo_440","http://www.allmusic.com/artist/mn0000926914","http://www.apollo440.com/","https://musicbrainz.org/artist/16c8c027-ceb1-4ec5-bb2a-4c7704b74f57","https://musicbrainz.org/artist/395497af-c8ef-4d68-87bf-971df596e892","https://www.discogs.com/artist/5129","https://www.discogs.com/artist/66579","https://www.wikidata.org/wiki/Q619067"],"groupOrigin":{"name":"Liverpool","@id":"https://musicbrainz.org/area/c249c30e-88ab-4b2f-a745-96a25bd7afee","containedIn":{"@id":"https://musicbrainz.org/area/dbcfe24c-1c0b-4722-addf-28b8696e32f8","name":"Merseyside","@type":"AdministrativeArea","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"}},"@type":"City"},"@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440 – Apollo 440"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/releases" title="Apollo 440"><bdi>Releases</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/recordings" title="Apollo 440"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/works" title="Apollo 440"><bdi>Works</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/events" title="Apollo 440"><bdi>Events</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/relationships" title="Apollo 440"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/aliases" title="Apollo 440"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/tags" title="Apollo 440"><bdi>Tags</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/details" title="Apollo 440"><bdi>Details</bdi></a></li>            <li><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/edit" title="Apollo 440"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>See also <a href="http://musicbrainz.org/artist/395497af-c8ef-4d68-87bf-971df596e892.html" rel="nofollow">Stealth Sonic Orchestra</a>.</p>
+<hr />
+
+<p>Effectively a pseudonym for <a href="http://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b.html" rel="nofollow">Apollo 440</a>.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2016-06-16 13:00 UTC.
+            
+        </div>
+    </div>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Apollo 440</b> (alternately known as <b>Apollo Four Forty</b> or <b>@440</b>) are an English band formed in Liverpool in 1990. Apollo 440 have written, recorded and produced five albums, collaborated with and produced other artists, remixed as Apollo 440 and as ambient cinematic alter-ego Stealth Sonic Orchestra, and created music for film, television, advertisements and multimedia. During their eleven years at Sony, 1993–2004, they notched up 11 Top 40 UK singles with three Top 10s, and had a chart presence worldwide.</p>
+<p>The name comes from the Greek god Apollo and the frequency of concert pitch — the A note at 440 Hz, often denoted as "A440", and the Sequential Circuits sampler/sequencer, the Studio 440. They changed the writing of their name from Apollo 440 to Apollo Four Forty in 1996, though they switched back for their latest album.</p>
+<p>To date, Apollo's remixes number around 60 - from U2 in the early 1990s to Puff Daddy/Jimmy Page and Ennio Morricone a decade later. Apollo's mix of Puretone's "Addicted to Bass" was made a lead track and became a hit in 2002. Among their Stealth Sonic Orchestra remixes are a series of Manic Street Preachers singles.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Apollo_440">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=9196" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/b2b4546d-ff38-3139-8932-bad5fc4e0590"><bdi>Millennium Fever</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/d5dd05d0-774e-3c1e-b802-5f09aed585bd"><bdi>Electro Glide in Blue</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/d9b8543e-b058-305a-8bd3-e841382a6168"><bdi>Gettin' High on Your Own Supply</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440 – Apollo 440"><bdi>Apollo Four Forty</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/b00cbc28-58ed-317f-9fa1-ea6d00d50814"><bdi>Dude Descending a Staircase</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/b5c3cf60-90eb-4bce-b1d4-e1c553f19582"><bdi>The Future's What It Used to Be</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/90ab336c-1abd-3472-abd2-80bcf9a74077"><bdi>Blackout</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/2c2d90a9-40aa-434c-8cc0-0d419fce7029"><bdi>Destiny</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/b76cadf1-62d3-3010-9d6c-c650b90fe621"><bdi>Astral America</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/344be918-bfda-3715-9ffb-a785c5881c26"><bdi>Liquid Cool</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/c2c4f165-cb86-3234-aa97-62b4f58b8737"><bdi>(Don't Fear) The Reaper</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/acfca7f4-bc29-3953-955b-9b5e1a7e77a5"><bdi>Krupa</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/a21e1dcc-25b0-37ee-be26-8705553cceda"><bdi>Ain't Talkin' 'Bout Dub</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/ff7b293b-dcee-3770-a64f-8bcdde05cb16"><bdi>Raw Power</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/fd53241f-3c5e-35d7-8ab5-057dcb66bc59"><bdi>Carrera Rapida (Theme From Rapid Racer)</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/60b16307-f76f-359c-9ab8-54bd46365530"><bdi>Rendez-Vous 98</bdi></a></td>
+        
+        <td><span class="mp"><a href="/artist/86e2e2ad-6d1b-44fd-9463-b6683718a1cc" title="Jarre, Jean Michel"><bdi>Jean Michel Jarre</bdi></a></span> &amp; <a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/d63c168c-d8b3-3ddf-91dd-b8710b28f916"><bdi>Lost in Space</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/b0dfb18d-e653-3191-bc2f-74e9eade6af1"><bdi>Stop the Rock</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/7abf3596-901a-3657-ac45-71ffd167a8ec"><bdi>Heart Go Boom</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/eace9735-4c89-37ca-aa05-28c6cb56e99f"><bdi>Charlie's Angels 2000</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440 – Apollo 440"><bdi>Apollo Fourforty</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/822f0cff-c1ed-3465-8f2f-4b0ffd3a12b0"><bdi>Say What?</bdi></a></td>
+        
+        <td><a href="/artist/690c818f-a578-4e04-834a-a94dac6e3759" title="28 Days (Melbourne, Australia punk rock)"><bdi>28 Days</bdi></a> and <a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/47ffb845-369a-4162-994e-2d42bb8317f9"><bdi>A Deeper Dub</bdi></a></td>
+        
+        <td><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Howard-Gray3.JPG/250px-Howard-Gray3.JPG"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Howard-Gray3.JPG">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1990 (26 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/c249c30e-88ab-4b2f-a745-96a25bd7afee"><bdi>Liverpool</bdi></a>, <a href="/area/dbcfe24c-1c0b-4722-addf-28b8696e32f8"><bdi>Merseyside</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/000000012202268X">0000 0001 2202 268X    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span>    (<a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/ratings" title="Apollo 440"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/big%20beat"><bdi>big beat</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/electronica"><bdi>electronica</bdi></a>, <a href="/tag/dance"><bdi>dance</bdi></a>, <a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/tags" title="Apollo 440"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.apollo440.com/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://apollo440.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000926914">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/5129">Discogs</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/66579">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/A/Apollo_440/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/apollo_440">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/apollo440">@apollo440</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Apollo440">Apollo440</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q619067">Q619067</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Apollo_440">en: Apollo 440</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/apollo440channel">apollo440channel</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b/relationships" title="Apollo 440"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-06-16 13:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

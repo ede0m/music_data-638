@@ -1,0 +1,843 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>moe. - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="US jam band, Type: Group, Founded: 1989 in Buffalo, Area: United States"/><script type="application/ld+json">{"name":"moe.","foundingDate":"1989","member":[{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/61b32ce0-79d1-4b59-9e47-f035f016d7c3","name":"Jim Loughlin"}},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8248fdcf-bcf3-4ea7-a0da-e17b32994433","name":"Chuck Garvey"},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8b0a02df-f342-46b2-9687-6c9eb5c884d5","name":"Vinnie Amico"}},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/8d2311e3-8a9e-4260-aaf4-1ccb3122501d","name":"Rob Derhak","@type":["Person","MusicGroup"]}},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a69f8bef-9a81-4213-b892-0ffbeff5db51","name":"Al Schnier"},"roleName":[],"@type":"OrganizationRole"}],"album":[{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"moe.","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."},"@id":"https://musicbrainz.org/release-group/d7599767-0891-3710-9b39-df8e88901c5e","albumReleaseType":"http://schema.org/AlbumRelease","name":"Fatboy"},{"creditedTo":"moe.","byArtist":{"@type":"MusicGroup","name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"Headseed","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e97914dc-162b-35fd-a087-810bfe0af029"},{"name":"No Doy","@id":"https://musicbrainz.org/release-group/edaede71-89bf-374b-94ed-d0d41617df3a","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"creditedTo":"moe."},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a5903b91-2442-35b0-a8cf-899588aa6dce","name":"Tin Cans and Car Tires.","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"moe.","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."}},{"name":"Dither","@id":"https://musicbrainz.org/release-group/4fdbc0a1-5156-3e0b-b7df-677e19b48376","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"moe.","byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"creditedTo":"moe.","byArtist":{"@type":"MusicGroup","name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b4960620-d658-3a22-b713-f0d329b9711d","name":"Wormwood"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9b95d555-0bf1-39d9-b899-d5a8b8fef80b","name":"Season's Greetings From moe.","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"},"creditedTo":"moe."},{"byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"creditedTo":"moe.","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"The Conch","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/70ff96e4-691b-3ddf-bfbd-fa9a054eb394"},{"@id":"https://musicbrainz.org/release-group/ebe5222f-0226-32f0-a6be-69f4a10309cd","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sticks and Stones","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"moe.","byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"}},{"name":"What Happened to the La Las","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/abadace4-ced5-4036-92da-5a6a65606b88","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"creditedTo":"moe."},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."},"creditedTo":"moe.","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/31325527-811a-4599-977d-409987a03d16","name":"No Guts, No Glory"},{"name":"Smash Hits Volume One","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/959c71de-96f4-45db-a486-b676c4916ae9","creditedTo":"moe.","byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"creditedTo":"moe.","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c2dd18d3-a772-34ed-a00b-f48ff79ce326","name":"Loaf"},{"name":"L","@id":"https://musicbrainz.org/release-group/ed10eea3-1d19-3b6c-9139-e36fa140d34b","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"moe.","byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"}},{"name":"Warts \u0026 All, Volume 1","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6d3331a8-1cb9-3fb2-8f88-b6c2183d3789","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59"},"creditedTo":"moe."},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"moe.","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"name":"Warts \u0026 All, Volume 2","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b2b11c7f-832c-3232-88b2-cbb57503a76c"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/958c7943-0cd6-3a37-804e-a64009588b54","name":"Warts \u0026 All, Volume 3","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"moe.","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"}},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."},"creditedTo":"moe.","name":"Instant Live: 2003-10-03: The Orange Peel, Asheville, NC, USA","@id":"https://musicbrainz.org/release-group/4cb7c1a6-ecf1-3479-bae7-8bb433ac430c","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/511b8eb9-ddd5-34e0-95f9-5f05ec62898e","name":"Instant Live: 2003-10-10: Cain's Ballroom, Tulsa, OK, USA","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"creditedTo":"moe."},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/824c9b8b-b73f-3378-ad79-7aff5669e8fd","name":"Instant Live: 2003-11-01: Aragon Ballroom, Chicago, IL, USA","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"moe.","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"}},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"},"creditedTo":"moe.","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2a870e85-7f91-3009-9214-bcf02d8d0ae9","name":"Instant Live: 2003-11-07: Orpheum Theatre, Boston, MA, USA"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"moe.","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"name":"Instant Live: 2003-12-04: The Odeon, Cleveland, OH, USA","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0adfa1a2-8911-3c0e-868b-2edb6cd8b770"},{"byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"},"creditedTo":"moe.","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/b9509280-a97a-373d-b4f8-1bcbc0bca4f2","albumReleaseType":"http://schema.org/AlbumRelease","name":"Instant Live: 2003-12-30: Electric Factory, Philadelphia, PA, USA"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."},"creditedTo":"moe.","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"Warts \u0026 All, Volume 4","@id":"https://musicbrainz.org/release-group/f32288d0-1230-3d6d-aa97-12afbbbb8075","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"moe.","byArtist":{"@type":"MusicGroup","name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59"},"name":"Warts \u0026 All, Volume 5","@id":"https://musicbrainz.org/release-group/4cf7a8f4-a894-3ddc-b93b-275deaa04242","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/f4367505-8896-34b7-b299-22316bd13319","albumReleaseType":"http://schema.org/AlbumRelease","name":"Warts \u0026 All, Volume 6","creditedTo":"moe.","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum"},{"creditedTo":"moe.","byArtist":{"@type":"MusicGroup","name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","name":"Dr. Stan's Prescription, Volume 1","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b245c32b-1def-3c17-b7f8-a77e0b239895"},{"name":"Dr. Stan's Prescription, Volume 2","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c7e97930-3c34-3ff7-8fef-cf696d4bb6f1","byArtist":{"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe.","@type":"MusicGroup"},"creditedTo":"moe.","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."},"creditedTo":"moe.","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","name":"2003-10-31: Aragon Ballroom, Chicago, IL, USA","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5c22c1fd-f17f-3818-a2f7-07777bdab8ea"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."},"creditedTo":"moe.","@id":"https://musicbrainz.org/release-group/701b26dc-ff11-3303-bb14-6ed1d5d3cc50","albumReleaseType":"http://schema.org/AlbumRelease","name":"2004-06-13: Bonnaroo Music Festival, Manchester, TN, USA"},{"@id":"https://musicbrainz.org/release-group/88975dd3-17d4-49ab-925e-78d0bb017f02","name":"Live at the Fillmore","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"moe.","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."}},{"@id":"https://musicbrainz.org/release-group/e3d9dadb-c706-35f4-8d17-0e53d177adb6","name":"meat","creditedTo":"moe.","byArtist":{"name":"moe.","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","name":"moe."},"creditedTo":"moe.","@id":"https://musicbrainz.org/release-group/b391d416-4010-3659-9984-3c770aabebba","name":"L: Version 3.1"}],"groupOrigin":{"containedIn":{"containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States"},"@type":"AdministrativeArea","name":"New York","@id":"https://musicbrainz.org/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"},"@type":"City","name":"Buffalo","@id":"https://musicbrainz.org/area/7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48"},"sameAs":["http://en.wikipedia.org/wiki/Moe_(band)","http://www.allmusic.com/artist/mn0000574143","http://www.moe.org/","https://rateyourmusic.com/artist/moe_","https://www.discogs.com/artist/1174645","https://www.wikidata.org/wiki/Q6889949"],"@id":"https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59","location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"@context":"http://schema.org","@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5fab339d-5dd4-42b0-8d70-496a4493ed59">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5fab339d-5dd4-42b0-8d70-496a4493ed59">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59" title="moe. (US jam band)"><bdi>moe.</bdi></a> <span class="comment">(<bdi>US jam band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59" title="moe. – moe. (US jam band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/releases" title="moe. (US jam band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/recordings" title="moe. (US jam band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/works" title="moe. (US jam band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/events" title="moe. (US jam band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/relationships" title="moe. (US jam band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/aliases" title="moe. (US jam band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/tags" title="moe. (US jam band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/details" title="moe. (US jam band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/edit" title="moe. (US jam band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>This band's name is properly spelled with all lower-case letters ending with a period: moe.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2006-08-13 02:50 UTC.
+            
+        </div>
+    </div>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=98885" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/d7599767-0891-3710-9b39-df8e88901c5e"><bdi>Fatboy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/e97914dc-162b-35fd-a087-810bfe0af029"><bdi>Headseed</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/edaede71-89bf-374b-94ed-d0d41617df3a"><bdi>No Doy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/a5903b91-2442-35b0-a8cf-899588aa6dce"><bdi>Tin Cans and Car Tires.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/4fdbc0a1-5156-3e0b-b7df-677e19b48376"><bdi>Dither</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/b4960620-d658-3a22-b713-f0d329b9711d"><bdi>Wormwood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/9b95d555-0bf1-39d9-b899-d5a8b8fef80b"><bdi>Season's Greetings From moe.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/70ff96e4-691b-3ddf-bfbd-fa9a054eb394"><bdi>The Conch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/ebe5222f-0226-32f0-a6be-69f4a10309cd"><bdi>Sticks and Stones</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/abadace4-ced5-4036-92da-5a6a65606b88"><bdi>What Happened to the La Las</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/31325527-811a-4599-977d-409987a03d16"><bdi>No Guts, No Glory</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/959c71de-96f4-45db-a486-b676c4916ae9"><bdi>Smash Hits Volume One</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/c2dd18d3-a772-34ed-a00b-f48ff79ce326"><bdi>Loaf</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ed10eea3-1d19-3b6c-9139-e36fa140d34b"><bdi>L</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/6d3331a8-1cb9-3fb2-8f88-b6c2183d3789"><bdi>Warts &amp; All, Volume 1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/b2b11c7f-832c-3232-88b2-cbb57503a76c"><bdi>Warts &amp; All, Volume 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/958c7943-0cd6-3a37-804e-a64009588b54"><bdi>Warts &amp; All, Volume 3</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/4cb7c1a6-ecf1-3479-bae7-8bb433ac430c"><bdi>Instant Live: 2003-10-03: The Orange Peel, Asheville, NC, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/511b8eb9-ddd5-34e0-95f9-5f05ec62898e"><bdi>Instant Live: 2003-10-10: Cain's Ballroom, Tulsa, OK, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/824c9b8b-b73f-3378-ad79-7aff5669e8fd"><bdi>Instant Live: 2003-11-01: Aragon Ballroom, Chicago, IL, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/2a870e85-7f91-3009-9214-bcf02d8d0ae9"><bdi>Instant Live: 2003-11-07: Orpheum Theatre, Boston, MA, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/0adfa1a2-8911-3c0e-868b-2edb6cd8b770"><bdi>Instant Live: 2003-12-04: The Odeon, Cleveland, OH, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/b9509280-a97a-373d-b4f8-1bcbc0bca4f2"><bdi>Instant Live: 2003-12-30: Electric Factory, Philadelphia, PA, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f32288d0-1230-3d6d-aa97-12afbbbb8075"><bdi>Warts &amp; All, Volume 4</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/4cf7a8f4-a894-3ddc-b93b-275deaa04242"><bdi>Warts &amp; All, Volume 5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/f4367505-8896-34b7-b299-22316bd13319"><bdi>Warts &amp; All, Volume 6</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/b245c32b-1def-3c17-b7f8-a77e0b239895"><bdi>Dr. Stan's Prescription, Volume 1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/c7e97930-3c34-3ff7-8fef-cf696d4bb6f1"><bdi>Dr. Stan's Prescription, Volume 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/5c22c1fd-f17f-3818-a2f7-07777bdab8ea"><bdi>2003-10-31: Aragon Ballroom, Chicago, IL, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/701b26dc-ff11-3303-bb14-6ed1d5d3cc50"><bdi>2004-06-13: Bonnaroo Music Festival, Manchester, TN, USA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/88975dd3-17d4-49ab-925e-78d0bb017f02"><bdi>Live at the Fillmore</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e3d9dadb-c706-35f4-8d17-0e53d177adb6"><bdi>meat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/b391d416-4010-3659-9984-3c770aabebba"><bdi>L: Version 3.1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1989 (27 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48"><bdi>Buffalo</bdi></a>, <a href="/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"><bdi>New York</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/jam%20band"><bdi>jam band</bdi></a>, <a href="/tag/progressive%20rock"><bdi>progressive rock</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.moe.org/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000574143">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/1174645">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//archive.org/details/moe">Internet Archive</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/moe_">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/moeperiod">@moeperiod</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/moe.org">moe.org</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="https://www.instagram.com/moetheband/">@moetheband</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q6889949">Q6889949</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Moe_(band)">en: Moe (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/gotmoe">gotmoe</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5fab339d-5dd4-42b0-8d70-496a4493ed59/relationships" title="moe. (US jam band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5fab339d-5dd4-42b0-8d70-496a4493ed59">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-08-21 17:40 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,792 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Wenzel - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1955-07-31 in Wittenberg, Area: Germany"/><script type="application/ld+json">{"sameAs":["http://www.imdb.com/name/nm3056497/","http://www.wenzel-im-netz.de/","https://www.discogs.com/artist/1533125","https://www.wikidata.org/wiki/Q1327294"],"birthPlace":{"name":"Wittenberg","@id":"https://musicbrainz.org/area/2b9446e2-7484-44db-8ed1-13075c4586eb","@type":"City","containedIn":{"containedIn":{"name":"Germany","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","@type":"Country"},"@type":"AdministrativeArea","name":"Sachsen-Anhalt","@id":"https://musicbrainz.org/area/f58905b4-f974-4292-a259-befaf8a4e957"}},"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","album":[{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel"},"name":"Stirb mit mir ein Stück","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8c6b1f1d-b20a-31fc-9382-bba772118b9a","@type":"MusicAlbum","creditedTo":"Wenzel"},{"@id":"https://musicbrainz.org/release-group/4ee8acf8-6105-3bdf-9197-584dee911731","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Reisebilder","byArtist":{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e7f47ea5-a5ac-394a-8a81-7e9fd95960d3","name":"Vollmond","byArtist":{"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4a76d049-fd6d-30fd-b5b8-83de9e69509c","albumReleaseType":"http://schema.org/AlbumRelease","name":"Lied am Rand: Wenzel singt Theodor Kramer","byArtist":{"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/cfc8f779-2b45-3ae9-b83c-b33be7ba15ea","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Traurig in Sevilla","byArtist":{"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Wenzel","byArtist":{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]},"name":"Schöner Lügen","@id":"https://musicbrainz.org/release-group/b74b7e0e-2c96-35ba-92a3-c6506c4478c5","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Wenzel","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6ba8ff07-de9e-3a4d-bbf2-54486d7a8e06","name":"Hanswurst und andere arme Würste: Hanns-Eisler-Collage","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"}},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/16446288-8d2b-3581-a6f9-09babded972b","name":"Ticky Tock: Wenzel Sings Woody Guthrie","byArtist":{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b1720cc9-5a6d-3ae4-bef2-3745333492e7","name":"Himmelfahrt","@type":"MusicAlbum","creditedTo":"Wenzel"},{"@type":"MusicAlbum","creditedTo":"Wenzel","byArtist":{"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bd03aff7-fa94-34ba-b5c9-ac0c8628605d","name":"Wenzel singt Maschas Kinderlieder"},{"creditedTo":"Wenzel","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/57f3391f-ad54-3577-88d7-35b7348ff668","name":"Vier Uhr früh: Wenzel singt Theodor Kramer, Volume II","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"}},{"name":"Demotapes","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f998bc95-7943-4a00-83dd-7ea5a5c9e961","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/06454413-2e38-334d-95ed-2ef5fad6e16f","name":"Glaubt nie, was ich singe","byArtist":{"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/b34a1796-d03d-4257-bd29-b74868576fe0","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Wenzels Wochenkalender 2007","byArtist":{"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Wenzel","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/af71e659-54e8-3d17-979e-bbfc4af49ad2","albumReleaseType":"http://schema.org/AlbumRelease","name":"STRASSENBALLADE: Wenzel singt Henriette Haill"},{"name":"Wenzel singt Das kleine Meertagebuch","@id":"https://musicbrainz.org/release-group/56a7d0bd-74d1-3788-b831-238c2f5388e0","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"creditedTo":"Wenzel","@type":"MusicAlbum","name":"MASKEN: Wenzel singt Christoph Hein","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bb56168c-adf9-310f-ac6c-cc3cea3ab1de","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"}},{"@type":"MusicAlbum","creditedTo":"Wenzel","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel"},"name":"König von Honolulu","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/53ee99a5-e282-4297-bd1a-ad723411e555"},{"creditedTo":"Arlo Guthrie \u0026 Wenzel","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0d3461a4-be72-4a83-b1c7-81a2d9eddc2d","albumReleaseType":"http://schema.org/AlbumRelease","name":"Every 100 Years - Live auf der Wartburg","byArtist":[{"@type":["Person","MusicGroup"],"name":"Arlo Guthrie","@id":"https://musicbrainz.org/artist/b8efe8ac-45db-4a71-bb51-c1503986172f"},{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]}]},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4af02243-6b73-4e0f-a6f2-03ab33f97d3e","name":"Kamille und Mohn","byArtist":{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f7c26b65-1bda-49e3-a4b1-0789601b558d","name":"Widersteh, so lang du's kannst","byArtist":{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel"},"name":"Viva la poesía","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/af811a3c-a76d-4294-b880-d8d9de4fe5ab","@type":"MusicAlbum","creditedTo":"Wenzel"},{"creditedTo":"Wenzel","@type":"MusicAlbum","name":"31.07.55","@id":"https://musicbrainz.org/release-group/f3ae4640-68dd-3c43-b2b7-df58af144198","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel"}},{"@type":"MusicAlbum","creditedTo":"Wenzel","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"},"@id":"https://musicbrainz.org/release-group/036488ab-9878-32ee-96d4-df3dca855079","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Grünes Licht"},{"@type":"MusicAlbum","creditedTo":"Wenzel","byArtist":{"@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133","name":"Wenzel","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/69e82a52-d8a1-394d-9ca7-4b1e21abe189","name":"Winterstimmen"},{"creditedTo":"Wenzel","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/c130af02-153d-31a3-9b19-8eefabaefd3a","albumReleaseType":"http://schema.org/AlbumRelease","name":"WENZEL:SOLO:LIVE","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"}},{"@id":"https://musicbrainz.org/release-group/2a4c366a-4f47-4611-bbaf-52a27d2073cb","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Ahoi! Ahoi!","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"},"creditedTo":"Wenzel","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Wenzel","byArtist":{"@type":["Person","MusicGroup"],"name":"Wenzel","@id":"https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133"},"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/3bd9c50b-29f3-36da-9419-05640b7c3f2b","name":"Together (Tour-CD 2006)"}],"@type":["Person","MusicGroup"],"location":{"@type":"Country","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","name":"Germany"},"birthDate":"1955-07-31"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F3c906ad3-274e-4405-92af-8e9c7f80d133">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F3c906ad3-274e-4405-92af-8e9c7f80d133">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel – Wenzel"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/releases" title="Wenzel"><bdi>Releases</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/recordings" title="Wenzel"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/works" title="Wenzel"><bdi>Works</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/events" title="Wenzel"><bdi>Events</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/relationships" title="Wenzel"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/aliases" title="Wenzel"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/tags" title="Wenzel"><bdi>Tags</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/details" title="Wenzel"><bdi>Details</bdi></a></li>            <li><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/edit" title="Wenzel"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=74376" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/8c6b1f1d-b20a-31fc-9382-bba772118b9a"><bdi>Stirb mit mir ein Stück</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/4ee8acf8-6105-3bdf-9197-584dee911731"><bdi>Reisebilder</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/e7f47ea5-a5ac-394a-8a81-7e9fd95960d3"><bdi>Vollmond</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/4a76d049-fd6d-30fd-b5b8-83de9e69509c"><bdi>Lied am Rand: Wenzel singt Theodor Kramer</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/cfc8f779-2b45-3ae9-b83c-b33be7ba15ea"><bdi>Traurig in Sevilla</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/b74b7e0e-2c96-35ba-92a3-c6506c4478c5"><bdi>Schöner Lügen</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/6ba8ff07-de9e-3a4d-bbf2-54486d7a8e06"><bdi>Hanswurst und andere arme Würste: Hanns-Eisler-Collage</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/16446288-8d2b-3581-a6f9-09babded972b"><bdi>Ticky Tock: Wenzel Sings Woody Guthrie</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/b1720cc9-5a6d-3ae4-bef2-3745333492e7"><bdi>Himmelfahrt</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/bd03aff7-fa94-34ba-b5c9-ac0c8628605d"><bdi>Wenzel singt Maschas Kinderlieder</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/57f3391f-ad54-3577-88d7-35b7348ff668"><bdi>Vier Uhr früh: Wenzel singt Theodor Kramer, Volume II</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/f998bc95-7943-4a00-83dd-7ea5a5c9e961"><bdi>Demotapes</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/06454413-2e38-334d-95ed-2ef5fad6e16f"><bdi>Glaubt nie, was ich singe</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/b34a1796-d03d-4257-bd29-b74868576fe0"><bdi>Wenzels Wochenkalender 2007</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/af71e659-54e8-3d17-979e-bbfc4af49ad2"><bdi>STRASSENBALLADE: Wenzel singt Henriette Haill</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/56a7d0bd-74d1-3788-b831-238c2f5388e0"><bdi>Wenzel singt Das kleine Meertagebuch</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/bb56168c-adf9-310f-ac6c-cc3cea3ab1de"><bdi>MASKEN: Wenzel singt Christoph Hein</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/53ee99a5-e282-4297-bd1a-ad723411e555"><bdi>König von Honolulu</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/0d3461a4-be72-4a83-b1c7-81a2d9eddc2d"><bdi>Every 100 Years - Live auf der Wartburg</bdi></a></td>
+        
+        <td><a href="/artist/b8efe8ac-45db-4a71-bb51-c1503986172f" title="Guthrie, Arlo"><bdi>Arlo Guthrie</bdi></a> &amp; <a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/4af02243-6b73-4e0f-a6f2-03ab33f97d3e"><bdi>Kamille und Mohn</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/f7c26b65-1bda-49e3-a4b1-0789601b558d"><bdi>Widersteh, so lang du's kannst</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/af811a3c-a76d-4294-b880-d8d9de4fe5ab"><bdi>Viva la poesía</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f3ae4640-68dd-3c43-b2b7-df58af144198"><bdi>31.07.55</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/036488ab-9878-32ee-96d4-df3dca855079"><bdi>Grünes Licht</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/69e82a52-d8a1-394d-9ca7-4b1e21abe189"><bdi>Winterstimmen</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c130af02-153d-31a3-9b19-8eefabaefd3a"><bdi>WENZEL:SOLO:LIVE</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/2a4c366a-4f47-4611-bbaf-52a27d2073cb"><bdi>Ahoi! Ahoi!</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/3bd9c50b-29f3-36da-9419-05640b7c3f2b"><bdi>Together (Tour-CD 2006)</bdi></a></td>
+        
+        <td><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133" title="Wenzel"><bdi>Wenzel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1955-07-31 (61 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/2b9446e2-7484-44db-8ed1-13075c4586eb"><bdi>Wittenberg</bdi></a>, <a href="/area/f58905b4-f974-4292-a259-befaf8a4e957"><bdi>Sachsen-Anhalt</bdi></a>, <span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/ratings" title="Wenzel"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/chanson"><bdi>chanson</bdi></a>, <a href="/tag/folk"><bdi>folk</bdi></a>, <a href="/tag/german"><bdi>german</bdi></a>, <a href="/tag/liedermacher"><bdi>liedermacher</bdi></a>, <a href="/tag/singer-songwriter"><bdi>singer-songwriter</bdi></a>, <a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/tags" title="Wenzel"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.wenzel-im-netz.de/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/1533125">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm3056497/">IMDb</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/hewenzel">hewenzel</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/pages/WENZEL/52898114524">WENZEL</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1327294">Q1327294</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/3c906ad3-274e-4405-92af-8e9c7f80d133/relationships" title="Wenzel"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F3c906ad3-274e-4405-92af-8e9c7f80d133">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-01-20 17:14 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,736 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Arild Andersen - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1945-10-27 in Skedsmo, Area: Norway"/><script type="application/ld+json">{"birthDate":"1945-10-27","location":{"@id":"https://musicbrainz.org/area/6743d351-6f37-3049-9724-5041161fff4d","name":"Norway","@type":"Country"},"birthPlace":{"containedIn":{"@id":"https://musicbrainz.org/area/ae593ad5-3f84-4ad5-89c7-7575cefd339c","name":"Akershus","@type":"AdministrativeArea","containedIn":{"@id":"https://musicbrainz.org/area/6743d351-6f37-3049-9724-5041161fff4d","name":"Norway","@type":"Country"}},"@id":"https://musicbrainz.org/area/8cadf4f8-b387-4d70-94db-1c1e38f5c431","@type":"AdministrativeArea","name":"Skedsmo"},"@context":"http://schema.org","album":[{"creditedTo":"Jan Garbarek \u0026 Bobo Stenson \u0026 Terje Rypdal \u0026 Arild Andersen \u0026 Jon Christensen","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/801f321c-485e-3aee-a0ab-628c3caf29a8","byArtist":[{"@type":["Person","MusicGroup"],"name":"Jan Garbarek","@id":"https://musicbrainz.org/artist/ea7aba28-8853-4e30-83b7-7deeb3da36cd"},{"@type":["Person","MusicGroup"],"name":"Bobo Stenson","@id":"https://musicbrainz.org/artist/d0dd9820-f864-4f97-a1d2-78fa8d6ca862"},{"@id":"https://musicbrainz.org/artist/6a5e6105-b1c4-4c5c-97ae-5ee4b7f746b4","name":"Terje Rypdal","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Arild Andersen","@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},{"name":"Jon Christensen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1b34c019-0d99-40d6-a1fd-d0648a66304c"}],"@type":"MusicAlbum","name":"Sart","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","name":"Underwear","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Bobo Stenson","@id":"https://musicbrainz.org/artist/d0dd9820-f864-4f97-a1d2-78fa8d6ca862"},{"name":"Arild Andersen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},{"@id":"https://musicbrainz.org/artist/1b34c019-0d99-40d6-a1fd-d0648a66304c","@type":["Person","MusicGroup"],"name":"Jon Christensen"}],"@id":"https://musicbrainz.org/release-group/5f8072bd-7f6f-4566-9e25-2697588c0c2e","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Bobo Stenson, Arild Andersen, Jon Christensen"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Clouds in My Head","byArtist":{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/054d9dc6-8555-4414-a3c5-042ad8800057","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen"},{"name":"No Time for Time","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/1414d459-84c3-4928-8998-a70a0c7fd828","@type":["Person","MusicGroup"],"name":"Pål Thowsen"},{"@id":"https://musicbrainz.org/artist/1b34c019-0d99-40d6-a1fd-d0648a66304c","@type":["Person","MusicGroup"],"name":"Jon Christensen"},{"name":"Terje Rypdal","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6a5e6105-b1c4-4c5c-97ae-5ee4b7f746b4"},{"@type":["Person","MusicGroup"],"name":"Arild Andersen","@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"}],"@id":"https://musicbrainz.org/release-group/588c8ea2-61eb-4678-b372-59d0e5271ed8","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Pål Thowsen, Jon Christensen, Terje Rypdal \u0026 Arild Andersen"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Arild Andersen","@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},"@id":"https://musicbrainz.org/release-group/463148cb-d046-3865-a2ac-fbbae4a0f9f5","@type":"MusicAlbum","name":"Shimri","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Arild Andersen","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Arild Andersen","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/470bf850-04a1-4938-8230-7999e1688d35","byArtist":{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Lifelines","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen","name":"Sagn","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/aea6a6a4-4876-3169-bfb9-51ff92e367da","byArtist":{"@type":["Person","MusicGroup"],"name":"Arild Andersen","@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"}},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Uli Beckerhoff, John Abercrombie, Arild Andersen, John Marshall","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Secret Obsession","@id":"https://musicbrainz.org/release-group/7c700685-ec15-4bf2-a8ab-ee5d1ffe018a","byArtist":[{"name":"Uli Beckerhoff","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/00cc63e4-8eb5-478d-ba34-07b01741729b"},{"@id":"https://musicbrainz.org/artist/80c75300-9cf2-4daf-bb23-5fe15964e671","name":"John Abercrombie","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},{"name":"John Marshall","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771"}]},{"name":"If You Look Far Enough","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},{"name":"Ralph Towner","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/610b8b96-faf7-4633-afd6-d6c338a81144"},{"@id":"https://musicbrainz.org/artist/e64fe830-fb77-462d-85d2-1d3265ae6ade","name":"Naná Vasconcelos","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/b7e54e32-562c-3724-a428-9c5c652228e9","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen, Ralph Towner \u0026 Naná Vasconcelos"},{"creditedTo":"Arild Andersen","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/68824129-767e-4f12-9d30-211936fa148b","byArtist":{"name":"Arild Andersen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Arv"},{"creditedTo":"Arild Andersen","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5c0fc197-7e3f-4f6d-a500-c2d25647b7f7","byArtist":{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","@type":["Person","MusicGroup"],"name":"Arild Andersen"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Kristin Lavransdatter","@type":"MusicAlbum"},{"name":"Hyperborean","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","@type":["Person","MusicGroup"],"name":"Arild Andersen"},"@id":"https://musicbrainz.org/release-group/10b561ce-4f6d-3b6e-82dd-cf560a5261ad","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Sommerbrisen","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},{"name":"Frode Alnæs","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/2168f1cf-5046-420e-8bc4-9deff2f27d93"},{"@id":"https://musicbrainz.org/artist/164c4277-10b0-42a8-bc02-2d82ad347c6c","@type":["Person","MusicGroup"],"name":"Stian Carstensen"}],"@id":"https://musicbrainz.org/release-group/5916a128-0158-34a0-8cfa-b591347f27ab","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen, Frode Alnæs og Stian Carstensen"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Achirana","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","@type":["Person","MusicGroup"],"name":"Arild Andersen"},{"name":"Βασίλης Τσαμπρόπουλος","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a19aaeb1-2554-4dfc-8c06-dd891c4e816e"},{"@type":["Person","MusicGroup"],"name":"John Marshall","@id":"https://musicbrainz.org/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771"}],"@id":"https://musicbrainz.org/release-group/4b39ca3f-2719-3812-853e-98be2b0d0bed","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen, Vassilis Tsabropoulos \u0026 John Marshall"},{"creditedTo":"Markus Stockhausen, Arild Andersen, Patrice Héral \u0026 Terje Rypdal","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c3d8fd3d-d5b6-4a97-b3e2-116227acbeef","byArtist":[{"@type":["Person","MusicGroup"],"name":"Markus Stockhausen","@id":"https://musicbrainz.org/artist/42939d2e-260d-4336-9794-cfd82753cba9"},{"@type":["Person","MusicGroup"],"name":"Arild Andersen","@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},{"@type":["Person","MusicGroup"],"name":"Patrice Héral","@id":"https://musicbrainz.org/artist/07b4de2c-9c85-4b86-ad6b-56ab69116b4f"},{"name":"Terje Rypdal","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6a5e6105-b1c4-4c5c-97ae-5ee4b7f746b4"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Karta","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Julegløggen","@type":"MusicAlbum","byArtist":[{"name":"Frode Alnæs","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/2168f1cf-5046-420e-8bc4-9deff2f27d93"},{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Stian Carstensen","@id":"https://musicbrainz.org/artist/164c4277-10b0-42a8-bc02-2d82ad347c6c"}],"@id":"https://musicbrainz.org/release-group/4e3f560d-cab9-4ff7-82bc-f45f730fa224","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Frode Alnæs, Arild Andersen \u0026 Stian Carstensen"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen w/ Vassilis Tsabropoulos and John Marshall","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Triangle","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Arild Andersen","@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},{"@type":["Person","MusicGroup"],"name":"Βασίλης Τσαμπρόπουλος","@id":"https://musicbrainz.org/artist/a19aaeb1-2554-4dfc-8c06-dd891c4e816e"},{"name":"John Marshall","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771"}],"@id":"https://musicbrainz.org/release-group/3bd836ec-8a6d-3adc-900b-d8a90dd6752f"},{"byArtist":{"name":"Arild Andersen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},"@id":"https://musicbrainz.org/release-group/9fd1c775-2f3d-4a96-9a8d-75d6c45a5bad","name":"Live At Belleville","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Arild Andersen","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Arild Andersen","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Arild Andersen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},"@id":"https://musicbrainz.org/release-group/d2fb6960-e3c5-44d2-9fab-b0a426cc5c2d","@type":"MusicAlbum","name":"Green in Blue: Early Quartets","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen, Paolo Vinaccia \u0026 Tommy Smith","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Mira","@id":"https://musicbrainz.org/release-group/1134507d-f4d1-4fe3-b264-ed8587578076","byArtist":[{"name":"Arild Andersen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},{"@id":"https://musicbrainz.org/artist/056a3728-ba75-48ad-91ea-1f211745844f","name":"Paolo Vinaccia","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Tommy Smith","@id":"https://musicbrainz.org/artist/c511b970-7016-4bd4-b54a-1cd1cb06bb34"}]},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen","name":"The Rose Window","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/3ea811f5-ba38-4426-b320-ce9b06d8ae02","byArtist":{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","@type":["Person","MusicGroup"],"name":"Arild Andersen"}},{"albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Arild Andersen","name":"Molde Concert","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/f7252e56-f6a4-339c-b41c-20be4251b699"},{"@id":"https://musicbrainz.org/release-group/9b2f6eb6-7f82-3dba-b053-f3086d0fe070","byArtist":[{"@type":["Person","MusicGroup"],"name":"John Etheridge","@id":"https://musicbrainz.org/artist/791eaba5-dafe-4385-aac7-d8489508b27e"},{"name":"Arild Andersen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},{"@type":["Person","MusicGroup"],"name":"John Marshall","@id":"https://musicbrainz.org/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771"}],"name":"In House","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"John Etheridge \u0026 Arild Andersen \u0026 John Marshall","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/694a7a1e-cea1-4126-8225-407df61a11e5","byArtist":[{"name":"Markus Stockhausen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/42939d2e-260d-4336-9794-cfd82753cba9"},{"@id":"https://musicbrainz.org/artist/1cc34e3c-350e-4864-948e-7b6d18cd202e","name":"Vladislav Sendecki","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","@type":["Person","MusicGroup"],"name":"Arild Andersen"},{"@type":["Person","MusicGroup"],"name":"Patrice Héral","@id":"https://musicbrainz.org/artist/07b4de2c-9c85-4b86-ad6b-56ab69116b4f"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"ELECTRIC TREASURES (Live in Bonn)","creditedTo":"Markus Stockhausen, Vladyslav Sendecki, Arild Andersen \u0026 Patrice Héral","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/5e87f54e-cf61-38c3-986b-daf438fd934a","byArtist":{"name":"Arild Andersen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live at Belleville","creditedTo":"Arild Andersen","albumProductionType":"http://schema.org/LiveAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Arild Andersen, Scottish National Jazz Orchestra \u0026 Tommy Smith","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Celebration","byArtist":[{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","name":"Arild Andersen","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Scottish National Jazz Orchestra","@id":"https://musicbrainz.org/artist/50ef12b1-3ced-487f-aace-e78f4d143dbc"},{"name":"Tommy Smith","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c511b970-7016-4bd4-b54a-1cd1cb06bb34"}],"@id":"https://musicbrainz.org/release-group/02e7c2bd-3937-43a5-90e0-ee9a32cd7330"},{"name":"Selected Recordings","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","@type":["Person","MusicGroup"],"name":"Arild Andersen"},"@id":"https://musicbrainz.org/release-group/639a6daa-cd59-3cad-8930-ea0939c81a21","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Arild Andersen"}],"@id":"https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d","sameAs":["http://viaf.org/viaf/2655311","http://www.allmusic.com/artist/mn0000927413","http://www.arildandersen.com/","https://en.wikipedia.org/wiki/Arild_Andersen","https://musicbrainz.org/artist/abfad3b4-fba6-4e18-af27-5ab0e4922a09","https://www.discogs.com/artist/268963","https://www.wikidata.org/wiki/Q641035"],"name":"Arild Andersen","@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbfb665cf-1701-4e26-8e46-551b9da1ee7d">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fbfb665cf-1701-4e26-8e46-551b9da1ee7d">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Arild Andersen – Andersen, Arild"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/releases" title="Andersen, Arild"><bdi>Releases</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/recordings" title="Andersen, Arild"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/works" title="Andersen, Arild"><bdi>Works</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/events" title="Andersen, Arild"><bdi>Events</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/relationships" title="Andersen, Arild"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/aliases" title="Andersen, Arild"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/tags" title="Andersen, Arild"><bdi>Tags</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/details" title="Andersen, Arild"><bdi>Details</bdi></a></li>            <li><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/edit" title="Andersen, Arild"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=53725" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/801f321c-485e-3aee-a0ab-628c3caf29a8"><bdi>Sart</bdi></a></td>
+        
+        <td><a href="/artist/ea7aba28-8853-4e30-83b7-7deeb3da36cd" title="Garbarek, Jan"><bdi>Jan Garbarek</bdi></a> &amp; <a href="/artist/d0dd9820-f864-4f97-a1d2-78fa8d6ca862" title="Stenson, Bobo"><bdi>Bobo Stenson</bdi></a> &amp; <a href="/artist/6a5e6105-b1c4-4c5c-97ae-5ee4b7f746b4" title="Rypdal, Terje"><bdi>Terje Rypdal</bdi></a> &amp; <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a> &amp; <a href="/artist/1b34c019-0d99-40d6-a1fd-d0648a66304c" title="Christensen, Jon"><bdi>Jon Christensen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/5f8072bd-7f6f-4566-9e25-2697588c0c2e"><bdi>Underwear</bdi></a></td>
+        
+        <td><a href="/artist/d0dd9820-f864-4f97-a1d2-78fa8d6ca862" title="Stenson, Bobo"><bdi>Bobo Stenson</bdi></a>, <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <a href="/artist/1b34c019-0d99-40d6-a1fd-d0648a66304c" title="Christensen, Jon"><bdi>Jon Christensen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/054d9dc6-8555-4414-a3c5-042ad8800057"><bdi>Clouds in My Head</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/588c8ea2-61eb-4678-b372-59d0e5271ed8"><bdi>No Time for Time</bdi></a></td>
+        
+        <td><a href="/artist/1414d459-84c3-4928-8998-a70a0c7fd828" title="Thowsen, Pål"><bdi>Pål Thowsen</bdi></a>, <a href="/artist/1b34c019-0d99-40d6-a1fd-d0648a66304c" title="Christensen, Jon"><bdi>Jon Christensen</bdi></a>, <a href="/artist/6a5e6105-b1c4-4c5c-97ae-5ee4b7f746b4" title="Rypdal, Terje"><bdi>Terje Rypdal</bdi></a> &amp; <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/463148cb-d046-3865-a2ac-fbbae4a0f9f5"><bdi>Shimri</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/470bf850-04a1-4938-8230-7999e1688d35"><bdi>Lifelines</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/aea6a6a4-4876-3169-bfb9-51ff92e367da"><bdi>Sagn</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/7c700685-ec15-4bf2-a8ab-ee5d1ffe018a"><bdi>Secret Obsession</bdi></a></td>
+        
+        <td><a href="/artist/00cc63e4-8eb5-478d-ba34-07b01741729b" title="Beckerhoff, Uli"><bdi>Uli Beckerhoff</bdi></a>, <a href="/artist/80c75300-9cf2-4daf-bb23-5fe15964e671" title="Abercrombie, John"><bdi>John Abercrombie</bdi></a>, <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <a href="/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771" title="Marshall, John (jazz/rock musician)"><bdi>John Marshall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/b7e54e32-562c-3724-a428-9c5c652228e9"><bdi>If You Look Far Enough</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <a href="/artist/610b8b96-faf7-4633-afd6-d6c338a81144" title="Towner, Ralph"><bdi>Ralph Towner</bdi></a> &amp; <a href="/artist/e64fe830-fb77-462d-85d2-1d3265ae6ade" title="Vasconcelos, Naná"><bdi>Naná Vasconcelos</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/68824129-767e-4f12-9d30-211936fa148b"><bdi>Arv</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/5c0fc197-7e3f-4f6d-a500-c2d25647b7f7"><bdi>Kristin Lavransdatter</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/10b561ce-4f6d-3b6e-82dd-cf560a5261ad"><bdi>Hyperborean</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/5916a128-0158-34a0-8cfa-b591347f27ab"><bdi>Sommerbrisen</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <a href="/artist/2168f1cf-5046-420e-8bc4-9deff2f27d93" title="Alnæs, Frode"><bdi>Frode Alnæs</bdi></a> og <a href="/artist/164c4277-10b0-42a8-bc02-2d82ad347c6c" title="Carstensen, Stian"><bdi>Stian Carstensen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/4b39ca3f-2719-3812-853e-98be2b0d0bed"><bdi>Achirana</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <span class="name-variation"><a href="/artist/a19aaeb1-2554-4dfc-8c06-dd891c4e816e" title="Βασίλης Τσαμπρόπουλος – Tsabropoulos, Vassilis"><bdi>Vassilis Tsabropoulos</bdi></a></span> &amp; <a href="/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771" title="Marshall, John (jazz/rock musician)"><bdi>John Marshall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/c3d8fd3d-d5b6-4a97-b3e2-116227acbeef"><bdi>Karta</bdi></a></td>
+        
+        <td><a href="/artist/42939d2e-260d-4336-9794-cfd82753cba9" title="Stockhausen, Markus"><bdi>Markus Stockhausen</bdi></a>, <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <a href="/artist/07b4de2c-9c85-4b86-ad6b-56ab69116b4f" title="Heral, Patrice"><bdi>Patrice Héral</bdi></a> &amp; <a href="/artist/6a5e6105-b1c4-4c5c-97ae-5ee4b7f746b4" title="Rypdal, Terje"><bdi>Terje Rypdal</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/4e3f560d-cab9-4ff7-82bc-f45f730fa224"><bdi>Julegløggen</bdi></a></td>
+        
+        <td><a href="/artist/2168f1cf-5046-420e-8bc4-9deff2f27d93" title="Alnæs, Frode"><bdi>Frode Alnæs</bdi></a>, <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a> &amp; <a href="/artist/164c4277-10b0-42a8-bc02-2d82ad347c6c" title="Carstensen, Stian"><bdi>Stian Carstensen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/3bd836ec-8a6d-3adc-900b-d8a90dd6752f"><bdi>The Triangle</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a> w/ <span class="name-variation"><a href="/artist/a19aaeb1-2554-4dfc-8c06-dd891c4e816e" title="Βασίλης Τσαμπρόπουλος – Tsabropoulos, Vassilis"><bdi>Vassilis Tsabropoulos</bdi></a></span> and <a href="/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771" title="Marshall, John (jazz/rock musician)"><bdi>John Marshall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/9fd1c775-2f3d-4a96-9a8d-75d6c45a5bad"><bdi>Live At Belleville</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d2fb6960-e3c5-44d2-9fab-b0a426cc5c2d"><bdi>Green in Blue: Early Quartets</bdi></a> <span class="comment">(<bdi>Old &amp; New Masters</bdi>)</span></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/1134507d-f4d1-4fe3-b264-ed8587578076"><bdi>Mira</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <a href="/artist/056a3728-ba75-48ad-91ea-1f211745844f" title="Vinaccia, Paolo"><bdi>Paolo Vinaccia</bdi></a> &amp; <a href="/artist/c511b970-7016-4bd4-b54a-1cd1cb06bb34" title="Smith, Tommy (Scottish jazz saxophonist)"><bdi>Tommy Smith</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/3ea811f5-ba38-4426-b320-ce9b06d8ae02"><bdi>The Rose Window</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/f7252e56-f6a4-339c-b41c-20be4251b699"><bdi>Molde Concert</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/9b2f6eb6-7f82-3dba-b053-f3086d0fe070"><bdi>In House</bdi></a></td>
+        
+        <td><a href="/artist/791eaba5-dafe-4385-aac7-d8489508b27e" title="Etheridge, John"><bdi>John Etheridge</bdi></a> &amp; <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a> &amp; <a href="/artist/75ba3d00-6b1a-4d58-91ab-73b70d63f771" title="Marshall, John (jazz/rock musician)"><bdi>John Marshall</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/694a7a1e-cea1-4126-8225-407df61a11e5"><bdi>ELECTRIC TREASURES (Live in Bonn)</bdi></a></td>
+        
+        <td><a href="/artist/42939d2e-260d-4336-9794-cfd82753cba9" title="Stockhausen, Markus"><bdi>Markus Stockhausen</bdi></a>, <span class="name-variation"><a href="/artist/1cc34e3c-350e-4864-948e-7b6d18cd202e" title="Vladislav Sendecki – Sendecki, Vladislav"><bdi>Vladyslav Sendecki</bdi></a></span>, <a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a> &amp; <a href="/artist/07b4de2c-9c85-4b86-ad6b-56ab69116b4f" title="Heral, Patrice"><bdi>Patrice Héral</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/5e87f54e-cf61-38c3-986b-daf438fd934a"><bdi>Live at Belleville</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/02e7c2bd-3937-43a5-90e0-ee9a32cd7330"><bdi>Celebration</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a>, <a href="/artist/50ef12b1-3ced-487f-aace-e78f4d143dbc" title="Scottish National Jazz Orchestra"><bdi>Scottish National Jazz Orchestra</bdi></a> &amp; <a href="/artist/c511b970-7016-4bd4-b54a-1cd1cb06bb34" title="Smith, Tommy (Scottish jazz saxophonist)"><bdi>Tommy Smith</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/639a6daa-cd59-3cad-8930-ea0939c81a21"><bdi>Selected Recordings</bdi></a></td>
+        
+        <td><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d" title="Andersen, Arild"><bdi>Arild Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Andersen, Arild</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1945-10-27 (70 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/8cadf4f8-b387-4d70-94db-1c1e38f5c431"><bdi>Skedsmo</bdi></a>, <a href="/area/ae593ad5-3f84-4ad5-89c7-7575cefd339c"><bdi>Akershus</bdi></a>, <span class="flag flag-NO"><a href="/area/6743d351-6f37-3049-9724-5041161fff4d"><bdi>Norway</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-NO"><a href="/area/6743d351-6f37-3049-9724-5041161fff4d"><bdi>Norway</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/jazz"><bdi>jazz</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.arildandersen.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000927413">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/268963">Discogs</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/2655311">VIAF: 2655311</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q641035">Q641035</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Arild_Andersen">en: Arild Andersen</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/bfb665cf-1701-4e26-8e46-551b9da1ee7d/relationships" title="Andersen, Arild"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbfb665cf-1701-4e26-8e46-551b9da1ee7d">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-05-07 03:44 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

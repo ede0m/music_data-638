@@ -1,0 +1,784 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Seether - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2002, Area: South Africa"/><script type="application/ld+json">{"foundingDate":"2002","@context":"http://schema.org","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","member":[{"startDate":"2003","member":{"name":"John Humphrey","@id":"https://musicbrainz.org/artist/0dacab2b-b783-4978-a037-95434d8ba0e8","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":"drums"},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6cf028d2-0366-4cb8-9198-c86569f5b0d4","name":"Shaun Morgan"},"roleName":[],"@type":"OrganizationRole"},{"roleName":"bass guitar","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Dale Stewart","@id":"https://musicbrainz.org/artist/d64a8727-d962-4092-9d40-32ec9c39fbb4"},"startDate":"2002"}],"name":"Seether","album":[{"@type":"MusicAlbum","creditedTo":"Seether","name":"Disclaimer","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e20365c7-6b99-37b7-8897-0d8248e3bf61","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether","@type":"MusicGroup"},"name":"Disclaimer II","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a39ffd6f-eaab-32ec-9fd6-20241d661c72","@type":"MusicAlbum","creditedTo":"Seether"},{"@type":"MusicAlbum","creditedTo":"Seether","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/db23ed1e-c841-3ce5-a4ed-d3a0ab80ddf5","albumProductionType":"http://schema.org/StudioAlbum","name":"Karma and Effect","byArtist":{"@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether","@type":"MusicGroup"}},{"creditedTo":"Seether","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/082a1e9b-50ff-4783-8ee8-8da279c16ec7","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Finding Beauty in Negative Spaces","byArtist":{"@type":"MusicGroup","name":"Seether","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Holding Onto Strings Better Left to Fray","@id":"https://musicbrainz.org/release-group/3f1b7957-99b8-4a52-ada1-b42edc2d5f84","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Seether"},{"byArtist":{"@type":"MusicGroup","name":"Seether","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/574091cd-0e20-4e60-8cec-9bbda21cc9b8","albumProductionType":"http://schema.org/StudioAlbum","name":"Isolate and Medicate","creditedTo":"Seether","@type":"MusicAlbum"},{"creditedTo":"Seether","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether"},"@id":"https://musicbrainz.org/release-group/f59eadc1-bf66-4b8b-b0f7-e6b625190e3c","albumReleaseType":"http://schema.org/AlbumRelease","name":"Seether: 2002-2013","albumProductionType":"http://schema.org/CompilationAlbum"},{"creditedTo":"Seether","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"One Cold Night","@id":"https://musicbrainz.org/release-group/f86eeee6-99a3-374e-9a04-eb3e93ca032f","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether"}},{"creditedTo":"Seether feat. Amy Lee","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/f719ac6e-68db-3ee6-90ab-f652fd2d2cd7","albumReleaseType":"http://schema.org/SingleRelease","name":"Broken","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether"},{"@type":["Person","MusicGroup"],"name":"Amy Lee","@id":"https://musicbrainz.org/artist/7ee89158-3446-4044-bb88-0dcc4d4cd6c0"}]},{"name":"Remedy","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/738d5ce3-7497-34a4-88ad-665a288aa1e5","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Seether","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e"},"@type":"MusicAlbum","creditedTo":"Seether"},{"@type":"MusicAlbum","creditedTo":"Seether","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/038e4014-33b7-31ae-bcd9-d78dcde35df1","albumProductionType":"http://schema.org/StudioAlbum","name":"The Gift","byArtist":{"@type":"MusicGroup","name":"Seether","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e"}},{"@id":"https://musicbrainz.org/release-group/fe9fd813-7ae6-3fb6-9022-a07008c28aa1","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Careless Whisper","byArtist":{"@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Seether"},{"@type":"MusicAlbum","creditedTo":"Seether","albumProductionType":"http://schema.org/StudioAlbum","name":"Country Song","@id":"https://musicbrainz.org/release-group/6ffa9c15-7e02-4af7-b11e-e1f95ff4bfd2","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether","@type":"MusicGroup"}},{"creditedTo":"Seether","@type":"MusicAlbum","byArtist":{"name":"Seether","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","@type":"MusicGroup"},"name":"Fine Again EP","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/564cf156-4a2d-3c98-b83f-2ae9fbcc4342","albumReleaseType":"http://schema.org/EPRelease"},{"@type":"MusicAlbum","creditedTo":"Seether","byArtist":{"name":"Seether","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/ad2e4be8-45ad-3501-b6b6-cf0a9078f556","name":"iTunes Originals"},{"@type":"MusicAlbum","creditedTo":"Seether","byArtist":{"@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e","name":"Seether","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Rhapsody Originals","@id":"https://musicbrainz.org/release-group/61d7943f-2cf6-3618-aa88-ac5c6f297bec"},{"@type":"MusicAlbum","creditedTo":"Seether","byArtist":{"@type":"MusicGroup","name":"Seether","@id":"https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Rarities \u0026 B-Sides","@id":"https://musicbrainz.org/release-group/c8481e6a-3b9e-4918-ad55-357cdb0808fb"}],"sameAs":["http://en.wikipedia.org/wiki/Seether","http://rateyourmusic.com/artist/seether","http://secondhandsongs.com/artist/49527","http://viaf.org/viaf/152782615","http://www.allmusic.com/artist/mn0000625731","http://www.bbc.co.uk/music/artists/fbcd7b29-455f-49e6-9c4f-8249d20a055e","http://www.imdb.com/name/nm1630643/","http://www.last.fm/music/Seether","http://www.seether.com/","http://www.worldcat.org/identities/lccn-no2002085872/","https://www.discogs.com/artist/263225","https://www.wikidata.org/wiki/Q461448"],"@type":"MusicGroup","location":{"@type":"Country","@id":"https://musicbrainz.org/area/50cc7852-862e-30ae-aa82-385fe7135b7f","name":"South Africa"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ffbcd7b29-455f-49e6-9c4f-8249d20a055e">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Ffbcd7b29-455f-49e6-9c4f-8249d20a055e">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether – Seether"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/releases" title="Seether"><bdi>Releases</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/recordings" title="Seether"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/works" title="Seether"><bdi>Works</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/events" title="Seether"><bdi>Events</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/relationships" title="Seether"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/aliases" title="Seether"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/tags" title="Seether"><bdi>Tags</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/details" title="Seether"><bdi>Details</bdi></a></li>            <li><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/edit" title="Seether"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Seether</b> are a South African hard rock band founded in May 1999 in Pretoria, South Africa. The band originally performed under the name Saron Gas until 2002, when they adopted the Seether name. <i>Disclaimer</i> is their original album and major label debut. They gained mainstream popularity in 2002 with their US Active Rock number one single "Fine Again", and their success was sustained in 2004 with the single "Broken" which peaked at number 20 on the <i>Billboard</i> Hot 100. They have experienced continued success with number one hits on the Hot Mainstream Rock Tracks chart such as "Remedy", "Fake It", "Country Song" and "Words as Weapons".</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Seether">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=50832" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e20365c7-6b99-37b7-8897-0d8248e3bf61"><bdi>Disclaimer</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/a39ffd6f-eaab-32ec-9fd6-20241d661c72"><bdi>Disclaimer II</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:73%;">3.65</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/db23ed1e-c841-3ce5-a4ed-d3a0ab80ddf5"><bdi>Karma and Effect</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/082a1e9b-50ff-4783-8ee8-8da279c16ec7"><bdi>Finding Beauty in Negative Spaces</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/3f1b7957-99b8-4a52-ada1-b42edc2d5f84"><bdi>Holding Onto Strings Better Left to Fray</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/574091cd-0e20-4e60-8cec-9bbda21cc9b8"><bdi>Isolate and Medicate</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/f59eadc1-bf66-4b8b-b0f7-e6b625190e3c"><bdi>Seether: 2002-2013</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/f86eeee6-99a3-374e-9a04-eb3e93ca032f"><bdi>One Cold Night</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f719ac6e-68db-3ee6-90ab-f652fd2d2cd7"><bdi>Broken</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a> feat. <a href="/artist/7ee89158-3446-4044-bb88-0dcc4d4cd6c0" title="Lee, Amy (singer-songwriter of Evanescence)"><bdi>Amy Lee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/738d5ce3-7497-34a4-88ad-665a288aa1e5"><bdi>Remedy</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/038e4014-33b7-31ae-bcd9-d78dcde35df1"><bdi>The Gift</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/fe9fd813-7ae6-3fb6-9022-a07008c28aa1"><bdi>Careless Whisper</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/6ffa9c15-7e02-4af7-b11e-e1f95ff4bfd2"><bdi>Country Song</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/564cf156-4a2d-3c98-b83f-2ae9fbcc4342"><bdi>Fine Again EP</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Interview</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/ad2e4be8-45ad-3501-b6b6-cf0a9078f556"><bdi>iTunes Originals</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/61d7943f-2cf6-3618-aa88-ac5c6f297bec"><bdi>Rhapsody Originals</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c8481e6a-3b9e-4918-ad55-357cdb0808fb"><bdi>Rarities &amp; B-Sides</bdi></a></td>
+        
+        <td><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e" title="Seether"><bdi>Seether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Seether_Chili_Cookoff_2008.JPG/250px-Seether_Chili_Cookoff_2008.JPG"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Seether Chili Cookoff 2008.JPG">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2002 (14 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-ZA"><a href="/area/50cc7852-862e-30ae-aa82-385fe7135b7f"><bdi>South Africa</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span>    (<a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/ratings" title="Seether"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/alternative_metal"><bdi>alternative_metal</bdi></a>, <a href="/tag/post-grunge"><bdi>post-grunge</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.seether.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000625731">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/fbcd7b29-455f-49e6-9c4f-8249d20a055e">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/263225">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1630643/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Seether">Seether</a>
+          
+          
+        </li>               <li class="genius-favicon">
+          
+          
+          <a href="http://genius.com/artists/Seether">Genius</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Seether">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/seether">seether</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/seether">Rateyourmusic</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/lccn-no2002085872/">WorldCat</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/seether">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://secondhandsongs.com/artist/49527">SecondHandSongs</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="https://instagram.com/seetherofficial/">@seetherofficial</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/seetherofficial">@seetherofficial</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/seether">seether</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/seetherofficial">seetherofficial</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/152782615">VIAF: 152782615</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q461448">Q461448</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Seether">en: Seether</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/seethervideo">seethervideo</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/fbcd7b29-455f-49e6-9c4f-8249d20a055e/relationships" title="Seether"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ffbcd7b29-455f-49e6-9c4f-8249d20a055e">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2011-06-21 05:27 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

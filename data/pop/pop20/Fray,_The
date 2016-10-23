@@ -1,0 +1,735 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Fray - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2002 in Denver, Area: United States"/><script type="application/ld+json">{"foundingDate":"2002","groupOrigin":{"containedIn":{"containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country","name":"United States"},"@id":"https://musicbrainz.org/area/373183af-56db-44d7-b06a-5877c02c5f01","name":"Colorado","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/fc1aee9a-f1a8-45dc-8820-af6b5d7f7450","name":"Denver","@type":"City"},"sameAs":["http://en.wikipedia.org/wiki/The_Fray","http://isni-url.oclc.nl/isni/0000000118826060","http://rateyourmusic.com/artist/the_fray","http://viaf.org/viaf/151221423","http://www.allmusic.com/artist/mn0000860561","http://www.bbc.co.uk/music/artists/2ddd167f-5b8a-4372-b350-6ad50493bac0","http://www.imdb.com/name/nm2119171/","http://www.last.fm/music/The\u002bFray","http://www.secondhandsongs.com/artist/28080","http://www.thefray.com/","https://www.discogs.com/artist/616311","https://www.wikidata.org/wiki/Q271513"],"album":[{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9b31a203-647f-3077-80c7-78e41cf73018","creditedTo":"The Fray","byArtist":{"@type":"MusicGroup","name":"The Fray","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"@type":"MusicAlbum","name":"How to Save a Life"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/74f88ce4-aaaf-3aa8-8c4c-bfed56285e99","creditedTo":"The Fray","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","@type":"MusicGroup","name":"The Fray"},"name":"The Fray"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","name":"The Fray","@type":"MusicGroup"},"name":"Scars \u0026 Stories","creditedTo":"The Fray","@id":"https://musicbrainz.org/release-group/8a7dfa1d-eb08-46ae-a755-ff3c92b61f43","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"The Fray","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","name":"The Fray","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Helios","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c48b6273-ccd1-477a-9776-c45cfdf5faea"},{"creditedTo":"The Fray","byArtist":{"@type":"MusicGroup","name":"The Fray","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"@type":"MusicAlbum","name":"Through the Years: The Best of The Fray","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/3c362947-fa71-4559-b454-671cc164559f"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","@type":"MusicGroup","name":"The Fray"},"name":"Live at the Electric Factory: Bootleg No. 1","creditedTo":"The Fray","@id":"https://musicbrainz.org/release-group/1f5336f8-4880-3603-b46a-2cf993b79045","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/9608844d-3041-418d-8e52-1a44c4c081c6","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","@type":"MusicGroup","name":"The Fray"},"name":"iTunes Live from SoHo","creditedTo":"The Fray"},{"creditedTo":"The Fray","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","name":"The Fray","@type":"MusicGroup"},"name":"Happy Xmas (War Is Over)","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a84f93e8-5bdf-4581-8619-757d4cab969d"},{"creditedTo":"The Fray","@type":"MusicAlbum","byArtist":{"name":"The Fray","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"name":"How to Save a Life","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4bdc7712-c4d8-352d-9390-d47ba8c06b6c"},{"byArtist":{"name":"The Fray","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"name":"Over My Head (Cable Car)","@type":"MusicAlbum","creditedTo":"The Fray","@id":"https://musicbrainz.org/release-group/89d6b375-4430-42c8-8908-a0d9353568fb","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/dfaa0c78-37b4-3e74-b552-be0285730975","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"The Fray","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"@type":"MusicAlbum","name":"She Is","creditedTo":"The Fray"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/39dc9a66-d217-30c9-a4a1-19fbf4b788c6","creditedTo":"The Fray","@type":"MusicAlbum","byArtist":{"name":"The Fray","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"name":"You Found Me"},{"byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","name":"The Fray","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Heartbeat","creditedTo":"The Fray","@id":"https://musicbrainz.org/release-group/cf436455-5492-4a13-a88d-b1d8aa6de647","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Singing Low","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","name":"The Fray","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"The Fray","@id":"https://musicbrainz.org/release-group/146b4863-0511-4296-b9bb-43b2b1f97c39","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ad8280b6-d2f6-4a12-b1eb-5d5d6c7a0187","creditedTo":"The Fray","name":"Movement EP","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","name":"The Fray","@type":"MusicGroup"},"@type":"MusicAlbum"},{"byArtist":{"name":"The Fray","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"@type":"MusicAlbum","name":"Reason EP","creditedTo":"The Fray","@id":"https://musicbrainz.org/release-group/ea9a78e7-4ada-33d4-bd25-9d10947567d2","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/c2219a9a-fe90-4d11-983d-eb950dd54bdf","creditedTo":"The Fray","name":"Christmas EP","byArtist":{"name":"The Fray","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"@type":"MusicAlbum"},{"creditedTo":"The Fray","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"The Fray","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"name":"Covers","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/bf031558-e64b-4dc3-9d14-56ba9ef2cff7"},{"albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/81e126bc-a25c-314c-94f8-5ff80d1a02de","creditedTo":"The Fray","byArtist":{"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","name":"The Fray","@type":"MusicGroup"},"name":"Acoustic in Nashville: Bootleg No. 2","@type":"MusicAlbum"},{"creditedTo":"The Fray","name":"Live From the 9:30 Club: Bootleg No. 3","byArtist":{"name":"The Fray","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/d66ef3b4-a9f9-4be1-9d35-ce48b8a53bfc"}],"@context":"http://schema.org","member":[{"member":{"name":"Ben Wysocki","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/60542afd-da73-4c21-ad47-0e9d37a1ffbd"},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Joe King","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7046105f-a02f-4053-8314-94b1ced8216f"}},{"roleName":[],"@type":"OrganizationRole","member":{"name":"Dave Welsh","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9e9874f5-46e2-45ae-820b-3316ae06d5db"}},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Isaac Slade","@id":"https://musicbrainz.org/artist/c6029add-33ca-4a0a-8fa5-c47a1c4b2f9d"}}],"@id":"https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0","@type":"MusicGroup","name":"The Fray","location":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F2ddd167f-5b8a-4372-b350-6ad50493bac0">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F2ddd167f-5b8a-4372-b350-6ad50493bac0">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0" title="Fray, The"><bdi>The Fray</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0" title="The Fray – Fray, The"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/releases" title="Fray, The"><bdi>Releases</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/recordings" title="Fray, The"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/works" title="Fray, The"><bdi>Works</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/events" title="Fray, The"><bdi>Events</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/relationships" title="Fray, The"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/aliases" title="Fray, The"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/tags" title="Fray, The"><bdi>Tags</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/details" title="Fray, The"><bdi>Details</bdi></a></li>            <li><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/edit" title="Fray, The"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>The Fray</b> is an American rock band from Denver, Colorado. Formed in 2002 by schoolmates Isaac Slade and Joe King, they achieved success with the release of their debut album, <i>How to Save a Life</i> in 2005, which was certified double platinum by the RIAA and platinum in Australia, Canada, New Zealand and the UK. The Fray achieved national success with their first single, "Over My Head (Cable Car)", which became a top ten hit in the United States. The release of their second single, "How to Save a Life", brought the band worldwide fame. The song charted in the top three of the <i>Billboard</i> Hot 100 and was a top 5 single in Australia, Canada, Ireland, Italy, Spain, Sweden, and the United Kingdom.</p>
+<p>The group's self-titled, second album, released in 2009, debuted at number-one on the <i>Billboard</i> charts and was certified gold in the United States, Australia and Canada. It was also nominated for a Grammy Award for Best Pop Vocal Album in 2010. While both the albums were commercially successful, critical reception was mixed. The Fray was ranked No. 84 on <i>Billboard</i><span>'</span>s "Artists of the Decade" list. Their third album <i>Scars &amp; Stories</i>, released in 2012, achieved moderate commercial success; debuting and peaking at number four on the Billboard 200. The album again received mixed reviews from critics. The band's fourth and latest album, <i>Helios</i>, was released in February 2014.</p>
+<p>The Fray's use of the piano as the lead instrument in their music has led critics to compare the band with English piano-driven bands such as Coldplay and Keane. However, the band lists its influences as the Wallflowers, Counting Crows, Better Than Ezra and U2.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/The_Fray">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=260777" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/9b31a203-647f-3077-80c7-78e41cf73018"><bdi>How to Save a Life</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/74f88ce4-aaaf-3aa8-8c4c-bfed56285e99"><bdi>The Fray</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/8a7dfa1d-eb08-46ae-a755-ff3c92b61f43"><bdi>Scars &amp; Stories</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/c48b6273-ccd1-477a-9776-c45cfdf5faea"><bdi>Helios</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/3c362947-fa71-4559-b454-671cc164559f"><bdi>Through the Years: The Best of The Fray</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/1f5336f8-4880-3603-b46a-2cf993b79045"><bdi>Live at the Electric Factory: Bootleg No. 1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/9608844d-3041-418d-8e52-1a44c4c081c6"><bdi>iTunes Live from SoHo</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/a84f93e8-5bdf-4581-8619-757d4cab969d"><bdi>Happy Xmas (War Is Over)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/4bdc7712-c4d8-352d-9390-d47ba8c06b6c"><bdi>How to Save a Life</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/89d6b375-4430-42c8-8908-a0d9353568fb"><bdi>Over My Head (Cable Car)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/dfaa0c78-37b4-3e74-b552-be0285730975"><bdi>She Is</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/39dc9a66-d217-30c9-a4a1-19fbf4b788c6"><bdi>You Found Me</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">11</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/cf436455-5492-4a13-a88d-b1d8aa6de647"><bdi>Heartbeat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/146b4863-0511-4296-b9bb-43b2b1f97c39"><bdi>Singing Low</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/ad8280b6-d2f6-4a12-b1eb-5d5d6c7a0187"><bdi>Movement EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ea9a78e7-4ada-33d4-bd25-9d10947567d2"><bdi>Reason EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/c2219a9a-fe90-4d11-983d-eb950dd54bdf"><bdi>Christmas EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/bf031558-e64b-4dc3-9d14-56ba9ef2cff7"><bdi>Covers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/81e126bc-a25c-314c-94f8-5ff80d1a02de"><bdi>Acoustic in Nashville: Bootleg No. 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/d66ef3b4-a9f9-4be1-9d35-ce48b8a53bfc"><bdi>Live From the 9:30 Club: Bootleg No. 3</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Fray%2C_April_29_2012.jpg/250px-The_Fray%2C_April_29_2012.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:The Fray, April 29 2012.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Fray, The</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2002 (14 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/fc1aee9a-f1a8-45dc-8820-af6b5d7f7450"><bdi>Denver</bdi></a>, <a href="/area/373183af-56db-44d7-b06a-5877c02c5f01"><bdi>Colorado</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000118826060">0000 0001 1882 6060    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/look%20after%20you"><bdi>look after you</bdi></a>, <a href="/tag/pop"><bdi>pop</bdi></a>, <a href="/tag/pop%20and%20chart"><bdi>pop and chart</bdi></a>, <a href="/tag/seen%20live"><bdi>seen live</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.thefray.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000860561">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/2ddd167f-5b8a-4372-b350-6ad50493bac0">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/616311">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm2119171/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/The+Fray">The Fray</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/thefray">thefray</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/the_fray">Rateyourmusic</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/thefray">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/28080">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/thefray">@thefray</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/TheFray">TheFray</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/the_fray">the_fray</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/151221423">VIAF: 151221423</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q271513">Q271513</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/The_Fray">en: The Fray</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/thefraySME">thefraySME</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/2ddd167f-5b8a-4372-b350-6ad50493bac0/relationships" title="Fray, The"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F2ddd167f-5b8a-4372-b350-6ad50493bac0">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-08-18 21:22 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

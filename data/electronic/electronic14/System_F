@@ -1,0 +1,715 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>System F - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person"/><script type="application/ld+json">{"alternateName":["Ferry Corsten","4x4","Albion","ByPass","Dance Therapy","Digital Control","Eon","Exiter","Ferr","Free Inside","Funk Einsatz","Kinky Toys","Moonman","Pulp Victim","Riptide","Sidewinder"],"sameAs":["http://www.avexnet.or.jp/systemf/","https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208","https://www.discogs.com/artist/68181"],"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@context":"http://schema.org","name":"System F","album":[{"name":"Out of the Blue","byArtist":{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]},"@id":"https://musicbrainz.org/release-group/2a4a861f-63de-3efd-9f43-eeed0f6b4be8","@type":"MusicAlbum","creditedTo":"System F","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]},"name":"Together","@id":"https://musicbrainz.org/release-group/fcf1148f-cef0-3b84-b4c2-e3f2b8cccbf8","creditedTo":"System F","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"System F / Gouryella","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Best","byArtist":[{"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F"},{"@type":"MusicGroup","name":"Gouryella","@id":"https://musicbrainz.org/artist/3b23f05a-ead2-47c6-b3dc-e0f3bb3e257a"}],"@id":"https://musicbrainz.org/release-group/6a0a3d21-ba57-33a1-803a-be610a3e3ef7"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F","sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Gouryella","@id":"https://musicbrainz.org/artist/3b23f05a-ead2-47c6-b3dc-e0f3bb3e257a"}],"name":"Best of System F \u0026 Gouryella, Part One","@id":"https://musicbrainz.org/release-group/c8f6a21b-14bb-4cdb-aee9-ffc53727aaf6","creditedTo":"System F \u0026 Gouryella","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/c89a4eec-f45d-4bc0-8842-450b9ffb0d27","name":"Best of System F \u0026 Gouryella, Part Two","byArtist":[{"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F"},{"@id":"https://musicbrainz.org/artist/3b23f05a-ead2-47c6-b3dc-e0f3bb3e257a","name":"Gouryella","@type":"MusicGroup"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"System F \u0026 Gouryella"},{"@type":"MusicAlbum","creditedTo":"System F / Ferry Corsten","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/DJMixAlbum"],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Ministry of Sound: Trance Nation","byArtist":[{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","name":"Ferry Corsten"}],"@id":"https://musicbrainz.org/release-group/c934f92c-f392-3eb1-b57c-8b547cf4ddea"},{"name":"Ministry of Sound: Trance Nation 2","byArtist":[{"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F","sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Ferry Corsten","@id":"https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384"}],"@id":"https://musicbrainz.org/release-group/8f1e65df-d8db-38da-abb4-acf9270cbc22","@type":"MusicAlbum","creditedTo":"System F / Ferry Corsten","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/DJMixAlbum"],"albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/DJMixAlbum"],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"System F vs. Armin van Buuren","@id":"https://musicbrainz.org/release-group/d13e94f4-bee6-37e7-a76f-afc5cb043298","name":"TranceMatch","byArtist":[{"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F","sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"]},{"name":"Armin van Buuren","@id":"https://musicbrainz.org/artist/477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df","@type":["Person","MusicGroup"]}]},{"name":"Ministry of Sound: Trance Nation Three","byArtist":[{"name":"Ferry Corsten","@id":"https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F","sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/58590c56-b241-3fde-8c29-cddc6ad98380","@type":"MusicAlbum","creditedTo":"Ferry Corsten / System F","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/DJMixAlbum"],"albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/DJMixAlbum"],"albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Ferry Corsten / System F","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/7c3be88f-7bdb-3060-b5a8-41604d4c003a","byArtist":[{"@id":"https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","name":"Ferry Corsten","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F","sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"]}],"name":"Ministry of Sound: Trance Nation Four"},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Ferry Corsten","@id":"https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384"},{"@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab"}],"name":"Ministry of Sound: Trance Nation 2001","@id":"https://musicbrainz.org/release-group/ca59dc15-c9cc-3c00-91da-41a162a04fa7","creditedTo":"Ferry Corsten / System F","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/DJMixAlbum"]},{"@id":"https://musicbrainz.org/release-group/a49708d4-6d52-442a-890c-d380b084fd47","byArtist":{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]},"name":"Champions","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/RemixAlbum"],"albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"System F","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"System F","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e119b5e5-eaa2-3484-9f88-46ee6b4fc52c","byArtist":{"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F","sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"]},"name":"Out of the Blue"},{"@type":"MusicAlbum","creditedTo":"System F","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Cry","byArtist":{"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F"},"@id":"https://musicbrainz.org/release-group/a7138aac-b307-3f49-9415-d4226c7e88ab"},{"name":"Soul on Soul","byArtist":[{"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F","sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Marc Almond","@id":"https://musicbrainz.org/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1"}],"@id":"https://musicbrainz.org/release-group/ea42840b-395c-3c98-8e49-5bd6e26e3581","@type":"MusicAlbum","creditedTo":"System F feat. Marc Almond","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"System F","@id":"https://musicbrainz.org/release-group/0c567e2d-efe9-3b69-91f2-e97c645552a8","name":"Dance Valley Theme 2001","byArtist":{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]}},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"System F feat. Armin van Buuren","@id":"https://musicbrainz.org/release-group/c811db12-d20f-39cb-a74f-7e516e9e10d2","name":"Exhale","byArtist":[{"@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab"},{"@type":["Person","MusicGroup"],"name":"Armin van Buuren","@id":"https://musicbrainz.org/artist/477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df"}]},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"System F","@id":"https://musicbrainz.org/release-group/a8edd069-5a22-3761-bef3-e9dbe1101594","name":"Spaceman","byArtist":{"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F"}},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"System F","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/4354c518-9410-3568-b1fa-9f0ba7a95dab","byArtist":{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]},"name":"Insolation"},{"@id":"https://musicbrainz.org/release-group/8a83d1a6-abb4-4539-b109-9e54d6cb079a","name":"Indian Summer","byArtist":{"@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"System F"},{"byArtist":{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]},"name":"Solstice","@id":"https://musicbrainz.org/release-group/343eaeb8-b3d0-47c7-9d7c-65e25ac6cfc1","creditedTo":"System F","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/78e79b58-369c-3307-a160-17d26682b94a","byArtist":[{"name":"System F","@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","@type":["Person","MusicGroup"],"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"]},{"@type":["Person","MusicGroup"],"name":"Marc Almond","@id":"https://musicbrainz.org/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1"}],"name":"Soul on Soul: Remixed","albumProductionType":"http://schema.org/RemixAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"System F feat. Marc Almond","@type":"MusicAlbum"},{"creditedTo":"System F","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/RemixAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629","https://musicbrainz.org/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384","https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841","https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208"],"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab","name":"System F"},"name":"Needlejuice (Remixes)","@id":"https://musicbrainz.org/release-group/fe827bf0-fd3e-4556-919d-1e21ee7a1293"}],"performsAs":[{"name":"4x4","@id":"https://musicbrainz.org/artist/23f112e1-871f-4011-84cb-d6795d08d701","@type":["Person","MusicGroup"]},{"name":"Albion","@id":"https://musicbrainz.org/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"ByPass","@id":"https://musicbrainz.org/artist/bd1220ca-67a3-4746-831f-f1b0ef402841"},{"name":"Dance Therapy","@id":"https://musicbrainz.org/artist/02e1f705-557c-46bc-b705-c008e07fb451","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8cfbfe85-f5f6-4820-be56-904967d34a45","name":"Digital Control"},{"@id":"https://musicbrainz.org/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459","name":"Eon","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Exiter","@id":"https://musicbrainz.org/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b","name":"Ferr"},{"@id":"https://musicbrainz.org/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f","name":"Free Inside","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/128d373b-1799-4051-90b4-dee6f54d9703","name":"Funk Einsatz"},{"name":"Kinky Toys","@id":"https://musicbrainz.org/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/88a09807-3147-407b-b883-886be52ae1a4","name":"Moonman","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/fd053d94-3996-49f9-957a-9333df656208","name":"Pulp Victim"},{"name":"Riptide","@id":"https://musicbrainz.org/artist/7fc26177-f77d-431b-be91-becdb1f73560","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355","name":"Sidewinder","@type":["Person","MusicGroup"]}],"@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F4bee86b5-95c4-429a-8489-353516f815ab">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F4bee86b5-95c4-429a-8489-353516f815ab">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F – System F"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/releases" title="System F"><bdi>Releases</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/recordings" title="System F"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/works" title="System F"><bdi>Works</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/events" title="System F"><bdi>Events</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/relationships" title="System F"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/aliases" title="System F"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/tags" title="System F"><bdi>Tags</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/details" title="System F"><bdi>Details</bdi></a></li>            <li><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/edit" title="System F"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384" title="Corsten, Ferry"><bdi>Ferry Corsten</bdi></a></p>
+    <p><strong>Also performs as:</strong> <a href="/artist/23f112e1-871f-4011-84cb-d6795d08d701" title="4x4"><bdi>4x4</bdi></a>, <a href="/artist/5aee0d6b-d762-4d54-a45f-2025ffcfad29" title="Albion (Trance artist. Alias of Ferry Corsten, released Air)"><bdi>Albion</bdi></a> <span class="comment">(<bdi>Trance artist. Alias of Ferry Corsten, released Air</bdi>)</span>, <a href="/artist/bd1220ca-67a3-4746-831f-f1b0ef402841" title="ByPass (Trance, released Cyberia)"><bdi>ByPass</bdi></a> <span class="comment">(<bdi>Trance, released Cyberia</bdi>)</span>, <a href="/artist/02e1f705-557c-46bc-b705-c008e07fb451" title="Dance Therapy"><bdi>Dance Therapy</bdi></a>, <a href="/artist/8cfbfe85-f5f6-4820-be56-904967d34a45" title="Digital Control"><bdi>Digital Control</bdi></a>, <a href="/artist/6d6e1f2c-dc57-4880-8afc-d44847aea459" title="Eon (Ferry Corsten, released pocket Damage / Talk to Me)"><bdi>Eon</bdi></a> <span class="comment">(<bdi>Ferry Corsten, released pocket Damage / Talk to Me</bdi>)</span>, <a href="/artist/3a7a7b48-def3-4d3e-90f8-45370be9a629" title="Exiter"><bdi>Exiter</bdi></a>, <a href="/artist/f52868e8-fc81-4b92-8772-a8e55ea6838b" title="Ferr"><bdi>Ferr</bdi></a>, <a href="/artist/0b625fc1-df3c-4ce0-b9c2-1cc7329ba56f" title="Free Inside"><bdi>Free Inside</bdi></a>, <a href="/artist/128d373b-1799-4051-90b4-dee6f54d9703" title="Funk Einsatz"><bdi>Funk Einsatz</bdi></a>, <a href="/artist/1d272626-c9e1-4423-94bf-2ebfb15f2e05" title="Kinky Toys"><bdi>Kinky Toys</bdi></a>, <a href="/artist/88a09807-3147-407b-b883-886be52ae1a4" title="Moonman"><bdi>Moonman</bdi></a>, <a href="/artist/fd053d94-3996-49f9-957a-9333df656208" title="Pulp Victim"><bdi>Pulp Victim</bdi></a>, <a href="/artist/7fc26177-f77d-431b-be91-becdb1f73560" title="Riptide"><bdi>Riptide</bdi></a>, <a href="/artist/c0d1b655-c1fe-4529-9df3-9cafa5e15355" title="Sidewinder (Dutch trance producer Ferry Corsten)"><bdi>Sidewinder</bdi></a> <span class="comment">(<bdi>Dutch trance producer Ferry Corsten</bdi>)</span></p>
+  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=38110" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/2a4a861f-63de-3efd-9f43-eeed0f6b4be8"><bdi>Out of the Blue</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/fcf1148f-cef0-3b84-b4c2-e3f2b8cccbf8"><bdi>Together</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/6a0a3d21-ba57-33a1-803a-be610a3e3ef7"><bdi>Best</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> / <a href="/artist/3b23f05a-ead2-47c6-b3dc-e0f3bb3e257a" title="Gouryella"><bdi>Gouryella</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/c8f6a21b-14bb-4cdb-aee9-ffc53727aaf6"><bdi>Best of System F &amp; Gouryella, Part One</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> &amp; <a href="/artist/3b23f05a-ead2-47c6-b3dc-e0f3bb3e257a" title="Gouryella"><bdi>Gouryella</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/c89a4eec-f45d-4bc0-8842-450b9ffb0d27"><bdi>Best of System F &amp; Gouryella, Part Two</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> &amp; <a href="/artist/3b23f05a-ead2-47c6-b3dc-e0f3bb3e257a" title="Gouryella"><bdi>Gouryella</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation + DJ-mix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/c934f92c-f392-3eb1-b57c-8b547cf4ddea"><bdi>Ministry of Sound: Trance Nation</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> / <a href="/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384" title="Corsten, Ferry"><bdi>Ferry Corsten</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/8f1e65df-d8db-38da-abb4-acf9270cbc22"><bdi>Ministry of Sound: Trance Nation 2</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> / <a href="/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384" title="Corsten, Ferry"><bdi>Ferry Corsten</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/d13e94f4-bee6-37e7-a76f-afc5cb043298"><bdi>TranceMatch</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> vs. <a href="/artist/477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df" title="Buuren, van, Armin"><bdi>Armin van Buuren</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/58590c56-b241-3fde-8c29-cddc6ad98380"><bdi>Ministry of Sound: Trance Nation Three</bdi></a></td>
+        
+        <td><a href="/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384" title="Corsten, Ferry"><bdi>Ferry Corsten</bdi></a> / <a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/7c3be88f-7bdb-3060-b5a8-41604d4c003a"><bdi>Ministry of Sound: Trance Nation Four</bdi></a></td>
+        
+        <td><a href="/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384" title="Corsten, Ferry"><bdi>Ferry Corsten</bdi></a> / <a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ca59dc15-c9cc-3c00-91da-41a162a04fa7"><bdi>Ministry of Sound: Trance Nation 2001</bdi></a></td>
+        
+        <td><a href="/artist/47347cb8-ac34-4916-84b6-d85d4e5e5384" title="Corsten, Ferry"><bdi>Ferry Corsten</bdi></a> / <a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/a49708d4-6d52-442a-890c-d380b084fd47"><bdi>Champions</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/e119b5e5-eaa2-3484-9f88-46ee6b4fc52c"><bdi>Out of the Blue</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/a7138aac-b307-3f49-9415-d4226c7e88ab"><bdi>Cry</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ea42840b-395c-3c98-8e49-5bd6e26e3581"><bdi>Soul on Soul</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> feat. <a href="/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1" title="Almond, Marc (UK musician)"><bdi>Marc Almond</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/0c567e2d-efe9-3b69-91f2-e97c645552a8"><bdi>Dance Valley Theme 2001</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/c811db12-d20f-39cb-a74f-7e516e9e10d2"><bdi>Exhale</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> feat. <a href="/artist/477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df" title="Buuren, van, Armin"><bdi>Armin van Buuren</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/a8edd069-5a22-3761-bef3-e9dbe1101594"><bdi>Spaceman</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/4354c518-9410-3568-b1fa-9f0ba7a95dab"><bdi>Insolation</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/8a83d1a6-abb4-4539-b109-9e54d6cb079a"><bdi>Indian Summer</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/343eaeb8-b3d0-47c7-9d7c-65e25ac6cfc1"><bdi>Solstice</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/78e79b58-369c-3307-a160-17d26682b94a"><bdi>Soul on Soul: Remixed</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a> feat. <a href="/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1" title="Almond, Marc (UK musician)"><bdi>Marc Almond</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/fe827bf0-fd3e-4556-919d-1e21ee7a1293"><bdi>Needlejuice (Remixes)</bdi></a></td>
+        
+        <td><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab" title="System F"><bdi>System F</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/4bee86b5-95c4-429a-8489-353516f815ab/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/trance"><bdi>trance</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.avexnet.or.jp/systemf/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/68181">Discogs</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/4bee86b5-95c4-429a-8489-353516f815ab/relationships" title="System F"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F4bee86b5-95c4-429a-8489-353516f815ab">Log in to edit</a></li></ul>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,822 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Matchbox Twenty - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1996 in Orlando, Area: United States"/><script type="application/ld+json">{"@type":"MusicGroup","member":[{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Brian Yale","@id":"https://musicbrainz.org/artist/2904da71-5c17-43c3-8688-441a421cc1b0"},"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Paul Doucette","@id":"https://musicbrainz.org/artist/6ee757a8-3e1e-4f2f-9f1f-db9355fcac3e"}},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/e42680f7-e439-4666-9c2c-536c2b3c6db3","name":"Rob Thomas","@type":["Person","MusicGroup"]}}],"name":"Matchbox Twenty","album":[{"name":"Yourself or Someone Like You","@id":"https://musicbrainz.org/release-group/dbb71f1a-f9cb-3586-ba93-94150398368d","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty"},"creditedTo":"Matchbox Twenty"},{"creditedTo":"Matchbox Twenty","byArtist":{"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Mad Season","@id":"https://musicbrainz.org/release-group/8eda03d5-8934-3657-bebe-9b231380b299"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Matchbox Twenty","byArtist":{"name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","@type":"MusicGroup"},"name":"More Than You Think You Are","@id":"https://musicbrainz.org/release-group/a13e9013-0d60-3013-8d57-c48539c9dfea","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Matchbox Twenty","byArtist":{"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty","@type":"MusicGroup"},"name":"North","@id":"https://musicbrainz.org/release-group/1b6c629c-9920-4678-a578-8f78bb5558f6","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Exile on Mainstream","@id":"https://musicbrainz.org/release-group/01812e9d-4725-3b76-b209-a29b648bd72a","creditedTo":"Matchbox Twenty","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"VH-1 Storytellers","@id":"https://musicbrainz.org/release-group/cb21186d-2ad5-4378-b05a-a6cf6196af63","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"creditedTo":"Matchbox Twenty","albumProductionType":"http://schema.org/LiveAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","@type":"MusicGroup"},"creditedTo":"Matchbox Twenty","@id":"https://musicbrainz.org/release-group/490c10b7-d8ae-49c7-bb89-ab73c874acea","name":"MB20 Live 04-15-2013 Southampton","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty","@type":"MusicGroup"},"creditedTo":"Matchbox Twenty","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Live in Australia","@id":"https://musicbrainz.org/release-group/59e04974-f5f2-370c-b3ff-746bcff684e3"},{"@id":"https://musicbrainz.org/release-group/90044adc-ef4c-331f-8cef-f3ffecf408f2","name":"MTVs Live from the 10 Spot","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","@type":"MusicGroup"},"creditedTo":"Matchbox Twenty"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Show: A Night in the Life of Matchbox Twenty","@id":"https://musicbrainz.org/release-group/c35f1e88-a863-3b0e-b345-559980671213","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"creditedTo":"Matchbox Twenty","albumProductionType":"http://schema.org/LiveAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Matchbox Twenty","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty"},"@id":"https://musicbrainz.org/release-group/4e32f779-86a7-3d6e-a0b4-a15c2d85d56c","name":"3 A.M.","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"name":"Push","@id":"https://musicbrainz.org/release-group/67f25a6a-e3d6-3506-a1f7-a0d839f15c13","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"creditedTo":"Matchbox Twenty"},{"byArtist":{"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty","@type":"MusicGroup"},"creditedTo":"Matchbox Twenty","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Real World","@id":"https://musicbrainz.org/release-group/9e1f3fdd-8299-3004-b66e-1527ba40e828"},{"creditedTo":"Matchbox Twenty","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Girl Like That","@id":"https://musicbrainz.org/release-group/ed3d649a-5103-4f8d-bbb5-fa7b40b198d9"},{"@id":"https://musicbrainz.org/release-group/8f1832a5-8c87-3f81-bf7e-3b819a43c906","name":"Bent","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","@type":"MusicGroup"},"creditedTo":"Matchbox Twenty"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"If You're Gone","@id":"https://musicbrainz.org/release-group/b82642ff-f3a0-334c-aff7-54482f8136ba","creditedTo":"Matchbox Twenty","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty"},"albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Disease","@id":"https://musicbrainz.org/release-group/5614ec45-5e39-3c98-84a2-58f49e0286c2","creditedTo":"Matchbox Twenty","byArtist":{"name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Matchbox Twenty","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty"},"@id":"https://musicbrainz.org/release-group/a3eb5eb7-cbf0-35a2-87f3-c73671ab7d52","name":"Bright Lights","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"creditedTo":"Matchbox Twenty","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/09d56ee7-68f1-334d-905d-860db491f3b4","name":"Unwell"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty","@type":"MusicGroup"},"creditedTo":"Matchbox Twenty","name":"How Far We've Come","@id":"https://musicbrainz.org/release-group/14b6f0cb-1def-35db-a0b3-032838eb469d","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Matchbox Twenty","byArtist":{"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"These Hard Times","@id":"https://musicbrainz.org/release-group/aad7004d-bf73-4c2b-914e-df30a0ef6d32"},{"byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"creditedTo":"Matchbox Twenty","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"All Your Reasons","@id":"https://musicbrainz.org/release-group/658afd1b-6d2c-436f-8769-82ca07eb98e8"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"creditedTo":"Matchbox Twenty","name":"She's So Mean","@id":"https://musicbrainz.org/release-group/383a87f1-9f9c-4903-89aa-36d93cb8ea1b","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/157590f5-ff81-3647-b8d6-fa1ee0ec99a6","name":"e.p.","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","name":"Matchbox Twenty","@type":"MusicGroup"},"creditedTo":"Matchbox Twenty"},{"@id":"https://musicbrainz.org/release-group/913117f8-f10f-4cbc-8b89-8bf06225d13d","name":"iTunes Festival: London 2012","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Matchbox Twenty","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"}},{"@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/351328d5-f37b-3be8-89d4-e1f10b306ad4","name":"99x Studio Acoustic Sessions, B-sides \u0026 Rarities","byArtist":{"@type":"MusicGroup","name":"Matchbox Twenty","@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6"},"creditedTo":"Matchbox Twenty","albumProductionType":"http://schema.org/StudioAlbum"}],"@id":"https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6","@context":"http://schema.org","foundingDate":"1996","sameAs":["http://en.wikipedia.org/wiki/Matchbox_Twenty","http://musicmoz.org/Bands_and_Artists/M/Matchbox_Twenty/","http://rateyourmusic.com/artist/matchbox_twenty","http://viaf.org/viaf/135661063","http://www.allmusic.com/artist/mn0000383889","http://www.bbc.co.uk/music/artists/75af9d25-cf32-49c0-9192-60bd8e9784e6","http://www.imdb.com/name/nm1855510/","http://www.last.fm/music/Matchbox\u002bTwenty","http://www.matchboxtwenty.com/","http://www.secondhandsongs.com/artist/1992","https://www.discogs.com/artist/611856","https://www.wikidata.org/wiki/Q482444"],"groupOrigin":{"name":"Orlando","containedIn":{"@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/d2918f1a-c51e-4a4a-ad7f-cdd88877b25f","containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"name":"Florida"},"@id":"https://musicbrainz.org/area/ec1e55f4-03df-4ba1-a314-1ab959aa3fd6","@type":"City"},"location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F75af9d25-cf32-49c0-9192-60bd8e9784e6">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F75af9d25-cf32-49c0-9192-60bd8e9784e6">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6" title="Matchbox Twenty"><bdi>Matchbox Twenty</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6" title="Matchbox Twenty – Matchbox Twenty"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/releases" title="Matchbox Twenty"><bdi>Releases</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/recordings" title="Matchbox Twenty"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/works" title="Matchbox Twenty"><bdi>Works</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/events" title="Matchbox Twenty"><bdi>Events</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/relationships" title="Matchbox Twenty"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/aliases" title="Matchbox Twenty"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/tags" title="Matchbox Twenty"><bdi>Tags</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/details" title="Matchbox Twenty"><bdi>Details</bdi></a></li>            <li><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/edit" title="Matchbox Twenty"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>*PLEASE DO NOT EDIT THE NAME OF THIS ARTIST*</p>
+<p>All lowercase is correct, see the wikipedia page.</p>
+<p>pza: I see nothing on the wikipedia page to say that it should be lower case.  In fact, the wikipedia page suggests their name is Capitalised.  On their official web site, they are either referred to capitalised or in FULL CAPITALS.  Where did this all lower case come from?</p>
+<p>J9: I am capitalizing back the name until this is PROVEN wrong.</p>
+<p>Nyght: Actually, they used to use all lower case and it seems as if they've now chosen to go to all caps. I'll shift it to all caps. (just look at albums, if you question why the "history" of name changes)</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2008-09-07 19:53 UTC.
+            
+        </div>
+    </div>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Matchbox Twenty</b> (currently spelled officially, typeset as <b>Matchbox 20</b> in their early years) is an American rock band, formed in Orlando, Florida, in 1995. The group currently comprises Rob Thomas (lead vocals, piano, rhythm guitar), Brian Yale (bass), and Paul Doucette (lead and rhythm guitar, drums, backing vocals).</p>
+<p>Matchbox Twenty rose to international fame with their debut album, <i>Yourself or Someone Like You</i> (1996), which was certified 12× Platinum (diamond) in the United States and multi-platinum in Australia, Canada and New Zealand. Their second album, <i>Mad Season</i>, released in 2000, charted in the top three on the <i>Billboard</i> 200 and was certified 4× Platinum in the United States. Their third album, <i>More Than You Think You Are</i>, released in 2002, was only certified 2x Platinum in the United States, despite its singles receiving significant airplay. Director Bill Draheim documented the band throughout the process while making <i>More Than You Think You Are</i>. The documentary "Theresville" was an online extra.</p>
+<p>The band then went on hiatus in 2004, with rhythm guitarist Adam Gaynor leaving the band in 2005 after performing on the first three studio albums. As a result, Paul Doucette took over rhythm guitar, and the band reunited and released a compilation album, <i>Exile on Mainstream</i>, in 2007, which was certified Gold in the United States. After the release, former Push Stars drummer Ryan MacMillan filled Doucette's vacated drum spot. During this period, Rob Thomas embarked on a successful solo career. Matchbox Twenty then took another hiatus, but reunited again in 2010. The band released <i>North</i>, their fourth album, on September 4, 2012 which made its debut at number one on the <i>Billboard</i> 200.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Matchbox_Twenty">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1959" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/dbb71f1a-f9cb-3586-ba93-94150398368d"><bdi>Yourself or Someone Like You</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:67%;">3.35</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/8eda03d5-8934-3657-bebe-9b231380b299"><bdi>Mad Season</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/a13e9013-0d60-3013-8d57-c48539c9dfea"><bdi>More Than You Think You Are</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/1b6c629c-9920-4678-a578-8f78bb5558f6"><bdi>North</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/01812e9d-4725-3b76-b209-a29b648bd72a"><bdi>Exile on Mainstream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/cb21186d-2ad5-4378-b05a-a6cf6196af63"><bdi>VH-1 Storytellers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/490c10b7-d8ae-49c7-bb89-ab73c874acea"><bdi>MB20 Live 04-15-2013 Southampton</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/59e04974-f5f2-370c-b3ff-746bcff684e3"><bdi>Live in Australia</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/90044adc-ef4c-331f-8cef-f3ffecf408f2"><bdi>MTVs Live from the 10 Spot</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/c35f1e88-a863-3b0e-b345-559980671213"><bdi>Show: A Night in the Life of Matchbox Twenty</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/4e32f779-86a7-3d6e-a0b4-a15c2d85d56c"><bdi>3 A.M.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/67f25a6a-e3d6-3506-a1f7-a0d839f15c13"><bdi>Push</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/9e1f3fdd-8299-3004-b66e-1527ba40e828"><bdi>Real World</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/ed3d649a-5103-4f8d-bbb5-fa7b40b198d9"><bdi>Girl Like That</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/8f1832a5-8c87-3f81-bf7e-3b819a43c906"><bdi>Bent</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/b82642ff-f3a0-334c-aff7-54482f8136ba"><bdi>If You're Gone</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/5614ec45-5e39-3c98-84a2-58f49e0286c2"><bdi>Disease</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/a3eb5eb7-cbf0-35a2-87f3-c73671ab7d52"><bdi>Bright Lights</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/09d56ee7-68f1-334d-905d-860db491f3b4"><bdi>Unwell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/14b6f0cb-1def-35db-a0b3-032838eb469d"><bdi>How Far We've Come</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/aad7004d-bf73-4c2b-914e-df30a0ef6d32"><bdi>These Hard Times</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/658afd1b-6d2c-436f-8769-82ca07eb98e8"><bdi>All Your Reasons</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/383a87f1-9f9c-4903-89aa-36d93cb8ea1b"><bdi>She's So Mean</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/157590f5-ff81-3647-b8d6-fa1ee0ec99a6"><bdi>e.p.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/913117f8-f10f-4cbc-8b89-8bf06225d13d"><bdi>iTunes Festival: London 2012</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/351328d5-f37b-3be8-89d4-e1f10b306ad4"><bdi>99x Studio Acoustic Sessions, B-sides &amp; Rarities</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matchbox_twenty_in_MAA_03.jpg/250px-Matchbox_twenty_in_MAA_03.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Matchbox twenty in MAA 03.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1996 (20 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/ec1e55f4-03df-4ba1-a314-1ab959aa3fd6"><bdi>Orlando</bdi></a>, <a href="/area/d2918f1a-c51e-4a4a-ad7f-cdd88877b25f"><bdi>Florida</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/ratings" title="Matchbox Twenty"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/tag/post-grunge"><bdi>post-grunge</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/tags" title="Matchbox Twenty"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.matchboxtwenty.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000383889">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/75af9d25-cf32-49c0-9192-60bd8e9784e6">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/611856">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1855510/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Matchbox+Twenty">Matchbox Twenty</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/matchboxtwenty">matchboxtwenty</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/M/Matchbox_Twenty/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/matchbox_twenty">Rateyourmusic</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/1992">SecondHandSongs</a>
+          
+          
+        </li>               <li class="googleplus-favicon">
+          
+          
+          <a href="https://plus.google.com/+MatchboxTwenty">Google+</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/MatchboxTwenty">@MatchboxTwenty</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/matchboxtwenty">matchboxtwenty</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/135661063">VIAF: 135661063</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q482444">Q482444</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Matchbox_Twenty">en: Matchbox Twenty</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/matchboxtwentytv">matchboxtwentytv</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/75af9d25-cf32-49c0-9192-60bd8e9784e6/relationships" title="Matchbox Twenty"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F75af9d25-cf32-49c0-9192-60bd8e9784e6">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-01-15 20:26 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

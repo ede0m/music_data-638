@@ -1,0 +1,587 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Clean Bandit - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="British electronic group, Type: Group, Founded: 2009 in Cambridge, Area: United Kingdom"/><script type="application/ld+json">{"name":"Clean Bandit","@type":"MusicGroup","location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2","member":[{"member":{"name":"Luke Patterson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/398abf03-9d98-4095-91bb-341ecb8bd1af"},"roleName":"drums","@type":"OrganizationRole"},{"member":{"name":"Jack Patterson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/452b1e7d-9a64-408b-8c13-f29d25534662"},"roleName":"saxophone","@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/678f6664-93cc-4bf1-ad14-9025d1b23b7f","name":"Grace Chatto","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":"strings"},{"member":{"@id":"https://musicbrainz.org/artist/ec31aa43-ccf4-4a2a-8392-c2782232061d","name":"Milan Neil Amin-Smith","@type":["Person","MusicGroup"]},"roleName":"strings","@type":"OrganizationRole"}],"album":[{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/26096291-0084-4a21-8045-c948b3ef75ae","creditedTo":"Clean Bandit","name":"New Eyes","byArtist":{"name":"Clean Bandit","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},"@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/678a1bf5-dbdd-416b-8a53-d94453677c9c","creditedTo":"Clean Bandit feat. Kandaka Moore \u0026 Nikki Cislyn","byArtist":[{"@type":"MusicGroup","name":"Clean Bandit","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},{"name":"Kandaka Moore","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bcf3883c-a5a8-44ff-a468-eead6e2fafa5"},{"name":"Nikki Cislyn","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/898a6d12-abc5-42b2-b9f3-1cba410aaa69"}],"@type":"MusicAlbum","name":"A\u002bE"},{"@id":"https://musicbrainz.org/release-group/2cb45c2a-b213-48cc-8bc8-867a9efeac5f","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@type":"MusicGroup","name":"Gorgon City","@id":"https://musicbrainz.org/artist/ba8aaa28-2de4-4d5c-824e-1e9d49235c55"},{"@type":"MusicGroup","name":"Clean Bandit","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"}],"name":"Intentions","@type":"MusicAlbum","creditedTo":"Gorgon City feat. Clean Bandit"},{"byArtist":[{"name":"Clean Bandit","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},{"name":"Noonie Bao","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e292bc5a-ee7f-4160-97d5-d175983421ab"}],"name":"Dust Clears","@type":"MusicAlbum","creditedTo":"Clean Bandit feat. Noonie Bao","@id":"https://musicbrainz.org/release-group/a34e409e-2378-4598-ae92-23742b844daa","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fd56d63d-144f-4f31-b69c-7ccb3e5a76c3","creditedTo":"Clean Bandit feat. Jess Glynne","@type":"MusicAlbum","byArtist":[{"name":"Clean Bandit","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},{"@id":"https://musicbrainz.org/artist/89ccd7c3-b4f8-45a6-a53f-e903eaaf96be","name":"Jess Glynne","@type":["Person","MusicGroup"]}],"name":"Rather Be"},{"creditedTo":"Clean Bandit feat. Sharna Bass","byArtist":[{"@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2","name":"Clean Bandit","@type":"MusicGroup"},{"name":"Sharna Bass","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e41fac25-37da-40cd-a865-a21d6aadf1f1"}],"name":"Extraordinary","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/16427be8-b778-40cb-b1dc-819381fdea56"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/21dbd2c8-9894-4aa0-9f88-7364c2f15902","creditedTo":"Clean Bandit feat. Nikki Cislyn \u0026 Javeon","byArtist":[{"@type":"MusicGroup","name":"Clean Bandit","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},{"@id":"https://musicbrainz.org/artist/898a6d12-abc5-42b2-b9f3-1cba410aaa69","name":"Nikki Cislyn","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/8278e68d-6fb9-4a26-8225-7a8811424fc4","@type":["Person","MusicGroup"],"name":"Javeon"}],"name":"Cologne","@type":"MusicAlbum"},{"byArtist":[{"@type":"MusicGroup","name":"Clean Bandit","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},{"name":"Stylo G","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ae41ccb4-48cb-463a-841e-d9eb0a265d94"}],"name":"Come Over","@type":"MusicAlbum","creditedTo":"Clean Bandit feat. Stylo G","@id":"https://musicbrainz.org/release-group/82c8f513-22ee-46c0-ba1b-5ce5079e5cfa","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Clean Bandit feat. Jess Glynne","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2","name":"Clean Bandit","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/89ccd7c3-b4f8-45a6-a53f-e903eaaf96be","@type":["Person","MusicGroup"],"name":"Jess Glynne"}],"name":"Real Love","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a7eebcfc-8996-41df-bf9e-9ee76858f067"},{"creditedTo":"Clean Bandit","byArtist":{"@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2","name":"Clean Bandit","@type":"MusicGroup"},"name":"Stronger","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/77cf5e12-25cc-49d9-aeec-9748180401e7"},{"@id":"https://musicbrainz.org/release-group/468bfca3-b9e1-43f2-8755-0ee12e2f8ade","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"name":"Clean Bandit","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},{"@type":["Person","MusicGroup"],"name":"Louisa Johnson","@id":"https://musicbrainz.org/artist/82db997d-a2d4-416a-a541-b99d4154e238"}],"name":"Tears","@type":"MusicAlbum","creditedTo":"Clean Bandit feat. Louisa Johnson"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/40469ec6-f9e8-49b4-b49a-04c778128df7","creditedTo":"Clean Bandit","byArtist":{"@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2","@type":"MusicGroup","name":"Clean Bandit"},"name":"Mozart’s House","@type":"MusicAlbum"},{"creditedTo":"Clean Bandit","name":"3 EP","byArtist":{"name":"Clean Bandit","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/219e82f0-590d-46f6-b77f-431165f1e2d1"}],"foundingDate":"2009","groupOrigin":{"name":"Cambridge","@type":"City","@id":"https://musicbrainz.org/area/11ba7f4f-3fb9-4b4b-a72f-ab1cd9c37d99","containedIn":{"name":"Cambridgeshire","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"@id":"https://musicbrainz.org/area/a7206e39-259e-4d27-8c6c-7c29c3926385"}},"sameAs":["http://cleanbandit.co.uk/","http://en.wikipedia.org/wiki/Clean_Bandit","http://www.allmusic.com/artist/mn0003075358","https://rateyourmusic.com/artist/clean_bandit","https://www.discogs.com/artist/2792442","https://www.wikidata.org/wiki/Q11838808"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fdacc2d64-7e59-42a8-87a9-10c53919aff2">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fdacc2d64-7e59-42a8-87a9-10c53919aff2">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> <span class="comment">(<bdi>British electronic group</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit – Clean Bandit (British electronic group)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/releases" title="Clean Bandit (British electronic group)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/recordings" title="Clean Bandit (British electronic group)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/works" title="Clean Bandit (British electronic group)"><bdi>Works</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/events" title="Clean Bandit (British electronic group)"><bdi>Events</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/relationships" title="Clean Bandit (British electronic group)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/aliases" title="Clean Bandit (British electronic group)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/tags" title="Clean Bandit (British electronic group)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/details" title="Clean Bandit (British electronic group)"><bdi>Details</bdi></a></li>            <li><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/edit" title="Clean Bandit (British electronic group)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Clean Bandit</b> is an English electronic music group founded in Cambridge, England in 2009. The band consists of Jack Patterson, Luke Patterson, Grace Chatto, and Neil Amin-Smith. Their 2010 single "Mozart's House", released on Black Butter Records, reached number 17 on the UK Singles Chart. In January 2014, they scored their first UK Singles Chart-topping single with "Rather Be", a collaboration with Jess Glynne, featuring elements of both classical and dance music. "Rather Be" remained at the top of the chart for four weeks. In 2014, they achieved their first US top 10 single with "Rather Be" peaking at number 10 on the <i>Billboard</i> Hot 100. In 2015, "Rather Be" won the Grammy Award for Best Dance Recording.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/Clean_Bandit">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=871338" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/26096291-0084-4a21-8045-c948b3ef75ae"><bdi>New Eyes</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/678a1bf5-dbdd-416b-8a53-d94453677c9c"><bdi>A+E</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/bcf3883c-a5a8-44ff-a468-eead6e2fafa5" title="Moore, Kandaka"><bdi>Kandaka Moore</bdi></a> &amp; <a href="/artist/898a6d12-abc5-42b2-b9f3-1cba410aaa69" title="Cislyn, Nikki"><bdi>Nikki Cislyn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/2cb45c2a-b213-48cc-8bc8-867a9efeac5f"><bdi>Intentions</bdi></a></td>
+        
+        <td><a href="/artist/ba8aaa28-2de4-4d5c-824e-1e9d49235c55" title="Gorgon City"><bdi>Gorgon City</bdi></a> feat. <a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/a34e409e-2378-4598-ae92-23742b844daa"><bdi>Dust Clears</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/e292bc5a-ee7f-4160-97d5-d175983421ab" title="Bao, Noonie"><bdi>Noonie Bao</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/fd56d63d-144f-4f31-b69c-7ccb3e5a76c3"><bdi>Rather Be</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/89ccd7c3-b4f8-45a6-a53f-e903eaaf96be" title="Glynne, Jess"><bdi>Jess Glynne</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/16427be8-b778-40cb-b1dc-819381fdea56"><bdi>Extraordinary</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/e41fac25-37da-40cd-a865-a21d6aadf1f1" title="Bass, Sharna"><bdi>Sharna Bass</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/21dbd2c8-9894-4aa0-9f88-7364c2f15902"><bdi>Cologne</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/898a6d12-abc5-42b2-b9f3-1cba410aaa69" title="Cislyn, Nikki"><bdi>Nikki Cislyn</bdi></a> &amp; <a href="/artist/8278e68d-6fb9-4a26-8225-7a8811424fc4" title="Javeon (British singer)"><bdi>Javeon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/82c8f513-22ee-46c0-ba1b-5ce5079e5cfa"><bdi>Come Over</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/ae41ccb4-48cb-463a-841e-d9eb0a265d94" title="Stylo G"><bdi>Stylo G</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/a7eebcfc-8996-41df-bf9e-9ee76858f067"><bdi>Real Love</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/89ccd7c3-b4f8-45a6-a53f-e903eaaf96be" title="Glynne, Jess"><bdi>Jess Glynne</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/77cf5e12-25cc-49d9-aeec-9748180401e7"><bdi>Stronger</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/468bfca3-b9e1-43f2-8755-0ee12e2f8ade"><bdi>Tears</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a> feat. <a href="/artist/82db997d-a2d4-416a-a541-b99d4154e238" title="Louisa Johnson"><bdi>Louisa Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/40469ec6-f9e8-49b4-b49a-04c778128df7"><bdi>Mozart’s House</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/219e82f0-590d-46f6-b77f-431165f1e2d1"><bdi>3 EP</bdi></a></td>
+        
+        <td><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2" title="Clean Bandit (British electronic group)"><bdi>Clean Bandit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Clean_Bandit.jpg/250px-Clean_Bandit.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Clean Bandit.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2009 (7 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/11ba7f4f-3fb9-4b4b-a72f-ab1cd9c37d99"><bdi>Cambridge</bdi></a>, <a href="/area/a7206e39-259e-4d27-8c6c-7c29c3926385"><bdi>Cambridgeshire</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/dance-pop"><bdi>dance-pop</bdi></a>, <a href="/tag/dancehall"><bdi>dancehall</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/house"><bdi>house</bdi></a>, <a href="/tag/tech%20house"><bdi>tech house</bdi></a>, <a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/tags" title="Clean Bandit (British electronic group)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://cleanbandit.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0003075358">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/2792442">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/clean_bandit">Rateyourmusic</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="http://instagram.com/cleanbandit">@cleanbandit</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/cleanbandit">@cleanbandit</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/cleanbandit">cleanbandit</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/cleanbandit">cleanbandit</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q11838808">Q11838808</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Clean_Bandit">en: Clean Bandit</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/cleanbandit">cleanbandit</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/dacc2d64-7e59-42a8-87a9-10c53919aff2/relationships" title="Clean Bandit (British electronic group)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fdacc2d64-7e59-42a8-87a9-10c53919aff2">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-01-18 03:52 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

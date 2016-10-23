@@ -1,0 +1,796 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Combichrist - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2003 in Norway, Area: Atlanta"/><script type="application/ld+json">{"foundingDate":"2003","@context":"http://schema.org","member":[{"roleName":"bass guitar","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Brent Ashley","@id":"https://musicbrainz.org/artist/087323fa-73c2-4944-ae6f-b9e6503f4a4d"}},{"endDate":"2015-02-26","member":{"name":"Abbey Nex","@id":"https://musicbrainz.org/artist/6c44d07e-dc3e-489c-9848-7ef2208c4a94","@type":["Person","MusicGroup"]},"roleName":"bass","@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/b268ad29-8bf2-44f5-8946-8d00e97441a9","name":"Joe Letz","@type":["Person","MusicGroup"]},"roleName":"drums","@type":"OrganizationRole"},{"member":{"name":"Andy LaPlegua","@id":"https://musicbrainz.org/artist/d2658433-00c6-4dd6-8422-9abf8c4945dc","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"}],"name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","album":[{"albumProductionType":"http://schema.org/StudioAlbum","name":"The Joy of Gunz","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d9ffee7f-f34d-38fc-8fe5-b5ca6a37cfcf","byArtist":{"name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Combichrist"},{"@id":"https://musicbrainz.org/release-group/c76ecfd5-4ced-3f7d-8dda-9a324ba092ee","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Everybody Hates You","byArtist":{"@type":"MusicGroup","name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"},"creditedTo":"Combichrist","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Combichrist","name":"What the Fuck Is Wrong With You People?","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5c089bbf-880b-32f6-8e45-35421ce19104","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Today We Are All Demons","@id":"https://musicbrainz.org/release-group/2f408b28-d891-38ed-a279-032e6eb2224c","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"},"creditedTo":"Combichrist","@type":"MusicAlbum"},{"creditedTo":"Combichrist","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Making Monsters","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2490eda6-e0d7-48ee-818b-45c0c52edcc5"},{"byArtist":{"@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"We Love You","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f88d9e95-00e2-44b5-b46b-eb9299b828ae","@type":"MusicAlbum","creditedTo":"Combichrist"},{"name":"This Is Where Death Begins","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7802275e-62b1-4421-86bd-519d447f454c","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist"},"@type":"MusicAlbum","creditedTo":"Combichrist"},{"creditedTo":"Combichrist","@type":"MusicAlbum","byArtist":{"name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","@type":"MusicGroup"},"name":"Noise Collection, Volume 1","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d8f0c849-91c5-4fd0-9de7-3e06c880c1de"},{"@type":"MusicAlbum","creditedTo":"Combichrist","@id":"https://musicbrainz.org/release-group/3679e2d6-aaae-490c-acf9-3c0c4d532f13","albumReleaseType":"http://schema.org/AlbumRelease","name":"No Redemption","albumProductionType":"http://schema.org/SoundtrackAlbum","byArtist":{"@type":"MusicGroup","name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"}},{"name":"DmC: Devil May Cry Soundtrack Selection","albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/6cd271a0-cdf5-4ba1-8c76-0d7610417087","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/ec22a32b-acab-432e-a88c-ffe6ae68fa16","name":"Noisia"},{"@type":"MusicGroup","name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"}],"creditedTo":"Noisia / Combichrist","@type":"MusicAlbum"},{"creditedTo":"Combichrist","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/921967e6-94c4-4bdf-a383-e02739b2ffb2","albumReleaseType":"http://schema.org/SingleRelease","name":"Never Surrender","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/28f8a295-1a7b-43c6-b8fd-2d3a94a3d9e4","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Throat Full of Glass","creditedTo":"Combichrist","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6507ce73-489c-414a-8879-612a248e16a6","albumProductionType":"http://schema.org/StudioAlbum","name":"From My Cold Dead Hands","creditedTo":"Combichrist","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Combichrist","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/acd3570f-4da1-350c-8200-344c35427fd0","name":"Kiss the Blade","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist"}},{"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/cf0e97da-a4e0-3454-b61e-019738887377","name":"Sex, Drogen und Industrial","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist","@type":"MusicGroup"},"creditedTo":"Combichrist","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist"},"name":"Blut Royale","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/691ef1f4-eb6c-304a-a7bf-4e8462cc9395","creditedTo":"Combichrist","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"},"@id":"https://musicbrainz.org/release-group/3ef729ec-51f2-3f0a-9e5e-3590f1f4cb5a","albumReleaseType":"http://schema.org/EPRelease","name":"Get Your Body Beat","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Combichrist","@type":"MusicAlbum"},{"creditedTo":"Combichrist","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/9461cdee-417c-3594-b930-8e036a723828","albumProductionType":"http://schema.org/StudioAlbum","name":"Frost EP: Sent to Destroy","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist"}},{"creditedTo":"Combichrist","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd"},"@id":"https://musicbrainz.org/release-group/9a519ed2-660d-4ab1-88bc-5f6c7263650e","albumReleaseType":"http://schema.org/EPRelease","name":"Gothic Cruise","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","name":"Combichrist","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/65368987-e405-32b6-8efc-4d38ce63720c","albumReleaseType":"http://schema.org/EPRelease","name":"Heat EP: All Pain Is Beat","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Combichrist","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Combichrist","byArtist":{"name":"Combichrist","@id":"https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Scarred","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/5b67af8a-c802-4039-acf8-05242db71550"}],"sameAs":["http://combichrist.livejournal.com/","http://en.wikipedia.org/wiki/Combichrist","http://rateyourmusic.com/artist/combichrist","http://viaf.org/viaf/125887175","http://viaf.org/viaf/159074532","http://viaf.org/viaf/167524235","http://www.allmusic.com/artist/mn0000676088","http://www.combichrist.com/","http://www.imdb.com/name/nm4181534/","http://www.last.fm/music/Combichrist","https://www.discogs.com/artist/139618","https://www.wikidata.org/wiki/Q266782"],"groupOrigin":{"@type":"Country","name":"Norway","@id":"https://musicbrainz.org/area/6743d351-6f37-3049-9724-5041161fff4d"},"@type":"MusicGroup","location":{"@type":"City","containedIn":{"@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"@id":"https://musicbrainz.org/area/d10ba752-c9ce-4804-afc0-7ff94aa5d8d6","name":"Georgia"},"@id":"https://musicbrainz.org/area/26e0e534-19ea-4645-bfb3-1aa4e83a4046","name":"Atlanta"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc29f4522-f710-4bb5-a06b-d436fcc3b2fd">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fc29f4522-f710-4bb5-a06b-d436fcc3b2fd">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist – Combichrist"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/releases" title="Combichrist"><bdi>Releases</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/recordings" title="Combichrist"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/works" title="Combichrist"><bdi>Works</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/events" title="Combichrist"><bdi>Events</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/relationships" title="Combichrist"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/aliases" title="Combichrist"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/tags" title="Combichrist"><bdi>Tags</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/details" title="Combichrist"><bdi>Details</bdi></a></li>            <li><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/edit" title="Combichrist"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=141816" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/d9ffee7f-f34d-38fc-8fe5-b5ca6a37cfcf"><bdi>The Joy of Gunz</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/c76ecfd5-4ced-3f7d-8dda-9a324ba092ee"><bdi>Everybody Hates You</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/5c089bbf-880b-32f6-8e45-35421ce19104"><bdi>What the Fuck Is Wrong With You People?</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/2f408b28-d891-38ed-a279-032e6eb2224c"><bdi>Today We Are All Demons</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/2490eda6-e0d7-48ee-818b-45c0c52edcc5"><bdi>Making Monsters</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/f88d9e95-00e2-44b5-b46b-eb9299b828ae"><bdi>We Love You</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/7802275e-62b1-4421-86bd-519d447f454c"><bdi>This Is Where Death Begins</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d8f0c849-91c5-4fd0-9de7-3e06c880c1de"><bdi>Noise Collection, Volume 1</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/3679e2d6-aaae-490c-acf9-3c0c4d532f13"><bdi>No Redemption</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/6cd271a0-cdf5-4ba1-8c76-0d7610417087"><bdi>DmC: Devil May Cry Soundtrack Selection</bdi></a></td>
+        
+        <td><a href="/artist/ec22a32b-acab-432e-a88c-ffe6ae68fa16" title="Noisia (Dutch electronic music trio Nik Roos, Thijs De Vlieger &amp; Martijn Van Sonder)"><bdi>Noisia</bdi></a> / <a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/921967e6-94c4-4bdf-a383-e02739b2ffb2"><bdi>Never Surrender</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/28f8a295-1a7b-43c6-b8fd-2d3a94a3d9e4"><bdi>Throat Full of Glass</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/6507ce73-489c-414a-8879-612a248e16a6"><bdi>From My Cold Dead Hands</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/acd3570f-4da1-350c-8200-344c35427fd0"><bdi>Kiss the Blade</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/cf0e97da-a4e0-3454-b61e-019738887377"><bdi>Sex, Drogen und Industrial</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/691ef1f4-eb6c-304a-a7bf-4e8462cc9395"><bdi>Blut Royale</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/3ef729ec-51f2-3f0a-9e5e-3590f1f4cb5a"><bdi>Get Your Body Beat</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/9461cdee-417c-3594-b930-8e036a723828"><bdi>Frost EP: Sent to Destroy</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/9a519ed2-660d-4ab1-88bc-5f6c7263650e"><bdi>Gothic Cruise</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/65368987-e405-32b6-8efc-4d38ce63720c"><bdi>Heat EP: All Pain Is Beat</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/5b67af8a-c802-4039-acf8-05242db71550"><bdi>Scarred</bdi></a></td>
+        
+        <td><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd" title="Combichrist"><bdi>Combichrist</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2003 (13 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><span class="flag flag-NO"><a href="/area/6743d351-6f37-3049-9724-5041161fff4d"><bdi>Norway</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><a href="/area/26e0e534-19ea-4645-bfb3-1aa4e83a4046"><bdi>Atlanta</bdi></a>, <a href="/area/d10ba752-c9ce-4804-afc0-7ff94aa5d8d6"><bdi>Georgia</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span>    (<a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/ratings" title="Combichrist"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/aggrotech"><bdi>aggrotech</bdi></a>, <a href="/tag/ebm"><bdi>ebm</bdi></a>, <a href="/tag/harsh%20ebm"><bdi>harsh ebm</bdi></a>, <a href="/tag/electro-industrial"><bdi>electro-industrial</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/tags" title="Combichrist"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.combichrist.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000676088">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/139618">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm4181534/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Combichrist">Combichrist</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Combichrist">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/combichrist">combichrist</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/combichrist">Rateyourmusic</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/us/artist/id49450697">iTunes</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="http://instagram.com/combichrist">@combichrist</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/combichristarmy">@combichristarmy</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/combichrist">combichrist</a>
+          
+          
+        </li>               <li class="vk-favicon">
+          
+          
+          <a href="http://vk.com/combichrist_official">combichrist_official</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/combichrist">combichrist</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/125887175">VIAF: 125887175</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/159074532">VIAF: 159074532</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/167524235">VIAF: 167524235</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q266782">Q266782</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Combichrist">en: Combichrist</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/CombichristOfficial">CombichristOfficial</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/c29f4522-f710-4bb5-a06b-d436fcc3b2fd/relationships" title="Combichrist"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc29f4522-f710-4bb5-a06b-d436fcc3b2fd">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-12-08 21:45 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

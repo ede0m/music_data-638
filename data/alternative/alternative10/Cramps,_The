@@ -1,0 +1,835 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Cramps - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1976 in New York, Dissolved: 2009 in New York, Area: United States"/><script type="application/ld+json">{"member":[{"roleName":"drums","@type":"OrganizationRole","endDate":"1991-01","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0f3d19da-27b4-47fa-b329-f2298a52d8b0","name":"Nick Knox"},"startDate":"1977-07"},{"@type":"OrganizationRole","roleName":[],"endDate":"1983","member":{"name":"Kid Congo Powers","@id":"https://musicbrainz.org/artist/46c5862a-ccbb-4bd9-8c48-2d8d992e38f3","@type":["Person","MusicGroup"]},"startDate":"1981"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/58856f5c-0589-4811-9441-c08a077d4bd9","name":"Lux Interior"}},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/7a06d1f2-202c-49c9-8393-f31b46843df2","name":"Poison Ivy","@type":["Person","MusicGroup"]}},{"roleName":[],"@type":"OrganizationRole","endDate":"2009-02","startDate":"1993-02","member":{"name":"Harry Drumdini","@id":"https://musicbrainz.org/artist/9183bc32-9fd7-4e67-8799-a7da9377cbeb","@type":["Person","MusicGroup"]}},{"roleName":[],"@type":"OrganizationRole","endDate":"1991-01","startDate":"1986-06","member":{"@id":"https://musicbrainz.org/artist/98582955-6658-4aa9-8d74-a1014bb4530a","name":"Candy Del Mar","@type":["Person","MusicGroup"]}},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Jim Sclavunos","@id":"https://musicbrainz.org/artist/dc24f4fa-1b47-412f-891c-0f0a43664b8b","@type":["Person","MusicGroup"]}}],"location":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"album":[{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"},"name":"Songs the Lord Taught Us","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4b60e6ef-b29a-3a26-9146-07f35c7e285d","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ef6c72da-139d-3ad8-ac43-9090b7b8e500","name":"Psychedelic Jungle","@type":"MusicAlbum","creditedTo":"The Cramps"},{"byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"},"name":"A Date with Elvis","@id":"https://musicbrainz.org/release-group/9731a17f-a964-324a-948c-89af274d9a59","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"The Cramps"},{"byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"},"name":"Stay Sick!","@id":"https://musicbrainz.org/release-group/f982cf1e-4d94-352e-8782-1ed1427250b0","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"The Cramps"},{"creditedTo":"The Cramps","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/75944a44-cac4-33f6-a406-874150af1c38","albumReleaseType":"http://schema.org/AlbumRelease","name":"Unleashed and Unreleased","byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"},"name":"Look Mom No Head!","@id":"https://musicbrainz.org/release-group/23c1f816-0fab-3d64-a537-f624ec690c0d","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"The Cramps","@type":"MusicAlbum","name":"Flamejob","@id":"https://musicbrainz.org/release-group/e7a70e0a-e083-31a8-9327-cfedd082e861","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps","@type":"MusicGroup"},"name":"Big Beat From Badsville","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b322c1d8-15f7-3133-ab9f-823fb8fd93c6"},{"name":"Fiends of Dope Island","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/10c7d31a-b23c-3728-92e3-a9cefcff78bc","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"},"creditedTo":"The Cramps","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/69690b69-e764-3291-9261-2944b63106a5","name":"Bad Music for Bad People","byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"},"creditedTo":"The Cramps","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"},"@id":"https://musicbrainz.org/release-group/122295d5-cba1-3dfa-94b6-066e22d1cddc","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Off the Bone","@type":"MusicAlbum","creditedTo":"The Cramps"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/75e06008-6b0b-3549-b77c-4bcaf6b1fad1","name":"Psychedelic Jungle / Gravest Hits","byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"},"creditedTo":"The Cramps","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"},"name":"Greatest Hits","@id":"https://musicbrainz.org/release-group/737613d2-8ebb-31a0-8eef-7bc231a68cc0","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"The Cramps"},{"creditedTo":"The Cramps","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/f996857b-be83-31e4-bac2-466cd9a37cca","name":"How to Make a Monster","byArtist":{"@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/e5555368-f700-4ae9-a7f3-5feee15ad56c","name":"File Under Sacred Music: Early Singles 1978–1981","byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"},"creditedTo":"The Cramps","@type":"MusicAlbum"},{"byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/6b820d24-91ec-31da-824c-a323f9646017","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"RockinNReelinInAucklandNewZealandXXX","@type":"MusicAlbum","creditedTo":"The Cramps"},{"creditedTo":"The Cramps","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/953b5d69-c7f7-4fee-a59c-cab6ee9da9b0","albumReleaseType":"http://schema.org/SingleRelease","name":"Drug Train","byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"}},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"},"name":"Goo Goo Muck","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/812c25f1-5982-4aea-a111-7e162910daf4"},{"creditedTo":"The Cramps","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8f8b1ccd-297b-41f5-bcbe-dbe050e8aa27","name":"The Crusher","byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"},"@id":"https://musicbrainz.org/release-group/b75822fa-5156-376e-9bf5-43d97b955d35","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Can Your Pussy Do the Dog?"},{"creditedTo":"The Cramps","@type":"MusicAlbum","name":"Bikini Girls With Machine Guns","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/694df373-ae9a-436a-801d-5256300765f1","byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ac2afbe0-24fb-4e14-82a2-5ccf55a86d65","name":"Creature From the Black Leather Lagoon"},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"},"name":"All Women Are Bad","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/cd1c1dc8-2f44-33c5-abcc-cc0ef4fd53a3","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"The Cramps","@type":"MusicAlbum","name":"Eyeball in My Martini","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1f8e4434-ebc4-4d12-80ba-64ebe32bc563","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"}},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/684776a5-7055-4cf9-8927-2d04d5057f52","albumReleaseType":"http://schema.org/SingleRelease","name":"Dames, Booze, Chains and Boots"},{"creditedTo":"The Cramps","@type":"MusicAlbum","name":"Naked Girl Falling Down The Stairs","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/aebc13f1-6a8e-4f9a-b515-7bb87a39f768","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"}},{"byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8b29be0c-a75d-4166-bae1-c0aef928d0f1","name":"Like a Bad Girl Should","@type":"MusicAlbum","creditedTo":"The Cramps"},{"byArtist":{"@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps","@type":"MusicGroup"},"name":"Gravest Hits","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e65ea774-6bc3-3d58-b15e-c578f7f471d8","@type":"MusicAlbum","creditedTo":"The Cramps"},{"@type":"MusicAlbum","creditedTo":"The Cramps","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/32985511-7b6d-4abb-abe7-e927c9270389","name":"Kizmiaz"},{"creditedTo":"The Cramps","@type":"MusicAlbum","name":"Creature from the Black Leather Lagoon","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c62f33bd-d037-3b29-8d20-22ea41d4ddfb","byArtist":{"name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps"},"albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/64fa0edb-76da-4422-b045-22f56c855dea","name":"Nazibilly Werwoelfen N'Ont Pas De Bausparvertrag","@type":"MusicAlbum","creditedTo":"The Cramps"},{"@id":"https://musicbrainz.org/release-group/252fe752-9660-3aef-b7ef-f37ffe3ff8e1","albumProductionType":"http://schema.org/LiveAlbum","name":"Smell of Female","byArtist":{"@type":"MusicGroup","name":"The Cramps","@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"},"creditedTo":"The Cramps","@type":"MusicAlbum"}],"dissolutionDate":"2009","@type":"MusicGroup","groupOrigin":{"containedIn":{"name":"New York","@id":"https://musicbrainz.org/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95","@type":"AdministrativeArea","containedIn":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"}},"@type":"City","name":"New York","@id":"https://musicbrainz.org/area/74e50e58-5deb-4b99-93a2-decbb365c07f"},"@id":"https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071","name":"The Cramps","sameAs":["http://isni-url.oclc.nl/isni/0000000106681722","http://musicmoz.org/Bands_and_Artists/C/Cramps,_The/","http://rateyourmusic.com/artist/the_cramps","http://viaf.org/viaf/143205160","http://www.allmusic.com/artist/mn0000137580","http://www.imdb.com/name/nm3066849/","http://www.last.fm/music/The\u002bCramps","http://www.musik-sammler.de/artist/2892","http://www.secondhandsongs.com/artist/14076","http://www.thecramps.com/","https://en.wikipedia.org/wiki/The_Cramps","https://www.discogs.com/artist/39779","https://www.wikidata.org/wiki/Q1361146"],"foundingDate":"1976","@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F96c1edac-1011-4cb8-882c-27248de35071">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F96c1edac-1011-4cb8-882c-27248de35071">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071" title="Cramps, The"><bdi>The Cramps</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071" title="The Cramps – Cramps, The"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/releases" title="Cramps, The"><bdi>Releases</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/recordings" title="Cramps, The"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/works" title="Cramps, The"><bdi>Works</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/events" title="Cramps, The"><bdi>Events</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/relationships" title="Cramps, The"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/aliases" title="Cramps, The"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/tags" title="Cramps, The"><bdi>Tags</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/details" title="Cramps, The"><bdi>Details</bdi></a></li>            <li><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/edit" title="Cramps, The"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>The Cramps</b> were an American punk band, formed in 1976 and active until 2009. The band split after the death of lead singer Lux Interior. Their line-up rotated much over their existence, with the husband and wife duo of Interior and lead guitarist and occasional bass guitarist Poison Ivy the only permanent members. The addition of guitarist Bryan Gregory and drummer Pam Ballam resulted in the first complete lineup in April 1976.</p>
+<p>They were part of the early CBGB punk rock movement that had emerged in New York. The Cramps are noted as influencing a number of musical styles: not only were they one of the first punk bands, they are also widely recognized as one of the prime innovators of psychobilly.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/The_Cramps">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=16093" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/4b60e6ef-b29a-3a26-9146-07f35c7e285d"><bdi>Songs the Lord Taught Us</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/ef6c72da-139d-3ad8-ac43-9090b7b8e500"><bdi>Psychedelic Jungle</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/9731a17f-a964-324a-948c-89af274d9a59"><bdi>A Date with Elvis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/f982cf1e-4d94-352e-8782-1ed1427250b0"><bdi>Stay Sick!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/75944a44-cac4-33f6-a406-874150af1c38"><bdi>Unleashed and Unreleased</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/23c1f816-0fab-3d64-a537-f624ec690c0d"><bdi>Look Mom No Head!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/e7a70e0a-e083-31a8-9327-cfedd082e861"><bdi>Flamejob</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/b322c1d8-15f7-3133-ab9f-823fb8fd93c6"><bdi>Big Beat From Badsville</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/10c7d31a-b23c-3728-92e3-a9cefcff78bc"><bdi>Fiends of Dope Island</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/69690b69-e764-3291-9261-2944b63106a5"><bdi>Bad Music for Bad People</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/122295d5-cba1-3dfa-94b6-066e22d1cddc"><bdi>Off the Bone</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/75e06008-6b0b-3549-b77c-4bcaf6b1fad1"><bdi>Psychedelic Jungle / Gravest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/737613d2-8ebb-31a0-8eef-7bc231a68cc0"><bdi>Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f996857b-be83-31e4-bac2-466cd9a37cca"><bdi>How to Make a Monster</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/e5555368-f700-4ae9-a7f3-5feee15ad56c"><bdi>File Under Sacred Music: Early Singles 1978–1981</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/6b820d24-91ec-31da-824c-a323f9646017"><bdi>RockinNReelinInAucklandNewZealandXXX</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/953b5d69-c7f7-4fee-a59c-cab6ee9da9b0"><bdi>Drug Train</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/812c25f1-5982-4aea-a111-7e162910daf4"><bdi>Goo Goo Muck</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/8f8b1ccd-297b-41f5-bcbe-dbe050e8aa27"><bdi>The Crusher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/b75822fa-5156-376e-9bf5-43d97b955d35"><bdi>Can Your Pussy Do the Dog?</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/694df373-ae9a-436a-801d-5256300765f1"><bdi>Bikini Girls With Machine Guns</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/ac2afbe0-24fb-4e14-82a2-5ccf55a86d65"><bdi>Creature From the Black Leather Lagoon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/cd1c1dc8-2f44-33c5-abcc-cc0ef4fd53a3"><bdi>All Women Are Bad</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/1f8e4434-ebc4-4d12-80ba-64ebe32bc563"><bdi>Eyeball in My Martini</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/684776a5-7055-4cf9-8927-2d04d5057f52"><bdi>Dames, Booze, Chains and Boots</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/aebc13f1-6a8e-4f9a-b515-7bb87a39f768"><bdi>Naked Girl Falling Down The Stairs</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/8b29be0c-a75d-4166-bae1-c0aef928d0f1"><bdi>Like a Bad Girl Should</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/e65ea774-6bc3-3d58-b15e-c578f7f471d8"><bdi>Gravest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/32985511-7b6d-4abb-abe7-e927c9270389"><bdi>Kizmiaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/c62f33bd-d037-3b29-8d20-22ea41d4ddfb"><bdi>Creature from the Black Leather Lagoon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/64fa0edb-76da-4422-b045-22f56c855dea"><bdi>Nazibilly Werwoelfen N'Ont Pas De Bausparvertrag</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/252fe752-9660-3aef-b7ef-f37ffe3ff8e1"><bdi>Smell of Female</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cramps1982-07.jpg/250px-Cramps1982-07.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Cramps1982-07.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Cramps, The</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1976</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/74e50e58-5deb-4b99-93a2-decbb365c07f"><bdi>New York</bdi></a>, <a href="/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"><bdi>New York</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2009 (33 years)</dd>
+<dt>Dissolved in:</dt>
+<dd class="end_area"><a href="/area/74e50e58-5deb-4b99-93a2-decbb365c07f"><bdi>New York</bdi></a>, <a href="/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"><bdi>New York</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000106681722">0000 0001 0668 1722    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span>    (<a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/ratings" title="Cramps, The"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative"><bdi>alternative</bdi></a>, <a href="/tag/punk"><bdi>punk</bdi></a>, <a href="/tag/rock%20and%20indie"><bdi>rock and indie</bdi></a>, <a href="/tag/usa"><bdi>usa</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.thecramps.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000137580">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/39779">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm3066849/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/The+Cramps">The Cramps</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/The_Cramps">LyricWiki</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/C/Cramps,_The/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/the_cramps">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/2892">Musik-Sammler</a>
+          
+          
+        </li>               <li class="googleplay-favicon">
+          
+          
+          <a href="https://play.google.com/store/music/artist?id=A4ta6acyk5xkunrczt7dhuhqwp4">Google Play</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/14076">SecondHandSongs</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/143205160">VIAF: 143205160</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1361146">Q1361146</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/The_Cramps">en: The Cramps</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/96c1edac-1011-4cb8-882c-27248de35071/relationships" title="Cramps, The"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F96c1edac-1011-4cb8-882c-27248de35071">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-07-12 18:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

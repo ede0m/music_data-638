@@ -1,0 +1,768 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Christophe Rousset - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1961-04-12, Area: France"/><script type="application/ld+json">{"@context":"http://schema.org","album":[{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4e69f040-7686-3aa5-abd6-2db131ac204a","byArtist":[{"name":"François Couperin","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/86523090-6085-42c1-80b7-772f1bc80472"},{"@id":"https://musicbrainz.org/artist/b254df07-01e9-45d0-ae9b-0cd717d2163d","@type":["Person","MusicGroup"],"name":"William Christie"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset","@type":["Person","MusicGroup"]}],"name":"L'Apothéose de Lulli","creditedTo":"François Couperin; William Christie, Christophe Rousset","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/907955ae-bc6a-4182-995b-b76c173a5734","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Italian Concerto, BWV 971 / French Overture, BWV 831 / 4 Duetti, BWV 802-5 / Chromatic Fantasy \u0026 Fugue, BWV 903","creditedTo":"Johann Sebastian Bach; Christophe Rousset","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","name":"Johann Sebastian Bach","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset","@type":["Person","MusicGroup"]}]},{"byArtist":[{"name":"Wilhelm Friedemann Bach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4af324c6-0a7c-4c84-b7ce-c60ffe4a8f33"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset","@type":["Person","MusicGroup"]}],"creditedTo":"Wilhelm Friedemann Bach; Christophe Rousset","name":"Œuvres pour clavecin","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1a309442-cf8f-48f3-bb9b-57c412bbf83b","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3","@type":["Person","MusicGroup"],"name":"Georg Philipp Telemann"},{"@id":"https://musicbrainz.org/artist/f5c4309a-fe92-4a6e-a7dc-1cb5c53eefa1","name":"有田正広","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Ryo Terakado","@id":"https://musicbrainz.org/artist/8484d107-7ba5-45f5-9ec6-8ade146e5f80"},{"@type":["Person","MusicGroup"],"name":"Kaori Uemura","@id":"https://musicbrainz.org/artist/fec442a3-5893-423e-9145-f426b51a9a52"},{"name":"Christophe Rousset","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"creditedTo":"Telemann; Masahiro Arita, Ryo Terakado, Kaori Uemura, Christophe Rousset","name":"6 Quadri (1730 Hamburg)","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f1b2445c-83de-4eaa-9fcc-6acba3d6e3e9","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Goldberg Variations","creditedTo":"J. S. Bach; Christophe Rousset","byArtist":[{"name":"Johann Sebastian Bach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"name":"Christophe Rousset","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"@id":"https://musicbrainz.org/release-group/d840963f-ee15-4e20-ac88-cd99189f54a8","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/181c1f24-6795-410f-b8b8-bfd3652f60f1","byArtist":[{"@id":"https://musicbrainz.org/artist/ddbea2a2-9424-4ee3-b14c-351f22f2c4d3","name":"Niccolò Jommelli","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Gérard Lesne","@id":"https://musicbrainz.org/artist/617e7d3b-930d-48c3-9e01-6386179b621d"},{"@type":["Person","MusicGroup"],"name":"Véronique Gens","@id":"https://musicbrainz.org/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf"},{"@id":"https://musicbrainz.org/artist/764d285e-a7a7-43f0-a7fb-fb0a32157320","@type":"MusicGroup","name":"Il Seminario Musicale"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","@type":["Person","MusicGroup"],"name":"Christophe Rousset"}],"name":"Lamentazioni per il Mercoledì Santo","creditedTo":"Niccolò Jommelli; Gérard Lesne, Véronique Gens, Il Seminario Musicale, Christophe Rousset","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/819be310-60e6-3fc2-8443-739ca54a43cf","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Marin Marais","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7"},{"@id":"https://musicbrainz.org/artist/11c3fa86-9930-4745-98ef-148fdae2f271","name":"Christophe Coin","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"},{"@id":"https://musicbrainz.org/artist/40ed00ea-2406-4e0d-a4b3-f26d5c931bb8","name":"Vittorio Ghielmi","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/0e96cb13-6b88-4128-b0f2-55ebb32feaa1","name":"Pascal Monteilhet","@type":["Person","MusicGroup"]}],"name":"Suitte d'un goût etranger","creditedTo":"Marin Marais; Christophe Coin, Christophe Rousset, Vittorio Ghielmi, Pascal Monteilhet"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/903b5812-2ea5-4853-906b-981019c222e5","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75","@type":["Person","MusicGroup"],"name":"Wolfgang Amadeus Mozart"},{"@type":["Person","MusicGroup"],"name":"Cecilia Bartoli","@id":"https://musicbrainz.org/artist/043a40c7-fb90-42f7-89a8-077a8ff61db6"},{"@id":"https://musicbrainz.org/artist/5ea647a7-554d-47c1-af80-5577a02be4fb","name":"Natalie Dessay","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Giuseppe Sabbatini","@id":"https://musicbrainz.org/artist/c61cbb1b-9f4b-46d2-86cf-e2d6fe94fc53"},{"name":"Brian Asawa","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b9ab9efe-6a93-4115-8bde-21eee984143b"},{"name":"Les Talens Lyriques","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset","@type":["Person","MusicGroup"]}],"creditedTo":"Mozart; Cecilia Bartoli, Natalie Dessay, Giuseppe Sabbatini, Brian Asawa, Les Talens Lyriques, Christophe Rousset","name":"Mitridate"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/7640225e-5758-40e2-a37b-971c2a7994b0","name":"Giovanni Battista Pergolesi","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/aa79e742-195b-413d-bf03-9562e9c39519","name":"Andreas Scholl","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Barbara Bonney","@id":"https://musicbrainz.org/artist/c6364110-01b0-44a9-8ea2-4409fadfc66c"},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"},{"name":"Les Talens Lyriques","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6"}],"creditedTo":"Pergolesi; Andreas Scholl, Barbara Bonney, Christophe Rousset, Les Talens Lyriques","name":"Stabat Mater","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/668029e2-ebe8-30ff-83fc-7d14e62deec1"},{"creditedTo":"François Couperin; Les Talens Lyriques, Christophe Rousset","name":"Motets","byArtist":[{"name":"François Couperin","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/86523090-6085-42c1-80b7-772f1bc80472"},{"@id":"https://musicbrainz.org/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6","@type":"MusicGroup","name":"Les Talens Lyriques"},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a7a0957f-365f-4e37-927b-2410cffdc7aa","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/bd043110-71ad-3667-8722-4ef38c780aaa","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Complete Harpsichord Works","creditedTo":"Jean-Henri d'Anglebert; Christophe Rousset","byArtist":[{"@id":"https://musicbrainz.org/artist/e3f8448a-83f5-48df-bd75-8e11fdc73c42","@type":["Person","MusicGroup"],"name":"Jean-Henri d'Anglebert"},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}]},{"name":"Suites anglaises","creditedTo":"Johann Sebastian Bach; Christophe Rousset","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","name":"Johann Sebastian Bach","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","@type":["Person","MusicGroup"],"name":"Christophe Rousset"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/feaa6cc0-1531-4b94-ab0c-1fe86d0f1879","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Pièces de clavecin","creditedTo":"Jean-Philippe Rameau; Christophe Rousset","byArtist":[{"name":"Jean-Philippe Rameau","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b29a3b55-785c-4072-9daf-0153cac864b6"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/e115e968-8fc7-3d39-95a4-d7397d2a576f","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Johann Sebastian Bach;Christophe Rousset","name":"Suites Françaises","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","name":"Johann Sebastian Bach","@type":["Person","MusicGroup"]},{"name":"Christophe Rousset","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/73cd415e-755f-4d4e-8436-458e46ead75d","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/f64b914b-c471-369e-b354-6cc863a8a80f","albumProductionType":"http://schema.org/StudioAlbum","name":"Tragédiennes","creditedTo":"Les Talens Lyriques, Christophe Rousset, Véronique Gens","byArtist":[{"@id":"https://musicbrainz.org/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6","@type":"MusicGroup","name":"Les Talens Lyriques"},{"name":"Christophe Rousset","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"},{"@id":"https://musicbrainz.org/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf","@type":["Person","MusicGroup"],"name":"Véronique Gens"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Les Talens Lyriques","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6"},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"},{"@type":["Person","MusicGroup"],"name":"Véronique Gens","@id":"https://musicbrainz.org/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf"}],"creditedTo":"Les Talens Lyriques, Christophe Rousset, Véronique Gens","name":"Tragédiennes 2: From Rameau to Berlioz","@id":"https://musicbrainz.org/release-group/0a93e4fd-1db8-44ba-abc5-7c3c88923d36","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b48969ee-3593-45d9-b066-c158a92fd004","creditedTo":"Rameau; Christophe Rousset","name":"Les Indes Galantes","byArtist":[{"name":"Jean-Philippe Rameau","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b29a3b55-785c-4072-9daf-0153cac864b6"},{"name":"Christophe Rousset","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/8027f639-2ca6-4946-b417-d44b0fa79dad","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach","@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"name":"Bach Fantasy","creditedTo":"Bach; Christophe Rousset"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/95640d08-8d3b-4ff5-9b8f-51713c1649e8","byArtist":[{"@id":"https://musicbrainz.org/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf","name":"Véronique Gens","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6","@type":"MusicGroup","name":"Les Talens Lyriques"},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"name":"Tragédiennes 3: Les héroïnes romantiques","creditedTo":"Véronique Gens, Les Talens Lyriques, Christophe Rousset","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Louis Marchand","@id":"https://musicbrainz.org/artist/68f517d6-6d9e-43b5-99d9-eb42731eee5e"},{"@type":["Person","MusicGroup"],"name":"Jean-Philippe Rameau","@id":"https://musicbrainz.org/artist/b29a3b55-785c-4072-9daf-0153cac864b6"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset","@type":["Person","MusicGroup"]}],"name":"Marchand / Rameau","creditedTo":"Marchand, Rameau; Christophe Rousset","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/510cd372-05fc-462d-b18c-690a728c79fb","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/7b865634-e846-496a-bd76-855ad498ab68","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Jean-Baptiste Lully","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7f9989b0-8f5e-41dd-bbab-1fff052609e3"},{"@id":"https://musicbrainz.org/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6","@type":"MusicGroup","name":"Les Talens Lyriques"},{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"creditedTo":"Jean-Baptiste Lully; Les Talens Lyriques, Christophe Rousset","name":"Phaéton"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Johann Sebastian Bach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"name":"Academy of Ancient Music","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0"},{"name":"Christopher Hogwood","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","@type":["Person","MusicGroup"],"name":"Christophe Rousset"}],"creditedTo":"J.S. Bach; Academy of Ancient Music, Christopher Hogwood, Christophe Rousset","name":"The Complete Harpsischord Concertos","@id":"https://musicbrainz.org/release-group/79b8962a-8c2b-4253-9211-d41dab55dd3d","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach"},{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","@type":["Person","MusicGroup"],"name":"Christophe Rousset"}],"creditedTo":"J.S. Bach; Christophe Rousset","name":"Goldberg Variations / Italian Concerto / French Overture / Chromatic Fantasy and Fugue / Partitas","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/92b5a990-5454-3c36-ad54-4926b3164240","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/SoundtrackAlbum","@id":"https://musicbrainz.org/release-group/9e46315b-783a-3abe-a383-7d3a325b1ea9","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Christophe Rousset","name":"Farinelli: Il Castrato","byArtist":{"@type":["Person","MusicGroup"],"name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}},{"creditedTo":"Pancrace Royer; Christophe Rousset","name":"Pieces de clavecin 1746","byArtist":[{"name":"Joseph-Nicolas-Pancrace Royer","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bbb081a4-69c7-417e-a3b2-aef9cbe12e27"},{"name":"Christophe Rousset","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/16470292-fa00-3094-9104-9d5ebfa3fe1e"},{"@id":"https://musicbrainz.org/release-group/9e16c3be-b278-4e3e-a049-0b45634977f6","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","name":"Christophe Rousset","@type":["Person","MusicGroup"]},"creditedTo":"Christophe Rousset","name":"Musiques à danser, à la cour et à l'opéra","@type":"MusicAlbum"}],"birthDate":"1961-04-12","name":"Christophe Rousset","@id":"https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","@type":["Person","MusicGroup"],"location":{"@type":"Country","name":"France","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115"},"sameAs":["http://en.wikipedia.org/wiki/Christophe_Rousset","http://viaf.org/viaf/12492701","http://www.bbc.co.uk/music/artists/6784a34f-3d91-45a5-b7b3-be1eaa1096f1","http://www.imdb.com/name/nm0746062/","https://www.discogs.com/artist/841787","https://www.wikidata.org/wiki/Q590410"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F6784a34f-3d91-45a5-b7b3-be1eaa1096f1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F6784a34f-3d91-45a5-b7b3-be1eaa1096f1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Christophe Rousset – Rousset, Christophe"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/releases" title="Rousset, Christophe"><bdi>Releases</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/recordings" title="Rousset, Christophe"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/works" title="Rousset, Christophe"><bdi>Works</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/events" title="Rousset, Christophe"><bdi>Events</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/relationships" title="Rousset, Christophe"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/aliases" title="Rousset, Christophe"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/tags" title="Rousset, Christophe"><bdi>Tags</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/details" title="Rousset, Christophe"><bdi>Details</bdi></a></li>            <li><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/edit" title="Rousset, Christophe"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=11399" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/4e69f040-7686-3aa5-abd6-2db131ac204a"><bdi>L'Apothéose de Lulli</bdi></a></td>
+        
+        <td><a href="/artist/86523090-6085-42c1-80b7-772f1bc80472" title="Couperin, François (French composer of the Baroque era)"><bdi>François Couperin</bdi></a>; <a href="/artist/b254df07-01e9-45d0-ae9b-0cd717d2163d" title="Christie, William"><bdi>William Christie</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/907955ae-bc6a-4182-995b-b76c173a5734"><bdi>Italian Concerto, BWV 971 / French Overture, BWV 831 / 4 Duetti, BWV 802-5 / Chromatic Fantasy &amp; Fugue, BWV 903</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/1a309442-cf8f-48f3-bb9b-57c412bbf83b"><bdi>Œuvres pour clavecin</bdi></a></td>
+        
+        <td><a href="/artist/4af324c6-0a7c-4c84-b7ce-c60ffe4a8f33" title="Bach, Wilhelm Friedemann"><bdi>Wilhelm Friedemann Bach</bdi></a>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/f1b2445c-83de-4eaa-9fcc-6acba3d6e3e9"><bdi>6 Quadri (1730 Hamburg)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3" title="Georg Philipp Telemann – Telemann, Georg Philipp"><bdi>Telemann</bdi></a></span>; <span class="name-variation"><a href="/artist/f5c4309a-fe92-4a6e-a7dc-1cb5c53eefa1" title="有田正広 – Arita, Masahiro"><bdi>Masahiro Arita</bdi></a></span>, <a href="/artist/8484d107-7ba5-45f5-9ec6-8ade146e5f80" title="Terakado, Ryo"><bdi>Ryo Terakado</bdi></a>, <a href="/artist/fec442a3-5893-423e-9145-f426b51a9a52" title="Uemura, Kaori (viola da gamba)"><bdi>Kaori Uemura</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/d840963f-ee15-4e20-ac88-cd99189f54a8"><bdi>Goldberg Variations</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>J. S. Bach</bdi></a></span>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/181c1f24-6795-410f-b8b8-bfd3652f60f1"><bdi>Lamentazioni per il Mercoledì Santo</bdi></a></td>
+        
+        <td><a href="/artist/ddbea2a2-9424-4ee3-b14c-351f22f2c4d3" title="Jommelli, Niccolò"><bdi>Niccolò Jommelli</bdi></a>; <a href="/artist/617e7d3b-930d-48c3-9e01-6386179b621d" title="Lesne, Gérard"><bdi>Gérard Lesne</bdi></a>, <a href="/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf" title="Gens, Véronique"><bdi>Véronique Gens</bdi></a>, <a href="/artist/764d285e-a7a7-43f0-a7fb-fb0a32157320" title="Seminario Musicale, Il"><bdi>Il Seminario Musicale</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/819be310-60e6-3fc2-8443-739ca54a43cf"><bdi>Suitte d'un goût etranger</bdi></a></td>
+        
+        <td><a href="/artist/c6ea915d-3441-48fe-b1ad-e832e1410ea7" title="Marais, Marin (composer)"><bdi>Marin Marais</bdi></a>; <a href="/artist/11c3fa86-9930-4745-98ef-148fdae2f271" title="Coin, Christophe"><bdi>Christophe Coin</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a>, <a href="/artist/40ed00ea-2406-4e0d-a4b3-f26d5c931bb8" title="Ghielmi, Vittorio (Italian viola da gamba player)"><bdi>Vittorio Ghielmi</bdi></a>, <a href="/artist/0e96cb13-6b88-4128-b0f2-55ebb32feaa1" title="Monteilhet, Pascal"><bdi>Pascal Monteilhet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/903b5812-2ea5-4853-906b-981019c222e5"><bdi>Mitridate</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Wolfgang Amadeus Mozart – Mozart, Wolfgang Amadeus (classical composer)"><bdi>Mozart</bdi></a></span>; <a href="/artist/043a40c7-fb90-42f7-89a8-077a8ff61db6" title="Bartoli, Cecilia"><bdi>Cecilia Bartoli</bdi></a>, <a href="/artist/5ea647a7-554d-47c1-af80-5577a02be4fb" title="Dessay, Natalie"><bdi>Natalie Dessay</bdi></a>, <a href="/artist/c61cbb1b-9f4b-46d2-86cf-e2d6fe94fc53" title="Sabbatini, Giuseppe (tenor)"><bdi>Giuseppe Sabbatini</bdi></a>, <a href="/artist/b9ab9efe-6a93-4115-8bde-21eee984143b" title="Asawa, Brian"><bdi>Brian Asawa</bdi></a>, <a href="/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6" title="Les Talens Lyriques"><bdi>Les Talens Lyriques</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/668029e2-ebe8-30ff-83fc-7d14e62deec1"><bdi>Stabat Mater</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/7640225e-5758-40e2-a37b-971c2a7994b0" title="Giovanni Battista Pergolesi – Pergolesi, Giovanni Battista"><bdi>Pergolesi</bdi></a></span>; <a href="/artist/aa79e742-195b-413d-bf03-9562e9c39519" title="Scholl, Andreas"><bdi>Andreas Scholl</bdi></a>, <a href="/artist/c6364110-01b0-44a9-8ea2-4409fadfc66c" title="Bonney, Barbara"><bdi>Barbara Bonney</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a>, <a href="/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6" title="Les Talens Lyriques"><bdi>Les Talens Lyriques</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/a7a0957f-365f-4e37-927b-2410cffdc7aa"><bdi>Motets</bdi></a></td>
+        
+        <td><a href="/artist/86523090-6085-42c1-80b7-772f1bc80472" title="Couperin, François (French composer of the Baroque era)"><bdi>François Couperin</bdi></a>; <a href="/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6" title="Les Talens Lyriques"><bdi>Les Talens Lyriques</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/bd043110-71ad-3667-8722-4ef38c780aaa"><bdi>Complete Harpsichord Works</bdi></a></td>
+        
+        <td><a href="/artist/e3f8448a-83f5-48df-bd75-8e11fdc73c42" title="Anglebert, Jean-Henri d'"><bdi>Jean-Henri d'Anglebert</bdi></a>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/feaa6cc0-1531-4b94-ab0c-1fe86d0f1879"><bdi>Suites anglaises</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/e115e968-8fc7-3d39-95a4-d7397d2a576f"><bdi>Pièces de clavecin</bdi></a></td>
+        
+        <td><a href="/artist/b29a3b55-785c-4072-9daf-0153cac864b6" title="Rameau, Jean-Philippe (French composer of the Baroque era)"><bdi>Jean-Philippe Rameau</bdi></a>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/73cd415e-755f-4d4e-8436-458e46ead75d"><bdi>Suites Françaises</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>;<a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/f64b914b-c471-369e-b354-6cc863a8a80f"><bdi>Tragédiennes</bdi></a></td>
+        
+        <td><a href="/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6" title="Les Talens Lyriques"><bdi>Les Talens Lyriques</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a>, <a href="/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf" title="Gens, Véronique"><bdi>Véronique Gens</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/0a93e4fd-1db8-44ba-abc5-7c3c88923d36"><bdi>Tragédiennes 2: From Rameau to Berlioz</bdi></a></td>
+        
+        <td><a href="/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6" title="Les Talens Lyriques"><bdi>Les Talens Lyriques</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a>, <a href="/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf" title="Gens, Véronique"><bdi>Véronique Gens</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/b48969ee-3593-45d9-b066-c158a92fd004"><bdi>Les Indes Galantes</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/b29a3b55-785c-4072-9daf-0153cac864b6" title="Jean-Philippe Rameau – Rameau, Jean-Philippe (French composer of the Baroque era)"><bdi>Rameau</bdi></a></span>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/8027f639-2ca6-4946-b417-d44b0fa79dad"><bdi>Bach Fantasy</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>Bach</bdi></a></span>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/95640d08-8d3b-4ff5-9b8f-51713c1649e8"><bdi>Tragédiennes 3: Les héroïnes romantiques</bdi></a></td>
+        
+        <td><a href="/artist/e2537f31-7ff2-4110-833f-8af0fa95deaf" title="Gens, Véronique"><bdi>Véronique Gens</bdi></a>, <a href="/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6" title="Les Talens Lyriques"><bdi>Les Talens Lyriques</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/510cd372-05fc-462d-b18c-690a728c79fb"><bdi>Marchand / Rameau</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/68f517d6-6d9e-43b5-99d9-eb42731eee5e" title="Louis Marchand – Marchand, Louis"><bdi>Marchand</bdi></a></span>, <span class="name-variation"><a href="/artist/b29a3b55-785c-4072-9daf-0153cac864b6" title="Jean-Philippe Rameau – Rameau, Jean-Philippe (French composer of the Baroque era)"><bdi>Rameau</bdi></a></span>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/7b865634-e846-496a-bd76-855ad498ab68"><bdi>Phaéton</bdi></a></td>
+        
+        <td><a href="/artist/7f9989b0-8f5e-41dd-bbab-1fff052609e3" title="Lully, Jean-Baptiste"><bdi>Jean-Baptiste Lully</bdi></a>; <a href="/artist/176ec1e9-2a96-4aae-a2f4-28e09fe52ea6" title="Les Talens Lyriques"><bdi>Les Talens Lyriques</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/79b8962a-8c2b-4253-9211-d41dab55dd3d"><bdi>The Complete Harpsischord Concertos</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>J.S. Bach</bdi></a></span>; <a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music"><bdi>Academy of Ancient Music</bdi></a>, <a href="/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97" title="Hogwood, Christopher"><bdi>Christopher Hogwood</bdi></a>, <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/92b5a990-5454-3c36-ad54-4926b3164240"><bdi>Goldberg Variations / Italian Concerto / French Overture / Chromatic Fantasy and Fugue / Partitas</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>J.S. Bach</bdi></a></span>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/9e46315b-783a-3abe-a383-7d3a325b1ea9"><bdi>Farinelli: Il Castrato</bdi></a></td>
+        
+        <td><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/16470292-fa00-3094-9104-9d5ebfa3fe1e"><bdi>Pieces de clavecin 1746</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/bbb081a4-69c7-417e-a3b2-aef9cbe12e27" title="Joseph-Nicolas-Pancrace Royer – Royer, Joseph-Nicolas-Pancrace"><bdi>Pancrace Royer</bdi></a></span>; <a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/9e16c3be-b278-4e3e-a049-0b45634977f6"><bdi>Musiques à danser, à la cour et à l'opéra</bdi></a></td>
+        
+        <td><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1" title="Rousset, Christophe"><bdi>Christophe Rousset</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Rousset, Christophe</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1961-04-12 (55 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classical"><bdi>classical</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/6784a34f-3d91-45a5-b7b3-be1eaa1096f1">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/841787">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm0746062/">IMDb</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/12492701">VIAF: 12492701</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q590410">Q590410</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Christophe_Rousset">en: Christophe Rousset</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/6784a34f-3d91-45a5-b7b3-be1eaa1096f1/relationships" title="Rousset, Christophe"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F6784a34f-3d91-45a5-b7b3-be1eaa1096f1">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2012-01-31 00:37 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,928 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>In Strict Confidence - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1992, Area: Germany"/><script type="application/ld+json">{"location":{"@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","@type":"Country","name":"Germany"},"@type":"MusicGroup","name":"In Strict Confidence","member":[{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/3d8aefd5-1ed3-4884-b522-2042dbcc9303","@type":["Person","MusicGroup"],"name":"Dennis Ostermann"}},{"roleName":[],"@type":"OrganizationRole","member":{"name":"Jörg Schelte","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/77106fa6-a3e1-4e87-9e56-7d7560cfbfb4"}},{"roleName":[],"@type":"OrganizationRole","startDate":"2000","member":{"name":"Nadine Stelzer","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c635d2b0-9f6f-4761-a957-680054712031"},"endDate":"2004"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Stefan Jörg Vesper","@id":"https://musicbrainz.org/artist/eeea0ea2-7139-4fc9-b5ad-2d6121c188e9"}},{"endDate":"2010","startDate":"2004","member":{"@id":"https://musicbrainz.org/artist/f756e7e9-5127-4b37-9c23-c6b184ab3e0a","@type":["Person","MusicGroup"],"name":"Antje Schulz"},"roleName":[],"@type":"OrganizationRole"}],"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@context":"http://schema.org","album":[{"@type":"MusicAlbum","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"Cryogenix","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/b8773cdd-baba-4619-a228-023f8e888ebc","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/7ed80c6d-fe79-3aa2-9264-11df1867d819","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Face the Fear","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","creditedTo":"In Strict Confidence"},{"creditedTo":"In Strict Confidence","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Angels Anger Overkill","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/99de055d-4580-32c3-ae50-7ab534f444d7"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ce37c964-0099-356b-9246-c46cd6e0f925","creditedTo":"In Strict Confidence","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Love Kills!"},{"@id":"https://musicbrainz.org/release-group/07c85bae-14e2-3410-ba10-485f6e2fac95","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},"name":"Mistrust the Angels","@type":"MusicAlbum","creditedTo":"In Strict Confidence"},{"@id":"https://musicbrainz.org/release-group/34666bb2-7e08-3a50-9d68-5cdba497c16e","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Holy","creditedTo":"In Strict Confidence"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/14d53ac7-c8d6-3842-874f-bad218933cae","creditedTo":"In Strict Confidence","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Exile Paradise"},{"creditedTo":"In Strict Confidence","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"La Parade monstrueuse","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/edc55eda-0344-486f-ae37-48b590d542ab"},{"@id":"https://musicbrainz.org/release-group/59786d2e-d353-4fd2-95bf-007620045b36","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Laugh, Cry and Scream","creditedTo":"In Strict Confidence"},{"name":"Utopia","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/d9bd68a0-d62d-4e57-9efb-1ac717fd605b","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b7d5d34a-f7ce-4cdc-bfd0-0d05c8ca8f21","creditedTo":"In Strict Confidence","name":"Lifelines Vol.1 (1991-1998)","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/ffd2acef-a6e9-4ab9-9c2e-c5610222f336","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@type":"MusicGroup","name":"In Strict Confidence"},"name":"Lifelines Vol.2 (1998-2004)","creditedTo":"In Strict Confidence"},{"@id":"https://musicbrainz.org/release-group/3cc65206-ecdd-42e4-9f98-fa963194c882","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"Lifelines Vol.3 (2006-2010)","creditedTo":"In Strict Confidence"},{"byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@type":"MusicGroup","name":"In Strict Confidence"},"@type":"MusicAlbum","name":"Holy (The Hecq Destruxxion)","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/07748e58-2005-3afd-b9dd-94aa9df3f6a7","albumProductionType":"http://schema.org/RemixAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"In Strict Confidence","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},"name":"Exile Paradise (The Hecq Destruxxion)","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c604bdbc-137e-3b19-a2a1-bb31863523e7"},{"creditedTo":"In Strict Confidence","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"Kiss Your Shadow","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/10046384-fc20-3c21-b267-64f1902fcace"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/37ac8dce-052c-3d84-befa-503d8748cb3d","creditedTo":"In Strict Confidence","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"The Truth Inside of Me"},{"@id":"https://musicbrainz.org/release-group/ed8d00fd-93a4-3c29-ab1a-fe3ebc4d5161","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Mistrust the Bonus Edition","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"In Strict Confidence"},{"creditedTo":"In Strict Confidence","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@type":"MusicGroup","name":"In Strict Confidence"},"@type":"MusicAlbum","name":"Babylon","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/de0506aa-52af-3d23-97b0-00fb64b22956"},{"byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Holy","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/020580c9-3eb1-3671-91d8-25a22b83e4e4","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"The Sun Always Shines on T.V.","byArtist":[{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/339e32d0-f306-4c4e-b790-088b06db440a","name":"Melotron","@type":"MusicGroup"}],"@type":"MusicAlbum","creditedTo":"In Strict Confidence feat. Melotron","@id":"https://musicbrainz.org/release-group/7873460b-e444-39b1-b969-9cd524d840f1","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b053ce97-c101-47dc-b7cc-083520e2a87a","creditedTo":"In Strict Confidence","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},"name":"Tiefer"},{"byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Justice","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/0098abd9-4868-4024-9fb5-865fa09de25f","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/626605b3-3a0b-42f9-b9f4-da3ae4231082","creditedTo":"In Strict Confidence","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"Collapse","@type":"MusicAlbum"},{"name":"Industrial Love / Prediction","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@type":"MusicGroup","name":"In Strict Confidence"},"@type":"MusicAlbum","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/4ed04ab5-c588-3eba-b5bd-7a3670df0a56","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/e645aa86-3458-4de8-a07a-f5602070d2e1","name":"Aghast View","@type":"MusicGroup"}],"name":"Industrial Love / Truthlike","@type":"MusicAlbum","creditedTo":"In Strict Confidence / Aghast View","@id":"https://musicbrainz.org/release-group/4f265e03-f724-3d23-bbb3-f9278006c327","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/7a0b183e-f551-3d6a-aeb6-55b32aa498f7","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"Zauberschloss","@type":"MusicAlbum","creditedTo":"In Strict Confidence"},{"creditedTo":"In Strict Confidence","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Herzattacke","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/b0eae592-d376-3ff9-8587-0827314e3e2e"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@type":"MusicGroup","name":"In Strict Confidence"},"name":"Zauberschloss / Kiss Your Shadow","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/b59ba9cc-7cd6-3a0b-9cc8-54ecdd5f6c28","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"Engelsstaub","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/0360b779-b0cd-3f4d-8d0d-2b5adb44740e","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"name":"Seven Lives","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/c9908a66-35df-3749-88e4-c98457f88a0a","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/9ef3f992-fa55-35c4-85bb-3e2b002cb53f","creditedTo":"In Strict Confidence","name":"Where Sun and Moon Unite","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/0fd38a6f-65d5-34b7-b33a-055570449fe9","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"@type":"MusicAlbum","name":"The Serpent's Kiss","creditedTo":"In Strict Confidence"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/5c8c9640-b801-4ebc-a87e-8de606e262cd","creditedTo":"In Strict Confidence","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"My Despair"},{"@id":"https://musicbrainz.org/release-group/e1df5f5c-8774-41d4-8f17-7bcc7f5bb625","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","byArtist":{"name":"In Strict Confidence","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"Silver Bullets","creditedTo":"In Strict Confidence"},{"@id":"https://musicbrainz.org/release-group/4866acc9-a226-4346-92fd-067d7b00fed2","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","name":"In Strict Confidence","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Set Me Free","creditedTo":"In Strict Confidence"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/67f5f1ed-6efb-47c7-b344-25b2d684aaa6","creditedTo":"In Strict Confidence","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"In Strict Confidence","@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d"},"name":"Morpheus"},{"creditedTo":"In Strict Confidence","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@type":"MusicGroup","name":"In Strict Confidence"},"@type":"MusicAlbum","name":"Somebody Else's Dream","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d02538df-363f-4ab1-810f-2073b38989b7"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d","@type":"MusicGroup","name":"In Strict Confidence"},"name":"Everything must change","creditedTo":"In Strict Confidence","@id":"https://musicbrainz.org/release-group/3e9b563d-04c8-41d4-98fe-18e140515f7a","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"}],"sameAs":["http://en.wikipedia.org/wiki/In_Strict_Confidence","http://www.instrictconfidence.de/","https://www.discogs.com/artist/15576","https://www.wikidata.org/wiki/Q571210"],"foundingDate":"1992"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F28c0c945-dea4-4090-9257-c039c464b89d">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F28c0c945-dea4-4090-9257-c039c464b89d">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence – In Strict Confidence"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/releases" title="In Strict Confidence"><bdi>Releases</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/recordings" title="In Strict Confidence"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/works" title="In Strict Confidence"><bdi>Works</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/events" title="In Strict Confidence"><bdi>Events</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/relationships" title="In Strict Confidence"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/aliases" title="In Strict Confidence"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/tags" title="In Strict Confidence"><bdi>Tags</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/details" title="In Strict Confidence"><bdi>Details</bdi></a></li>            <li><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/edit" title="In Strict Confidence"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>In Strict Confidence</b> is a German electro-industrial band. Formed in 1989/1990, they were known as <i>Seal of Secrecy</i> until 1992. In Strict Confidence has been signed to several record labels, including Metropolis Records and WTII Records.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/In_Strict_Confidence">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=5969" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/b8773cdd-baba-4619-a228-023f8e888ebc"><bdi>Cryogenix</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/7ed80c6d-fe79-3aa2-9264-11df1867d819"><bdi>Face the Fear</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/99de055d-4580-32c3-ae50-7ab534f444d7"><bdi>Angels Anger Overkill</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ce37c964-0099-356b-9246-c46cd6e0f925"><bdi>Love Kills!</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/07c85bae-14e2-3410-ba10-485f6e2fac95"><bdi>Mistrust the Angels</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/34666bb2-7e08-3a50-9d68-5cdba497c16e"><bdi>Holy</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/14d53ac7-c8d6-3842-874f-bad218933cae"><bdi>Exile Paradise</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/edc55eda-0344-486f-ae37-48b590d542ab"><bdi>La Parade monstrueuse</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/59786d2e-d353-4fd2-95bf-007620045b36"><bdi>Laugh, Cry and Scream</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/d9bd68a0-d62d-4e57-9efb-1ac717fd605b"><bdi>Utopia</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/b7d5d34a-f7ce-4cdc-bfd0-0d05c8ca8f21"><bdi>Lifelines Vol.1 (1991-1998)</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/ffd2acef-a6e9-4ab9-9c2e-c5610222f336"><bdi>Lifelines Vol.2 (1998-2004)</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/3cc65206-ecdd-42e4-9f98-fa963194c882"><bdi>Lifelines Vol.3 (2006-2010)</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/07748e58-2005-3afd-b9dd-94aa9df3f6a7"><bdi>Holy (The Hecq Destruxxion)</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/c604bdbc-137e-3b19-a2a1-bb31863523e7"><bdi>Exile Paradise (The Hecq Destruxxion)</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/10046384-fc20-3c21-b267-64f1902fcace"><bdi>Kiss Your Shadow</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/37ac8dce-052c-3d84-befa-503d8748cb3d"><bdi>The Truth Inside of Me</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/ed8d00fd-93a4-3c29-ab1a-fe3ebc4d5161"><bdi>Mistrust the Bonus Edition</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/de0506aa-52af-3d23-97b0-00fb64b22956"><bdi>Babylon</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/020580c9-3eb1-3671-91d8-25a22b83e4e4"><bdi>Holy</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/7873460b-e444-39b1-b969-9cd524d840f1"><bdi>The Sun Always Shines on T.V.</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a> feat. <a href="/artist/339e32d0-f306-4c4e-b790-088b06db440a" title="Melotron"><bdi>Melotron</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/b053ce97-c101-47dc-b7cc-083520e2a87a"><bdi>Tiefer</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/0098abd9-4868-4024-9fb5-865fa09de25f"><bdi>Justice</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/626605b3-3a0b-42f9-b9f4-da3ae4231082"><bdi>Collapse</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/4ed04ab5-c588-3eba-b5bd-7a3670df0a56"><bdi>Industrial Love / Prediction</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/4f265e03-f724-3d23-bbb3-f9278006c327"><bdi>Industrial Love / Truthlike</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a> / <a href="/artist/e645aa86-3458-4de8-a07a-f5602070d2e1" title="Aghast View"><bdi>Aghast View</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/7a0b183e-f551-3d6a-aeb6-55b32aa498f7"><bdi>Zauberschloss</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/b0eae592-d376-3ff9-8587-0827314e3e2e"><bdi>Herzattacke</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/b59ba9cc-7cd6-3a0b-9cc8-54ecdd5f6c28"><bdi>Zauberschloss / Kiss Your Shadow</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/0360b779-b0cd-3f4d-8d0d-2b5adb44740e"><bdi>Engelsstaub</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/c9908a66-35df-3749-88e4-c98457f88a0a"><bdi>Seven Lives</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/9ef3f992-fa55-35c4-85bb-3e2b002cb53f"><bdi>Where Sun and Moon Unite</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/0fd38a6f-65d5-34b7-b33a-055570449fe9"><bdi>The Serpent's Kiss</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/5c8c9640-b801-4ebc-a87e-8de606e262cd"><bdi>My Despair</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/e1df5f5c-8774-41d4-8f17-7bcc7f5bb625"><bdi>Silver Bullets</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/4866acc9-a226-4346-92fd-067d7b00fed2"><bdi>Set Me Free</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/67f5f1ed-6efb-47c7-b344-25b2d684aaa6"><bdi>Morpheus</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/d02538df-363f-4ab1-810f-2073b38989b7"><bdi>Somebody Else's Dream</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/3e9b563d-04c8-41d4-98fe-18e140515f7a"><bdi>Everything must change</bdi></a></td>
+        
+        <td><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d" title="In Strict Confidence"><bdi>In Strict Confidence</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/28c0c945-dea4-4090-9257-c039c464b89d/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1992 (24 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/ratings" title="In Strict Confidence"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electro-industrial"><bdi>electro-industrial</bdi></a>, <a href="/tag/dark%20wave"><bdi>dark wave</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/german"><bdi>german</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.instrictconfidence.de/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/15576">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/instrictconfidence">instrictconfidence</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/isc_music">@isc_music</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/instrictconfidence">instrictconfidence</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q571210">Q571210</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/In_Strict_Confidence">en: In Strict Confidence</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/instrictconfidence">instrictconfidence</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/28c0c945-dea4-4090-9257-c039c464b89d/relationships" title="In Strict Confidence"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F28c0c945-dea4-4090-9257-c039c464b89d">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2011-12-05 08:46 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

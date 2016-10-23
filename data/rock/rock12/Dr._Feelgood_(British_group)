@@ -1,0 +1,929 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dr. Feelgood - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="British group, Type: Group, Founded: 1971 in Canvey Island, Area: United Kingdom"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","member":[{"startDate":"1971-01","endDate":"1982-04","member":{"@id":"https://musicbrainz.org/artist/020bd63b-9f71-4d6d-825b-63392b8204d0","name":"The Big Figure","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":"drums"},{"startDate":"1971","endDate":"1977-04","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/37c9244e-db94-48f0-8918-e4bcef4ee9db","name":"Wilko Johnson"},"@type":"OrganizationRole","roleName":["guitars","lead vocals"]},{"roleName":"electric guitar","@type":"OrganizationRole","endDate":"1981","member":{"@type":["Person","MusicGroup"],"name":"Gypie Mayo","@id":"https://musicbrainz.org/artist/7862d3d3-7e6c-44c8-b321-76f0c0ff28ec"},"startDate":"1977"},{"startDate":"1971-01","endDate":"1982-04","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7c673708-50f3-43e1-9326-d28a8df726c8","name":"John B. Sparks"},"@type":"OrganizationRole","roleName":"electric bass guitar"},{"roleName":["guitars","lead vocals"],"@type":"OrganizationRole","endDate":"1977","member":{"name":"Lee Brilleaux","@id":"https://musicbrainz.org/artist/97d22072-d7f5-4bf6-b8a1-812650dfe5bb","@type":["Person","MusicGroup"]},"startDate":"1971"}],"album":[{"albumProductionType":"http://schema.org/StudioAlbum","name":"Malpractice","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/02e96a91-e6e6-3431-935b-fc66e7e6b2ed","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"},"@id":"https://musicbrainz.org/release-group/4ace42ba-ec42-3640-9e6e-b5c82c206c18","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Down by the Jetty","@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/a63db364-ea13-386a-9dc3-1bded229b640","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Be Seeing You","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Sneakin' Suspicion","@id":"https://musicbrainz.org/release-group/da94bd07-c79c-341a-81c7-3689a277b185","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"},"name":"Private Practice","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fb87e947-9530-3860-a72a-8d0d8b7e23ac","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"As It Happens","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c6aff5c1-f2b6-4be8-b555-16e86666f237","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","name":"A Case of the Shakes","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2eb6f646-2334-4b29-acca-6d5df594e593","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/e4785f6a-eb0b-3cfd-84b6-40c1f46261e5","albumReleaseType":"http://schema.org/AlbumRelease","name":"Mad Man Blues","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Brilleaux","@id":"https://musicbrainz.org/release-group/9525af70-1eb1-4cce-bcd4-449b48e709e1","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/c96d1aed-54fa-3540-983b-e813986dc00d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Classic","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"name":"Doctors Order","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a25ccb5e-ab98-3f6a-ad2e-0a8e63a70019","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","name":"Fast Women Slow Horses","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/69241ca3-dc41-30a9-b0b9-822b2048a9c9","byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/784477a5-31ed-4f7b-8ec7-7342402fbbd5","albumProductionType":"http://schema.org/StudioAlbum","name":"Primo","creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d908d63c-20d6-36f1-b1b2-8ce5ebf737ed","albumProductionType":"http://schema.org/StudioAlbum","name":"The Feelgood Factor","byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"}},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","@id":"https://musicbrainz.org/release-group/2084146e-2048-300c-96ff-43b1fa8aabfa","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Chess Masters","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"BBC Sessions 1973-1978","@id":"https://musicbrainz.org/release-group/16398815-992e-31c0-b591-4fd81900d83e","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/33641a68-8534-30d9-99a1-81ec0f80c2a8","albumReleaseType":"http://schema.org/AlbumRelease","name":"Repeat Prescription","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c58647bd-6725-3a61-823d-dc4e25fac76c","albumProductionType":"http://schema.org/StudioAlbum","name":"Blues Classics","creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ee280cf1-0cf4-3039-a319-c47e7f977a1e","name":"Down at the Doctors","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/83cf05bd-6031-3768-89fe-eb53a38d5420","albumProductionType":"http://schema.org/StudioAlbum","name":"Let It Roll","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"name":"Stupidity\u002b Dr. Feelgood LIVE 1976-1990","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/95f8d338-5bb4-32c6-93ce-66d0a4da97de"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"name":"Case History - The Best of Dr. Feelgood","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8133b0d0-c977-3729-a3e5-411713e391d5"},{"byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/326bfd10-93e1-3064-88ca-dff49a2f5da7","albumProductionType":"http://schema.org/CompilationAlbum","name":"Singles","creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","name":"Looking Back","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/adf41a71-a86b-333f-bd4d-9438162e682d","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"}},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","name":"Singled Out","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/aa5259f2-3a64-4b66-ac07-a7aac4a1cb8d","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"Complete Stiff Recordings","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d551e0a6-6833-4fa7-b735-34b35de8e3c3","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"},"name":"25 Years of Dr. Feelgood","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/b4a77e31-adba-3dc3-802d-f67b29d4ae9d","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"All Through the City (With Wilko 1974-1977)","@id":"https://musicbrainz.org/release-group/59188736-11f2-4544-b09c-abaf9ea6e8b7","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"}},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f790feb7-62f8-301c-b3f9-ea19389b751d","name":"Centenary Collection: The Best of Dr. Feelgood","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"@id":"https://musicbrainz.org/release-group/47e6e4b8-0d83-356a-9ae5-8345cfa638ba","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Stupidity","creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1b27163f-da0b-4ce2-b11b-cbde8b411825","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Job","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/681b6f2c-952e-3bf8-9415-da153791319b","name":"Live in London","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"}},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/58992ccb-9fa4-3cf0-8451-7abecdb0be65","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live at the BBC 1974-5","albumProductionType":"http://schema.org/LiveAlbum"},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"albumProductionType":"http://schema.org/LiveAlbum","name":"Live at Rockpalast","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e9ccc500-ab0a-4509-bdcf-2e506f03471e"},{"name":"Down At The BBC In Concert 1977-78","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/27a0e5c3-47f6-4838-9d07-67be0e839f07","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/953a3bc1-8b57-4492-875d-5c9c543d64fc","name":"Oil City Confidential","albumProductionType":"http://schema.org/SoundtrackAlbum","byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"}},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b176944e-ea8e-46a3-8425-80c37ea08223","name":"She Does It Right","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a07a5ec2-d2a7-35d2-bba8-29f1f8e6cada","name":"Back in the Night / I'm a Man","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"},"@id":"https://musicbrainz.org/release-group/d351d431-d175-4c0c-8540-c55fde647a2e","albumReleaseType":"http://schema.org/SingleRelease","name":"She's a Windup","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/c7d45978-bb8e-44c1-be0d-6648c271e949","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Down at the Doctors","byArtist":{"@type":"MusicGroup","name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec"},"@type":"MusicAlbum","creditedTo":"Dr. Feelgood"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/2ea498ce-fbbc-4ce1-a4f0-a080b64c6daa","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Milk And Alcohol","byArtist":{"@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood","@type":"MusicGroup"}},{"byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"name":"Put Him Out Of Your Mind","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/47287f9b-c875-41c4-a374-ab53693312aa","creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","name":"As Long As The Price Is Right","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7bd911f4-02b2-49e5-baa9-60e6342cca58","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/6acb7bd3-de6a-44d5-bf6c-2b693446c439","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Hong Kong Money","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"creditedTo":"Dr. Feelgood","@type":"MusicAlbum"},{"creditedTo":"Dr. Feelgood","@type":"MusicAlbum","byArtist":{"name":"Dr. Feelgood","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","@type":"MusicGroup"},"name":"Don't Wait Up","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ec64fda0-75b1-327a-8086-b8158aef8b3b"},{"@type":"MusicAlbum","creditedTo":"Dr. Feelgood","albumProductionType":"http://schema.org/CompilationAlbum","name":"Taking No Prisoners (with Gypie 1977-1981)","@id":"https://musicbrainz.org/release-group/470d83aa-9c8c-4b29-b1f8-fd42e4a7882e","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec","name":"Dr. Feelgood"}}],"foundingDate":"1971","@context":"http://schema.org","location":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"sameAs":["http://en.wikipedia.org/wiki/Dr._Feelgood_(band)","http://www.allmusic.com/artist/mn0000204708","http://www.bbc.co.uk/music/artists/fcc0e623-435b-4a46-b9b3-73823e22e1ec","http://www.drfeelgood.org/","https://musicbrainz.org/artist/105cf555-853b-45c5-83e4-c788ddfa042e","https://rateyourmusic.com/artist/dr__feelgood","https://www.discogs.com/artist/263045","https://www.wikidata.org/wiki/Q1253897"],"@type":"MusicGroup","groupOrigin":{"containedIn":{"@id":"https://musicbrainz.org/area/c58e25fa-9d99-4ff3-b4b8-a7e7b2cf452c","name":"Essex","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"}},"@type":"City","name":"Canvey Island","@id":"https://musicbrainz.org/area/abbac9a8-7ef2-4b7b-b06d-46618f3f5433"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ffcc0e623-435b-4a46-b9b3-73823e22e1ec">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Ffcc0e623-435b-4a46-b9b3-73823e22e1ec">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec" title="Dr. Feelgood (British group)"><bdi>Dr. Feelgood</bdi></a> <span class="comment">(<bdi>British group</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec" title="Dr. Feelgood – Dr. Feelgood (British group)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/releases" title="Dr. Feelgood (British group)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/recordings" title="Dr. Feelgood (British group)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/works" title="Dr. Feelgood (British group)"><bdi>Works</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/events" title="Dr. Feelgood (British group)"><bdi>Events</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/relationships" title="Dr. Feelgood (British group)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/aliases" title="Dr. Feelgood (British group)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/tags" title="Dr. Feelgood (British group)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/details" title="Dr. Feelgood (British group)"><bdi>Details</bdi></a></li>            <li><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/edit" title="Dr. Feelgood (British group)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Dr. Feelgood</b> are a British pub rock band formed in 1971. Hailing from Canvey Island, Essex, they are best known for early singles like "She Does It Right", "Roxette", and "Back in the Night". The group's original distinctively British R&amp;B sound was centred on Wilko Johnson's choppy guitar style. Along with Johnson, the original band line-up included singer Lee Brilleaux and the rhythm section of John B. Sparks, known as "Sparko", on bass guitar and John Martin, known as "The Big Figure", on drums. Although their most commercially productive years were the early to mid-1970s, and in spite of Brilleaux's death in 1994 of lymphoma, a version of the band (featuring none of the original members) continues to tour and record to this day.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Dr._Feelgood_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=35367" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/02e96a91-e6e6-3431-935b-fc66e7e6b2ed"><bdi>Malpractice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/4ace42ba-ec42-3640-9e6e-b5c82c206c18"><bdi>Down by the Jetty</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/a63db364-ea13-386a-9dc3-1bded229b640"><bdi>Be Seeing You</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/da94bd07-c79c-341a-81c7-3689a277b185"><bdi>Sneakin' Suspicion</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/fb87e947-9530-3860-a72a-8d0d8b7e23ac"><bdi>Private Practice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/c6aff5c1-f2b6-4be8-b555-16e86666f237"><bdi>As It Happens</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/2eb6f646-2334-4b29-acca-6d5df594e593"><bdi>A Case of the Shakes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/e4785f6a-eb0b-3cfd-84b6-40c1f46261e5"><bdi>Mad Man Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/9525af70-1eb1-4cce-bcd4-449b48e709e1"><bdi>Brilleaux</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/c96d1aed-54fa-3540-983b-e813986dc00d"><bdi>Classic</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/a25ccb5e-ab98-3f6a-ad2e-0a8e63a70019"><bdi>Doctors Order</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/69241ca3-dc41-30a9-b0b9-822b2048a9c9"><bdi>Fast Women Slow Horses</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/784477a5-31ed-4f7b-8ec7-7342402fbbd5"><bdi>Primo</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/d908d63c-20d6-36f1-b1b2-8ce5ebf737ed"><bdi>The Feelgood Factor</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/2084146e-2048-300c-96ff-43b1fa8aabfa"><bdi>Chess Masters</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/16398815-992e-31c0-b591-4fd81900d83e"><bdi>BBC Sessions 1973-1978</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/33641a68-8534-30d9-99a1-81ec0f80c2a8"><bdi>Repeat Prescription</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/c58647bd-6725-3a61-823d-dc4e25fac76c"><bdi>Blues Classics</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/ee280cf1-0cf4-3039-a319-c47e7f977a1e"><bdi>Down at the Doctors</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/83cf05bd-6031-3768-89fe-eb53a38d5420"><bdi>Let It Roll</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/95f8d338-5bb4-32c6-93ce-66d0a4da97de"><bdi>Stupidity+ Dr. Feelgood LIVE 1976-1990</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/8133b0d0-c977-3729-a3e5-411713e391d5"><bdi>Case History - The Best of Dr. Feelgood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/326bfd10-93e1-3064-88ca-dff49a2f5da7"><bdi>Singles</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/adf41a71-a86b-333f-bd4d-9438162e682d"><bdi>Looking Back</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/aa5259f2-3a64-4b66-ac07-a7aac4a1cb8d"><bdi>Singled Out</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/d551e0a6-6833-4fa7-b735-34b35de8e3c3"><bdi>Complete Stiff Recordings</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/b4a77e31-adba-3dc3-802d-f67b29d4ae9d"><bdi>25 Years of Dr. Feelgood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/59188736-11f2-4544-b09c-abaf9ea6e8b7"><bdi>All Through the City (With Wilko 1974-1977)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f790feb7-62f8-301c-b3f9-ea19389b751d"><bdi>Centenary Collection: The Best of Dr. Feelgood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/47e6e4b8-0d83-356a-9ae5-8345cfa638ba"><bdi>Stupidity</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/1b27163f-da0b-4ce2-b11b-cbde8b411825"><bdi>On the Job</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/681b6f2c-952e-3bf8-9415-da153791319b"><bdi>Live in London</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/58992ccb-9fa4-3cf0-8451-7abecdb0be65"><bdi>Live at the BBC 1974-5</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/e9ccc500-ab0a-4509-bdcf-2e506f03471e"><bdi>Live at Rockpalast</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/27a0e5c3-47f6-4838-9d07-67be0e839f07"><bdi>Down At The BBC In Concert 1977-78</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/953a3bc1-8b57-4492-875d-5c9c543d64fc"><bdi>Oil City Confidential</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/b176944e-ea8e-46a3-8425-80c37ea08223"><bdi>She Does It Right</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/a07a5ec2-d2a7-35d2-bba8-29f1f8e6cada"><bdi>Back in the Night / I'm a Man</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/d351d431-d175-4c0c-8540-c55fde647a2e"><bdi>She's a Windup</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/c7d45978-bb8e-44c1-be0d-6648c271e949"><bdi>Down at the Doctors</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/2ea498ce-fbbc-4ce1-a4f0-a080b64c6daa"><bdi>Milk And Alcohol</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/47287f9b-c875-41c4-a374-ab53693312aa"><bdi>Put Him Out Of Your Mind</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/7bd911f4-02b2-49e5-baa9-60e6342cca58"><bdi>As Long As The Price Is Right</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/6acb7bd3-de6a-44d5-bf6c-2b693446c439"><bdi>Hong Kong Money</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/ec64fda0-75b1-327a-8086-b8158aef8b3b"><bdi>Don't Wait Up</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/470d83aa-9c8c-4b29-b1f8-fd42e4a7882e"><bdi>Taking No Prisoners (with Gypie 1977-1981)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2009-03-26_Dr_Feelgood%2C_Spirit_of_66%2C_Verviers%2C_Belgium_IMG_7730.jpg/250px-2009-03-26_Dr_Feelgood%2C_Spirit_of_66%2C_Verviers%2C_Belgium_IMG_7730.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:2009-03-26 Dr Feelgood, Spirit of 66, Verviers, Belgium IMG 7730.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1971 (45 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/abbac9a8-7ef2-4b7b-b06d-46618f3f5433"><bdi>Canvey Island</bdi></a>, <a href="/area/c58e25fa-9d99-4ff3-b4b8-a7e7b2cf452c"><bdi>Essex</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/ratings" title="Dr. Feelgood (British group)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/canvey%20island"><bdi>canvey island</bdi></a>, <a href="/tag/england"><bdi>england</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/rock%20and%20indie"><bdi>rock and indie</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.drfeelgood.org/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000204708">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/fcc0e623-435b-4a46-b9b3-73823e22e1ec">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/263045">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/dr__feelgood">Rateyourmusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Dr.Feelgood.Official">Dr.Feelgood.Official</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1253897">Q1253897</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Dr._Feelgood_(band)">en: Dr. Feelgood (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/fcc0e623-435b-4a46-b9b3-73823e22e1ec/relationships" title="Dr. Feelgood (British group)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ffcc0e623-435b-4a46-b9b3-73823e22e1ec">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-09-01 10:19 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

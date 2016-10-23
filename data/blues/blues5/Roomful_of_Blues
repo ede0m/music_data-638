@@ -1,0 +1,604 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Roomful of Blues - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1967, Area: United States"/><script type="application/ld+json">{"@context":"http://schema.org","member":[{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Greg Piccolo","@id":"https://musicbrainz.org/artist/664c93a3-885c-421d-806e-68830cefa7dc"}},{"member":{"@id":"https://musicbrainz.org/artist/6b2fe9ad-1c87-47cc-8607-3278f9d695f4","name":"Ronnie Earl","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Al Copley","@id":"https://musicbrainz.org/artist/76757320-e7c3-4549-b66e-4d1a3702dc2d"}},{"member":{"@id":"https://musicbrainz.org/artist/ea3c3917-8964-48b9-b4cb-ecf714b95c7d","@type":["Person","MusicGroup"],"name":"Duke Robillard"},"roleName":[],"@type":"OrganizationRole"}],"album":[{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Dressed Up To Get Messed Up","byArtist":{"@type":"MusicGroup","name":"Roomful of Blues","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"@id":"https://musicbrainz.org/release-group/06312fac-a882-3c74-b99e-273082a68690","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Roomful of Blues"},{"creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","@type":"MusicGroup","name":"Roomful of Blues"},"@id":"https://musicbrainz.org/release-group/e19c99f4-325a-306e-a639-75c4acd6438d","@type":"MusicAlbum","name":"The First Album","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Hot Little Mama","@id":"https://musicbrainz.org/release-group/2f211c75-ed29-34a8-9852-c17b29297529","byArtist":{"name":"Roomful of Blues","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Roomful of Blues"},{"creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Roomful of Blues","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"@id":"https://musicbrainz.org/release-group/4e3c69f3-e7f9-3d75-8c02-5b3968a8aa25","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Dance All Night"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Turn It On! Turn It Up!","@id":"https://musicbrainz.org/release-group/66adf5c6-9ce7-32a6-92b8-14ba63a57f2b","byArtist":{"name":"Roomful of Blues","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Roomful of Blues"},{"byArtist":{"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","@type":"MusicGroup","name":"Roomful of Blues"},"@id":"https://musicbrainz.org/release-group/c0c36e5a-5a5b-3272-94fc-a8ac03950e30","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Roomful of Christmas","creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Roomful of Blues","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"@id":"https://musicbrainz.org/release-group/66237401-8009-34ef-bf07-dd538f108ccb","name":"Under One Roof","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","@type":"MusicGroup","name":"Roomful of Blues"},"@id":"https://musicbrainz.org/release-group/694104f4-9c9d-3e81-b542-deec37fe705f","albumReleaseType":"http://schema.org/AlbumRelease","name":"There Goes the Neighborhood","@type":"MusicAlbum","creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Roomful of Blues","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"@id":"https://musicbrainz.org/release-group/2a959970-0df3-3b49-ae83-74bcc7e108df","@type":"MusicAlbum","name":"The Blues'll Make You Happy, Too!","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Roomful of Blues","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Watch You When You Go","@id":"https://musicbrainz.org/release-group/eb32bd5e-65c6-382f-b516-708227e71825","byArtist":{"name":"Roomful of Blues","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"}},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Roomful of Blues","@type":"MusicAlbum","name":"Raisin' a Ruckus","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c44cd227-2ce8-33b1-bb62-e48eaec9000d","byArtist":{"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","name":"Roomful of Blues","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","@type":"MusicGroup","name":"Roomful of Blues"},"@id":"https://musicbrainz.org/release-group/e30a5af3-2574-4347-9a5f-81d2803d38f6","name":"Hook, Line \u0026 Sinker","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Big Joe Turner \u0026 Roomful of Blues","albumReleaseType":"http://schema.org/AlbumRelease","name":"Blues Train","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/b123ba15-c4a5-4281-8117-2e57f8f02496","@type":["Person","MusicGroup"],"name":"Big Joe Turner"},{"name":"Roomful of Blues","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"}],"@id":"https://musicbrainz.org/release-group/9d91bb12-f215-37cd-bf81-5e70c749da00"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/0ad58e2b-51d9-4c6b-a609-2804246b70da","@type":["Person","MusicGroup"],"name":"Earl King"},{"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","name":"Roomful of Blues","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/8817f512-3fb3-37cf-beae-08f007e6612b","name":"Glazed","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Earl King \u0026 Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c595305a-028b-39e8-a187-2f2e31a5998e","byArtist":{"name":"Roomful of Blues","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Standing Room Only"},{"albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Roomful of Blues","@type":"MusicAlbum","name":"Live at Lupo's Heartbreak Hotel","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7cbb2466-07dd-41e3-8b75-6435659cde6b","byArtist":{"@type":"MusicGroup","name":"Roomful of Blues","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"}},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Rhythm and Bones","byArtist":[{"@type":["Person","MusicGroup"],"name":"Porky Cohen","@id":"https://musicbrainz.org/artist/ff035dff-719e-41fd-8b4e-9a4c70659370"},{"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","name":"Roomful of Blues","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/193fe4c8-3a37-3dde-8b0f-aae29694c7d8","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Porky Cohen with Roomful of Blues \u0026 Special Guests"},{"creditedTo":"Roomful of Blues","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/495002c6-fd58-3e11-a756-02d1f1cdb4dc","byArtist":{"@type":"MusicGroup","name":"Roomful of Blues","@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f"},"name":"That's Right","@type":"MusicAlbum"}],"sameAs":["https://en.wikipedia.org/wiki/Roomful_of_Blues","https://www.discogs.com/artist/357698","https://www.wikidata.org/wiki/Q2166158"],"@id":"https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f","@type":"MusicGroup","name":"Roomful of Blues","foundingDate":"1967","location":{"name":"United States","@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F01b7d628-ecfe-48f9-8c0f-1afbde59761f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F01b7d628-ecfe-48f9-8c0f-1afbde59761f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues – Roomful of Blues"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/releases" title="Roomful of Blues"><bdi>Releases</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/recordings" title="Roomful of Blues"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/works" title="Roomful of Blues"><bdi>Works</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/events" title="Roomful of Blues"><bdi>Events</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/relationships" title="Roomful of Blues"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/aliases" title="Roomful of Blues"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/tags" title="Roomful of Blues"><bdi>Tags</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/details" title="Roomful of Blues"><bdi>Details</bdi></a></li>            <li><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/edit" title="Roomful of Blues"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=37548" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/06312fac-a882-3c74-b99e-273082a68690"><bdi>Dressed Up To Get Messed Up</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/e19c99f4-325a-306e-a639-75c4acd6438d"><bdi>The First Album</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/2f211c75-ed29-34a8-9852-c17b29297529"><bdi>Hot Little Mama</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/4e3c69f3-e7f9-3d75-8c02-5b3968a8aa25"><bdi>Dance All Night</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/66adf5c6-9ce7-32a6-92b8-14ba63a57f2b"><bdi>Turn It On! Turn It Up!</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/c0c36e5a-5a5b-3272-94fc-a8ac03950e30"><bdi>Roomful of Christmas</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/66237401-8009-34ef-bf07-dd538f108ccb"><bdi>Under One Roof</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/694104f4-9c9d-3e81-b542-deec37fe705f"><bdi>There Goes the Neighborhood</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/2a959970-0df3-3b49-ae83-74bcc7e108df"><bdi>The Blues'll Make You Happy, Too!</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/eb32bd5e-65c6-382f-b516-708227e71825"><bdi>Watch You When You Go</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c44cd227-2ce8-33b1-bb62-e48eaec9000d"><bdi>Raisin' a Ruckus</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/e30a5af3-2574-4347-9a5f-81d2803d38f6"><bdi>Hook, Line &amp; Sinker</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/9d91bb12-f215-37cd-bf81-5e70c749da00"><bdi>Blues Train</bdi></a></td>
+        
+        <td><a href="/artist/b123ba15-c4a5-4281-8117-2e57f8f02496" title="Turner, Big Joe"><bdi>Big Joe Turner</bdi></a> &amp; <a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/8817f512-3fb3-37cf-beae-08f007e6612b"><bdi>Glazed</bdi></a></td>
+        
+        <td><a href="/artist/0ad58e2b-51d9-4c6b-a609-2804246b70da" title="King, Earl"><bdi>Earl King</bdi></a> &amp; <a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/c595305a-028b-39e8-a187-2f2e31a5998e"><bdi>Standing Room Only</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/7cbb2466-07dd-41e3-8b75-6435659cde6b"><bdi>Live at Lupo's Heartbreak Hotel</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/193fe4c8-3a37-3dde-8b0f-aae29694c7d8"><bdi>Rhythm and Bones</bdi></a></td>
+        
+        <td><a href="/artist/ff035dff-719e-41fd-8b4e-9a4c70659370" title="Cohen, Porky"><bdi>Porky Cohen</bdi></a> with <a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a> &amp; Special Guests</td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/495002c6-fd58-3e11-a756-02d1f1cdb4dc"><bdi>That's Right</bdi></a></td>
+        
+        <td><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f" title="Roomful of Blues"><bdi>Roomful of Blues</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1967 (49 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/blues"><bdi>blues</bdi></a>, <a href="/tag/boogie-woogie"><bdi>boogie-woogie</bdi></a>, <a href="/tag/jazz%20fusion"><bdi>jazz fusion</bdi></a>, <a href="/tag/jump%20blues"><bdi>jump blues</bdi></a>, <a href="/tag/rhythm%20and%20blues"><bdi>rhythm and blues</bdi></a>, <a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/tags" title="Roomful of Blues"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/357698">Discogs</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q2166158">Q2166158</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Roomful_of_Blues">en: Roomful of Blues</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f/relationships" title="Roomful of Blues"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F01b7d628-ecfe-48f9-8c0f-1afbde59761f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2011-12-05 13:14 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

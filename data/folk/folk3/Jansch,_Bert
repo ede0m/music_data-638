@@ -1,0 +1,924 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bert Jansch - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1943-11-03 in Glasgow, Died: 2011-10-05 in Hampstead, Area: United Kingdom"/><script type="application/ld+json">{"sameAs":["http://bertjansch.com/","http://isni-url.oclc.nl/isni/0000000055163123","http://viaf.org/viaf/18139847","http://www.allmusic.com/artist/mn0000756656","http://www.bbc.co.uk/music/artists/d7f95537-2b48-403d-9ac2-f1fc7aad0960","http://www.imdb.com/name/nm1172375/","https://en.wikipedia.org/wiki/Bert_Jansch","https://rateyourmusic.com/artist/bert_jansch","https://www.discogs.com/artist/363204","https://www.wikidata.org/wiki/Q332953"],"birthPlace":{"@id":"https://musicbrainz.org/area/c279f805-01f8-46f5-99cf-51f165a1adad","@type":"City","containedIn":{"@type":"AdministrativeArea","name":"Scotland","containedIn":{"name":"United Kingdom","@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"@id":"https://musicbrainz.org/area/6fa1c7da-6689-4cec-85f9-680f853e8a08"},"name":"Glasgow"},"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","birthDate":"1943-11-03","name":"Bert Jansch","location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"deathPlace":{"@id":"https://musicbrainz.org/area/b0b860b3-35d3-414b-b734-7e5b1c41ea70","name":"Hampstead","containedIn":{"@id":"https://musicbrainz.org/area/627f7b90-32b6-4bc6-b11e-ee1d86ca1cd7","name":"Camden","containedIn":{"@type":"City","name":"London","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"@id":"https://musicbrainz.org/area/f03d09b3-39dc-4083-afd6-159e3f0d462f"},"@type":"AdministrativeArea"},"@type":"AdministrativeArea"},"album":[{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Bert Jansch","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/bf40678e-67a3-304e-9c80-1eae9dc1940a"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/7b1083a2-7033-398b-a910-145808d2fa0a","albumProductionType":"http://schema.org/StudioAlbum","name":"It Don’t Bother Me","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]}},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Bert and John","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},{"name":"John Renbourn","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4e64ce27-3326-49ac-abf0-494c63979c96"}],"creditedTo":"Bert Jansch \u0026 John Renbourn","@id":"https://musicbrainz.org/release-group/f146c8e1-ac45-49f0-9723-2a54074d9037"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Jack Orion","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f391d4db-6ac0-3c99-84e9-f1c6525af985","creditedTo":"Bert Jansch"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Nicola","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/e5190340-dc20-361f-8558-b684f6d70a36"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Birthday Blues","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"@type":"MusicAlbum","creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/194f9dfd-5d9a-37e9-a4c5-ac12c114b018"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},"name":"Rosemary Lane","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e5404f06-dd31-3233-8397-99b2fcb3d36f","creditedTo":"Bert Jansch"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/506084cf-71ba-3d9c-b0e1-cbe2bec345e8","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Moonshine","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"L.A. Turnaround","@id":"https://musicbrainz.org/release-group/50d55c8f-4b62-312a-bee9-a9cdcf2cd4db","creditedTo":"Bert Jansch"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/071bbfc1-26ac-33e9-bbfa-9b4949b06150","albumReleaseType":"http://schema.org/AlbumRelease","name":"Santa Barbara Honeymoon","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"}},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/29a45e5a-8a0f-3970-89d4-a8e4f970d01e","albumProductionType":"http://schema.org/StudioAlbum","name":"Poor Mouth","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"albumProductionType":"http://schema.org/StudioAlbum","name":"A Rare Conundrum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/73140134-8e36-383d-bf35-0809480b8fad","creditedTo":"Bert Jansch"},{"byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Avocet","@id":"https://musicbrainz.org/release-group/0fef2c65-784d-3d9c-931b-5d49a97d3a00","creditedTo":"Bert Jansch"},{"@id":"https://musicbrainz.org/release-group/ad2255d7-05d3-3d3d-ac3a-09271124eafb","creditedTo":"Bert Jansch","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Heartbreak"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/56e3b861-2baa-35c4-b874-11b0c93bc7ca","name":"From the Outside","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"}},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/0da63e0d-64f4-44a0-b372-47b0fc3e014d","albumReleaseType":"http://schema.org/AlbumRelease","name":"Leather Launderette","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sketches","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/420afaac-c388-3b2f-89ac-8d3bdf8ca36a","creditedTo":"Bert Jansch"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/283e42d4-431c-3529-b38d-4a1df4bf8bb8","name":"The Ornament Tree","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/98a35fb2-5624-3b0b-935e-af364d9e8bde","creditedTo":"Bert Jansch \u0026 John Renbourn","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},{"@id":"https://musicbrainz.org/artist/4e64ce27-3326-49ac-abf0-494c63979c96","@type":["Person","MusicGroup"],"name":"John Renbourn"}],"name":"After the Dance","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},"name":"When the Circus Comes to Town","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/47292bc3-02d5-3f7f-a4b2-2224bd40a36f","creditedTo":"Bert Jansch"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Toy Balloon","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"@type":"MusicAlbum","creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/1b8ac35d-b446-3b92-ba55-d9b90909880e"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Crimson Moon","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/c42aaae6-0ce6-3c84-bf16-55ba371e2efd"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Edge of a Dream","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/ad2e349f-06db-3cf1-b567-de053ad92f01"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"The Black Swan","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/3ce8ca04-5a91-3ecc-a9d4-d4eafe5afd84"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/58b09598-c320-3989-8897-1edfae372de1","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Bert Jansch Sampler","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]}},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/1a5dbe55-495f-3bef-a86d-ec13e0bd743c","name":"The Best of Bert Jansch","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"}},{"byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Collection","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2e5f2498-1120-38a3-af3b-2a846e12be58","creditedTo":"Bert Jansch"},{"@id":"https://musicbrainz.org/release-group/04563af5-875f-3172-894e-df37e12a39e8","creditedTo":"Bert Jansch","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Bert Jansch / It Don't Bother Me","albumProductionType":"http://schema.org/CompilationAlbum"},{"name":"Birthday Blues / Rosemary Lane","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/e798f0b2-1b0a-4872-b93d-cf7b8e600e45"},{"@id":"https://musicbrainz.org/release-group/78537dd7-9d93-4319-b32a-4ceac917b6c4","creditedTo":"Bert Jansch","@type":"MusicAlbum","byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Blackwater Side","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/839e192c-b3f6-3e5b-b0f9-3d63eb199ce8","creditedTo":"Bert Jansch","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","name":"Dazzling Stranger","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/bf0f4f81-fbe9-427d-b9d5-7979adda1d49","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Legend: The Classic Recordings","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"After the Long Night / Playing the Game","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Loren Auerbach","@id":"https://musicbrainz.org/artist/9957db14-459b-4dc8-83aa-c4af62a2344c"},{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"}],"creditedTo":"Loren Auerbach and Bert Jansch","@id":"https://musicbrainz.org/release-group/32333338-78ce-4219-9cf3-887cedb97fd8"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/024a2ea6-a958-344b-b9d1-4cfbbca58e4e","albumReleaseType":"http://schema.org/AlbumRelease","name":"Bert Jansch / Jack Orion","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"name":"Best of Bert Jansch","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/671b919b-40d7-39cd-ae3e-5711de3a5f12","creditedTo":"Bert Jansch"},{"@id":"https://musicbrainz.org/release-group/a33828a2-b023-3c37-aebd-acc61416c9ab","creditedTo":"Bert Jansch","byArtist":{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Young Man Blues: Live in Glasgow 1962-1964"},{"creditedTo":"Bert Jansch","@id":"https://musicbrainz.org/release-group/7f84a6ad-ae0a-3131-a535-3b2b6a566831","albumProductionType":"http://schema.org/LiveAlbum","name":"Live at the 12 Bar: An Authorised Bootleg","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","name":"Bert Jansch","@type":["Person","MusicGroup"]}},{"byArtist":{"name":"Bert Jansch","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Downunder: Live in Australia","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/d9022333-ff80-4c1a-8aee-860e9b7fc064","creditedTo":"Bert Jansch"},{"byArtist":{"@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960","@type":["Person","MusicGroup"],"name":"Bert Jansch"},"@type":"MusicAlbum","name":"The River Sessions","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1a9720a3-2c77-32d9-8b9c-dd742dd71ffb","creditedTo":"Bert Jansch"},{"@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Bert Jansch","@id":"https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960"},"albumProductionType":"http://schema.org/LiveAlbum","name":"Sweet Sweet Music","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1db4bc8b-7f74-4455-bbda-9e30bfe270cd","creditedTo":"Bert Jansch"}],"deathDate":"2011-10-05","@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd7f95537-2b48-403d-9ac2-f1fc7aad0960">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fd7f95537-2b48-403d-9ac2-f1fc7aad0960">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Bert Jansch – Jansch, Bert"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/releases" title="Jansch, Bert"><bdi>Releases</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/recordings" title="Jansch, Bert"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/works" title="Jansch, Bert"><bdi>Works</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/events" title="Jansch, Bert"><bdi>Events</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/relationships" title="Jansch, Bert"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/aliases" title="Jansch, Bert"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/tags" title="Jansch, Bert"><bdi>Tags</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/details" title="Jansch, Bert"><bdi>Details</bdi></a></li>            <li><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/edit" title="Jansch, Bert"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+        <p><strong>Legal name:</strong> Herbert Jansch</p>
+    
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Herbert</b> "<b>Bert</b>" <b>Jansch</b> (3 November 1943 – 5 October 2011) was a Scottish folk musician and founding member of the band Pentangle. He was born in Glasgow and came to prominence in London in the 1960s, as an acoustic guitarist, as well as a singer-songwriter. He recorded at least 25 albums and toured extensively from the 1960s to the 21st century.</p>
+<p>Jansch was a leading figure in the British folk music revival of the 1960s, touring folk clubs and recording several solo albums, as well as collaborating with other musicians such as John Renbourn and Anne Briggs. In 1968, he co-founded the band Pentangle, touring and recording with them until their break-up in 1972. He then took a few years' break from music, returning in the late 1970s to work on a series of projects with other musicians. He joined a reformed Pentangle in the early 1980s and remained with them as they evolved through various changes of personnel until 1995. Until his death, Jansch continued to work as a solo artist.</p>
+<p>Jansch's work influenced such artists as Al Stewart, Paul Simon, Johnny Marr, Elton John, Ian Anderson, Bernie Taupin, Bernard Butler, Jimmy Page, Nick Drake, Graham Coxon, Donovan, Neil Young, Fleet Foxes, Devendra Banhart, Neil Halstead, and Roy Harper.</p>
+<p>Jansch received two Lifetime Achievement Awards at the BBC Folk Awards: one, in 2001, for his solo achievements and the other, in 2007, as a member of Pentangle.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Bert_Jansch">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=6212" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1965</td>
+        <td><a href="/release-group/bf40678e-67a3-304e-9c80-1eae9dc1940a"><bdi>Bert Jansch</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1965</td>
+        <td><a href="/release-group/7b1083a2-7033-398b-a910-145808d2fa0a"><bdi>It Don’t Bother Me</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/f146c8e1-ac45-49f0-9723-2a54074d9037"><bdi>Bert and John</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a> &amp; <a href="/artist/4e64ce27-3326-49ac-abf0-494c63979c96" title="Renbourn, John"><bdi>John Renbourn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/f391d4db-6ac0-3c99-84e9-f1c6525af985"><bdi>Jack Orion</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1967</td>
+        <td><a href="/release-group/e5190340-dc20-361f-8558-b684f6d70a36"><bdi>Nicola</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/194f9dfd-5d9a-37e9-a4c5-ac12c114b018"><bdi>Birthday Blues</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/e5404f06-dd31-3233-8397-99b2fcb3d36f"><bdi>Rosemary Lane</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/506084cf-71ba-3d9c-b0e1-cbe2bec345e8"><bdi>Moonshine</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1974</td>
+        <td><a href="/release-group/50d55c8f-4b62-312a-bee9-a9cdcf2cd4db"><bdi>L.A. Turnaround</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1975</td>
+        <td><a href="/release-group/071bbfc1-26ac-33e9-bbfa-9b4949b06150"><bdi>Santa Barbara Honeymoon</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1976</td>
+        <td><a href="/release-group/29a45e5a-8a0f-3970-89d4-a8e4f970d01e"><bdi>Poor Mouth</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/73140134-8e36-383d-bf35-0809480b8fad"><bdi>A Rare Conundrum</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/0fef2c65-784d-3d9c-931b-5d49a97d3a00"><bdi>Avocet</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/ad2255d7-05d3-3d3d-ac3a-09271124eafb"><bdi>Heartbreak</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/56e3b861-2baa-35c4-b874-11b0c93bc7ca"><bdi>From the Outside</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/0da63e0d-64f4-44a0-b372-47b0fc3e014d"><bdi>Leather Launderette</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/420afaac-c388-3b2f-89ac-8d3bdf8ca36a"><bdi>Sketches</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/283e42d4-431c-3529-b38d-4a1df4bf8bb8"><bdi>The Ornament Tree</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/98a35fb2-5624-3b0b-935e-af364d9e8bde"><bdi>After the Dance</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a> &amp; <a href="/artist/4e64ce27-3326-49ac-abf0-494c63979c96" title="Renbourn, John"><bdi>John Renbourn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/47292bc3-02d5-3f7f-a4b2-2224bd40a36f"><bdi>When the Circus Comes to Town</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/1b8ac35d-b446-3b92-ba55-d9b90909880e"><bdi>Toy Balloon</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/c42aaae6-0ce6-3c84-bf16-55ba371e2efd"><bdi>Crimson Moon</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/ad2e349f-06db-3cf1-b567-de053ad92f01"><bdi>Edge of a Dream</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/3ce8ca04-5a91-3ecc-a9d4-d4eafe5afd84"><bdi>The Black Swan</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/58b09598-c320-3989-8897-1edfae372de1"><bdi>The Bert Jansch Sampler</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/1a5dbe55-495f-3bef-a86d-ec13e0bd743c"><bdi>The Best of Bert Jansch</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/2e5f2498-1120-38a3-af3b-2a846e12be58"><bdi>The Collection</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/04563af5-875f-3172-894e-df37e12a39e8"><bdi>Bert Jansch / It Don't Bother Me</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/e798f0b2-1b0a-4872-b93d-cf7b8e600e45"><bdi>Birthday Blues / Rosemary Lane</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/78537dd7-9d93-4319-b32a-4ceac917b6c4"><bdi>Blackwater Side</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/839e192c-b3f6-3e5b-b0f9-3d63eb199ce8"><bdi>Dazzling Stranger</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/bf0f4f81-fbe9-427d-b9d5-7979adda1d49"><bdi>Legend: The Classic Recordings</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/32333338-78ce-4219-9cf3-887cedb97fd8"><bdi>After the Long Night / Playing the Game</bdi></a></td>
+        
+        <td><a href="/artist/9957db14-459b-4dc8-83aa-c4af62a2344c" title="Auerbach, Loren"><bdi>Loren Auerbach</bdi></a> and <a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/024a2ea6-a958-344b-b9d1-4cfbbca58e4e"><bdi>Bert Jansch / Jack Orion</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/671b919b-40d7-39cd-ae3e-5711de3a5f12"><bdi>Best of Bert Jansch</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/a33828a2-b023-3c37-aebd-acc61416c9ab"><bdi>Young Man Blues: Live in Glasgow 1962-1964</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/7f84a6ad-ae0a-3131-a535-3b2b6a566831"><bdi>Live at the 12 Bar: An Authorised Bootleg</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/d9022333-ff80-4c1a-8aee-860e9b7fc064"><bdi>Downunder: Live in Australia</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/1a9720a3-2c77-32d9-8b9c-dd742dd71ffb"><bdi>The River Sessions</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/1db4bc8b-7f74-4455-bbda-9e30bfe270cd"><bdi>Sweet Sweet Music</bdi></a></td>
+        
+        <td><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960" title="Jansch, Bert"><bdi>Bert Jansch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BertJansch.jpg/250px-BertJansch.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:BertJansch.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Jansch, Bert</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1943-11-03</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/c279f805-01f8-46f5-99cf-51f165a1adad"><bdi>Glasgow</bdi></a>, <a href="/area/6fa1c7da-6689-4cec-85f9-680f853e8a08"><bdi>Scotland</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Died:</dt>
+<dd>2011-10-05 (aged 67)</dd>
+<dt>Died in:</dt>
+<dd class="end_area"><a href="/area/b0b860b3-35d3-414b-b734-7e5b1c41ea70"><bdi>Hampstead</bdi></a>, <a href="/area/627f7b90-32b6-4bc6-b11e-ee1d86ca1cd7"><bdi>Camden</bdi></a>, <a href="/area/f03d09b3-39dc-4083-afd6-159e3f0d462f"><bdi>London</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000055163123">0000 0000 5516 3123    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classic%20pop%20and%20rock"><bdi>classic pop and rock</bdi></a>, <a href="/tag/folk"><bdi>folk</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://bertjansch.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000756656">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/d7f95537-2b48-403d-9ac2-f1fc7aad0960">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/363204">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1172375/">IMDb</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/bertjansch">bertjansch</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/bert_jansch">Rateyourmusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/bertjansch">bertjansch</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/18139847">VIAF: 18139847</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q332953">Q332953</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Bert_Jansch">en: Bert Jansch</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/d7f95537-2b48-403d-9ac2-f1fc7aad0960/relationships" title="Jansch, Bert"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd7f95537-2b48-403d-9ac2-f1fc7aad0960">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-10-07 23:46 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

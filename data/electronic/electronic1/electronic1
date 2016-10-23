@@ -1,0 +1,563 @@
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tag “electronic” - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Ftag%2Felectronic%2Fartist%3Fpage%3D1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Ftag%2Felectronic%2Fartist%3Fpage%3D1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page" class="fullwidth">
+    <div id="content">
+<h1>Tag “<a href="/tag/electronic"><bdi>electronic</bdi></a>”</h1>
+
+<div class="tabs">
+    <ul class="tabs">            <li><a href="/tag/electronic"><bdi>Overview</bdi></a></li>            <li class="sel"><a href="/tag/electronic/artist"><bdi>Artists</bdi></a></li>            <li><a href="/tag/electronic/release-group"><bdi>Release Groups</bdi></a></li>            <li><a href="/tag/electronic/release"><bdi>Releases</bdi></a></li>            <li><a href="/tag/electronic/recording"><bdi>Recordings</bdi></a></li>            <li><a href="/tag/electronic/work"><bdi>Works</bdi></a></li>            <li><a href="/tag/electronic/label"><bdi>Labels</bdi></a></li>            <li><a href="/tag/electronic/place"><bdi>Places</bdi></a></li>            <li><a href="/tag/electronic/area"><bdi>Areas</bdi></a></li>            <li><a href="/tag/electronic/instrument"><bdi>Instruments</bdi></a></li>            <li><a href="/tag/electronic/series"><bdi>Series</bdi></a></li>            <li><a href="/tag/electronic/event"><bdi>Events</bdi></a></li>    </ul>
+</div>
+
+    <h2>1,683 artists found</h2><nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/electronic/artist?page=17">17</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/electronic/artist?page=2">Next</a></li>
+</ul>
+</nav>
+
+            <ul>                <li>
+                    10 -
+                    <a href="/artist/f22942a1-6f70-4f48-866e-238cb2308fbd" title="Aphex Twin"><bdi>Aphex Twin</bdi></a>
+                </li>                <li>
+                    10 -
+                    <a href="/artist/1946a82a-f927-40c2-8235-38d64f50d043" title="Chemical Brothers, The"><bdi>The Chemical Brothers</bdi></a>
+                </li>                <li>
+                    7 -
+                    <a href="/artist/4a4ee089-93b1-4470-af9a-6ff575d32704" title="Prodigy, The (UK electronic group, main member Liam Howlett)"><bdi>The Prodigy</bdi></a> <span class="comment">(<bdi>UK electronic group, main member Liam Howlett</bdi>)</span>
+                </li>                <li>
+                    6 -
+                    <a href="/artist/410c9baf-5469-44f6-9852-826524b80c61" title="Autechre"><bdi>Autechre</bdi></a>
+                </li>                <li>
+                    6 -
+                    <a href="/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb" title="Björk"><bdi>Björk</bdi></a>
+                </li>                <li>
+                    6 -
+                    <a href="/artist/69158f97-4c07-4c4e-baf8-4e4ab1ed666e" title="Boards of Canada"><bdi>Boards of Canada</bdi></a>
+                </li>                <li>
+                    6 -
+                    <a href="/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56" title="Daft Punk"><bdi>Daft Punk</bdi></a>
+                </li>                <li>
+                    6 -
+                    <a href="/artist/8538e728-ca0b-4321-b7e5-cff6565dd4c0" title="Depeche Mode"><bdi>Depeche Mode</bdi></a>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/cb67438a-7f50-4f2b-a6f1-2bb2729fd538" title="Air (French band)"><bdi>Air</bdi></a> <span class="comment">(<bdi>French band</bdi>)</span>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/8970d868-0723-483b-a75b-51088913d3d4" title="Moby (electronic musician Richard Melville Hall)"><bdi>Moby</bdi></a> <span class="comment">(<bdi>electronic musician Richard Melville Hall</bdi>)</span>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/23d8426c-18c7-46e6-a51d-7395bd43c641" title="Tangerine Dream"><bdi>Tangerine Dream</bdi></a>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f" title="Vangelis (Greek composer of electronic, new age and classical)"><bdi>Vangelis</bdi></a> <span class="comment">(<bdi>Greek composer of electronic, new age and classical</bdi>)</span>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/87225a21-c925-41cd-852f-be4b052d0824" title="AFX"><bdi>AFX</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/3bcff06f-675a-451f-9075-99e8657047e8" title="Four Tet"><bdi>Four Tet</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/eab76c9f-ff91-4431-b6dd-3b976c598020" title="Infected Mushroom"><bdi>Infected Mushroom</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/86e2e2ad-6d1b-44fd-9463-b6683718a1cc" title="Jarre, Jean Michel"><bdi>Jean Michel Jarre</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/2e710b0c-6ff3-4c21-87d5-16ebbbca212c" title="Schulze, Klaus"><bdi>Klaus Schulze</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/5700dcd4-c139-4f31-aa3e-6382b9af9032" title="Kraftwerk"><bdi>Kraftwerk</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8" title="Massive Attack"><bdi>Massive Attack</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/b7ffd2af-418f-4be2-bdd1-22f8b48613da" title="Nine Inch Nails"><bdi>Nine Inch Nails</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711" title="Radiohead"><bdi>Radiohead</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/e4e79264-c1ec-490c-b823-b2918204cd4f" title="wumpscut"><bdi>:wumpscut:</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/f04cc80e-0f59-45b8-aaf4-ac81035644e9" title="And One"><bdi>And One</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/3255ddb2-bd7f-4850-b314-bdfa10d14706" title="Birdy Nam Nam"><bdi>Birdy Nam Nam</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/ff95eb47-41c4-4f7f-a104-cdc30f02e872" title="Eno, Brian"><bdi>Brian Eno</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6" title="Burial (UK dubstep)"><bdi>Burial</bdi></a> <span class="comment">(<bdi>UK dubstep</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/439a29ad-f4ef-4857-a7cd-3d4a551056c8" title="Cabaret Voltaire"><bdi>Cabaret Voltaire</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/09721ba6-8972-4862-b272-b69465265de5" title="Clubroot"><bdi>Clubroot</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/23d9d74d-c95e-46a6-be26-a6075c49747a" title="Faithless"><bdi>Faithless</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/34c63966-445c-4613-afe1-4f0e1e53ae9a" title="Fatboy Slim"><bdi>Fatboy Slim</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/b847e9d2-c931-4daf-900c-42c7b2c42e16" title="Front Line Assembly"><bdi>Front Line Assembly</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/e21857d5-3256-4547-afb3-4b6ded592596" title="Gorillaz"><bdi>Gorillaz</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/4f4bda3c-d636-4135-b65a-6cc26bc75788" title="Kosheen"><bdi>Kosheen</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/beff21d3-88c7-4ee0-8b7a-40b6db22c6d7" title="Pendulum (Australian drum &amp; bass)"><bdi>Pendulum</bdi></a> <span class="comment">(<bdi>Australian drum &amp; bass</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/be540c02-7898-4b79-9acc-c8122c7d9e83" title="Pet Shop Boys"><bdi>Pet Shop Boys</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11" title="Portishead"><bdi>Portishead</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/55704c38-224f-4b75-b29f-d43653f8bc9a" title="Primal Scream (Scottish rock band)"><bdi>Primal Scream</bdi></a> <span class="comment">(<bdi>Scottish rock band</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/f467181e-d5e0-4285-b47e-e853dcc89ee7" title="Ratatat"><bdi>Ratatat</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/75ebdfa0-4a8a-496a-a57f-e4bb93b14d4c" title="Schiller"><bdi>Schiller</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/6648391e-7890-4f6c-b939-976f215195d3" title="UNKLE"><bdi>UNKLE</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/8385f26a-f374-4a04-9aad-4442ce24db2b" title="VNV Nation"><bdi>VNV Nation</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/bb1c0a99-6abe-4675-ada5-601da83a926f" title="SITD (Shadows in the Dark)"><bdi>[:SITD:]</bdi></a> <span class="comment">(<bdi>Shadows in the Dark</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/d346f993-83b9-42f7-8119-12600793bfde" title="777minus111"><bdi>777minus111</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/36f35db0-bc09-43e7-8650-a123224943c7" title="808 State"><bdi>808 State</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7364dea6-ca9a-48e3-be01-b44ad0d19897" title="a-ha"><bdi>a-ha</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8a723345-c62c-45ec-a45e-c1007f2981b4" title="Add N to (X)"><bdi>Add N to (X)</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b" title="Apollo 440"><bdi>Apollo 440</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/98ed42ad-aafa-46a8-899b-150fa237133a" title="Apoptygma Berzerk"><bdi>Apoptygma Berzerk</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/bd513de0-e42f-425e-ae46-817d7bc5fb1c" title="Archive (UK trip-hop/post-rock band)"><bdi>Archive</bdi></a> <span class="comment">(<bdi>UK trip-hop/post-rock band</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f76fdc73-a709-4863-9123-4b0723a5a7ef" title="Art vs Science"><bdi>Art vs Science</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1626de1a-509a-413f-82de-a362a2fd14a3" title="Assemblage 23"><bdi>Assemblage 23</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/84d06499-0643-46b8-9e1f-45f743a53f5e" title="Bananarama"><bdi>Bananarama</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/28cbf94d-0700-4095-a188-37e373b069a7" title="Basement Jaxx"><bdi>Basement Jaxx</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/309c62ba-7a22-4277-9f67-4a162526d18a" title="Beck (alt rock, multi-instrumentalist Beck Hansen)"><bdi>Beck</bdi></a> <span class="comment">(<bdi>alt rock, multi-instrumentalist Beck Hansen</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/9c6bddde-6228-4d9f-ad0d-03f6fcb19e13" title="Binärpilot"><bdi>Binärpilot</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/d2dfcd45-9479-4046-bc02-d1832809688d" title="Black Lung (project by David Thrussell)"><bdi>Black Lung</bdi></a> <span class="comment">(<bdi>project by David Thrussell</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/6606c527-376a-47b4-bb35-748d01e14f6d" title="Blank &amp; Jones (German electronic music duo)"><bdi>Blank &amp; Jones</bdi></a> <span class="comment">(<bdi>German electronic music duo</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/337e30b6-3dbe-44f2-a3fd-84a80abdb5a1" title="Blutengel"><bdi>Blutengel</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/a0601ca1-ba4e-4d55-a1ba-40f2a4438ed0" title="Boomkat"><bdi>Boomkat</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/40c78276-b96d-4215-a8b2-15744a8c78b7" title="Boxcar (Australian synthpop band)"><bdi>Boxcar</bdi></a> <span class="comment">(<bdi>Australian synthpop band</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/88e2147d-0332-46f6-85b2-b5f463ba957b" title="BT (EDM producer Brian Wayne Transeau)"><bdi>BT</bdi></a> <span class="comment">(<bdi>EDM producer Brian Wayne Transeau</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8229a8f1-b315-4fae-af57-b3eb71efdaf4" title="Carbon Based Lifeforms"><bdi>Carbon Based Lifeforms</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/735e3514-a8ae-401f-af3b-6300df1b8d2c" title="Caribou"><bdi>Caribou</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/82e454e2-38ee-4e69-89a6-cc65167753d1" title="Chase &amp; Status"><bdi>Chase &amp; Status</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7177fefd-be55-4076-a10b-37fab913855e" title="Client"><bdi>Client</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/c16fbb7e-57b1-462c-97c5-bd0e11248765" title="Coil (UK cross-genre industrial group)"><bdi>Coil</bdi></a> <span class="comment">(<bdi>UK cross-genre industrial group</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/bbe04d97-6888-4148-a052-fef2575ed351" title="DaKsha (electronic/ambient/chillout/new age)"><bdi>DaKsha</bdi></a> <span class="comment">(<bdi>electronic/ambient/chillout/new age</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7f74bf11-d450-4b85-b11d-4ca4131eedd5" title="Ich, Das"><bdi>Das Ich</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/c72c1c3d-bf05-457f-a9f7-a642bae6ca91" title="De/Vision"><bdi>De/Vision</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/a3494b6a-32b5-416c-8dea-dce62c8e9244" title="DMX Krew"><bdi>DMX Krew</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b60527cc-54f3-4bbe-a01b-dcf34c95ae14" title="Summer, Donna (soul/disco diva)"><bdi>Donna Summer</bdi></a> <span class="comment">(<bdi>soul/disco diva</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/50c35b52-700a-4dc9-8d36-fd656b556886" title="Rush, Ed &amp; Optical"><bdi>Ed Rush &amp; Optical</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/fc5ff119-74ef-4b9c-b736-8b0e5fd3f298" title="Electric President"><bdi>Electric President</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f1d1df24-91af-4d27-83a4-9b4ad29b37eb" title="Enigma (New-age project created by Michael Cretu)"><bdi>Enigma</bdi></a> <span class="comment">(<bdi>New-age project created by Michael Cretu</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/785e1c02-f535-4fc0-a1d6-23de849ebdcb" title="Flight Facilities"><bdi>Flight Facilities</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/42a8f507-8412-4611-854f-926571049fa0" title="Harrison, George (The Beatles)"><bdi>George Harrison</bdi></a> <span class="comment">(<bdi>The Beatles</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7eb99a58-5ea9-4082-b176-bd990d406358" title="Grendel (Industrial/EBM band)"><bdi>Grendel</bdi></a> <span class="comment">(<bdi>Industrial/EBM band</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e4d05411-9a3d-452e-8b0e-a55b86b7cf85" title="IAMX"><bdi>IAMX</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8a27bc4d-3210-4748-a6a7-b42b768c1ec0" title="Icon of Coil"><bdi>Icon of Coil</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/d1515727-4a93-4c0d-88cb-d7a9fce01879" title="Jamie xx"><bdi>Jamie xx</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/6b43e5f2-49e8-46ce-94cb-a9b23e5bb4e8" title="Jega"><bdi>Jega</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f85f89de-e7b3-4aae-ac1c-fb0b01129472" title="Kimouts"><bdi>Kimouts</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/2aaf7396-6ab8-40f3-9776-a41c42c8e26b" title="LCD Soundsystem"><bdi>LCD Soundsystem</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/75be165a-ad83-4d12-bd28-f589a15c479f" title="Major Lazer"><bdi>Major Lazer</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/03ea7e10-0b02-4437-8846-82ab2335e057" title="Maxim (English singer-songwriter and MC)"><bdi>Maxim</bdi></a> <span class="comment">(<bdi>English singer-songwriter and MC</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/fa92553b-3cd5-4876-a7db-1d9dfcdf9fa9" title="Miami Horror"><bdi>Miami Horror</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/a1684a49-feaa-4150-b758-d9412fc59f12" title="Oldfield, Mike"><bdi>Mike Oldfield</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8a7a4e72-a099-425f-8238-80706fc1c746" title="Modeselektor"><bdi>Modeselektor</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/a4a3048f-3968-4848-9f53-94e3d4f88b53" title="Oizo, Mr."><bdi>Mr. Oizo</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/06fc1189-d7cd-4344-b09a-51cd82cfefe5" title="Muslimgauze"><bdi>Muslimgauze</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f1106b17-dcbb-45f6-b938-199ccfab50cc" title="New Order"><bdi>New Order</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/6d072aa8-c851-49c5-92f9-cbca05f4bed9" title="Orchestral Manoeuvres in the Dark"><bdi>Orchestral Manoeuvres in the Dark</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/38e4df82-6079-42f8-91fa-904e0fecf78f" title="Project Pitchfork"><bdi>Project Pitchfork</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1c70a3fc-fa3c-4be1-8b55-c3192db8a884" title="Röyksopp"><bdi>Röyksopp</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/97b20fe3-0924-4a5f-9955-d0b5c5f9587f" title="Santigold"><bdi>Santigold</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/541a58c4-29b3-48b1-b060-3d37b037a226" title="Savant (2009 Norwegian Grammy Nominee &amp; Artist)"><bdi>Savant</bdi></a> <span class="comment">(<bdi>2009 Norwegian Grammy Nominee &amp; Artist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/ae002c5d-aac6-490b-a39a-30aa9e2edf2b" title="Skrillex"><bdi>Skrillex</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/d7a2ea77-0850-4480-8964-246c0a3d6efe" title="Snog"><bdi>Snog</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8347dd6d-b9a2-4e96-a610-d1ed67b189f1" title="Roach, Steve"><bdi>Steve Roach</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/aa04539d-f6e1-4e9b-bee8-d36a99b56c29" title="Tackhead"><bdi>Tackhead</bdi></a>
+                </li>            </ul>
+<nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/electronic/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/electronic/artist?page=17">17</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/electronic/artist?page=2">Next</a></li>
+</ul>
+</nav>
+    </div>
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>

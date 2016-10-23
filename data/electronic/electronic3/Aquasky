@@ -1,0 +1,920 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Aquasky - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1995 in Bournemouth, Area: United Kingdom"/><script type="application/ld+json">{"sameAs":["http://aquasky.co.uk/","http://en.wikipedia.org/wiki/Aquasky","http://www.allmusic.com/artist/mn0000597570","http://www.rolldabeats.com/artist/aquasky","https://rateyourmusic.com/artist/aquasky","https://www.discogs.com/artist/1716","https://www.wikidata.org/wiki/Q682700"],"@type":"MusicGroup","groupOrigin":{"@type":"City","containedIn":{"containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"@type":"AdministrativeArea","name":"Dorset","@id":"https://musicbrainz.org/area/2d71b77c-cec0-47dd-9516-fd01db91ca13"},"@id":"https://musicbrainz.org/area/e7316723-22d9-4472-8a81-5c89425923ae","name":"Bournemouth"},"location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"foundingDate":"1995","@context":"http://schema.org","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","member":[{"member":{"@type":["Person","MusicGroup"],"name":"Kieron Bailey","@id":"https://musicbrainz.org/artist/9793962d-1055-43f3-8212-e0fe2758a666"},"@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Brent Newitt","@id":"https://musicbrainz.org/artist/f67c29a9-f9ab-4ab7-a63c-29dedaa6d3a6"}},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f9e0b81b-8ecc-45a0-9892-abd95ed8f94e","name":"Dave Wallace"},"roleName":[],"@type":"OrganizationRole"}],"name":"Aquasky","album":[{"creditedTo":"Aquasky","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6617963a-4366-366a-9157-5cad51813547","albumProductionType":"http://schema.org/StudioAlbum","name":"Orange Dust","byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"}},{"byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9715c804-65ab-3152-9257-52f328b64bea","name":"Bodyshock","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Aquasky","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"},"name":"Teamplayers","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ce02d12f-02e4-34bc-bff9-c3acfe24b36d","creditedTo":"Aquasky","@type":"MusicAlbum"},{"name":"Raise the Devil","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/544620da-ea34-4b40-9fb0-d511472eeb99","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Aquasky"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},"@id":"https://musicbrainz.org/release-group/57e9b681-f737-31ec-83f9-d13dca504bd1","albumReleaseType":"http://schema.org/AlbumRelease","name":"Breakbeat Bass","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Aquasky"},{"name":"Breakbeat Bass, Volume 2","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/DJMixAlbum"],"@id":"https://musicbrainz.org/release-group/1f002d7a-5440-3795-b4cb-6b42294f13cc","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},"@type":"MusicAlbum","creditedTo":"Aquasky"},{"@type":"MusicAlbum","creditedTo":"Aquasky","byArtist":{"@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/41b6cfeb-bb3f-34c0-b79e-46b896a4846f","albumProductionType":"http://schema.org/RemixAlbum","name":"Aftershock"},{"creditedTo":"Aquasky","@type":"MusicAlbum","name":"Dezires / Images","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/987098cc-373b-3382-8a5a-05156cbc3404","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Tranquility: Remixes","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/08330a80-9687-3b73-83b2-ced9a5ae1d60","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},"creditedTo":"Aquasky","@type":"MusicAlbum"},{"byArtist":{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1987d3c8-273c-33b6-b160-848a3c30eb35","albumProductionType":"http://schema.org/StudioAlbum","name":"Nylon Roadster / Cosmic Glue","creditedTo":"Aquasky","@type":"MusicAlbum"},{"creditedTo":"Aquasky","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/3ade9bca-26ba-3e89-83f3-664e9fabd502","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Tranquility / Kauna","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"}},{"@type":"MusicAlbum","creditedTo":"Aquasky","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Cosmic Glue","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1e0cfa8e-ab5f-314f-a900-e65bf51d9d98"},{"@type":"MusicAlbum","creditedTo":"Aquasky","albumProductionType":"http://schema.org/StudioAlbum","name":"Orange Dust / Opaque","@id":"https://musicbrainz.org/release-group/0cacd230-47e7-4898-94f0-e27e7ab257d1","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"}},{"byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"},"name":"Raw Skillz / Opaque","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/12d75c2e-ba90-4678-bbb2-1d7e56e69990","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Aquasky","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Bulletproof (Higher Sense remix) / Taurus","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c14d74e6-f5da-3066-81a9-297f64c62c48","@type":"MusicAlbum","creditedTo":"Aquasky"},{"@type":"MusicAlbum","creditedTo":"Aquasky","albumProductionType":"http://schema.org/StudioAlbum","name":"Nightvision / Overkill","@id":"https://musicbrainz.org/release-group/e31a5a1b-90c3-37d1-abaa-acc1b75e603f","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},"@id":"https://musicbrainz.org/release-group/0f919fab-7460-46f7-beb6-63beead8c7a0","albumReleaseType":"http://schema.org/SingleRelease","name":"Sonix / Gemini","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Aquasky"},{"creditedTo":"Aquasky","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/868bfd13-4053-34e8-b6fd-20ab5851c277","name":"Subdivision / 2000 AD","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"The Stalker / Bulletproof","@id":"https://musicbrainz.org/release-group/4af5b103-3126-3053-a43a-c83e786f2e64","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Aquasky"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/04824e2d-78b3-30d6-872c-98ff8a11681d","name":"Tracks From Out Patients LP","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"},{"@type":["Person","MusicGroup"],"name":"Skitz","@id":"https://musicbrainz.org/artist/26c05b55-fbb3-4edf-8999-08bfda6992e2"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c095a503-7115-4fe2-8032-b0b560c26e6c","name":"Julie Dexter"}],"@type":"MusicAlbum","creditedTo":"Aquasky / Skitz \u0026 Julie Dexter"},{"byArtist":{"@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/c171f2a7-dd8b-3ccd-8198-2e17e97a06b5","albumReleaseType":"http://schema.org/SingleRelease","name":"Lords of Motion / Ghost","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Aquasky","@type":"MusicAlbum"},{"creditedTo":"Aquasky","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ceb600d4-e1b2-3166-ba09-dfd7366b9ef3","albumProductionType":"http://schema.org/StudioAlbum","name":"Spectre / I Can't Wait (No More)"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/deb4c2e7-5588-38b7-af41-c521980bc694","albumProductionType":"http://schema.org/StudioAlbum","name":"Badlands / Sucker Punch","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},"creditedTo":"Aquasky","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"The Shamen","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a7bd3ee5-0414-3864-bc05-23f2856ecb51","@type":"MusicAlbum","creditedTo":"Aquasky"},{"byArtist":{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},"name":"You Got Me / You Got Me (Hybridz remix)","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d3b87269-e2ce-3a7b-a655-a17a21a58e5d","@type":"MusicAlbum","creditedTo":"Aquasky"},{"@id":"https://musicbrainz.org/release-group/f4ad9f22-3aa5-4b91-abb2-4677863261b6","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"The Shamen Remixes","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},{"name":"Sixtoo","@id":"https://musicbrainz.org/artist/20a3d0ca-1834-4848-8127-40cfb442f696","@type":["Person","MusicGroup"]}],"creditedTo":"Aquasky feat. MC Sixtoo","@type":"MusicAlbum"},{"byArtist":{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c9c5aa8e-6b49-3dd5-b5f7-eddb7742ef8c","name":"Dirty Entertainerz","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Aquasky"},{"@id":"https://musicbrainz.org/release-group/db0710bf-e20b-330f-bfb5-b9723adc90ea","albumReleaseType":"http://schema.org/SingleRelease","name":"Overneath","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},{"name":"Meat Katie","@id":"https://musicbrainz.org/artist/5ab72d2c-e759-4b77-8dee-71753211c9ca","@type":["Person","MusicGroup"]}],"creditedTo":"Aquasky \u0026 Meat Katie","@type":"MusicAlbum"},{"name":"Overneath / Good Sound","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5314282c-a9dd-39e0-a6a3-39bfd9747287","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky"},{"name":"Meat Katie","@id":"https://musicbrainz.org/artist/5ab72d2c-e759-4b77-8dee-71753211c9ca","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","name":"Aquasky","@type":"MusicGroup"},{"name":"The Breakfastaz","@id":"https://musicbrainz.org/artist/fb9cc9b8-c81e-452d-a863-a519d6c0f158","@type":"MusicGroup"}],"creditedTo":"Aquasky \u0026 Meat Katie / Aquasky \u0026 The Breakfastaz","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Aquasky feat. Acafool","byArtist":[{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Acafool","@id":"https://musicbrainz.org/artist/7e1d2eaf-c394-4499-aef5-2543fa43c0fb"}],"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a050c26a-0a9e-4cc6-a1a5-dcc982b74052","albumProductionType":"http://schema.org/StudioAlbum","name":"Have a Good Time"},{"@type":"MusicAlbum","creditedTo":"Aquasky","byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c9272ea0-98f4-41af-90db-7d5a1c24994e","name":"Take Me There (Remixes)","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"Aquasky","byArtist":{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Radium EP","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/8a675e6a-2978-320b-8d0e-344be137665c"},{"byArtist":{"@type":"MusicGroup","name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/4893b76f-a915-497d-9a79-e5177c94a29a","name":"Deep Fat Frequency EP","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Aquasky"},{"@type":"MusicAlbum","creditedTo":"Aquasky \u0026 Meat Katie","byArtist":[{"name":"Aquasky","@id":"https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310","@type":"MusicGroup"},{"name":"Meat Katie","@id":"https://musicbrainz.org/artist/5ab72d2c-e759-4b77-8dee-71753211c9ca","@type":["Person","MusicGroup"]}],"name":"Feathers","albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/19339695-0b50-3699-a590-1b113ad925d4"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbd8f19ba-c3e9-410c-9253-e4d997a0c310">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fbd8f19ba-c3e9-410c-9253-e4d997a0c310">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky – Aquasky"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/releases" title="Aquasky"><bdi>Releases</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/recordings" title="Aquasky"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/works" title="Aquasky"><bdi>Works</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/events" title="Aquasky"><bdi>Events</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/relationships" title="Aquasky"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/aliases" title="Aquasky"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/tags" title="Aquasky"><bdi>Tags</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/details" title="Aquasky"><bdi>Details</bdi></a></li>            <li><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/edit" title="Aquasky"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=8404" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/6617963a-4366-366a-9157-5cad51813547"><bdi>Orange Dust</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/9715c804-65ab-3152-9257-52f328b64bea"><bdi>Bodyshock</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/ce02d12f-02e4-34bc-bff9-c3acfe24b36d"><bdi>Teamplayers</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/544620da-ea34-4b40-9fb0-d511472eeb99"><bdi>Raise the Devil</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/57e9b681-f737-31ec-83f9-d13dca504bd1"><bdi>Breakbeat Bass</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation + DJ-mix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/1f002d7a-5440-3795-b4cb-6b42294f13cc"><bdi>Breakbeat Bass, Volume 2</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/41b6cfeb-bb3f-34c0-b79e-46b896a4846f"><bdi>Aftershock</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/987098cc-373b-3382-8a5a-05156cbc3404"><bdi>Dezires / Images</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/08330a80-9687-3b73-83b2-ced9a5ae1d60"><bdi>Tranquility: Remixes</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/1987d3c8-273c-33b6-b160-848a3c30eb35"><bdi>Nylon Roadster / Cosmic Glue</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/3ade9bca-26ba-3e89-83f3-664e9fabd502"><bdi>Tranquility / Kauna</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/1e0cfa8e-ab5f-314f-a900-e65bf51d9d98"><bdi>Cosmic Glue</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/0cacd230-47e7-4898-94f0-e27e7ab257d1"><bdi>Orange Dust / Opaque</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/12d75c2e-ba90-4678-bbb2-1d7e56e69990"><bdi>Raw Skillz / Opaque</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/c14d74e6-f5da-3066-81a9-297f64c62c48"><bdi>Bulletproof (Higher Sense remix) / Taurus</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/e31a5a1b-90c3-37d1-abaa-acc1b75e603f"><bdi>Nightvision / Overkill</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/0f919fab-7460-46f7-beb6-63beead8c7a0"><bdi>Sonix / Gemini</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/868bfd13-4053-34e8-b6fd-20ab5851c277"><bdi>Subdivision / 2000 AD</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/4af5b103-3126-3053-a43a-c83e786f2e64"><bdi>The Stalker / Bulletproof</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/04824e2d-78b3-30d6-872c-98ff8a11681d"><bdi>Tracks From Out Patients LP</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a> / <a href="/artist/26c05b55-fbb3-4edf-8999-08bfda6992e2" title="Skitz"><bdi>Skitz</bdi></a> &amp; <a href="/artist/c095a503-7115-4fe2-8032-b0b560c26e6c" title="Dexter, Julie"><bdi>Julie Dexter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/c171f2a7-dd8b-3ccd-8198-2e17e97a06b5"><bdi>Lords of Motion / Ghost</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ceb600d4-e1b2-3166-ba09-dfd7366b9ef3"><bdi>Spectre / I Can't Wait (No More)</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/deb4c2e7-5588-38b7-af41-c521980bc694"><bdi>Badlands / Sucker Punch</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/a7bd3ee5-0414-3864-bc05-23f2856ecb51"><bdi>The Shamen</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/d3b87269-e2ce-3a7b-a655-a17a21a58e5d"><bdi>You Got Me / You Got Me (Hybridz remix)</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/f4ad9f22-3aa5-4b91-abb2-4677863261b6"><bdi>The Shamen Remixes</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a> feat. <span class="name-variation"><a href="/artist/20a3d0ca-1834-4848-8127-40cfb442f696" title="Sixtoo – Sixtoo"><bdi>MC Sixtoo</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/c9c5aa8e-6b49-3dd5-b5f7-eddb7742ef8c"><bdi>Dirty Entertainerz</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/db0710bf-e20b-330f-bfb5-b9723adc90ea"><bdi>Overneath</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a> &amp; <a href="/artist/5ab72d2c-e759-4b77-8dee-71753211c9ca" title="Meat Katie (Mark Pember)"><bdi>Meat Katie</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5314282c-a9dd-39e0-a6a3-39bfd9747287"><bdi>Overneath / Good Sound</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a> &amp; <a href="/artist/5ab72d2c-e759-4b77-8dee-71753211c9ca" title="Meat Katie (Mark Pember)"><bdi>Meat Katie</bdi></a> / <a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a> &amp; <a href="/artist/fb9cc9b8-c81e-452d-a863-a519d6c0f158" title="Breakfastaz, The"><bdi>The Breakfastaz</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/a050c26a-0a9e-4cc6-a1a5-dcc982b74052"><bdi>Have a Good Time</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a> feat. <a href="/artist/7e1d2eaf-c394-4499-aef5-2543fa43c0fb" title="Acafool"><bdi>Acafool</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/c9272ea0-98f4-41af-90db-7d5a1c24994e"><bdi>Take Me There (Remixes)</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/8a675e6a-2978-320b-8d0e-344be137665c"><bdi>Radium EP</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/4893b76f-a915-497d-9a79-e5177c94a29a"><bdi>Deep Fat Frequency EP</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/19339695-0b50-3699-a590-1b113ad925d4"><bdi>Feathers</bdi></a></td>
+        
+        <td><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310" title="Aquasky"><bdi>Aquasky</bdi></a> &amp; <a href="/artist/5ab72d2c-e759-4b77-8dee-71753211c9ca" title="Meat Katie (Mark Pember)"><bdi>Meat Katie</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1995 (21 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/e7316723-22d9-4472-8a81-5c89425923ae"><bdi>Bournemouth</bdi></a>, <a href="/area/2d71b77c-cec0-47dd-9516-fd01db91ca13"><bdi>Dorset</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/drum%20and%20bass"><bdi>drum and bass</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/liquid%20funk"><bdi>liquid funk</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://aquasky.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000597570">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/1716">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/aquaskyuk">aquaskyuk</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/aquasky">Rateyourmusic</a>
+          
+          
+        </li>               <li class="rolldabeats-favicon">
+          
+          
+          <a href="http://www.rolldabeats.com/artist/aquasky">Rolldabeats</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q682700">Q682700</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Aquasky">en: Aquasky</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/bd8f19ba-c3e9-410c-9253-e4d997a0c310/relationships" title="Aquasky"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbd8f19ba-c3e9-410c-9253-e4d997a0c310">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-06-01 08:38 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,819 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gossip - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="USA alt rock band, Type: Group, Founded: 1999 in Olympia, Area: United States"/><script type="application/ld+json">{"sameAs":["http://en.wikipedia.org/wiki/Gossip_(band)","http://rateyourmusic.com/artist/gossip_f1","http://viaf.org/viaf/127014633","http://www.allmusic.com/artist/mn0000070586","http://www.bbc.co.uk/music/artists/0f96c38b-8e21-4571-afe0-cb11196a8acd","http://www.gossipyouth.co.uk/","http://www.gossipyouth.com/","http://www.imdb.com/name/nm2332397/","http://www.last.fm/music/Gossip","http://www.musik-sammler.de/artist/20106","http://www.secondhandsongs.com/artist/28039","http://www.sonymusic.co.jp/artist/thegossip/","http://www.worldcat.org/identities/nc-gossip/","https://musicbrainz.org/artist/06ff5224-8d47-4154-b947-9fbe8fbd93c0","https://www.discogs.com/artist/202605","https://www.wikidata.org/wiki/Q12831"],"@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","@context":"http://schema.org","foundingDate":"1999","location":{"@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States"},"groupOrigin":{"name":"Olympia","containedIn":{"@type":"AdministrativeArea","name":"Washington","containedIn":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"},"@id":"https://musicbrainz.org/area/39383cce-6f78-4afe-b19a-8377995ce702"},"@id":"https://musicbrainz.org/area/dc14405c-7534-457a-8672-54593b8805b9","@type":"City"},"member":[{"startDate":"1999","member":{"@id":"https://musicbrainz.org/artist/02c9a4be-8a84-46d2-bc55-bfa7a8c95330","name":"Brace Paine","@type":["Person","MusicGroup"]},"roleName":["bass guitar","guitar"],"@type":"OrganizationRole"},{"roleName":"drums","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8215e418-ef54-4a39-8a8f-f1dd7f7c1b57","name":"Hannah Blilie"},"startDate":"2003-11"},{"startDate":"1999","endDate":"2003-11","roleName":"drums","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Kathy Mendonça","@id":"https://musicbrainz.org/artist/922d0ebd-0d16-44b2-ac0d-3e12e04c8259"}},{"member":{"name":"Beth Ditto","@id":"https://musicbrainz.org/artist/a23b8dc2-97f4-4eab-a76d-dc3b2ef4b537","@type":["Person","MusicGroup"]},"roleName":["lead vocals","piano"],"@type":"OrganizationRole","startDate":"1999"}],"@type":"MusicGroup","name":"Gossip","album":[{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"The Gossip","byArtist":{"name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","@type":"MusicGroup"},"name":"That’s Not What I Heard","@id":"https://musicbrainz.org/release-group/212761dc-e4f5-363f-8b3d-881b82749c82","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0e2b2539-65e4-352e-9f23-8aa532e7064f","name":"Movement","creditedTo":"Gossip","byArtist":{"@type":"MusicGroup","name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd"},"albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Gossip","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Standing in the Way of Control","@id":"https://musicbrainz.org/release-group/5ab9155e-c4a6-4cd3-a728-f1f181e74b1c"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip"},"creditedTo":"Gossip","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/cf64fa05-b823-4ab2-830b-518f522a0691","name":"Music for Men"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e977ba12-d08a-4c49-b9b3-e06f3da574e2","name":"Joyful Noise","creditedTo":"Gossip","byArtist":{"@type":"MusicGroup","name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd"},"albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/30319d6e-68b4-3362-9ce0-ba6ece41946c","name":"Undead in NYC","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Gossip","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip"}},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Live in Liverpool","@id":"https://musicbrainz.org/release-group/7c19f0ca-10f2-3901-b17a-430211d6489e","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip"},"creditedTo":"Gossip","albumProductionType":"http://schema.org/LiveAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","@type":"MusicGroup"},"creditedTo":"Gossip","name":"The Gossip Live at the Casbah 07/24/2004","@id":"https://musicbrainz.org/release-group/7e45dfef-2b31-4832-a2bb-3752c8f1005c","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip"},"creditedTo":"Gossip","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Rework It","@id":"https://musicbrainz.org/release-group/438c0319-7c45-49f0-84f5-4efaabd00382"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip"},"creditedTo":"Gossip","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Standing in the Way of Control","@id":"https://musicbrainz.org/release-group/ad3ada5d-821b-3dc2-acc0-3d187d648881"},{"creditedTo":"Gossip","byArtist":{"@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Listen Up","@id":"https://musicbrainz.org/release-group/6b361dac-2c00-49a5-af03-0390ce818c71"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Jealous Girls","@id":"https://musicbrainz.org/release-group/d5c6a499-dde1-3ebc-82c8-e80df0fc3456","creditedTo":"Gossip","byArtist":{"@type":"MusicGroup","name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd"},"albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","@type":"MusicGroup"},"creditedTo":"Gossip","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1c1a6572-0e8a-42cc-b909-b8b9ea7cca98","name":"Yr Mangled Heart"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c8ece16f-b272-47ca-8661-b4934c771907","name":"Heavy Cross","creditedTo":"Gossip","byArtist":{"name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Perfect World","@id":"https://musicbrainz.org/release-group/2bacfc9b-a136-411a-b3a7-095c3fc76f4b","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd"},"creditedTo":"Gossip"},{"name":"The Gossip","@id":"https://musicbrainz.org/release-group/cd12d608-6389-3dcc-9e0a-20df888bee79","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip","@type":"MusicGroup"},"creditedTo":"The Gossip"},{"name":"Arkansas Heat","@id":"https://musicbrainz.org/release-group/e7a7a5f7-1692-3338-8cd8-8f81764792ab","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip","@type":"MusicGroup"},"creditedTo":"Gossip"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/f119aa3a-f35d-49e6-872b-52f1ad09e607","name":"Real Damage","byArtist":[{"@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Tracy \u002b The Plastics","@id":"https://musicbrainz.org/artist/252ca659-19c6-46e1-a464-c4b80300bb02"}],"creditedTo":"Gossip / Tracy and The Plastics","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/fea1346b-6404-347b-bc82-3e8354b8c53b","name":"GSSP RMX","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd","name":"Gossip"},"creditedTo":"Gossip"},{"albumProductionType":"http://schema.org/RemixAlbum","creditedTo":"Gossip","byArtist":{"@type":"MusicGroup","name":"Gossip","@id":"https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd"},"@id":"https://musicbrainz.org/release-group/fb02ca03-f613-4506-a66b-e59c115e5854","name":"A Joyful Noise RMX EP","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0f96c38b-8e21-4571-afe0-cb11196a8acd">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F0f96c38b-8e21-4571-afe0-cb11196a8acd">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a> <span class="comment">(<bdi>USA alt rock band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip – Gossip (USA alt rock band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/releases" title="Gossip (USA alt rock band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/recordings" title="Gossip (USA alt rock band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/works" title="Gossip (USA alt rock band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/events" title="Gossip (USA alt rock band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/relationships" title="Gossip (USA alt rock band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/aliases" title="Gossip (USA alt rock band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/tags" title="Gossip (USA alt rock band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/details" title="Gossip (USA alt rock band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/edit" title="Gossip (USA alt rock band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=31554" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/212761dc-e4f5-363f-8b3d-881b82749c82"><bdi>That’s Not What I Heard</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip – Gossip (USA alt rock band)"><bdi>The Gossip</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/0e2b2539-65e4-352e-9f23-8aa532e7064f"><bdi>Movement</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/5ab9155e-c4a6-4cd3-a728-f1f181e74b1c"><bdi>Standing in the Way of Control</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/cf64fa05-b823-4ab2-830b-518f522a0691"><bdi>Music for Men</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/e977ba12-d08a-4c49-b9b3-e06f3da574e2"><bdi>Joyful Noise</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/30319d6e-68b4-3362-9ce0-ba6ece41946c"><bdi>Undead in NYC</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/7c19f0ca-10f2-3901-b17a-430211d6489e"><bdi>Live in Liverpool</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/7e45dfef-2b31-4832-a2bb-3752c8f1005c"><bdi>The Gossip Live at the Casbah 07/24/2004</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/438c0319-7c45-49f0-84f5-4efaabd00382"><bdi>Rework It</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/ad3ada5d-821b-3dc2-acc0-3d187d648881"><bdi>Standing in the Way of Control</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/6b361dac-2c00-49a5-af03-0390ce818c71"><bdi>Listen Up</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/d5c6a499-dde1-3ebc-82c8-e80df0fc3456"><bdi>Jealous Girls</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/1c1a6572-0e8a-42cc-b909-b8b9ea7cca98"><bdi>Yr Mangled Heart</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/c8ece16f-b272-47ca-8661-b4934c771907"><bdi>Heavy Cross</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/2bacfc9b-a136-411a-b3a7-095c3fc76f4b"><bdi>Perfect World</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/cd12d608-6389-3dcc-9e0a-20df888bee79"><bdi>The Gossip</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip – Gossip (USA alt rock band)"><bdi>The Gossip</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e7a7a5f7-1692-3338-8cd8-8f81764792ab"><bdi>Arkansas Heat</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f119aa3a-f35d-49e6-872b-52f1ad09e607"><bdi>Real Damage</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a> / <span class="name-variation"><a href="/artist/252ca659-19c6-46e1-a464-c4b80300bb02" title="Tracy + The Plastics – Tracy + Plastics, The"><bdi>Tracy and The Plastics</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/fea1346b-6404-347b-bc82-3e8354b8c53b"><bdi>GSSP RMX</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/fb02ca03-f613-4506-a66b-e59c115e5854"><bdi>A Joyful Noise RMX EP</bdi></a></td>
+        
+        <td><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd" title="Gossip (USA alt rock band)"><bdi>Gossip</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1999 (17 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/dc14405c-7534-457a-8672-54593b8805b9"><bdi>Olympia</bdi></a>, <a href="/area/39383cce-6f78-4afe-b19a-8377995ce702"><bdi>Washington</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:72%;">3.6</span>    </span>
+</span>    (<a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/ratings" title="Gossip (USA alt rock band)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/dance-pop"><bdi>dance-pop</bdi></a>, <a href="/tag/dance-punk"><bdi>dance-punk</bdi></a>, <a href="/tag/garage%20punk"><bdi>garage punk</bdi></a>, <a href="/tag/indie%20rock"><bdi>indie rock</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/tags" title="Gossip (USA alt rock band)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.gossipyouth.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://www.gossipyouth.com/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://www.sonymusic.co.jp/artist/thegossip/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000070586">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/0f96c38b-8e21-4571-afe0-cb11196a8acd">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/202605">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm2332397/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Gossip">Gossip</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Gossip">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/gossipband">gossipband</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/gossip_f1">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/20106">Musik-Sammler</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/nc-gossip/">WorldCat</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/gossip">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/28039">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/GossipMusic">@GossipMusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/gossipmusic">gossipmusic</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/gossip_music">gossip_music</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/127014633">VIAF: 127014633</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q12831">Q12831</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Gossip_(band)">en: Gossip (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/GossipVEVO">GossipVEVO</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/TheGossipTV">TheGossipTV</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/0f96c38b-8e21-4571-afe0-cb11196a8acd/relationships" title="Gossip (USA alt rock band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0f96c38b-8e21-4571-afe0-cb11196a8acd">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-12-01 23:15 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

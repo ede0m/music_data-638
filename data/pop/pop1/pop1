@@ -1,0 +1,563 @@
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tag “pop” - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Ftag%2Fpop%2Fartist%3Fpage%3D1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Ftag%2Fpop%2Fartist%3Fpage%3D1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page" class="fullwidth">
+    <div id="content">
+<h1>Tag “<a href="/tag/pop"><bdi>pop</bdi></a>”</h1>
+
+<div class="tabs">
+    <ul class="tabs">            <li><a href="/tag/pop"><bdi>Overview</bdi></a></li>            <li class="sel"><a href="/tag/pop/artist"><bdi>Artists</bdi></a></li>            <li><a href="/tag/pop/release-group"><bdi>Release Groups</bdi></a></li>            <li><a href="/tag/pop/release"><bdi>Releases</bdi></a></li>            <li><a href="/tag/pop/recording"><bdi>Recordings</bdi></a></li>            <li><a href="/tag/pop/work"><bdi>Works</bdi></a></li>            <li><a href="/tag/pop/label"><bdi>Labels</bdi></a></li>            <li><a href="/tag/pop/place"><bdi>Places</bdi></a></li>            <li><a href="/tag/pop/area"><bdi>Areas</bdi></a></li>            <li><a href="/tag/pop/instrument"><bdi>Instruments</bdi></a></li>            <li><a href="/tag/pop/series"><bdi>Series</bdi></a></li>            <li><a href="/tag/pop/event"><bdi>Events</bdi></a></li>    </ul>
+</div>
+
+    <h2>2,251 artists found</h2><nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/pop/artist?page=23">23</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/pop/artist?page=2">Next</a></li>
+</ul>
+</nav>
+
+            <ul>                <li>
+                    10 -
+                    <a href="/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d" title="Beatles, The"><bdi>The Beatles</bdi></a>
+                </li>                <li>
+                    8 -
+                    <a href="/artist/79239441-bfd5-4981-a70c-55c3f15c1287" title="Madonna"><bdi>Madonna</bdi></a>
+                </li>                <li>
+                    7 -
+                    <a href="/artist/45a663b5-b1cb-4a91-bff6-2bef7bbfdd76" title="Spears, Britney"><bdi>Britney Spears</bdi></a>
+                </li>                <li>
+                    7 -
+                    <a href="/artist/f27ec8db-af05-4f36-916e-3d57f91ecf5e" title="Jackson, Michael (“King of Pop”)"><bdi>Michael Jackson</bdi></a> <span class="comment">(<bdi>“King of Pop”</bdi>)</span>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/d87e52c5-bb8d-4da8-b941-9f4928627dc8" title="ABBA"><bdi>ABBA</bdi></a>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/859d0860-d480-4efd-970c-c05d5f1776b8" title="Beyoncé (American singer, songwriter, record producer and actress)"><bdi>Beyoncé</bdi></a> <span class="comment">(<bdi>American singer, songwriter, record producer and actress</bdi>)</span>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/070d193a-845c-479f-980e-bef15710653e" title="Prince (“The Artist Formerly Known as…”)"><bdi>Prince</bdi></a> <span class="comment">(<bdi>“The Artist Formerly Known as…”</bdi>)</span>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/73e5e69d-3554-40d8-8516-00cb38737a1c" title="Rihanna (Barbadian R&amp;B/pop singer)"><bdi>Rihanna</bdi></a> <span class="comment">(<bdi>Barbadian R&amp;B/pop singer</bdi>)</span>
+                </li>                <li>
+                    5 -
+                    <a href="/artist/ebfc1398-8d96-47e3-82c3-f782abcdb13d" title="Beach Boys, The"><bdi>The Beach Boys</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/7364dea6-ca9a-48e3-be01-b44ad0d19897" title="a-ha"><bdi>a-ha</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/2f569e60-0a1b-4fb9-95a4-3dc1525d1aad" title="Backstreet Boys"><bdi>Backstreet Boys</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/122d63fc-8671-43e4-9752-34e846d62a9c" title="Perry, Katy"><bdi>Katy Perry</bdi></a>
+                </li>                <li>
+                    4 -
+                    <a href="/artist/be540c02-7898-4b79-9acc-c8122c7d9e83" title="Pet Shop Boys"><bdi>Pet Shop Boys</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6" title="Ace of Base"><bdi>Ace of Base</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/84d06499-0643-46b8-9e1f-45f743a53f5e" title="Bananarama"><bdi>Bananarama</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810" title="Bee Gees"><bdi>Bee Gees</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/4d2956d1-a3f7-44bb-9a41-67563e1a0c94" title="Blondie"><bdi>Blondie</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/bfcc6d75-a6a5-4bc6-8282-47aec8531818" title="Cher"><bdi>Cher</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/5441c29d-3602-4898-b1a1-b77fa23b8e50" title="Bowie, David"><bdi>David Bowie</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/d1353a0c-26fb-4318-a116-defde9c7c9ad" title="Dido (English singer‐songwriter)"><bdi>Dido</bdi></a> <span class="comment">(<bdi>English singer‐songwriter</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/1a1cd7f3-e5df-4eca-bae2-2757c9e656b5" title="Duran Duran (English rock band)"><bdi>Duran Duran</bdi></a> <span class="comment">(<bdi>English rock band</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/b83bc61f-8451-4a5d-8b8e-7e9ed295e822" title="John, Elton"><bdi>Elton John</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/01809552-4f87-45b0-afff-2c6f0730a3be" title="Presley, Elvis"><bdi>Elvis Presley</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/1c46e82f-4764-4d82-a33b-5d5aee5e2881" title="Fergie (member of The Black Eyed Peas)"><bdi>Fergie</bdi></a> <span class="comment">(<bdi>member of The Black Eyed Peas</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e" title="Genesis (English rock band)"><bdi>Genesis</bdi></a> <span class="comment">(<bdi>English rock band</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/e5963d26-01fa-40f5-b200-e0127f410a45" title="Nilsson, Harry (US singer of Everybody's Talkin' + Without You)"><bdi>Harry Nilsson</bdi></a> <span class="comment">(<bdi>US singer of Everybody's Talkin' + Without You</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9" title="Lennon, John (Beatle)"><bdi>John Lennon</bdi></a> <span class="comment">(<bdi>Beatle</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/e0140a67-e4d1-4f13-8a01-364355bee46e" title="Bieber, Justin"><bdi>Justin Bieber</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/cf5c8e0e-f82a-4718-bb9e-9b86c5072840" title="KHarlles (Guilherme da Cruz Brigadeiro)"><bdi>KHarlles</bdi></a> <span class="comment">(<bdi>Guilherme da Cruz Brigadeiro</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/6e0c7c0e-cba5-4c2c-a652-38f71ef5785d" title="Allen, Lily"><bdi>Lily Allen</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/ba550d0e-adac-4864-b88b-407cab5e76af" title="McCartney, Paul"><bdi>Paul McCartney</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/05517043-ff78-4988-9c22-88c68588ebb9" title="Simon, Paul (of Simon &amp; Garfunkel)"><bdi>Paul Simon</bdi></a> <span class="comment">(<bdi>of Simon &amp; Garfunkel</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/db4624cf-0e44-481e-a9dc-2142b833ec2f" title="Williams, Robbie"><bdi>Robbie Williams</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/d3b2711f-2baa-441a-be95-14945ca7e6ea" title="Roxette"><bdi>Roxette</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/f053ae01-dae6-4aae-9883-e8c279fdbef4" title="Seal (R&amp;B/Soul Singer)"><bdi>Seal</bdi></a> <span class="comment">(<bdi>R&amp;B/Soul Singer</bdi>)</span>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/e4bc69e2-a064-4f93-ada1-f7f209cc1cc3" title="Gomez, Selena"><bdi>Selena Gomez</bdi></a>
+                </li>                <li>
+                    3 -
+                    <a href="/artist/20244d07-534f-4eff-b4d4-930878889970" title="Swift, Taylor"><bdi>Taylor Swift</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7746d775-9550-4360-b8d5-c37bd448ce01" title="Yankovic, Weird Al"><bdi>“Weird Al” Yankovic</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f37c537b-3557-4031-bfd6-ab63ced32854" title="10cc"><bdi>10cc</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/177fde26-5a95-46d9-922f-0933940d97e5" title="98°"><bdi>98°</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/75d4f194-969c-4538-b789-742f3eb3d02c" title="Adam and The Ants"><bdi>Adam and The Ants</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e188a520-9cb7-4f73-a3d7-2f70c6538e92" title="Ant, Adam"><bdi>Adam Ant</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e942594a-91cc-427a-8beb-6815c28e9254" title="Lambert, Adam"><bdi>Adam Lambert</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e6d29475-236e-4eb4-9ba6-47072c2b2667" title="Akin (Nigerian - Canadian Artist)"><bdi>Akin</bdi></a> <span class="comment">(<bdi>Nigerian - Canadian Artist</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1d3cc239-0d72-4867-b432-d037f3636f11" title="Caruso, Alex"><bdi>Alex Caruso</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/70e6fee5-36b1-4cdb-b573-2132f9566dad" title="Stan, Alexandra"><bdi>Alexandra Stan</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b3c6b6a2-b3b4-4bf1-a198-b7203250f233" title="Francelino, Aline (Aline Francelino da Silva)"><bdi>Aline Francelino</bdi></a> <span class="comment">(<bdi>Aline Francelino da Silva</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/79feb79b-8f0d-4306-b30a-e28bd88c9323" title="Moyet, Alison"><bdi>Alison Moyet</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/318d3337-7ca5-49af-aa94-d95934717858" title="Altered Images (80s Scottish new wave / post-punk band)"><bdi>Altered Images</bdi></a> <span class="comment">(<bdi>80s Scottish new wave / post-punk band</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/3eb72791-6322-466b-87d3-24d74901eb2d" title="Ternheim, Anna"><bdi>Anna Ternheim</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/cff63c14-b081-4686-9357-eea84d5348fc" title="Murray, Anne (Canadian pop/country singer)"><bdi>Anne Murray</bdi></a> <span class="comment">(<bdi>Canadian pop/country singer</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/3e30aebd-0557-4cfd-8fb9-3945afa5d72b" title="Lennox, Annie"><bdi>Annie Lennox</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387" title="Grande, Ariana"><bdi>Ariana Grande</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b14dcad7-bf9a-4d17-9a0f-f56d5b0d79bd" title="Egli, Beatrice"><bdi>Beatrice Egli</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/64b94289-9474-4d43-8c93-918ccc1920d1" title="Joel, Billy"><bdi>Billy Joel</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/2437980f-513a-44fc-80f1-b90d9d7fcf8f" title="Crosby, Bing"><bdi>Bing Crosby</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/d11f9c07-0eac-4a1f-a443-19cd0f63d5f0" title="Brown, Bobby (R&amp;B singer, New Edition member)"><bdi>Bobby Brown</bdi></a> <span class="comment">(<bdi>R&amp;B singer, New Edition member</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1f223eed-aa38-49da-9e76-62ab3adc2e04" title="Darin, Bobby"><bdi>Bobby Darin</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/0aa8294b-6332-4b65-b677-e3a1f8591d3b" title="Tyler, Bonnie"><bdi>Bonnie Tyler</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b42eca0f-9381-43db-badb-1cba080a7dc2" title="Boyz II Men"><bdi>Boyz II Men</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/01e60eba-52df-4694-8f09-39f43abe54e9" title="Brandy (US R&amp;B singer)"><bdi>Brandy</bdi></a> <span class="comment">(<bdi>US R&amp;B singer</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/afb680f2-b6eb-4cd7-a70b-a63b25c763d5" title="Mars, Bruno"><bdi>Bruno Mars</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/2c69465c-0f76-45ce-90a2-1ed0fdacc997" title="Green, CeeLo"><bdi>CeeLo Green</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/847e8a0c-cc20-4213-9e16-975515c2a926" title="Dion, Céline"><bdi>Céline Dion</bdi></a>
+                </li>                <li>
+                    2 -
+                    <span class="mp"><a href="/artist/5f264b87-d5f6-487d-aa3e-ae4c5f0c6fc9" title="Aznavour, Charles"><bdi>Charles Aznavour</bdi></a></span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/c234fa42-e6a6-443e-937e-2f4b073538a3" title="Brown, Chris (US R&amp;B/pop singer and dancer)"><bdi>Chris Brown</bdi></a> <span class="comment">(<bdi>US R&amp;B/pop singer and dancer</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/03172286-f7ed-4864-a4db-459cd5ca9790" title="Ciara"><bdi>Ciara</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b5c2fdfc-d037-45b8-84f9-09ebb7ff8aa1" title="Richard, Cliff"><bdi>Cliff Richard</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9" title="Caillat, Colbie"><bdi>Colbie Caillat</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234" title="Coldplay"><bdi>Coldplay</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7bd9e20e-74b9-446a-a2ed-a223f82a36e7" title="Lauper, Cyndi"><bdi>Cyndi Lauper</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/5e6c760b-42e0-4df4-a221-0269355da00a" title="Martin, Dean (Amercian singer/actor)"><bdi>Dean Martin</bdi></a> <span class="comment">(<bdi>Amercian singer/actor</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/faf4cefb-036c-4c88-b93a-5b03dd0a0e6b" title="Lovato, Demi"><bdi>Demi Lovato</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/a796b92e-c137-4895-9c89-10f900617a4f" title="Destiny’s Child"><bdi>Destiny’s Child</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98" title="Krall, Diana"><bdi>Diana Krall</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/60d41417-feda-4734-bbbf-7dcc30e08a83" title="Ross, Diana"><bdi>Diana Ross</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/6784ee31-6d79-4a37-9e1f-01d6ef31940e" title="Warwick, Dionne"><bdi>Dionne Warwick</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/1d543e07-d0d2-4834-a8db-d65c50c2a856" title="Parton, Dolly"><bdi>Dolly Parton</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b896aa8c-2761-40ce-b485-0e1fffd26167" title="Springfield, Dusty"><bdi>Dusty Springfield</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/33ca19f4-18c8-4411-98df-ac23890ce9f5" title="Goulding, Ellie"><bdi>Ellie Goulding</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8a338e06-d182-46f2-bd16-30a09bc840ba" title="Costello, Elvis"><bdi>Elvis Costello</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/01252145-c9e8-4de5-a480-9b2bed05450a" title="Simon, Émilie"><bdi>Émilie Simon</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/3ab7295a-54ac-40e8-b1b2-3d110a143550" title="Ramazzotti, Eros"><bdi>Eros Ramazzotti</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b4d32cff-f19e-455f-86c4-f347d824ca61" title="Eurythmics"><bdi>Eurythmics</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/dcd95aa4-f3ff-492d-a621-8518ada0f58b" title="Falco (Austrian pop &amp; rock musician)"><bdi>Falco</bdi></a> <span class="comment">(<bdi>Austrian pop &amp; rock musician</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a" title="Fleetwood Mac"><bdi>Fleetwood Mac</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/5e05d900-51e0-4dda-81e2-f4c0bd7ed5e6" title="Glitter, Gary"><bdi>Gary Glitter</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/3f2a12e9-6398-42fd-b257-2f6abd4aa5fc" title="DeGraw, Gavin"><bdi>Gavin DeGraw</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/ccb8f30e-4d71-40c4-8b1d-846dafe73e2c" title="Michael, George"><bdi>George Michael</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/becd8cc6-a453-4183-af88-dedaaec859a6" title="Estefan, Gloria"><bdi>Gloria Estefan</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/6f6fd596-76e0-4b82-aa37-f558ac2d337b" title="Gotye"><bdi>Gotye</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/084308bd-1654-436f-ba03-df6697104e19" title="Green Day"><bdi>Green Day</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/2e41ae9c-afd2-4f20-8f1e-17281ce9b472" title="Stefani, Gwen"><bdi>Gwen Stefani</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/456eabce-d1dd-4481-a206-36ab4f2eaeb8" title="Grönemeyer, Herbert"><bdi>Herbert Grönemeyer</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/6de0f914-3e60-4418-be3b-42e0feb6eb4d" title="Derulo, Jason"><bdi>Jason Derulo</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/e03cf5b6-d2ec-4465-adee-226b518bcfcd" title="Sean, Jay"><bdi>Jay Sean</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/abae8575-ec8a-4736-abc3-1ad5093a68aa" title="Jewel (singer-songwriter Jewel Kilcher)"><bdi>Jewel</bdi></a> <span class="comment">(<bdi>singer-songwriter Jewel Kilcher</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb" title="Cocker, Joe"><bdi>Joe Cocker</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8aaa736f-57ae-44ce-bcd9-30c24764ff93" title="JOELPETER (JoelPeter active in the UK since 2013)"><bdi>JOELPETER</bdi></a> <span class="comment">(<bdi>JoelPeter active in the UK since 2013</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/8b0f05ce-354e-4121-9e0b-8b4732ea844f" title="Juanes"><bdi>Juanes</bdi></a>
+                </li>            </ul>
+<nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/pop/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/pop/artist?page=23">23</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/pop/artist?page=2">Next</a></li>
+</ul>
+</nav>
+    </div>
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>

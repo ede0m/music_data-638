@@ -1,0 +1,825 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Icehouse - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Australian rock band previously known as “Flowers”, Type: Group, Founded: 1977, Area: Australia"/><script type="application/ld+json">{"sameAs":["http://en.wikipedia.org/wiki/Icehouse_(band)","http://www.bbc.co.uk/music/artists/48834e28-8ca5-4827-be91-0bed0ca61d76","https://musicbrainz.org/artist/335658d3-e73c-4514-84f0-a1677f91a8dd","https://musicbrainz.org/artist/814250ee-f3aa-437d-af38-1db560b5c0b5","https://www.discogs.com/artist/103159","https://www.discogs.com/artist/424148","https://www.wikidata.org/wiki/Q617671"],"@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","@context":"http://schema.org","foundingDate":"1977","location":{"@type":"Country","name":"Australia","@id":"https://musicbrainz.org/area/106e0bec-b638-3b37-b731-f53d507dc00e"},"@type":"MusicGroup","member":[{"member":{"@id":"https://musicbrainz.org/artist/0f78ec08-c00d-47ea-a475-651d2d11192d","name":"Andy Qunta","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"endDate":"1989","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7df46553-a769-4a1e-9962-dd8213b008f8","name":"Robert Kretschmer"},"startDate":"1982"},{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/8621afb7-f021-415b-9692-6699b7527930","name":"Iva Davies","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Guy Pratt","@id":"https://musicbrainz.org/artist/c6e89016-d3cb-4272-9945-de0ec123645e"},"@type":"OrganizationRole"},{"member":{"name":"Roger Mason","@id":"https://musicbrainz.org/artist/dca228ab-3833-43b8-a2a7-36fa0cf36513","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Michael Hoste","@id":"https://musicbrainz.org/artist/eec5afd6-d924-4b9b-ad04-b3f95184b399"}}],"name":"Icehouse","album":[{"creditedTo":"Flowers","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Icehouse","@id":"https://musicbrainz.org/release-group/cb6cb34b-9505-3b5f-97e7-139a4d6b3026"},{"creditedTo":"Icehouse","byArtist":{"@type":"MusicGroup","name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Icehouse","@id":"https://musicbrainz.org/release-group/9484e8c2-3527-33b8-aa36-c809dc76a60e"},{"byArtist":{"@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse","@type":"MusicGroup"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/20dd6728-9be4-3390-ba99-bdfe2a78324d","name":"Primitive Man"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Sidewalk","@id":"https://musicbrainz.org/release-group/11eb121e-167d-36d0-8d7a-6f21a9910ae1","byArtist":{"@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse","@type":"MusicGroup"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/64e47e60-137a-4520-8105-e18dc24be91a","name":"Sydney Dance Company","@type":"MusicGroup"}],"creditedTo":"Icehouse \u0026 Sydney Dance Company","@id":"https://musicbrainz.org/release-group/9013102a-e147-388f-957e-12a04fcedfab","name":"Boxes","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Icehouse","byArtist":{"name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/b80880a6-c9fb-38cf-a29e-beba943c099f","name":"Love in Motion","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/98103b96-c53c-374c-ab1c-cdcb3a86eb34","name":"Measure for Measure","creditedTo":"Icehouse","byArtist":{"name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/33c59a90-965a-3ba8-8bc1-14818bc4f583","name":"Man of Colours","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Icehouse","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"}},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d6ee1833-4add-3d3b-9bae-ef32c94dcae6","name":"Code Blue","creditedTo":"Icehouse","byArtist":{"@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Masterfile","@id":"https://musicbrainz.org/release-group/6e76ea2a-eddf-3bf2-b8c3-cd6ed38491e1","byArtist":{"name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","@type":"MusicGroup"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76"},"creditedTo":"Icehouse","name":"Big Wheel","@id":"https://musicbrainz.org/release-group/e3d58e57-88ba-3eeb-9e6b-5713312ccb53","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Icehouse","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"name":"The Berlin Tapes","@id":"https://musicbrainz.org/release-group/67c897ae-7278-3c4f-b094-cd0fbb9942fe","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse","@type":"MusicGroup"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e9a5f337-8d89-3e10-8d55-8ed7441bd960","name":"Meltdown"},{"name":"Great Southern Land","@id":"https://musicbrainz.org/release-group/13a54de4-b71d-3da0-b4cf-b53b2b875871","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse","@type":"MusicGroup"},"creditedTo":"Icehouse"},{"albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"creditedTo":"Icehouse","@id":"https://musicbrainz.org/release-group/1a96e0f8-ac6e-3a80-868f-efe50013a964","name":"The Singles: A Sides and Selected B Sides","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Icehouse","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"name":"White Heat: 30 Hits","@id":"https://musicbrainz.org/release-group/ff7952c7-95ab-42f4-a278-681eb1242cad","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"12 Inch Versions \u0026 Remixes Vol.2","@id":"https://musicbrainz.org/release-group/06b914da-5580-4b8c-99d6-12d8d178620d","creditedTo":"Icehouse","byArtist":{"@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/cd7e2e1c-d26e-4573-99c2-5def4586d618","name":"12-inch Versions \u0026 Remixes, Volume 1"},{"@id":"https://musicbrainz.org/release-group/2ffe7ce3-af90-4935-8dfb-3b2ee5d84d5d","name":"The Best Of","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"creditedTo":"Icehouse"},{"name":"No Promises","@id":"https://musicbrainz.org/release-group/04d4ef9d-6626-306f-b4ac-613e0ef1e4ba","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76"},"creditedTo":"Icehouse"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d96bc7cb-3a50-4ea1-b32a-f7b2b531b6ac","name":"Live at the Ritz"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c5be9f46-e57f-499e-ba49-bc5e14554732","name":"DubHOUSE","creditedTo":"Icehouse","byArtist":{"@type":"MusicGroup","name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76"},"albumProductionType":"http://schema.org/LiveAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/84e46d13-72bb-3052-8e47-be7d3b0812de","name":"Full Circle","creditedTo":"Icehouse","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"albumProductionType":"http://schema.org/RemixAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Electric Blue","@id":"https://musicbrainz.org/release-group/740c5756-e991-4e5e-a2b0-b61b726ca0fb"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","name":"Icehouse"},"creditedTo":"Icehouse","name":"Crazy","@id":"https://musicbrainz.org/release-group/41936d91-4ed2-4488-8838-5e56841a8d3f","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/dce3e09c-4c28-46f2-908f-1140bbdad07b","name":"Hey Little Girl ('97 Remixes)","byArtist":{"@type":"MusicGroup","name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76"},"creditedTo":"Icehouse","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Icehouse","byArtist":{"name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/0d20ea3b-f661-4d3f-946f-1e4109397286","name":"Heroes","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Electric Blue Maxi","@id":"https://musicbrainz.org/release-group/1230c784-a2ee-3653-9cf0-d9b860bed5d1","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","byArtist":{"name":"Icehouse","@id":"https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76","@type":"MusicGroup"},"creditedTo":"Icehouse"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F48834e28-8ca5-4827-be91-0bed0ca61d76">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F48834e28-8ca5-4827-be91-0bed0ca61d76">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a> <span class="comment">(<bdi>Australian rock band previously known as “Flowers”</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse – Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/releases" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/recordings" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/works" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Works</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/events" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Events</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/relationships" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/aliases" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/tags" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/details" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Details</bdi></a></li>            <li><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/edit" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>Started as <a href="http://musicbrainz.org/artist/814250ee-f3aa-437d-af38-1db560b5c0b5" rel="nofollow">Flowers</a>. Their first album was titled <a href="http://musicbrainz.org/release-group/cb6cb34b-9505-3b5f-97e7-139a4d6b3026" rel="nofollow">Icehouse</a> and they changed their name to Icehouse after it was released.</p>
+<hr />
+
+<p>Later known as <a href="http://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" rel="nofollow">Icehouse</a></p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2016-05-24 23:30 UTC.
+            
+        </div>
+    </div>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Icehouse</b> are an Australian rock band, formed as <b>Flowers</b> in Sydney in 1977. Initially known in Australia for their pub rock style, they later achieved mainstream success playing new wave and synthpop music and attained Top 10 singles chart success in both Europe and the U.S. The mainstay of both Flowers and Icehouse has been Iva Davies (singer-songwriter, record producer, guitar, bass, keyboards, oboe) supplying additional musicians as required. The name Icehouse, which was adopted in 1981, comes from an old, cold flat Davies lived in and the strange building across the road populated by itinerant people.</p>
+<p>Davies and Icehouse extended the use of synthesizers particularly the Sequential Circuits Prophet-5 ("Love in Motion", 1981), Linn drum machine ("Hey Little Girl", 1982) and Fairlight CMI (<i>Razorback</i> trailer, 1983) in Australian popular music. Their best known singles on the Australian charts were "Great Southern Land", "Hey Little Girl", "Crazy", "Electric Blue" and "My Obsession"; with Top Three albums being <i>Icehouse</i> (1980, as Flowers), <i>Primitive Man</i> (1982) and <i>Man of Colours</i> (1987).</p>
+<p>Icehouse's iconic status was acknowledged when they were inducted into the Australian Recording Industry Association (ARIA) Hall of Fame on 16 August 2006. ARIA described Icehouse as "<i>one of the most successful Australian bands of the eighties and nineties... With an uncompromising approach to music production they created songs that ranged from pure pop escapism to edgy, lavish synthesised pieces...</i>" Icehouse has produced eight Top Ten albums and twenty Top Forty singles in Australia, multiple top ten hits in Europe and North America and album sales of over 28 times Platinum in Australasia alone. As of 2006, <i>Man of Colours</i> was still the highest selling album in Australia by an Australian band.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/Icehouse_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=2773" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/cb6cb34b-9505-3b5f-97e7-139a4d6b3026"><bdi>Icehouse</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse – Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Flowers</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/9484e8c2-3527-33b8-aa36-c809dc76a60e"><bdi>Icehouse</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/20dd6728-9be4-3390-ba99-bdfe2a78324d"><bdi>Primitive Man</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/11eb121e-167d-36d0-8d7a-6f21a9910ae1"><bdi>Sidewalk</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/9013102a-e147-388f-957e-12a04fcedfab"><bdi>Boxes</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a> &amp; <a href="/artist/64e47e60-137a-4520-8105-e18dc24be91a" title="Sydney Dance Company"><bdi>Sydney Dance Company</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/b80880a6-c9fb-38cf-a29e-beba943c099f"><bdi>Love in Motion</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/98103b96-c53c-374c-ab1c-cdcb3a86eb34"><bdi>Measure for Measure</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/33c59a90-965a-3ba8-8bc1-14818bc4f583"><bdi>Man of Colours</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/d6ee1833-4add-3d3b-9bae-ef32c94dcae6"><bdi>Code Blue</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/6e76ea2a-eddf-3bf2-b8c3-cd6ed38491e1"><bdi>Masterfile</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/e3d58e57-88ba-3eeb-9e6b-5713312ccb53"><bdi>Big Wheel</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/67c897ae-7278-3c4f-b094-cd0fbb9942fe"><bdi>The Berlin Tapes</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e9a5f337-8d89-3e10-8d55-8ed7441bd960"><bdi>Meltdown</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/13a54de4-b71d-3da0-b4cf-b53b2b875871"><bdi>Great Southern Land</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/1a96e0f8-ac6e-3a80-868f-efe50013a964"><bdi>The Singles: A Sides and Selected B Sides</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/ff7952c7-95ab-42f4-a278-681eb1242cad"><bdi>White Heat: 30 Hits</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/06b914da-5580-4b8c-99d6-12d8d178620d"><bdi>12 Inch Versions &amp; Remixes Vol.2</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/cd7e2e1c-d26e-4573-99c2-5def4586d618"><bdi>12-inch Versions &amp; Remixes, Volume 1</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/2ffe7ce3-af90-4935-8dfb-3b2ee5d84d5d"><bdi>The Best Of</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/04d4ef9d-6626-306f-b4ac-613e0ef1e4ba"><bdi>No Promises</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/d96bc7cb-3a50-4ea1-b32a-f7b2b531b6ac"><bdi>Live at the Ritz</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/c5be9f46-e57f-499e-ba49-bc5e14554732"><bdi>DubHOUSE</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/84e46d13-72bb-3052-8e47-be7d3b0812de"><bdi>Full Circle</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/740c5756-e991-4e5e-a2b0-b61b726ca0fb"><bdi>Electric Blue</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/41936d91-4ed2-4488-8838-5e56841a8d3f"><bdi>Crazy</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/dce3e09c-4c28-46f2-908f-1140bbdad07b"><bdi>Hey Little Girl ('97 Remixes)</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/0d20ea3b-f661-4d3f-946f-1e4109397286"><bdi>Heroes</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/1230c784-a2ee-3653-9cf0-d9b860bed5d1"><bdi>Electric Blue Maxi</bdi></a></td>
+        
+        <td><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>Icehouse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1977 (39 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-AU"><a href="/area/106e0bec-b638-3b37-b731-f53d507dc00e"><bdi>Australia</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/new%20wave"><bdi>new wave</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/australian"><bdi>australian</bdi></a>, <a href="/tag/pop"><bdi>pop</bdi></a>, <a href="/tag/synthpop"><bdi>synthpop</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/48834e28-8ca5-4827-be91-0bed0ca61d76">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/103159">Discogs</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/424148">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/icehouseofficial">icehouseofficial</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q617671">Q617671</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Icehouse_(band)">en: Icehouse (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/48834e28-8ca5-4827-be91-0bed0ca61d76/relationships" title="Icehouse (Australian rock band previously known as “Flowers”)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F48834e28-8ca5-4827-be91-0bed0ca61d76">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-07-16 15:45 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

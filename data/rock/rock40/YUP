@@ -1,0 +1,779 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YUP - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1987, Dissolved: 2009, Area: Finland"/><script type="application/ld+json">{"member":[{"member":{"@type":["Person","MusicGroup"],"name":"Valtteri Tynkkynen","@id":"https://musicbrainz.org/artist/03e4b973-eca5-4cc8-befc-67d766b191df"},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","startDate":"1994","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0828570e-2af1-4510-a373-6ede96e3a8a3","name":"Petri Tiainen"}},{"@type":"OrganizationRole","startDate":"1992","member":{"@id":"https://musicbrainz.org/artist/35b6978f-6793-4583-b22e-6f9c68fbc8ad","name":"Janne Mannonen","@type":["Person","MusicGroup"]},"roleName":[]},{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/697c6c15-17e8-4bd7-8125-7b0e4c524d5d","name":"Tommi Kärkkäinen","@type":["Person","MusicGroup"]},"startDate":"1990","endDate":"1994","@type":"OrganizationRole"},{"member":{"name":"Jussi Hyyrynen","@id":"https://musicbrainz.org/artist/f48cb2cf-379b-40db-a124-17dad04dd021","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"member":{"name":"Jarkko Martikainen","@id":"https://musicbrainz.org/artist/fb2d82c2-9096-4457-b086-717c544c11f6","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"}],"foundingDate":"1987","name":"YUP","dissolutionDate":"2009","album":[{"creditedTo":"YUP","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"The Hippos From Hell","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c0f4ae55-43e7-32ed-afbf-4db5dbf10e5e"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/35ff21b1-0904-3e8f-8308-90384d4f9fe2","name":"Huuda harkiten","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"}},{"name":"Toppatakkeja ja Toledon terästä","@id":"https://musicbrainz.org/release-group/44c973a2-8971-3bb5-9383-795f82cc9982","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"creditedTo":"YUP"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP"},"creditedTo":"YUP","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/37593b16-9aeb-3282-86cf-598627ce2956","albumReleaseType":"http://schema.org/AlbumRelease","name":"Homo sapiens"},{"name":"Yövieraat","@id":"https://musicbrainz.org/release-group/9002d833-71cf-3bf1-8b9c-5621089184cf","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"creditedTo":"YUP","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"creditedTo":"YUP","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/da3eb15f-8980-3e50-90f7-8c107a69fbf3","name":"Outo elämä"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1e8af52e-7fac-3f7e-9a09-4f696e4652b7","name":"Normaalien maihinnousu","creditedTo":"YUP","byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"creditedTo":"YUP","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ae632372-65e4-3880-9b47-c63a3907899e","name":"Lauluja metsästä"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"YUP","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/334cff1f-bb41-3ed3-b755-3088879a653b","albumReleaseType":"http://schema.org/AlbumRelease","name":"Leppymättömät"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5a143f2a-a2d3-34ac-bf75-ebe67d2f6c7c","name":"Keppijumppaa","creditedTo":"YUP","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Vapauden kaupungit","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e07c2c15-3467-3c63-bf9b-810a17f83007","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"1990–1992","@id":"https://musicbrainz.org/release-group/6828acd2-fc56-30bb-82e4-c0551a8dbd5b","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"creditedTo":"YUP","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5a63f949-b0ee-3ddb-9f89-388348ccb8f0","name":"Hajota ja hallitse: 1993–2001"},{"byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"creditedTo":"YUP","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Hippos From Hell \u0026 Other Oddities 1988–1990","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5615b32e-a2bd-3d5c-bb96-b8d8cbf5c65d"},{"name":"Helppoa kuunneltavaa","@id":"https://musicbrainz.org/release-group/4ab6e292-77d2-3de9-ba0f-36efd90663cb","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP"},"creditedTo":"YUP"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2dcb0459-87a2-341a-811b-bcfba6781f9f","name":"Daavidin fuzz / Paratiisin sahakielet","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"YUP","byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"}},{"creditedTo":"YUP","byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/10b5eb7b-7f36-3ae5-93b5-36467db3165e","albumReleaseType":"http://schema.org/SingleRelease","name":"Jumala halkaisi ihmisen kahtia"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"creditedTo":"YUP","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/bc0840c7-692a-3cd6-899a-59ff19e5d198","name":"Homo sapiens"},{"name":"Porvariston hillitty charmi","@id":"https://musicbrainz.org/release-group/b7e8dc0a-993f-3d9b-8dee-478328db84c6","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"}},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"creditedTo":"YUP","name":"Tavaroiden taikamaailma","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ae444364-0604-35c2-bd0c-8219fc7f32a4"},{"name":"Tuuliajolla","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/7e0cbd81-3e49-383c-a18f-23dbc389aa8c","creditedTo":"YUP","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/770157ee-4505-323f-9cec-b5186641df4b","albumReleaseType":"http://schema.org/SingleRelease","name":"Pohjaton säkki","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"},"creditedTo":"YUP"},{"name":"Ihana elämä","@id":"https://musicbrainz.org/release-group/ebf8bcd1-64b4-3681-8fa9-de57c418087b","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"creditedTo":"YUP","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Joutilas","@id":"https://musicbrainz.org/release-group/5713f93c-01af-343b-aaa2-119daf89a557","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"YUP","byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Pahassa paikassa","@id":"https://musicbrainz.org/release-group/d387fb1c-ccea-34f1-8746-e047ea1a4233","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP"},"creditedTo":"YUP"},{"@id":"https://musicbrainz.org/release-group/a59c290f-b492-3c39-b709-98d7e03ebb3d","albumReleaseType":"http://schema.org/SingleRelease","name":"Päivä kerrallaan","creditedTo":"YUP","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"creditedTo":"YUP","byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/7c5670a4-acdc-392b-bfb4-3bbb43668a72","name":"Intiaanit ymmärtävät"},{"name":"Whlap‐Zap Ninja","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/2a0bed6a-e452-3dc5-a82f-d9239f8e8672","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/2deb8212-0f00-3f73-ba62-0c22e6b2b560","name":"Who Dares Farts","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"creditedTo":"YUP"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"YUP","byArtist":{"name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/000d17f9-3b71-3b8a-9633-e94d76b0f128","name":"Turpasauna!"},{"@id":"https://musicbrainz.org/release-group/c76b84e2-6653-3d01-83b5-1c6f62c18b13","albumReleaseType":"http://schema.org/EPRelease","name":"Julmasti juhlallista!","creditedTo":"YUP","byArtist":{"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/ef6297b2-3a72-3591-b4ef-cee844cb70b2","name":"Minä olen myyrä"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","name":"YUP"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/824190c1-187c-3bca-8192-e5d3daa99f80","name":"Me viihdytämme teitä"},{"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/5b06b5db-1754-353f-84af-713e49dbd230","name":"Minä en tiedä mitään","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"YUP","byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"}},{"byArtist":{"@type":"MusicGroup","name":"YUP","@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6"},"creditedTo":"YUP","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8d2b28c8-8d5e-3b98-b6d1-4214caa80969","albumReleaseType":"http://schema.org/EPRelease","name":"Maailmannäyttely"}],"@context":"http://schema.org","@type":"MusicGroup","location":{"name":"Finland","@id":"https://musicbrainz.org/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616","@type":"Country"},"@id":"https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6","sameAs":["http://en.wikipedia.org/wiki/YUP_(band)","http://www.allmusic.com/artist/mn0001251187","http://www.yup.ms/","https://rateyourmusic.com/artist/yup","https://www.discogs.com/artist/264336","https://www.wikidata.org/wiki/Q787916"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6" title="YUP"><bdi>YUP</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6" title="YUP – YUP"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/releases" title="YUP"><bdi>Releases</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/recordings" title="YUP"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/works" title="YUP"><bdi>Works</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/events" title="YUP"><bdi>Events</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/relationships" title="YUP"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/aliases" title="YUP"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/tags" title="YUP"><bdi>Tags</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/details" title="YUP"><bdi>Details</bdi></a></li>            <li><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/edit" title="YUP"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=24293" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/c0f4ae55-43e7-32ed-afbf-4db5dbf10e5e"><bdi>The Hippos From Hell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/35ff21b1-0904-3e8f-8308-90384d4f9fe2"><bdi>Huuda harkiten</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/44c973a2-8971-3bb5-9383-795f82cc9982"><bdi>Toppatakkeja ja Toledon terästä</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/37593b16-9aeb-3282-86cf-598627ce2956"><bdi>Homo sapiens</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/9002d833-71cf-3bf1-8b9c-5621089184cf"><bdi>Yövieraat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/da3eb15f-8980-3e50-90f7-8c107a69fbf3"><bdi>Outo elämä</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/1e8af52e-7fac-3f7e-9a09-4f696e4652b7"><bdi>Normaalien maihinnousu</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ae632372-65e4-3880-9b47-c63a3907899e"><bdi>Lauluja metsästä</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/334cff1f-bb41-3ed3-b755-3088879a653b"><bdi>Leppymättömät</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5a143f2a-a2d3-34ac-bf75-ebe67d2f6c7c"><bdi>Keppijumppaa</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/e07c2c15-3467-3c63-bf9b-810a17f83007"><bdi>Vapauden kaupungit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/6828acd2-fc56-30bb-82e4-c0551a8dbd5b"><bdi>1990–1992</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/5a63f949-b0ee-3ddb-9f89-388348ccb8f0"><bdi>Hajota ja hallitse: 1993–2001</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/5615b32e-a2bd-3d5c-bb96-b8d8cbf5c65d"><bdi>The Hippos From Hell &amp; Other Oddities 1988–1990</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/4ab6e292-77d2-3de9-ba0f-36efd90663cb"><bdi>Helppoa kuunneltavaa</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/2dcb0459-87a2-341a-811b-bcfba6781f9f"><bdi>Daavidin fuzz / Paratiisin sahakielet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/10b5eb7b-7f36-3ae5-93b5-36467db3165e"><bdi>Jumala halkaisi ihmisen kahtia</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/bc0840c7-692a-3cd6-899a-59ff19e5d198"><bdi>Homo sapiens</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/b7e8dc0a-993f-3d9b-8dee-478328db84c6"><bdi>Porvariston hillitty charmi</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/ae444364-0604-35c2-bd0c-8219fc7f32a4"><bdi>Tavaroiden taikamaailma</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/7e0cbd81-3e49-383c-a18f-23dbc389aa8c"><bdi>Tuuliajolla</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/770157ee-4505-323f-9cec-b5186641df4b"><bdi>Pohjaton säkki</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/ebf8bcd1-64b4-3681-8fa9-de57c418087b"><bdi>Ihana elämä</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/5713f93c-01af-343b-aaa2-119daf89a557"><bdi>Joutilas</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/d387fb1c-ccea-34f1-8746-e047ea1a4233"><bdi>Pahassa paikassa</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/a59c290f-b492-3c39-b709-98d7e03ebb3d"><bdi>Päivä kerrallaan</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/7c5670a4-acdc-392b-bfb4-3bbb43668a72"><bdi>Intiaanit ymmärtävät</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/2a0bed6a-e452-3dc5-a82f-d9239f8e8672"><bdi>Whlap‐Zap Ninja</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/2deb8212-0f00-3f73-ba62-0c22e6b2b560"><bdi>Who Dares Farts</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/000d17f9-3b71-3b8a-9633-e94d76b0f128"><bdi>Turpasauna!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/c76b84e2-6653-3d01-83b5-1c6f62c18b13"><bdi>Julmasti juhlallista!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/ef6297b2-3a72-3591-b4ef-cee844cb70b2"><bdi>Minä olen myyrä</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/824190c1-187c-3bca-8192-e5d3daa99f80"><bdi>Me viihdytämme teitä</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5b06b5db-1754-353f-84af-713e49dbd230"><bdi>Minä en tiedä mitään</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/8d2b28c8-8d5e-3b98-b6d1-4214caa80969"><bdi>Maailmannäyttely</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1987</dd>
+<dt>Dissolved:</dt>
+<dd>2009 (22 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-FI"><a href="/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616"><bdi>Finland</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/finnish"><bdi>finnish</bdi></a>, <a href="/tag/european"><bdi>european</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/tag/progressive%20rock"><bdi>progressive rock</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.yup.ms/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0001251187">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/264336">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/yupmusiikki">yupmusiikki</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/yup">Rateyourmusic</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q787916">Q787916</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/YUP_(band)">en: YUP (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6/relationships" title="YUP"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F93ca92d6-dcc7-4fe2-a0ab-5489a268c3f6">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-01-18 15:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,743 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Stefano Bollani - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1972-12-05 in Milan, Area: Italy"/><script type="application/ld+json">{"birthDate":"1972-12-05","birthPlace":{"name":"Milan","@type":"City","@id":"https://musicbrainz.org/area/d793f202-faf0-4de8-83e2-9ddfca54a35f","containedIn":{"@type":"AdministrativeArea","name":"Milano","@id":"https://musicbrainz.org/area/9ceb9473-9fa6-4077-be05-02113549dd87","containedIn":{"@type":"Country","name":"Italy","@id":"https://musicbrainz.org/area/c6500277-9a3d-349b-bf30-41afdbf42add"}}},"album":[{"byArtist":{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Stefano Bollani","albumProductionType":"http://schema.org/StudioAlbum","name":"L'orchestra del Titanic","@id":"https://musicbrainz.org/release-group/cc69db11-0c19-34e7-bd58-1494ef39ec0b"},{"@id":"https://musicbrainz.org/release-group/6cf88cf1-d7d1-30f1-bb0f-429641ffce00","creditedTo":"Stefano Bollani \u0026 Ares Tavolazzi","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Mambo italiano","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","name":"Stefano Bollani","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/627f048e-b445-4e73-b8a6-54defceb8ce7","@type":["Person","MusicGroup"],"name":"Ares Tavolazzi"}]},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Abbassa la tua radio","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Stefano Bollani","@id":"https://musicbrainz.org/release-group/eb11e553-4f76-34ec-b2a2-fdc895de71d1"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Barbara Casini","@id":"https://musicbrainz.org/artist/a32aad20-a3af-4eca-ac04-c1d2ac3113eb"},{"@type":["Person","MusicGroup"],"name":"Phil Woods","@id":"https://musicbrainz.org/artist/df555225-0856-4cd9-ae46-b4734ee1418d"},{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Você E Eu","creditedTo":"Barbara Casini \u0026 Phil Woods \u0026 Stefano Bollani","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1fc72858-af05-333e-844d-5ea94263687a"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Les Fleurs Bleues","creditedTo":"Stefano Bollani","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"@id":"https://musicbrainz.org/release-group/e42aa7d6-9b25-305a-b558-52b23f61ef30"},{"@id":"https://musicbrainz.org/release-group/ff911fdc-efd8-3d49-a75c-18047c4d0ff4","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Småt Småt","creditedTo":"Stefano Bollani","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/2fb196a1-d329-4c61-a33d-14f7c50d54a3","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","name":"Stefano Bollani","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Jesper Bodilsen","@id":"https://musicbrainz.org/artist/e013efb5-6806-4f81-82a2-3d4c85ec4842"},{"@id":"https://musicbrainz.org/artist/1fc5b156-99d7-42f5-ab67-9a98dbe46eee","name":"Morten Lund","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Mi ritorni in mente","@type":"MusicAlbum","creditedTo":"Stefano Bollani, Jesper Bodilsen \u0026 Morten Lund"},{"@id":"https://musicbrainz.org/release-group/17ea4ddf-e9e2-4a34-afc5-bae0a2a4a636","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},{"@id":"https://musicbrainz.org/artist/e013efb5-6806-4f81-82a2-3d4c85ec4842","@type":["Person","MusicGroup"],"name":"Jesper Bodilsen"},{"@type":["Person","MusicGroup"],"name":"Morten Lund","@id":"https://musicbrainz.org/artist/1fc5b156-99d7-42f5-ab67-9a98dbe46eee"}],"@type":"MusicAlbum","creditedTo":"Stefano Bollani, Jesper Bodilsen \u0026 Morten Lund","albumProductionType":"http://schema.org/StudioAlbum","name":"Gleda"},{"byArtist":{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","@type":["Person","MusicGroup"],"name":"Stefano Bollani"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"I visionari","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stefano Bollani","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/16723b5a-0663-31c9-84a6-39d727d3048b"},{"@id":"https://musicbrainz.org/release-group/5f52d8eb-d3e3-3e19-bb26-bc33e496733c","name":"Piano Solo","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Stefano Bollani","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","name":"Stefano Bollani","@type":["Person","MusicGroup"]}},{"@id":"https://musicbrainz.org/release-group/91dd4363-076a-4259-b5f7-26c67239c4e4","byArtist":[{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","@type":["Person","MusicGroup"],"name":"Stefano Bollani"},{"@id":"https://musicbrainz.org/artist/627f048e-b445-4e73-b8a6-54defceb8ce7","name":"Ares Tavolazzi","@type":["Person","MusicGroup"]},{"name":"Walter Paoli","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7a37e73e-70d4-4929-af43-68e231d8293d"}],"albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Stefano Bollani with Ares Tavolazzi \u0026 Walter Paoli","@type":"MusicAlbum","name":"Ma l'amore no","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/b5ef6562-4934-44af-8d69-b778161329a3","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Concertone","@type":"MusicAlbum","creditedTo":"Stefano Bollani"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","name":"Stefano Bollani","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","name":"Carioca","@type":"MusicAlbum","creditedTo":"Stefano Bollani","@id":"https://musicbrainz.org/release-group/85eec6de-80aa-3638-a048-fdf777eac03c"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Enrico Rava","@id":"https://musicbrainz.org/artist/0336e885-1b2b-4f3c-9886-e4921a34b615"},{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"The Third Man","@type":"MusicAlbum","creditedTo":"Enrico Rava \u0026 Stefano Bollani","@id":"https://musicbrainz.org/release-group/0bfbc657-1233-3345-b61f-cd3654984858"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Stone in the Water","creditedTo":"Stefano Bollani, Jesper Bodilsen \u0026 Morten Lund","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","@type":["Person","MusicGroup"],"name":"Stefano Bollani"},{"@type":["Person","MusicGroup"],"name":"Jesper Bodilsen","@id":"https://musicbrainz.org/artist/e013efb5-6806-4f81-82a2-3d4c85ec4842"},{"name":"Morten Lund","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1fc5b156-99d7-42f5-ab67-9a98dbe46eee"}],"@id":"https://musicbrainz.org/release-group/d9b2576e-d93f-43b3-8641-6be1fe1662bd"},{"@id":"https://musicbrainz.org/release-group/82885af5-974d-4dad-b910-262b11d60078","albumProductionType":"http://schema.org/StudioAlbum","name":"Irene Grandi \u0026 Stefano Bollani","creditedTo":"Irene Grandi \u0026 Stefano Bollani","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Irene Grandi","@id":"https://musicbrainz.org/artist/422318a0-9769-441e-9edb-bf29845adb9a"},{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"}],"albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Stefano Bollani","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Joy in Spite of Everything","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"@id":"https://musicbrainz.org/release-group/b9f98c62-86c1-439c-9a80-1e21cbb73234"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"@type":"MusicAlbum","creditedTo":"Stefano Bollani","albumProductionType":"http://schema.org/StudioAlbum","name":"Sheik Yer Zappa","@id":"https://musicbrainz.org/release-group/9d23f796-4e5f-4dc0-b895-304c2ecd1e15"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"creditedTo":"Stefano Bollani","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Arrivano gli alieni","@id":"https://musicbrainz.org/release-group/4b40ea31-61d7-4fba-9d16-80c8d04aa346"},{"@id":"https://musicbrainz.org/release-group/09742163-d456-430b-927e-c94192000663","@type":"MusicAlbum","creditedTo":"Stefano Bollani","albumProductionType":"http://schema.org/StudioAlbum","name":"Napolia Trip","byArtist":{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","@type":["Person","MusicGroup"],"name":"Stefano Bollani"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Bollani Carioca","@type":"MusicAlbum","creditedTo":"Stefano Bollani","byArtist":{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/277ac12a-a361-4234-8943-a52ac745bed0"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/0336e885-1b2b-4f3c-9886-e4921a34b615","@type":["Person","MusicGroup"],"name":"Enrico Rava"},{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","@type":["Person","MusicGroup"],"name":"Stefano Bollani"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Rava plays Rava","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Enrico Rava \u0026 Stefano Bollani","@id":"https://musicbrainz.org/release-group/847c7513-f6d4-367b-89b8-a4928f49355c"},{"@type":"MusicAlbum","creditedTo":"Stefano Bollani \u0026 Franco D'Andrea","albumProductionType":"http://schema.org/LiveAlbum","name":"The Macerata Concert","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},{"name":"Franco D'Andrea","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a3f52c95-28b3-425e-9a59-f79724029240"}],"@id":"https://musicbrainz.org/release-group/dd6bb477-0e4a-4606-8a06-b4336e066f2f"},{"name":"Montreal Diary / B","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Enrico Rava \u0026 Stefano Bollani","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/0336e885-1b2b-4f3c-9886-e4921a34b615","name":"Enrico Rava","@type":["Person","MusicGroup"]},{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"}],"@id":"https://musicbrainz.org/release-group/520ccdf8-9790-3fdb-9c7d-049a1fccd7cc"},{"@id":"https://musicbrainz.org/release-group/0f7103b5-3018-393b-ab3a-53aba61f6001","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Stefano Bollani","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"},"creditedTo":"Stefano Bollani","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"Jazz italiano live 2006, Volume 9"},{"name":"Jazz italiano live 2008, Volume 3: Omaggio alle occasioni perdute","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"Stefano Bollani","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","name":"Stefano Bollani","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/a3d041d5-c9b3-476b-8298-865d6f6a889b"},{"name":"Big Band!","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Stefano Bollani \u0026 NDR Bigband","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","@type":["Person","MusicGroup"],"name":"Stefano Bollani"},{"@id":"https://musicbrainz.org/artist/7aa055bc-cd8e-4381-b40f-29ec8d70774e","@type":"MusicGroup","name":"NDR Bigband"}],"@id":"https://musicbrainz.org/release-group/344c68f6-3da6-4588-ae1d-5bcafcdcc9c1"},{"albumProductionType":"http://schema.org/LiveAlbum","name":"Orvieto","creditedTo":"Chick Corea \u0026 Stefano Bollani","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/8446fcca-109e-4c6d-a2ff-5a269b32b4c2","name":"Chick Corea","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Stefano Bollani","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014"}],"@id":"https://musicbrainz.org/release-group/02d976b2-8bf2-4016-b3f7-81d849b81ed2"},{"@id":"https://musicbrainz.org/release-group/319ac289-faff-432f-b485-fc9eb1385ffc","name":"O que será","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Stefano Bollani \u0026 Hamilton de Holanda","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","name":"Stefano Bollani","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/cf1dfa40-db94-4bcc-bddc-96bdc7fe5163","name":"Hamilton de Holanda","@type":["Person","MusicGroup"]}]}],"sameAs":["http://viaf.org/viaf/37117466","http://www.allmusic.com/artist/mn0000747374","http://www.stefanobollani.com/","https://en.wikipedia.org/wiki/Stefano_Bollani","https://rateyourmusic.com/artist/stefano_bollani","https://www.discogs.com/artist/243671","https://www.wikidata.org/wiki/Q1375738"],"@type":["Person","MusicGroup"],"location":{"name":"Italy","@type":"Country","@id":"https://musicbrainz.org/area/c6500277-9a3d-349b-bf30-41afdbf42add"},"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014","name":"Stefano Bollani"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fa781f9c2-0e60-4862-b1bc-0b9272151014">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fa781f9c2-0e60-4862-b1bc-0b9272151014">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Stefano Bollani – Bollani, Stefano"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/releases" title="Bollani, Stefano"><bdi>Releases</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/recordings" title="Bollani, Stefano"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/works" title="Bollani, Stefano"><bdi>Works</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/events" title="Bollani, Stefano"><bdi>Events</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/relationships" title="Bollani, Stefano"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/aliases" title="Bollani, Stefano"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/tags" title="Bollani, Stefano"><bdi>Tags</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/details" title="Bollani, Stefano"><bdi>Details</bdi></a></li>            <li><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/edit" title="Bollani, Stefano"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=45666" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/cc69db11-0c19-34e7-bd58-1494ef39ec0b"><bdi>L'orchestra del Titanic</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/6cf88cf1-d7d1-30f1-bb0f-429641ffce00"><bdi>Mambo italiano</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a> &amp; <a href="/artist/627f048e-b445-4e73-b8a6-54defceb8ce7" title="Tavolazzi, Ares"><bdi>Ares Tavolazzi</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/eb11e553-4f76-34ec-b2a2-fdc895de71d1"><bdi>Abbassa la tua radio</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/1fc72858-af05-333e-844d-5ea94263687a"><bdi>Você E Eu</bdi></a></td>
+        
+        <td><a href="/artist/a32aad20-a3af-4eca-ac04-c1d2ac3113eb" title="Casini, Barbara"><bdi>Barbara Casini</bdi></a> &amp; <a href="/artist/df555225-0856-4cd9-ae46-b4734ee1418d" title="Woods, Phil"><bdi>Phil Woods</bdi></a> &amp; <a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/e42aa7d6-9b25-305a-b558-52b23f61ef30"><bdi>Les Fleurs Bleues</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ff911fdc-efd8-3d49-a75c-18047c4d0ff4"><bdi>Småt Småt</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/2fb196a1-d329-4c61-a33d-14f7c50d54a3"><bdi>Mi ritorni in mente</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a>, <a href="/artist/e013efb5-6806-4f81-82a2-3d4c85ec4842" title="Bodilsen, Jesper"><bdi>Jesper Bodilsen</bdi></a> &amp; <a href="/artist/1fc5b156-99d7-42f5-ab67-9a98dbe46eee" title="Lund, Morten (Danish jazzdrummer)"><bdi>Morten Lund</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/17ea4ddf-e9e2-4a34-afc5-bae0a2a4a636"><bdi>Gleda</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a>, <a href="/artist/e013efb5-6806-4f81-82a2-3d4c85ec4842" title="Bodilsen, Jesper"><bdi>Jesper Bodilsen</bdi></a> &amp; <a href="/artist/1fc5b156-99d7-42f5-ab67-9a98dbe46eee" title="Lund, Morten (Danish jazzdrummer)"><bdi>Morten Lund</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/16723b5a-0663-31c9-84a6-39d727d3048b"><bdi>I visionari</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/5f52d8eb-d3e3-3e19-bb26-bc33e496733c"><bdi>Piano Solo</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/91dd4363-076a-4259-b5f7-26c67239c4e4"><bdi>Ma l'amore no</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a> with <a href="/artist/627f048e-b445-4e73-b8a6-54defceb8ce7" title="Tavolazzi, Ares"><bdi>Ares Tavolazzi</bdi></a> &amp; <a href="/artist/7a37e73e-70d4-4929-af43-68e231d8293d" title="Paoli, Walter"><bdi>Walter Paoli</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/b5ef6562-4934-44af-8d69-b778161329a3"><bdi>Concertone</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/85eec6de-80aa-3638-a048-fdf777eac03c"><bdi>Carioca</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/0bfbc657-1233-3345-b61f-cd3654984858"><bdi>The Third Man</bdi></a></td>
+        
+        <td><a href="/artist/0336e885-1b2b-4f3c-9886-e4921a34b615" title="Rava, Enrico"><bdi>Enrico Rava</bdi></a> &amp; <a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/d9b2576e-d93f-43b3-8641-6be1fe1662bd"><bdi>Stone in the Water</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a>, <a href="/artist/e013efb5-6806-4f81-82a2-3d4c85ec4842" title="Bodilsen, Jesper"><bdi>Jesper Bodilsen</bdi></a> &amp; <a href="/artist/1fc5b156-99d7-42f5-ab67-9a98dbe46eee" title="Lund, Morten (Danish jazzdrummer)"><bdi>Morten Lund</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/82885af5-974d-4dad-b910-262b11d60078"><bdi>Irene Grandi &amp; Stefano Bollani</bdi></a></td>
+        
+        <td><a href="/artist/422318a0-9769-441e-9edb-bf29845adb9a" title="Grandi, Irene"><bdi>Irene Grandi</bdi></a> &amp; <a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/b9f98c62-86c1-439c-9a80-1e21cbb73234"><bdi>Joy in Spite of Everything</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/9d23f796-4e5f-4dc0-b895-304c2ecd1e15"><bdi>Sheik Yer Zappa</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/4b40ea31-61d7-4fba-9d16-80c8d04aa346"><bdi>Arrivano gli alieni</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/09742163-d456-430b-927e-c94192000663"><bdi>Napolia Trip</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/277ac12a-a361-4234-8943-a52ac745bed0"><bdi>Bollani Carioca</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">0</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/847c7513-f6d4-367b-89b8-a4928f49355c"><bdi>Rava plays Rava</bdi></a></td>
+        
+        <td><a href="/artist/0336e885-1b2b-4f3c-9886-e4921a34b615" title="Rava, Enrico"><bdi>Enrico Rava</bdi></a> &amp; <a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/dd6bb477-0e4a-4606-8a06-b4336e066f2f"><bdi>The Macerata Concert</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a> &amp; <a href="/artist/a3f52c95-28b3-425e-9a59-f79724029240" title="D'Andrea, Franco"><bdi>Franco D'Andrea</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/520ccdf8-9790-3fdb-9c7d-049a1fccd7cc"><bdi>Montreal Diary / B</bdi></a></td>
+        
+        <td><a href="/artist/0336e885-1b2b-4f3c-9886-e4921a34b615" title="Rava, Enrico"><bdi>Enrico Rava</bdi></a> &amp; <a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/0f7103b5-3018-393b-ab3a-53aba61f6001"><bdi>Jazz italiano live 2006, Volume 9</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a3d041d5-c9b3-476b-8298-865d6f6a889b"><bdi>Jazz italiano live 2008, Volume 3: Omaggio alle occasioni perdute</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/344c68f6-3da6-4588-ae1d-5bcafcdcc9c1"><bdi>Big Band!</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a> &amp; <a href="/artist/7aa055bc-cd8e-4381-b40f-29ec8d70774e" title="NDR Bigband"><bdi>NDR Bigband</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/02d976b2-8bf2-4016-b3f7-81d849b81ed2"><bdi>Orvieto</bdi></a></td>
+        
+        <td><a href="/artist/8446fcca-109e-4c6d-a2ff-5a269b32b4c2" title="Corea, Chick"><bdi>Chick Corea</bdi></a> &amp; <a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/319ac289-faff-432f-b485-fc9eb1385ffc"><bdi>O que será</bdi></a></td>
+        
+        <td><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014" title="Bollani, Stefano"><bdi>Stefano Bollani</bdi></a> &amp; <a href="/artist/cf1dfa40-db94-4bcc-bddc-96bdc7fe5163" title="Holanda, Hamilton de"><bdi>Hamilton de Holanda</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Bollani, Stefano</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1972-12-05 (43 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/d793f202-faf0-4de8-83e2-9ddfca54a35f"><bdi>Milan</bdi></a>, <a href="/area/9ceb9473-9fa6-4077-be05-02113549dd87"><bdi>Milano</bdi></a>, <span class="flag flag-IT"><a href="/area/c6500277-9a3d-349b-bf30-41afdbf42add"><bdi>Italy</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-IT"><a href="/area/c6500277-9a3d-349b-bf30-41afdbf42add"><bdi>Italy</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/ratings" title="Bollani, Stefano"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/jazz"><bdi>jazz</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.stefanobollani.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000747374">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/243671">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/stefano_bollani">Rateyourmusic</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/37117466">VIAF: 37117466</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1375738">Q1375738</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Stefano_Bollani">en: Stefano Bollani</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/a781f9c2-0e60-4862-b1bc-0b9272151014/relationships" title="Bollani, Stefano"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fa781f9c2-0e60-4862-b1bc-0b9272151014">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-08-26 10:05 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

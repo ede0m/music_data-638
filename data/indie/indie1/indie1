@@ -1,0 +1,563 @@
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tag “indie” - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Ftag%2Findie%2Fartist%3Fpage%3D1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Ftag%2Findie%2Fartist%3Fpage%3D1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page" class="fullwidth">
+    <div id="content">
+<h1>Tag “<a href="/tag/indie"><bdi>indie</bdi></a>”</h1>
+
+<div class="tabs">
+    <ul class="tabs">            <li><a href="/tag/indie"><bdi>Overview</bdi></a></li>            <li class="sel"><a href="/tag/indie/artist"><bdi>Artists</bdi></a></li>            <li><a href="/tag/indie/release-group"><bdi>Release Groups</bdi></a></li>            <li><a href="/tag/indie/release"><bdi>Releases</bdi></a></li>            <li><a href="/tag/indie/recording"><bdi>Recordings</bdi></a></li>            <li><a href="/tag/indie/work"><bdi>Works</bdi></a></li>            <li><a href="/tag/indie/label"><bdi>Labels</bdi></a></li>            <li><a href="/tag/indie/place"><bdi>Places</bdi></a></li>            <li><a href="/tag/indie/area"><bdi>Areas</bdi></a></li>            <li><a href="/tag/indie/instrument"><bdi>Instruments</bdi></a></li>            <li><a href="/tag/indie/series"><bdi>Series</bdi></a></li>            <li><a href="/tag/indie/event"><bdi>Events</bdi></a></li>    </ul>
+</div>
+
+    <h2>1,015 artists found</h2><nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/indie/artist?page=11">11</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/indie/artist?page=2">Next</a></li>
+</ul>
+</nav>
+
+            <ul>                <li>
+                    3 -
+                    <a href="/artist/8aaa736f-57ae-44ce-bcd9-30c24764ff93" title="JOELPETER (JoelPeter active in the UK since 2013)"><bdi>JOELPETER</bdi></a> <span class="comment">(<bdi>JoelPeter active in the UK since 2013</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/52074ba6-e495-4ef3-9bb4-0703888a9f68" title="Arcade Fire"><bdi>Arcade Fire</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/b91f0973-002e-4237-a39f-c7e02e786e53" title="Architecture in Helsinki"><bdi>Architecture in Helsinki</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/f76fdc73-a709-4863-9123-4b0723a5a7ef" title="Art vs Science"><bdi>Art vs Science</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/5efe021b-61c8-45ed-9c89-ab808a892c96" title="Walla, Christopher"><bdi>Chris Walla</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/3e9b6434-5f16-4bd1-8601-ee46a4fed4e5" title="Close Lobsters"><bdi>Close Lobsters</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/fc5ff119-74ef-4b9c-b736-8b0e5fd3f298" title="Electric President"><bdi>Electric President</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/ce42ce6a-b4e6-4350-9cf8-6256adee5364" title="Heavy Heart (Indie rock group from London, UK)"><bdi>Heavy Heart</bdi></a> <span class="comment">(<bdi>Indie rock group from London, UK</bdi>)</span>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/d4a9be59-13e5-481b-8c68-833c5c1fd458" title="matt pond PA"><bdi>matt pond PA</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/7388c2ac-e8e7-4fb3-91fe-d56aa1ddb947" title="Pompeya"><bdi>Pompeya</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/31095622-5a1e-4f22-8ad1-b08eb6255f37" title="Leo, Ted and the Pharmacists"><bdi>Ted Leo and the Pharmacists</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27" title="Smiths, The"><bdi>The Smiths</bdi></a>
+                </li>                <li>
+                    2 -
+                    <a href="/artist/af37c51c-0790-4a29-b995-456f98a6b8c9" title="Vampire Weekend"><bdi>Vampire Weekend</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/2d295d70-e63c-4141-aeec-1c6df1de0b4b" title="!Mc'Lain!"><bdi>!Mc'Lain!</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/7677037f-3f8f-4c0d-aac2-e8b56bf38b97" title="¡Ay Carmela! (UK DIY indie / punk)"><bdi>¡Ay Carmela!</bdi></a> <span class="comment">(<bdi>UK DIY indie / punk</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/9c1ff574-2ae4-4fea-881f-83293d0d5881" title="And You Will Know Us by the Trail of Dead"><bdi>…And You Will Know Us by the Trail of Dead</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/f0a90659-ff1e-4f41-bfa1-26f40e541fd0" title="...revel in the morning"><bdi>...revel in the morning</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/92bd672f-2c21-4d9f-8732-efafd78830b7" title="&amp; The Centurions (Bahrain)"><bdi>&amp; The Centurions</bdi></a> <span class="comment">(<bdi>Bahrain</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/b08b8393-06c7-4ae7-be7d-ffcaed3cd8e7" title="sistra"><bdi>| сИстра |</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/3948c332-4c8d-4047-8d0a-705c03644947" title="Late, 2 Hours"><bdi>2 Hours Late</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/090d7ae3-1a3f-4a4a-9087-2f831506b398" title="3 Screaming Popes (From Haverhill, Suffolk)"><bdi>3 Screaming Popes</bdi></a> <span class="comment">(<bdi>From Haverhill, Suffolk</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/d25841c1-8609-4a10-8500-60cb68e5bb40" title="3RD Season"><bdi>3RD Season</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/1e519a9a-b434-47ae-93cc-d3bb784d64ab" title="5 Cent Theatre"><bdi>5 Cent Theatre</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/e5da3202-fc46-48d3-b4b8-75787038955d" title="21 Tandem Repeats"><bdi>21 Tandem Repeats</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/b9e84ecb-633a-4e31-8ab4-a4538a6df0dc" title="31hours"><bdi>31hours</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/1b3c7291-1cb6-4b8d-bd50-cbacf8ef3602" title="51/50s"><bdi>51/50s</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/2e071b99-c201-4a20-b42f-7214b8379889" title="130 po vstrechnoy na starenkoy Vespa"><bdi>130 по встречной на старенькой Vespa</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/48273af5-1433-4dfc-b0c1-c00495c09d0a" title="Genuine Freakshow, A"><bdi>A Genuine Freakshow</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/023aa70b-e786-43a5-ac6a-f172fc4199ea" title="A Northern Light"><bdi>A Northern Light</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/99fe4613-84ec-4f48-bb4f-f036880ed2ac" title="Place to Bury Strangers, A"><bdi>A Place to Bury Strangers</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/4814f400-db3d-4422-968d-0c9c021a65ca" title="A Plastic Rose"><bdi>A Plastic Rose</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/e42215ff-4126-4bd2-b56e-319a1e5c1356" title="A Witness"><bdi>A Witness</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/de3abf9b-9f43-483a-819b-7e867503cd91" title="Morales, Aaron"><bdi>Aaron Morales</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/6c8465c4-68f7-4808-8bd7-78e16919a087" title="Abandcalledboy"><bdi>Abandcalledboy</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/5eda88c5-8e75-4841-9d21-2334efe38af5" title="Abstract Greens"><bdi>Abstract Greens</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/c3ee2b9c-d315-41c3-b55a-3c1c2b29addf" title="Acid House Kings"><bdi>Acid House Kings</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/75d4f194-969c-4538-b789-742f3eb3d02c" title="Adam and The Ants"><bdi>Adam and The Ants</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/8a723345-c62c-45ec-a45e-c1007f2981b4" title="Add N to (X)"><bdi>Add N to (X)</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/4bda93c2-c96d-4589-9644-b32f37a59fa3" title="After the Fall (Australian rock band)"><bdi>After the Fall</bdi></a> <span class="comment">(<bdi>Australian rock band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/11f53aec-bad9-4bdd-abb3-e3e7a5d8670d" title="Afterimage (USA punk band)"><bdi>Afterimage</bdi></a> <span class="comment">(<bdi>USA punk band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/5652eb29-912c-45f5-b525-f3baaab09ca0" title="AKP (Indie Rock Band from York UK)"><bdi>AKP</bdi></a> <span class="comment">(<bdi>Indie Rock Band from York UK</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/7c8d1654-6cef-453a-be0a-a6e59d531e8d" title="Yorke, Alana"><bdi>Alana Yorke</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/19d51310-6a72-43e2-af87-b26879461faf" title="Alaskanz (NZ indie alt-folk)"><bdi>Alaska</bdi></a> <span class="comment">(<bdi>NZ indie alt-folk</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/375e43a8-7a67-405f-8805-7c1c31c7f6d0" title="Albino (Hong Kong's rock band)"><bdi>Albino</bdi></a> <span class="comment">(<bdi>Hong Kong's rock band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/6c1a0882-12d5-408c-a072-4871d03b09bc" title="Moir, Alex"><bdi>Alex Moir</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/3eb65fd6-9cad-43dc-82d6-d2f76d526659" title="Alfa 9"><bdi>Alfa 9</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/867f63d3-ebb7-4f84-bf45-c8d39a15c477" title="Orlova, Alina"><bdi>Alina Orlova</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/cd99e86c-cef4-4c1d-888a-040f1c5aade1" title="Alligator Smile"><bdi>Alligator Smile</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/b5ad3325-ee76-4e70-9034-afc4dde23962" title="Dogs, Allotment"><bdi>Allotment Dogs</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/d7f0c2fe-00fb-4248-995a-dbfd5a87331a" title="Alpine"><bdi>Alpine</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/72080800-f0d6-455a-aab3-f180b787ee58" title="Altazores"><bdi>Altazores</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/a5ea16ca-81e3-4c2e-8377-277269a428cd" title="Ama (Spanish indie pop band)"><bdi>Ama</bdi></a> <span class="comment">(<bdi>Spanish indie pop band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/b14d213d-8070-4c04-ab9d-bcd02629b27e" title="Amandinho"><bdi>Amandinho</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/93ca8a45-f090-477b-a3f0-dcd1db3c1539" title="Bronson, Amy"><bdi>Amy Bronson</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/403c7a57-8737-4585-9563-e5b712e3099f" title="Anadel"><bdi>Anadel</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/acd902c5-91df-4e1f-8dd6-7c4a348a4cb9" title="Anathallo"><bdi>Anathallo</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/439d7c25-1330-4932-8c5e-584c6e0f1daa" title="And What Will Be Left of Them?"><bdi>And What Will Be Left of Them?</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/bdc23266-05f3-410a-9233-aeb16ce1a8cb" title="Blu, Andrew"><bdi>Andrew Blu</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/ba48ac28-1706-4726-8bdd-07c3da011265" title="andrew lee rose (active in the UK 2013 to present)"><bdi>andrew lee rose</bdi></a> <span class="comment">(<bdi>active in the UK 2013 to present</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/aba6929b-c565-4ef5-a463-027e29d31ef5" title="Andrew Vincent and The Pirates"><bdi>Andrew Vincent and The Pirates</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/16db46c1-33d2-4b7f-b169-a20c345bfde1" title="Anglo Saxon"><bdi>Anglo Saxon</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/69837400-8e31-4949-aac2-00b46b4df126" title="Stone, Angus &amp; Julia"><bdi>Angus &amp; Julia Stone</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/c4f9c0d3-8e81-4ac3-952b-d2110171cb97" title="Animal Noise"><bdi>Animal Noise</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/019665b6-b19b-4caf-af12-b724a7b395e8" title="Animal Parts"><bdi>Animal Parts</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/aeedb26a-7b82-49fa-ad7c-6f902e37c45d" title="Animals of the Carnival"><bdi>Animals of the Carnival</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/fd547816-4e63-4583-b6d5-6eae31821c2f" title="Atkinson, Anna"><bdi>Anna Atkinson</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/f9390ade-e561-4c16-98b6-870797d82bd1" title="Annabel (indie-rock band from kent, ohio)"><bdi>Annabel</bdi></a> <span class="comment">(<bdi>indie-rock band from kent, ohio</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/65daba7b-f387-46cc-a0c8-d0191b099586" title="AnnenMayKantereit"><bdi>AnnenMayKantereit</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/64928ad4-de5d-4f9f-af27-f2cf7ecf09fc" title="Annie Crane (folk singer from New-York)"><bdi>Annie Crane</bdi></a> <span class="comment">(<bdi>folk singer from New-York</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/213680c6-c267-46b7-99c4-c94c1988fef7" title="Anorak Girl"><bdi>Anorak Girl</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/f4e739a0-897d-4f78-8098-e2d9c0b3014b" title="Ans. Andur"><bdi>Ans. Andur</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/168b91d7-ff7e-43b3-9b72-77af2ee8b9f5" title="Antagònics"><bdi>Antagònics</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/fa17e276-8214-41c5-8810-9c7a37f63965" title="Any Color Black (Indie-rock-electro band from Glasgow, Scotland)"><bdi>Any Color Black</bdi></a> <span class="comment">(<bdi>Indie-rock-electro band from Glasgow, Scotland</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/133e0238-f8ee-483f-b43c-8990378bdedf" title="Apophenia"><bdi>Apophenia</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/e9665872-2974-47bb-89f7-98398f23be90" title="Apple Rabbits (one man band of Jay Fisher)"><bdi>Apple Rabbits</bdi></a> <span class="comment">(<bdi>one man band of Jay Fisher</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/bd513de0-e42f-425e-ae46-817d7bc5fb1c" title="Archive (UK trip-hop/post-rock band)"><bdi>Archive</bdi></a> <span class="comment">(<bdi>UK trip-hop/post-rock band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a" title="Arctic Monkeys"><bdi>Arctic Monkeys</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/1e706251-3763-4594-b4e7-16a0a15f6a2b" title="Arhangel"><bdi>Arhangel</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/96d61d5e-1c2b-4164-a18d-3f2e7ad12573" title="Jacqueline Gomez (Jacquie Gomez (ArwenStarsong))"><bdi>ArwenStarsong</bdi></a> <span class="comment">(<bdi>Jacquie Gomez (ArwenStarsong)</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/0597f131-1bdf-47da-8850-c6761118b613" title="As Elephants Are"><bdi>As Elephants Are</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/0bfe0cd2-f962-46af-ad24-cbdcb5979c28" title="At Sea (New York's Band)"><bdi>At Sea</bdi></a> <span class="comment">(<bdi>New York's Band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/37bb58c3-a419-4e48-ac73-55e398d01f11" title="Athleta"><bdi>Athleta</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/17a6ee70-d54e-4604-94fa-cc1dee6a8000" title="Athlete Dust"><bdi>Athlete Dust</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/579030e4-fbc2-4ff8-9ce5-8d7da2bde470" title="Atika (Lithuanian band)"><bdi>Atika</bdi></a> <span class="comment">(<bdi>Lithuanian band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/0c8194a8-ef18-4d60-a93f-4d4155dec229" title="Atomic Horsebox"><bdi>Atomic Horsebox</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/6a0e4d2f-cc2f-4791-9688-7d02bbdce14f" title="Atoms (70s UK punk band)"><bdi>Atoms</bdi></a> <span class="comment">(<bdi>70s UK punk band</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/b9dc0132-d31e-489a-a2af-4dc9dc035be7" title="Attack in Black"><bdi>Attack in Black</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/8fd32513-167f-4bd6-94ea-53aec890ba5f" title="Audiotrack"><bdi>Audiotrack</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/29070ba5-c3df-41d9-bed0-8e2f1e1c22ad" title="Augie March"><bdi>Augie March</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/9cd1cd93-3d52-4957-8238-77623db6081c" title="Autómatas"><bdi>Autómatas</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/71d59a90-750d-48ea-9cd2-284a4f4eaee6" title="Aviators (Tyler Shaw)"><bdi>Aviators</bdi></a> <span class="comment">(<bdi>Tyler Shaw</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/9608b4e5-8a71-4f10-9842-61f196273e15" title="Azbest"><bdi>Azbest</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/0b2d516c-7a20-4fa9-9936-cab7d123c0b2" title="Azwel"><bdi>Azwel</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/ffc31e9d-dcbb-4ac4-8abe-a127341630f2" title="B.R.Mackie (Australian-born, Brooklyn-based indie songwriter)"><bdi>B.R.Mackie</bdi></a> <span class="comment">(<bdi>Australian-born, Brooklyn-based indie songwriter</bdi>)</span>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/d7678720-2441-4f6e-9b1d-538a7d48938f" title="BABIES"><bdi>BABIES</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/7a605776-eba4-4648-a4ac-33387500e2e0" title="Bad Astronaut"><bdi>Bad Astronaut</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/680c81e7-b5b8-48b2-980f-3c41d0950a4c" title="Bad Light District"><bdi>Bad Light District</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/ab8d80a5-6d63-411a-a131-260ca6a43f4a" title="Badass Yuki"><bdi>Badass Yuki</bdi></a>
+                </li>                <li>
+                    1 -
+                    <a href="/artist/bae74ba0-e1be-4a6a-b4ca-68e1ddd1dcf3" title="Bahía Inútil (Chilean pop &amp; neo-folk band)"><bdi>Bahía Inútil</bdi></a> <span class="comment">(<bdi>Chilean pop &amp; neo-folk band</bdi>)</span>
+                </li>            </ul>
+<nav>
+<ul class="pagination">
+        <li><span>Previous</span></li>
+    <li class="separator" />
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=1" class="sel"><strong>1</strong></a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=2">2</a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=3">3</a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=4">4</a></li>
+            <li><a href="https://musicbrainz.org/tag/indie/artist?page=5">5</a></li>
+        <li><span>…</span></li>
+        <li><a href="https://musicbrainz.org/tag/indie/artist?page=11">11</a></li>
+    <li class="separator" />
+        <li><a href="https://musicbrainz.org/tag/indie/artist?page=2">Next</a></li>
+</ul>
+</nav>
+    </div>
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>

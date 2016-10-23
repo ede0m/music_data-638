@@ -1,0 +1,806 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Verve - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1989 in Wigan, Dissolved: 2009, Area: United Kingdom"/><script type="application/ld+json">{"member":[{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/2d1d8985-47bc-4244-8cc3-577584e411f6","name":"Richard Ashcroft","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Peter Salisbury","@id":"https://musicbrainz.org/artist/354de3ae-97bb-4fe3-b3aa-a5560ec59bee"},"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"name":"Simon Jones","@id":"https://musicbrainz.org/artist/5d0edef9-f698-4c8f-99bf-c8f92854474c","@type":["Person","MusicGroup"]}},{"roleName":[],"member":{"name":"Nick McCabe","@id":"https://musicbrainz.org/artist/d76c8049-454b-4217-9cf7-97fd61f5c28d","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"roleName":[],"member":{"name":"Simon Tong","@id":"https://musicbrainz.org/artist/ef0d97fa-ac17-4a84-8422-9f20e63b5319","@type":["Person","MusicGroup"]},"endDate":"1999-04-28","@type":"OrganizationRole","startDate":"1996"}],"foundingDate":"1989","location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"dissolutionDate":"2009","groupOrigin":{"@type":"City","@id":"https://musicbrainz.org/area/719ad60b-f32b-4eea-a968-6e4e4975a5c3","containedIn":{"@id":"https://musicbrainz.org/area/2618aea3-7904-4397-b617-8842cddaca2c","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"name":"Wigan","@type":"AdministrativeArea"},"name":"Wigan"},"sameAs":["http://en.wikipedia.org/wiki/The_Verve","http://musicmoz.org/Bands_and_Artists/V/Verve,_The/","http://rateyourmusic.com/artist/the_verve","http://viaf.org/viaf/152061185","http://www.allmusic.com/artist/mn0000575522","http://www.bbc.co.uk/music/artists/d4d17620-fd97-4574-92a8-a2cb7e72ce42","http://www.imdb.com/name/nm2226094/","http://www.last.fm/music/The\u002bVerve","http://www.musik-sammler.de/artist/4594","http://www.secondhandsongs.com/artist/334","http://www.theverve.co.uk/","http://www.worldcat.org/identities/lccn-no99051427/","https://www.discogs.com/artist/10359","https://www.wikidata.org/wiki/Q488916"],"@type":"MusicGroup","@context":"http://schema.org","name":"The Verve","album":[{"@id":"https://musicbrainz.org/release-group/362b7ad8-f0db-30bf-a68e-0b1ec56c6190","name":"A Storm in Heaven","byArtist":{"@type":"MusicGroup","name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Verve"},{"@type":"MusicAlbum","creditedTo":"The Verve","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"A Northern Soul","byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/2e65b39d-405f-3b59-84ec-5f3e8e660b95"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve"},"name":"Urban Hymns","@id":"https://musicbrainz.org/release-group/3dd0c8e4-af53-3605-9c20-f27c7635fb60","creditedTo":"The Verve","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Forth","byArtist":{"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/a0fcb9a4-f495-3069-a24c-44558181b215","@type":"MusicAlbum","creditedTo":"The Verve","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"The Verve","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/f375354a-cd23-36fe-9bb8-944047f765e4","byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"},"name":"No Come Down (B Sides \u0026 Outtakes)"},{"name":"This Is Music: The Singles 92-98","byArtist":{"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/8d8ef553-e0a1-358a-b86b-390614b1cce2","@type":"MusicAlbum","creditedTo":"The Verve","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"The Verve","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Live Wigan","byArtist":{"@type":"MusicGroup","name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42"},"@id":"https://musicbrainz.org/release-group/baf42fd4-dff2-3d9c-b312-73cfc4d21be4"},{"@id":"https://musicbrainz.org/release-group/f5719639-c91a-33e6-8560-6421caade365","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve"},"name":"The Acoustic Sessions","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"The Verve","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"The Verve","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Voyager 1","byArtist":{"@type":"MusicGroup","name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42"},"@id":"https://musicbrainz.org/release-group/b4d07cd4-9eba-36e3-95ab-4076e7e92d81"},{"creditedTo":"Verve","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"},"name":"All in the Mind","@id":"https://musicbrainz.org/release-group/1bbd6e82-6a43-368f-96c5-46ac1d868d0e"},{"name":"She's a Superstar","byArtist":{"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/6f15edb5-595f-3665-a32a-38c12d1a3500","@type":"MusicAlbum","creditedTo":"Verve","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Verve","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/90bcbdf1-9f04-3dcc-8722-0418355033c8","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve"},"name":"Gravity Grave"},{"byArtist":{"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve","@type":"MusicGroup"},"name":"Blue","@id":"https://musicbrainz.org/release-group/c3139e34-1441-3b96-b860-772ec606d677","creditedTo":"Verve","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Verve","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/ea87f61e-ca21-3aeb-8cbc-8dcbf8f50837","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve"},"name":"Slide Away"},{"byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"},"name":"This Is Music","@id":"https://musicbrainz.org/release-group/77fc7efb-cd3b-3a98-85c7-b71ccc12f8f7","creditedTo":"The Verve","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","creditedTo":"The Verve","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"On Your Own","byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/933fe5a1-2109-393f-9ff8-aaf5913ea7c4"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"The Verve","@id":"https://musicbrainz.org/release-group/52be23b7-341c-395a-b520-4d88b7d1b223","name":"History","byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/8912c382-99cd-3175-a259-2382d7b9e261","byArtist":{"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve","@type":"MusicGroup"},"name":"Bitter Sweet Symphony","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"The Verve","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"The Verve","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Sonnet","byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/636ac8e0-ee41-3a45-9dde-f85d2d2802cb"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve"},"name":"The Drugs Don't Work","@id":"https://musicbrainz.org/release-group/1ed00618-4ce1-3498-93a1-36203c16ccea","creditedTo":"The Verve","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"The Verve","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","@type":"MusicGroup"},"name":"Lucky Man","@id":"https://musicbrainz.org/release-group/e0f8cf33-92db-3872-b561-02f5f38a7871"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"The Verve","@id":"https://musicbrainz.org/release-group/5c90e5f0-8a44-3f43-a1e7-6c87376e7b1c","name":"Love Is Noise","byArtist":{"@type":"MusicGroup","name":"The Verve","@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42"}},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"The Verve","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/f2ea4d34-10ab-4133-90ed-eeee14e8bac0","byArtist":{"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve","@type":"MusicGroup"},"name":"Rather Be"},{"byArtist":{"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42","name":"The Verve","@type":"MusicGroup"},"name":"Verve","@id":"https://musicbrainz.org/release-group/7f788661-9649-3a90-9436-807e2161203e","creditedTo":"Verve","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum"}],"@id":"https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd4d17620-fd97-4574-92a8-a2cb7e72ce42">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fd4d17620-fd97-4574-92a8-a2cb7e72ce42">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/releases" title="Verve, The"><bdi>Releases</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/recordings" title="Verve, The"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/works" title="Verve, The"><bdi>Works</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/events" title="Verve, The"><bdi>Events</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/relationships" title="Verve, The"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/aliases" title="Verve, The"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/tags" title="Verve, The"><bdi>Tags</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/details" title="Verve, The"><bdi>Details</bdi></a></li>            <li><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/edit" title="Verve, The"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>The Verve</b> were an English rock band formed in Wigan in 1990 by lead vocalist Richard Ashcroft, guitarist Nick McCabe, bass guitarist Simon Jones and drummer Peter Salisbury. Guitarist and keyboard player Simon Tong became a member at a later date.</p>
+<p>Beginning with a psychedelic sound, by the mid-1990s the band had released several EPs and four albums. It also endured name and line-up changes, break-ups, health problems, drug abuse and various lawsuits. The band's commercial breakthrough was the 1997 album <i>Urban Hymns</i>, one of the best-selling albums in UK Chart history. The album features the hit singles "Bitter Sweet Symphony", "The Drugs Don't Work" and "Lucky Man". In 1998, the band won two Brit Awards—winning Best British Group, appeared on the cover of <i>Rolling Stone</i> magazine in March, and in February 1999, "Bitter Sweet Symphony" was nominated for the Grammy Award for Best Rock Song.</p>
+<p>Soon after their commercial peak, the Verve broke up in April 1999, citing internal conflicts. According to <i>Billboard</i> magazine, "the group's rise was the culmination of a long, arduous journey that began at the dawn of the decade and went on to encompass a major breakup, multiple lawsuits, and an extensive diet of narcotics". During an eight-year split, Ashcroft dismissed talk of a reunion, saying: "You're more likely to get all four Beatles on stage." The band's original line-up reunited in June 2007, embarking on a tour later that year and releasing the album <i>Forth</i> in August 2008, which spawned the hit single "Love Is Noise". Amid revived tensions, the band broke up for the second time in 2009.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/The_Verve">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1953" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/362b7ad8-f0db-30bf-a68e-0b1ec56c6190"><bdi>A Storm in Heaven</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Verve</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/2e65b39d-405f-3b59-84ec-5f3e8e660b95"><bdi>A Northern Soul</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/3dd0c8e4-af53-3605-9c20-f27c7635fb60"><bdi>Urban Hymns</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a0fcb9a4-f495-3069-a24c-44558181b215"><bdi>Forth</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/f375354a-cd23-36fe-9bb8-944047f765e4"><bdi>No Come Down (B Sides &amp; Outtakes)</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/8d8ef553-e0a1-358a-b86b-390614b1cce2"><bdi>This Is Music: The Singles 92-98</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/baf42fd4-dff2-3d9c-b312-73cfc4d21be4"><bdi>Live Wigan</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f5719639-c91a-33e6-8560-6421caade365"><bdi>The Acoustic Sessions</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/b4d07cd4-9eba-36e3-95ab-4076e7e92d81"><bdi>Voyager 1</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/1bbd6e82-6a43-368f-96c5-46ac1d868d0e"><bdi>All in the Mind</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Verve</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/6f15edb5-595f-3665-a32a-38c12d1a3500"><bdi>She's a Superstar</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Verve</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/90bcbdf1-9f04-3dcc-8722-0418355033c8"><bdi>Gravity Grave</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Verve</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/c3139e34-1441-3b96-b860-772ec606d677"><bdi>Blue</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Verve</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/ea87f61e-ca21-3aeb-8cbc-8dcbf8f50837"><bdi>Slide Away</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Verve</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/77fc7efb-cd3b-3a98-85c7-b71ccc12f8f7"><bdi>This Is Music</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/933fe5a1-2109-393f-9ff8-aaf5913ea7c4"><bdi>On Your Own</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/52be23b7-341c-395a-b520-4d88b7d1b223"><bdi>History</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/8912c382-99cd-3175-a259-2382d7b9e261"><bdi>Bitter Sweet Symphony</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/636ac8e0-ee41-3a45-9dde-f85d2d2802cb"><bdi>Sonnet</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/1ed00618-4ce1-3498-93a1-36203c16ccea"><bdi>The Drugs Don't Work</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/e0f8cf33-92db-3872-b561-02f5f38a7871"><bdi>Lucky Man</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/5c90e5f0-8a44-3f43-a1e7-6c87376e7b1c"><bdi>Love Is Noise</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/f2ea4d34-10ab-4133-90ed-eeee14e8bac0"><bdi>Rather Be</bdi></a></td>
+        
+        <td><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="Verve, The"><bdi>The Verve</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/7f788661-9649-3a90-9436-807e2161203e"><bdi>Verve</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42" title="The Verve – Verve, The"><bdi>Verve</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Verve_MSG.jpg/250px-Verve_MSG.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Verve MSG.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Verve, The</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1989</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/719ad60b-f32b-4eea-a968-6e4e4975a5c3"><bdi>Wigan</bdi></a>, <a href="/area/2618aea3-7904-4397-b617-8842cddaca2c"><bdi>Wigan</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2009 (20 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/ratings" title="Verve, The"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/uk"><bdi>uk</bdi></a>, <a href="/tag/britannique"><bdi>britannique</bdi></a>, <a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/tags" title="Verve, The"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.theverve.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000575522">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/d4d17620-fd97-4574-92a8-a2cb7e72ce42">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/10359">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm2226094/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/The+Verve">The Verve</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/The_Verve">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/theverve">theverve</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/V/Verve,_The/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/the_verve">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/4594">Musik-Sammler</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/lccn-no99051427/">WorldCat</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/334">SecondHandSongs</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/theverve">theverve</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/152061185">VIAF: 152061185</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q488916">Q488916</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/The_Verve">en: The Verve</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/d4d17620-fd97-4574-92a8-a2cb7e72ce42/relationships" title="Verve, The"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd4d17620-fd97-4574-92a8-a2cb7e72ce42">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-07-28 18:50 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

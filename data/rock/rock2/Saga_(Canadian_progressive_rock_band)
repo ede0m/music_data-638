@@ -1,0 +1,904 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Saga - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Canadian progressive rock band, Type: Group, Founded: 1977-06-13 in Oakville, Area: Canada"/><script type="application/ld+json">{"location":{"@type":"Country","@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b","name":"Canada"},"sameAs":["http://en.wikipedia.org/wiki/Saga_(band)","http://www.sagaontour.ca/","https://www.discogs.com/artist/264977","https://www.wikidata.org/wiki/Q1501641"],"groupOrigin":{"@type":"City","containedIn":{"@type":"AdministrativeArea","containedIn":{"@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b","name":"Canada","@type":"Country"},"@id":"https://musicbrainz.org/area/2747553f-b44d-44c4-a7c3-b67412b6f10b","name":"Ontario"},"@id":"https://musicbrainz.org/area/3656a427-8cd1-4d09-98d1-4b415c87b292","name":"Oakville"},"@type":"MusicGroup","member":[{"member":{"@type":["Person","MusicGroup"],"name":"Brian Doerner","@id":"https://musicbrainz.org/artist/0f8d1ba7-e911-4683-93a4-1be3e0834973"},"startDate":"2005","roleName":[],"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Steve Negus","@id":"https://musicbrainz.org/artist/2ee8eb39-7b5f-4454-9f95-c5aa4b0f2e33"},"endDate":"2003","startDate":"1977","roleName":[],"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a4458c10-4b5a-4b7f-a79d-2628b92f5579","name":"Ian Crichton"},"startDate":"1977","roleName":[],"@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/a5b00bce-520c-42ed-9ee3-61ceabf7f059","name":"James Gerrard Gilmour","@type":["Person","MusicGroup"]},"startDate":"1980","roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfcbd191-9dca-4a2b-9f77-53b4ee276b08","name":"Jim Crichton"},"startDate":"1977"},{"startDate":"1977","endDate":"2007","member":{"@type":["Person","MusicGroup"],"name":"Michael Sadler","@id":"https://musicbrainz.org/artist/d6a06c2c-3a3b-4708-b2d1-b407e5292349"},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","endDate":"2011","member":{"@type":["Person","MusicGroup"],"name":"Rob Moratti","@id":"https://musicbrainz.org/artist/fc20a497-1bb0-4cd2-b15a-81d7876648ba"},"startDate":"2008"}],"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","album":[{"byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Saga","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8a6ad7da-c684-3f5e-b3d6-2ebd8cdae9b1","creditedTo":"Saga","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Saga","name":"Images at Twilight","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/cc8c232d-35b9-3c5e-9fa9-63da6134b92b","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"}},{"@type":"MusicAlbum","creditedTo":"Saga","byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/dd29ce85-114b-3cf2-9973-bde33993c147","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Silent Knight"},{"@type":"MusicAlbum","creditedTo":"Saga","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/439401cf-0bef-365d-b190-29eedba923e6","albumProductionType":"http://schema.org/StudioAlbum","name":"Worlds Apart","byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Saga","byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/21f6aa26-3e6e-3311-a341-0cfa962296b5","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Heads or Tales"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1d1e183d-b821-3752-a049-0dba83907535","name":"Behaviour","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"@type":"MusicAlbum","creditedTo":"Saga"},{"@type":"MusicAlbum","creditedTo":"Saga","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Wildest Dreams","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b11c71b2-7da6-3a86-a539-6590c2b2271f"},{"creditedTo":"Saga","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d0bc325d-e1ba-3a99-a097-c12d6dcce086","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Beginner's Guide to Throwing Shapes","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"The Security of Illusion","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fcb48a4d-6207-3db4-ab93-c6a6ad76811e","creditedTo":"Saga","@type":"MusicAlbum"},{"creditedTo":"Saga","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4dffa105-d839-3e7b-9028-39f13a8a53c2","albumProductionType":"http://schema.org/StudioAlbum","name":"Steel Umbrellas","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"}},{"byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/7b233e6a-948d-39ed-81bc-702b774ca241","albumReleaseType":"http://schema.org/AlbumRelease","name":"Generation 13","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Saga"},{"creditedTo":"Saga","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d1b183a9-3160-3f66-b063-52051803b686","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Pleasure \u0026 The Pain","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"}},{"@type":"MusicAlbum","creditedTo":"Saga","albumProductionType":"http://schema.org/StudioAlbum","name":"Full Circle","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ba9c2850-ee94-39ee-9403-30e47df9e308","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"}},{"creditedTo":"Saga","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d680a2c6-95ce-35c0-b13c-af799f886ce9","name":"House of Cards","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b34bf36a-28fa-4132-9af4-534bb5d0d417","name":"Behaviour","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Saga"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7277c5f6-c998-4a0a-a051-b677e9338300","name":"Images At Twilight","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"creditedTo":"Saga","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b67365dd-f5be-4e7c-bc61-0bc30b51caa2","name":"Silent Knight","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Saga"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/acf93e97-f6f6-45bc-b49e-3ad64a701aa1","name":"Silent Knight","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"},"creditedTo":"Saga","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"},"@id":"https://musicbrainz.org/release-group/5a658d6c-f559-3a13-b587-5d35eb380dba","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Marathon","creditedTo":"Saga","@type":"MusicAlbum"},{"creditedTo":"Saga","@type":"MusicAlbum","name":"Network","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bf1994d8-1562-35e5-baf8-f32640a3ad48","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"}},{"byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"name":"Trust","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d39b7484-b90d-3f4e-b033-d6411f89c16b","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Saga","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"10,000 Days","@id":"https://musicbrainz.org/release-group/16c50364-10e7-390c-bad8-19a783df4261","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Saga"},{"creditedTo":"Saga","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1751a607-eeb2-4b19-b55f-6ba0c27c0f5a","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"The Human Condition","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"name":"20/20","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/72663e44-4725-4c9a-8c6c-1adb1babccc9","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Saga"},{"byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Sagacity","@id":"https://musicbrainz.org/release-group/9d42f1ab-f532-4e63-b8b8-768c66fff4c4","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Saga"},{"byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/7599f417-6d3e-3866-b413-7a60a6a55c87","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Time's Up","@type":"MusicAlbum","creditedTo":"Saga"},{"creditedTo":"Saga","@type":"MusicAlbum","name":"The Works","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/cc5c56a8-a241-3562-bf45-8893d861506d","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"}},{"@id":"https://musicbrainz.org/release-group/385a52e2-b451-3f3c-83d1-a6054753b96e","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Wind Him Up: Saga Best","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Saga"},{"albumProductionType":"http://schema.org/CompilationAlbum","name":"1978 * 1993 All the Best","@id":"https://musicbrainz.org/release-group/0c323df9-5876-30dc-9cab-d14a1b45ba57","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Saga"},{"byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"name":"Defining Moments, Volume One","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/1b65d389-41a7-3702-ad4c-d30f061f323d","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Saga"},{"byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"name":"The Very Best Of...","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/685d2af2-5933-3660-8814-a082201f3cde","creditedTo":"Saga","@type":"MusicAlbum"},{"creditedTo":"Saga","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Wildest Dreams","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a8f24b4c-409e-36c7-a3cf-868bbcb1ceff"},{"byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/6e42e515-3182-32fa-9e52-b1cbebab0d33","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"How Do I Look","@type":"MusicAlbum","creditedTo":"Saga"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ea93fae2-2673-3ded-a727-5c7059f9e3ad","name":"Phase One","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"},"creditedTo":"Saga","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"name":"Remember When: The Very Best of Saga","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3cf88d24-7b2a-375e-9d2e-c0b7ed33b22d","@type":"MusicAlbum","creditedTo":"Saga"},{"creditedTo":"Saga","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"In Transit","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a60745e5-b82a-3e5e-a089-f8ca1083e11b","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Saga","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/80efd68e-48b6-39ba-a959-97a454b283a7","albumProductionType":"http://schema.org/LiveAlbum","name":"Detours"},{"creditedTo":"Saga","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/428ea0ef-3c5b-349f-b04b-10e6b9a06164","name":"The Chapters Live","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"}},{"creditedTo":"Saga","@type":"MusicAlbum","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"albumProductionType":"http://schema.org/LiveAlbum","name":"Worlds Apart Revisited","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/093c27f9-de62-3b56-bc43-d02fcc355436"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga"},"albumProductionType":"http://schema.org/LiveAlbum","name":"Heads or Tales (live)","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/09622bcd-7b2d-4fe1-82ff-2248d0aa493d","creditedTo":"Saga","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Gotta Love It","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f717ab7e-6e13-3815-80ad-94084f0c2cf7","byArtist":{"@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","name":"Saga","@type":"MusicGroup"},"creditedTo":"Saga","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Saga","@id":"https://musicbrainz.org/release-group/bef5478a-6399-3d14-b07f-541ea5da74c0","albumReleaseType":"http://schema.org/SingleRelease","name":"(You Were) Never Alone","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"}},{"creditedTo":"Saga","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Home","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/4308b5e7-1dc3-3406-839d-71a575f41c63","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/b4f19490-e589-3a4e-8fa3-8debf0fa17a1","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Money Talks / Don’t Give Up","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"creditedTo":"Saga","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"It's Your Life","@id":"https://musicbrainz.org/release-group/119fed47-c38a-3213-a03c-86b5336a8d18","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Saga"},{"creditedTo":"Saga","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Saga","@id":"https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7"},"name":"The Saga Softworks","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e25ab612-26fd-3290-ac37-24cbe857421a"}],"foundingDate":"1977-06-13","@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fcc5b8e90-07fd-416d-bd90-8a524b29d1f7">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fcc5b8e90-07fd-416d-bd90-8a524b29d1f7">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7" title="Saga (Canadian progressive rock band)"><bdi>Saga</bdi></a> <span class="comment">(<bdi>Canadian progressive rock band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7" title="Saga – Saga (Canadian progressive rock band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/releases" title="Saga (Canadian progressive rock band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/recordings" title="Saga (Canadian progressive rock band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/works" title="Saga (Canadian progressive rock band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/events" title="Saga (Canadian progressive rock band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/relationships" title="Saga (Canadian progressive rock band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/aliases" title="Saga (Canadian progressive rock band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/tags" title="Saga (Canadian progressive rock band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/details" title="Saga (Canadian progressive rock band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/edit" title="Saga (Canadian progressive rock band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=283189" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/8a6ad7da-c684-3f5e-b3d6-2ebd8cdae9b1"><bdi>Saga</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/cc8c232d-35b9-3c5e-9fa9-63da6134b92b"><bdi>Images at Twilight</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/dd29ce85-114b-3cf2-9973-bde33993c147"><bdi>Silent Knight</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/439401cf-0bef-365d-b190-29eedba923e6"><bdi>Worlds Apart</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/21f6aa26-3e6e-3311-a341-0cfa962296b5"><bdi>Heads or Tales</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/1d1e183d-b821-3752-a049-0dba83907535"><bdi>Behaviour</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/b11c71b2-7da6-3a86-a539-6590c2b2271f"><bdi>Wildest Dreams</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/d0bc325d-e1ba-3a99-a097-c12d6dcce086"><bdi>The Beginner's Guide to Throwing Shapes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/fcb48a4d-6207-3db4-ab93-c6a6ad76811e"><bdi>The Security of Illusion</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/4dffa105-d839-3e7b-9028-39f13a8a53c2"><bdi>Steel Umbrellas</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/7b233e6a-948d-39ed-81bc-702b774ca241"><bdi>Generation 13</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/d1b183a9-3160-3f66-b063-52051803b686"><bdi>Pleasure &amp; The Pain</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/ba9c2850-ee94-39ee-9403-30e47df9e308"><bdi>Full Circle</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/d680a2c6-95ce-35c0-b13c-af799f886ce9"><bdi>House of Cards</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/b34bf36a-28fa-4132-9af4-534bb5d0d417"><bdi>Behaviour</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7277c5f6-c998-4a0a-a051-b677e9338300"><bdi>Images At Twilight</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/b67365dd-f5be-4e7c-bc61-0bc30b51caa2"><bdi>Silent Knight</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/acf93e97-f6f6-45bc-b49e-3ad64a701aa1"><bdi>Silent Knight</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/5a658d6c-f559-3a13-b587-5d35eb380dba"><bdi>Marathon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/bf1994d8-1562-35e5-baf8-f32640a3ad48"><bdi>Network</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/d39b7484-b90d-3f4e-b033-d6411f89c16b"><bdi>Trust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/16c50364-10e7-390c-bad8-19a783df4261"><bdi>10,000 Days</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/1751a607-eeb2-4b19-b55f-6ba0c27c0f5a"><bdi>The Human Condition</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/72663e44-4725-4c9a-8c6c-1adb1babccc9"><bdi>20/20</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/9d42f1ab-f532-4e63-b8b8-768c66fff4c4"><bdi>Sagacity</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/7599f417-6d3e-3866-b413-7a60a6a55c87"><bdi>Time's Up</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/cc5c56a8-a241-3562-bf45-8893d861506d"><bdi>The Works</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/385a52e2-b451-3f3c-83d1-a6054753b96e"><bdi>Wind Him Up: Saga Best</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/0c323df9-5876-30dc-9cab-d14a1b45ba57"><bdi>1978 * 1993 All the Best</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/1b65d389-41a7-3702-ad4c-d30f061f323d"><bdi>Defining Moments, Volume One</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/685d2af2-5933-3660-8814-a082201f3cde"><bdi>The Very Best Of...</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/a8f24b4c-409e-36c7-a3cf-868bbcb1ceff"><bdi>Wildest Dreams</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/6e42e515-3182-32fa-9e52-b1cbebab0d33"><bdi>How Do I Look</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/ea93fae2-2673-3ded-a727-5c7059f9e3ad"><bdi>Phase One</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/3cf88d24-7b2a-375e-9d2e-c0b7ed33b22d"><bdi>Remember When: The Very Best of Saga</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/a60745e5-b82a-3e5e-a089-f8ca1083e11b"><bdi>In Transit</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/80efd68e-48b6-39ba-a959-97a454b283a7"><bdi>Detours</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/428ea0ef-3c5b-349f-b04b-10e6b9a06164"><bdi>The Chapters Live</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/093c27f9-de62-3b56-bc43-d02fcc355436"><bdi>Worlds Apart Revisited</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/09622bcd-7b2d-4fe1-82ff-2248d0aa493d"><bdi>Heads or Tales (live)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/f717ab7e-6e13-3815-80ad-94084f0c2cf7"><bdi>Gotta Love It</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/bef5478a-6399-3d14-b07f-541ea5da74c0"><bdi>(You Were) Never Alone</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/4308b5e7-1dc3-3406-839d-71a575f41c63"><bdi>Home</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/b4f19490-e589-3a4e-8fa3-8debf0fa17a1"><bdi>Money Talks / Don’t Give Up</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/119fed47-c38a-3213-a03c-86b5336a8d18"><bdi>It's Your Life</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/e25ab612-26fd-3290-ac37-24cbe857421a"><bdi>The Saga Softworks</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1977-06-13 (39 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/3656a427-8cd1-4d09-98d1-4b415c87b292"><bdi>Oakville</bdi></a>, <a href="/area/2747553f-b44d-44c4-a7c3-b67412b6f10b"><bdi>Ontario</bdi></a>, <span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span>    (<a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/ratings" title="Saga (Canadian progressive rock band)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/progressive%20rock"><bdi>progressive rock</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/canadian"><bdi>canadian</bdi></a>, <a href="/tag/classic%20rock"><bdi>classic rock</bdi></a>, <a href="/tag/neo-prog"><bdi>neo-prog</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.sagaontour.ca/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/264977">Discogs</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/us/artist/id4338473">iTunes</a>
+          
+          
+        </li>               <li class="googleplay-favicon">
+          
+          
+          <a href="https://play.google.com/store/music/artist?id=Agqdcaydesqkzg5jev2xyg34lbe">Google Play</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1501641">Q1501641</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Saga_(band)">en: Saga (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/cc5b8e90-07fd-416d-bd90-8a524b29d1f7/relationships" title="Saga (Canadian progressive rock band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fcc5b8e90-07fd-416d-bd90-8a524b29d1f7">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-04-17 09:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

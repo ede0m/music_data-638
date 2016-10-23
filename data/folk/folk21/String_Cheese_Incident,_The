@@ -1,0 +1,923 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The String Cheese Incident - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1993 in Boulder, Area: United States"/><script type="application/ld+json">{"name":"The String Cheese Incident","foundingDate":"1993","groupOrigin":{"containedIn":{"@id":"https://musicbrainz.org/area/373183af-56db-44d7-b06a-5877c02c5f01","containedIn":{"name":"United States","@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"name":"Colorado","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/93422fd5-1890-46cd-9ea9-3517c32f35b4","@type":"City","name":"Boulder"},"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@context":"http://schema.org","location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"@type":"MusicGroup","sameAs":["http://isni-url.oclc.nl/isni/0000000121043227","http://stringcheeseincident.com/","http://www.allmusic.com/artist/mn0000477793","https://en.wikipedia.org/wiki/The_String_Cheese_Incident","https://rateyourmusic.com/artist/the_string_cheese_incident","https://www.discogs.com/artist/246185","https://www.wikidata.org/wiki/Q493697"],"album":[{"@id":"https://musicbrainz.org/release-group/8872fd10-8e27-3ae5-b407-9288fd02a1ba","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"'Round the Wheel","creditedTo":"The String Cheese Incident","@type":"MusicAlbum"},{"creditedTo":"The String Cheese Incident","@type":"MusicAlbum","name":"Born on the Wrong Planet","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"@id":"https://musicbrainz.org/release-group/9fb97b43-ccda-36b0-a4f6-b03eae7af3e6"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/536a68e9-049b-4d9f-a0d1-2630c92acc4b","@type":["Person","MusicGroup"],"name":"Keller Williams"},{"name":"The String Cheese Incident","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Keller Williams with The String Cheese Incident","albumProductionType":"http://schema.org/StudioAlbum","name":"Breathe","@id":"https://musicbrainz.org/release-group/6634777f-c427-3dc2-b2a1-8b189ead6865"},{"@id":"https://musicbrainz.org/release-group/7f95304e-5811-3559-be11-f7a8f6fd360c","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"creditedTo":"The String Cheese Incident","@type":"MusicAlbum","name":"Outside Inside","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/76cd44ce-f0ef-3e97-9f42-060caa1204c1","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Untying the Not","creditedTo":"The String Cheese Incident","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"creditedTo":"The String Cheese Incident","@type":"MusicAlbum","name":"One Step Closer","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a481b203-c912-3ca0-8d21-e3a3dd3ec6e5"},{"@type":"MusicAlbum","creditedTo":"The String Cheese Incident","name":"Song In My Head","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7e77fa6d-9987-400c-9c26-944f101ab20c"},{"@id":"https://musicbrainz.org/release-group/840e88bc-81aa-3863-9cd5-5e8f3194bd87","name":"Musical Selections From The String Cheese Incident \u0026 Keller Williams","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"The String Cheese Incident \u0026 Keller Williams","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},{"@id":"https://musicbrainz.org/artist/536a68e9-049b-4d9f-a0d1-2630c92acc4b","name":"Keller Williams","@type":["Person","MusicGroup"]}],"albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/LiveAlbum"],"name":"On the Road: Travelogue Summer 2006","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","@id":"https://musicbrainz.org/release-group/cb95258f-d2fc-4560-aa90-e7eb23bc3521"},{"albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/LiveAlbum"],"name":"Trick or Treat","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},"@id":"https://musicbrainz.org/release-group/d159628a-2999-41c0-8075-adaeacf237f0"},{"@id":"https://musicbrainz.org/release-group/741717f5-05ae-3caa-af9b-0b0cb728d00c","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"name":"A String Cheese Incident","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The String Cheese Incident","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/337f1109-ae21-329f-ab2c-ed6a46572e06","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","name":"Carnival '99","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/e3b0cc0a-6241-4a31-92d2-8c5433180e54","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: St. Louis, MO: 06-19-02","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/de0fc5f7-7f1f-4c2c-8ac9-b5fbcd70d437","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","name":"On The Road: 2002-06-22 Manchester, TN","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/eb1b9a92-a2fa-4df3-b6c0-a7d9cbbfd361","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Ann Arbor, MI: 04-14-02","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/7ec4e1f6-a453-36d3-b517-054d23619f03","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"On the Road: Atlanta, GA: 04-20-02","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The String Cheese Incident"},{"@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Austin, TX: 04-06-02","byArtist":{"name":"The String Cheese Incident","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f4da817e-449e-4c82-813b-b33e1abb96fa"},{"byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Birmingham, AL: 04-19-02","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/2dc67624-7df8-38ea-80fc-50498fff4e24"},{"albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Chicago, IL: 04-12-02","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/79a2b20f-c4c9-36da-bed0-0e0caf24029e"},{"name":"On the Road: Columbus, OH: 04-16-02","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"The String Cheese Incident","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"@id":"https://musicbrainz.org/release-group/75479369-5bc0-48bf-ba6f-ee7a782afbd1"},{"@id":"https://musicbrainz.org/release-group/ba200c18-43ad-369e-bfc2-878cf1f77e77","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Kansas City, MO: 06-29-02","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"The String Cheese Incident","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"}},{"@id":"https://musicbrainz.org/release-group/8b2476be-3d32-467f-ac14-93ae91bd0b74","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Memphis, TN: 06-26-02","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/2651361f-214b-4de5-92b4-69d18dd549aa","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Omaha, NE: 04-10-02","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"}},{"@id":"https://musicbrainz.org/release-group/ab9e6325-6dcc-4c5e-be97-0f7e88bbbc11","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Orlando, FL: 04-24-02","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"}},{"name":"On the Road: Somerset, WI: 07-11-02","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","byArtist":{"name":"The String Cheese Incident","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9b173018-f967-3e41-85c8-08089b9569ba"},{"@id":"https://musicbrainz.org/release-group/c1f1413c-261b-3246-ab93-d647ac10e6c1","name":"On the Road: Portland, OR: 10-19-02","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"}},{"creditedTo":"The String Cheese Incident","@type":"MusicAlbum","name":"2004-03-27 Melkweg, Amsterdam","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f643a93a-3189-4f69-8df7-1b6460985b58"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"name":"On the Road: Austin, TX: 09-19-03","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/f1020f9f-86a2-3ff7-9a87-264674017cd5"},{"@id":"https://musicbrainz.org/release-group/1bfdf48a-60ca-3635-a43e-c0655b43f9fa","name":"On the Road: Las Vegas, NV: 10-29B-05","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"The String Cheese Incident","name":"On the Road: Travelogue: Spring 05","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"The String Cheese Incident","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"@id":"https://musicbrainz.org/release-group/bd0f0733-3e0f-40a3-804d-108b8f81e226"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"creditedTo":"The String Cheese Incident","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Asheville, NC: 11-25-11","@id":"https://musicbrainz.org/release-group/5e4e77d0-f763-4cbc-a188-b2053c33f7d6"},{"@id":"https://musicbrainz.org/release-group/f71388a3-5663-3df5-ace5-fc2e2add67f4","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"2006-12-31: Concourse Exhibition Center, San Francisco, CA, USA","creditedTo":"The String Cheese Incident","@type":"MusicAlbum"},{"name":"On the Road: Anchorage, AK: 07-23-06","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/2e75cc31-6fc8-4950-9d82-ebceb011ae17"},{"albumProductionType":"http://schema.org/LiveAlbum","name":"On the Road: Eugene, OR: 08-06-06","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e9d29342-6f0b-40d3-be14-7a27a895b3cd"},{"@id":"https://musicbrainz.org/release-group/2d16123c-1f58-34c1-89cd-4d8ed27278bc","creditedTo":"The String Cheese Incident","@type":"MusicAlbum","name":"On the Road: Fall 2002","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","@type":"MusicGroup","name":"The String Cheese Incident"}},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"The String Cheese Incident","@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29"},"@type":"MusicAlbum","creditedTo":"The String Cheese Incident","name":"Rhythm of the Road: Volume One Incident In Atlanta, Atlanta, GA","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/ee4c5050-a7a7-45f0-aa35-0c7aace75d36"},{"@id":"https://musicbrainz.org/release-group/5c34a75a-3000-31a6-a744-7694767863d8","name":"On the Road: 2004-06-11: Bonnaroo Music Festival, Manchester, TN, USA","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The String Cheese Incident","byArtist":{"@id":"https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29","name":"The String Cheese Incident","@type":"MusicGroup"}}],"member":[{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/447e93a1-7eed-473d-bb7e-1fb8b08953df","@type":["Person","MusicGroup"],"name":"Michael Travis"}},{"member":{"@id":"https://musicbrainz.org/artist/5feb6ea8-f9c2-47b9-b298-110aa8d6f6cd","@type":["Person","MusicGroup"],"name":"Bill Nershi"},"roleName":[],"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Keith Moseley","@id":"https://musicbrainz.org/artist/757b806a-64ea-4a01-a585-024d82bd60c9"},"roleName":[],"@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/8010757a-6ec4-4a64-b54a-1a16ac0040d9","name":"Michael Kang","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/966d62b7-0b98-4bc3-bd6a-7df45e5cccd1","name":"Kyle Hollingsworth","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"startDate":"2004-10-31","@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/e8ea53de-e120-4f1d-a5c3-b2174e9c202c","name":"Jason Hann","@type":["Person","MusicGroup"]},"roleName":[]}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fcff95140-6d57-498a-8834-10eb72865b29">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fcff95140-6d57-498a-8834-10eb72865b29">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="The String Cheese Incident – String Cheese Incident, The"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/releases" title="String Cheese Incident, The"><bdi>Releases</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/recordings" title="String Cheese Incident, The"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/works" title="String Cheese Incident, The"><bdi>Works</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/events" title="String Cheese Incident, The"><bdi>Events</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/relationships" title="String Cheese Incident, The"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/aliases" title="String Cheese Incident, The"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/tags" title="String Cheese Incident, The"><bdi>Tags</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/details" title="String Cheese Incident, The"><bdi>Details</bdi></a></li>            <li><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/edit" title="String Cheese Incident, The"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>The String Cheese Incident</b> (SCI) is a band from Crested Butte and Telluride, Colorado formed in 1993. The band is composed of Michael Kang (acoustic/electric mandolin, electric guitar, and violin), Michael Travis (drums and percussion), Bill Nershi (acoustic guitar, lap steel guitar, and electric slide guitar), Kyle Hollingsworth (piano, organ, Rhodes, and accordion), and Keith Moseley (bass guitar), and, in 2006, Jason Hann (auxiliary percussion).</p>
+<p>Their music has elements of bluegrass sounds, as well as rock, electronica, calypso, country, funk, jazz, Latin, progressive rock, reggae, and occasional psychedelia. All members write original compositions and sing. Nershi has written the bulk of the group's original songs.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/The_String_Cheese_Incident">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=35160" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/8872fd10-8e27-3ae5-b407-9288fd02a1ba"><bdi>'Round the Wheel</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/9fb97b43-ccda-36b0-a4f6-b03eae7af3e6"><bdi>Born on the Wrong Planet</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/6634777f-c427-3dc2-b2a1-8b189ead6865"><bdi>Breathe</bdi></a></td>
+        
+        <td><a href="/artist/536a68e9-049b-4d9f-a0d1-2630c92acc4b" title="Williams, Keller"><bdi>Keller Williams</bdi></a> with <a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/7f95304e-5811-3559-be11-f7a8f6fd360c"><bdi>Outside Inside</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/76cd44ce-f0ef-3e97-9f42-060caa1204c1"><bdi>Untying the Not</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/a481b203-c912-3ca0-8d21-e3a3dd3ec6e5"><bdi>One Step Closer</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/7e77fa6d-9987-400c-9c26-944f101ab20c"><bdi>Song In My Head</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/840e88bc-81aa-3863-9cd5-5e8f3194bd87"><bdi>Musical Selections From The String Cheese Incident &amp; Keller Williams</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a> &amp; <a href="/artist/536a68e9-049b-4d9f-a0d1-2630c92acc4b" title="Williams, Keller"><bdi>Keller Williams</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/cb95258f-d2fc-4560-aa90-e7eb23bc3521"><bdi>On the Road: Travelogue Summer 2006</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/d159628a-2999-41c0-8075-adaeacf237f0"><bdi>Trick or Treat</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/741717f5-05ae-3caa-af9b-0b0cb728d00c"><bdi>A String Cheese Incident</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/337f1109-ae21-329f-ab2c-ed6a46572e06"><bdi>Carnival '99</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e3b0cc0a-6241-4a31-92d2-8c5433180e54"><bdi>On the Road: St. Louis, MO: 06-19-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/de0fc5f7-7f1f-4c2c-8ac9-b5fbcd70d437"><bdi>On The Road: 2002-06-22 Manchester, TN</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/eb1b9a92-a2fa-4df3-b6c0-a7d9cbbfd361"><bdi>On the Road: Ann Arbor, MI: 04-14-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7ec4e1f6-a453-36d3-b517-054d23619f03"><bdi>On the Road: Atlanta, GA: 04-20-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/f4da817e-449e-4c82-813b-b33e1abb96fa"><bdi>On the Road: Austin, TX: 04-06-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2dc67624-7df8-38ea-80fc-50498fff4e24"><bdi>On the Road: Birmingham, AL: 04-19-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/79a2b20f-c4c9-36da-bed0-0e0caf24029e"><bdi>On the Road: Chicago, IL: 04-12-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/75479369-5bc0-48bf-ba6f-ee7a782afbd1"><bdi>On the Road: Columbus, OH: 04-16-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/ba200c18-43ad-369e-bfc2-878cf1f77e77"><bdi>On the Road: Kansas City, MO: 06-29-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/8b2476be-3d32-467f-ac14-93ae91bd0b74"><bdi>On the Road: Memphis, TN: 06-26-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2651361f-214b-4de5-92b4-69d18dd549aa"><bdi>On the Road: Omaha, NE: 04-10-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/ab9e6325-6dcc-4c5e-be97-0f7e88bbbc11"><bdi>On the Road: Orlando, FL: 04-24-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/9b173018-f967-3e41-85c8-08089b9569ba"><bdi>On the Road: Somerset, WI: 07-11-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/c1f1413c-261b-3246-ab93-d647ac10e6c1"><bdi>On the Road: Portland, OR: 10-19-02</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f643a93a-3189-4f69-8df7-1b6460985b58"><bdi>2004-03-27 Melkweg, Amsterdam</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f1020f9f-86a2-3ff7-9a87-264674017cd5"><bdi>On the Road: Austin, TX: 09-19-03</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/1bfdf48a-60ca-3635-a43e-c0655b43f9fa"><bdi>On the Road: Las Vegas, NV: 10-29B-05</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bd0f0733-3e0f-40a3-804d-108b8f81e226"><bdi>On the Road: Travelogue: Spring 05</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/5e4e77d0-f763-4cbc-a188-b2053c33f7d6"><bdi>On the Road: Asheville, NC: 11-25-11</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f71388a3-5663-3df5-ace5-fc2e2add67f4"><bdi>2006-12-31: Concourse Exhibition Center, San Francisco, CA, USA</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/2e75cc31-6fc8-4950-9d82-ebceb011ae17"><bdi>On the Road: Anchorage, AK: 07-23-06</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e9d29342-6f0b-40d3-be14-7a27a895b3cd"><bdi>On the Road: Eugene, OR: 08-06-06</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/2d16123c-1f58-34c1-89cd-4d8ed27278bc"><bdi>On the Road: Fall 2002</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/ee4c5050-a7a7-45f0-aa35-0c7aace75d36"><bdi>Rhythm of the Road: Volume One Incident In Atlanta, Atlanta, GA</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/5c34a75a-3000-31a6-a744-7694767863d8"><bdi>On the Road: 2004-06-11: Bonnaroo Music Festival, Manchester, TN, USA</bdi></a></td>
+        
+        <td><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29" title="String Cheese Incident, The"><bdi>The String Cheese Incident</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">String Cheese Incident, The</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1993 (23 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/93422fd5-1890-46cd-9ea9-3517c32f35b4"><bdi>Boulder</bdi></a>, <a href="/area/373183af-56db-44d7-b06a-5877c02c5f01"><bdi>Colorado</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000121043227">0000 0001 2104 3227    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/folk"><bdi>folk</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://stringcheeseincident.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000477793">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/246185">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//archive.org/details/StringCheeseIncident">Internet Archive</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/the_string_cheese_incident">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/SCI_Official">@SCI_Official</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/stringcheeseincident">stringcheeseincident</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q493697">Q493697</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/The_String_Cheese_Incident">en: The String Cheese Incident</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/SCIOfficial">SCIOfficial</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/cff95140-6d57-498a-8834-10eb72865b29/relationships" title="String Cheese Incident, The"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fcff95140-6d57-498a-8834-10eb72865b29">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-10-09 18:24 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,635 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Silly - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1978, Area: Germany"/><script type="application/ld+json">{"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","member":[{"startDate":"2006","member":{"@id":"https://musicbrainz.org/artist/a0f1f10d-e89b-4455-a08b-cd6b4e4b6bca","name":"Anna Loos","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"endDate":"1996","startDate":"1978","member":{"@type":["Person","MusicGroup"],"name":"Tamara Danz","@id":"https://musicbrainz.org/artist/b8af4d93-bbfb-4a16-b1e4-beffd1c55aaa"},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Jäcki Reznicek","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b933bfd6-e136-4bfa-ba03-adf2a1e02d69"},"startDate":"1987"},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Uwe Hassbecker","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bb576a9a-ad37-4185-b721-0d8714bdf550"},"startDate":"1986"},{"startDate":"1982","member":{"@id":"https://musicbrainz.org/artist/ce256f72-4164-4448-b53c-6f79790221e7","name":"Ritchie Barton","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]}],"@type":"MusicGroup","location":{"@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","@type":"Country","name":"Germany"},"name":"Silly","foundingDate":"1978","sameAs":["http://en.wikipedia.org/wiki/Silly_(band)","http://www.sillyhome.de/","https://www.discogs.com/artist/152097","https://www.wikidata.org/wiki/Q446484"],"album":[{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/dacb20ae-a0b2-3cad-b01c-d2d45f96a351","creditedTo":"Silly","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"name":"Mont Klamott","@type":"MusicAlbum"},{"creditedTo":"Silly","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Silly","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667"},"name":"Liebeswalzer","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a9b53857-c36a-3276-bcd6-6dc4c2c3ef9b"},{"name":"Bataillon d'Amour","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Silly","@id":"https://musicbrainz.org/release-group/cae4e382-ba30-381c-a98c-28f861dbe89d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"name":"Februar","@type":"MusicAlbum","creditedTo":"Silly","@id":"https://musicbrainz.org/release-group/fca06e7d-855c-3a0b-879f-68dc29a582e1","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/56dd8cb3-8f84-34a1-8ec6-db256088d334","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"name":"Hurensöhne","@type":"MusicAlbum","creditedTo":"Silly"},{"name":"Paradies","byArtist":{"name":"Silly","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667"},"@type":"MusicAlbum","creditedTo":"Silly","@id":"https://musicbrainz.org/release-group/41807082-18cf-3445-8c4e-3056422cb6e1","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Silly","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"name":"Alles rot","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/747192e9-d470-437f-bd89-8ebb7632a352"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/be5be897-d41a-41c8-867a-3484af0211c6","creditedTo":"Silly","name":"Kopf an Kopf","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","@type":"MusicGroup","name":"Silly"},"@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3d91b03d-5629-4d21-90b1-5a177579e020","creditedTo":"Silly","name":"Wutfänger","byArtist":{"@type":"MusicGroup","name":"Silly","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667"},"@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0beac9e3-5830-317a-97b5-0b427b6675c6","creditedTo":"Silly","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"name":"Bye Bye...: Best of Silly, Volume 1"},{"creditedTo":"Silly","name":"P.S.: Best of Silly, Volume 2","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","@type":"MusicGroup","name":"Silly"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/5b36d0cb-4626-345b-ae85-92aaca44e78f"},{"creditedTo":"Silly","byArtist":{"@type":"MusicGroup","name":"Silly","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667"},"name":"Traumteufel","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/81e231a4-6f4f-3c49-9c42-2f1d0d9fc7d2"},{"@id":"https://musicbrainz.org/release-group/a21bc739-1473-431a-b4ac-3f9ded55600b","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"name":"Klassiker \u0026 Sounds","@type":"MusicAlbum","creditedTo":"Silly"},{"byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"name":"Original Album Classics","@type":"MusicAlbum","creditedTo":"Silly","@id":"https://musicbrainz.org/release-group/cf3abbea-790a-4063-b375-c52e01d1c1c2","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667","name":"Silly","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Musik unserer Generation - Die größten Hits","creditedTo":"Silly","@id":"https://musicbrainz.org/release-group/aa53dd48-3c38-4a37-b386-9283fe437f74","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/6c5ca423-fec4-4f0d-b85a-a9bfe3fc2bb7","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Silly","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667"},{"name":"Gundermann \u0026 Seilschaft","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c65ad605-f20e-47e3-b1eb-ced2cb9a5244"}],"@type":"MusicAlbum","name":"Unplugged","creditedTo":"Silly \u002b Gundermann \u0026 Seilschaft"},{"creditedTo":"Silly","byArtist":{"name":"Silly","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667"},"name":"Kopf An Kopf (Live)","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/932fd173-9af0-4721-b768-3a363dcb111c"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Silly","@id":"https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667"},"name":"Der Mond und andere Liebhaber","creditedTo":"Silly","@id":"https://musicbrainz.org/release-group/46f1f7e1-2b9f-4268-b77f-6d78bcae725b","albumProductionType":"http://schema.org/SoundtrackAlbum","albumReleaseType":"http://schema.org/AlbumRelease"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbe28f50e-2d75-4fb2-95c3-371fda5c2667">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fbe28f50e-2d75-4fb2-95c3-371fda5c2667">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly – Silly"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/releases" title="Silly"><bdi>Releases</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/recordings" title="Silly"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/works" title="Silly"><bdi>Works</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/events" title="Silly"><bdi>Events</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/relationships" title="Silly"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/aliases" title="Silly"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/tags" title="Silly"><bdi>Tags</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/details" title="Silly"><bdi>Details</bdi></a></li>            <li><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/edit" title="Silly"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Silly</b> is a German rock band. Founded in East Germany in 1978, Silly was one of the country's most popular music acts, and was well known for its charismatic lead singer Tamara Danz. Her death in 1996 ended the band's recording career after 18 years. In 2005 the surviving members began to perform as Silly again, first with several guest singers, before choosing actress Anna Loos to replace Danz. The first album with the new line-up, <i>Alles Rot</i>, became the band's most successful to date, reaching number 3 on the German charts in 2010.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Silly_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=22041" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/dacb20ae-a0b2-3cad-b01c-d2d45f96a351"><bdi>Mont Klamott</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/a9b53857-c36a-3276-bcd6-6dc4c2c3ef9b"><bdi>Liebeswalzer</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/cae4e382-ba30-381c-a98c-28f861dbe89d"><bdi>Bataillon d'Amour</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/fca06e7d-855c-3a0b-879f-68dc29a582e1"><bdi>Februar</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/56dd8cb3-8f84-34a1-8ec6-db256088d334"><bdi>Hurensöhne</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/41807082-18cf-3445-8c4e-3056422cb6e1"><bdi>Paradies</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/747192e9-d470-437f-bd89-8ebb7632a352"><bdi>Alles rot</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/be5be897-d41a-41c8-867a-3484af0211c6"><bdi>Kopf an Kopf</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/3d91b03d-5629-4d21-90b1-5a177579e020"><bdi>Wutfänger</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/0beac9e3-5830-317a-97b5-0b427b6675c6"><bdi>Bye Bye...: Best of Silly, Volume 1</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/5b36d0cb-4626-345b-ae85-92aaca44e78f"><bdi>P.S.: Best of Silly, Volume 2</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/81e231a4-6f4f-3c49-9c42-2f1d0d9fc7d2"><bdi>Traumteufel</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/a21bc739-1473-431a-b4ac-3f9ded55600b"><bdi>Klassiker &amp; Sounds</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/cf3abbea-790a-4063-b375-c52e01d1c1c2"><bdi>Original Album Classics</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/aa53dd48-3c38-4a37-b386-9283fe437f74"><bdi>Musik unserer Generation - Die größten Hits</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/6c5ca423-fec4-4f0d-b85a-a9bfe3fc2bb7"><bdi>Unplugged</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a> + <a href="/artist/c65ad605-f20e-47e3-b1eb-ced2cb9a5244" title="Gundermann &amp; Seilschaft"><bdi>Gundermann &amp; Seilschaft</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/932fd173-9af0-4721-b768-3a363dcb111c"><bdi>Kopf An Kopf (Live)</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/46f1f7e1-2b9f-4268-b77f-6d78bcae725b"><bdi>Der Mond und andere Liebhaber</bdi></a></td>
+        
+        <td><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667" title="Silly"><bdi>Silly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1978 (38 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/german"><bdi>german</bdi></a>, <a href="/tag/ostrock"><bdi>ostrock</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.sillyhome.de/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/152097">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/sillyhome">sillyhome</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q446484">Q446484</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Silly_(band)">en: Silly (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/be28f50e-2d75-4fb2-95c3-371fda5c2667/relationships" title="Silly"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbe28f50e-2d75-4fb2-95c3-371fda5c2667">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2011-12-05 11:11 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

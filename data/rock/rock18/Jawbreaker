@@ -1,0 +1,626 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jawbreaker - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1988 in New York, Dissolved: 1996 in San Francisco, Area: United States"/><script type="application/ld+json">{"sameAs":["http://en.wikipedia.org/wiki/Jawbreaker_(band)","http://rateyourmusic.com/artist/jawbreaker","http://viaf.org/viaf/153778453","http://www.allmusic.com/artist/mn0000808944","http://www.last.fm/music/Jawbreaker","http://www.musik-sammler.de/artist/18409","http://www.secondhandsongs.com/artist/10290","https://www.discogs.com/artist/305968","https://www.wikidata.org/wiki/Q624538"],"@type":"MusicGroup","groupOrigin":{"containedIn":{"containedIn":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"},"@type":"AdministrativeArea","name":"New York","@id":"https://musicbrainz.org/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"},"@type":"City","name":"New York","@id":"https://musicbrainz.org/area/74e50e58-5deb-4b99-93a2-decbb365c07f"},"location":{"@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States"},"foundingDate":"1988","@context":"http://schema.org","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","dissolutionDate":"1996","member":[{"member":{"@type":["Person","MusicGroup"],"name":"Adam Pfahler","@id":"https://musicbrainz.org/artist/27a4001b-d621-40a6-aab8-6dd181b016ac"},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Chris Bauermeister","@id":"https://musicbrainz.org/artist/c6957066-0708-4f3b-9d43-5ce97c7ba645"}},{"member":{"name":"Blake Schwarzenbach","@id":"https://musicbrainz.org/artist/c7d68007-b688-426f-a496-08467a0a6f44","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]}],"name":"Jawbreaker","album":[{"creditedTo":"Jawbreaker","@type":"MusicAlbum","byArtist":{"name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/60546e37-e5fb-3cb7-941d-3141477eaff8","albumProductionType":"http://schema.org/StudioAlbum","name":"Unfun"},{"creditedTo":"Jawbreaker","@type":"MusicAlbum","byArtist":{"name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/184a2492-774f-3a4d-97d4-492967d16d57","name":"Bivouac","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Jawbreaker","@type":"MusicAlbum","name":"24 Hour Revenge Therapy","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/87f60917-1ce9-3e93-92c3-a3e4184e46ca","byArtist":{"name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","@type":"MusicGroup"}},{"byArtist":{"name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","@type":"MusicGroup"},"name":"Dear You","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2a4d791d-b328-3212-8bef-edc98c7de3f7","@type":"MusicAlbum","creditedTo":"Jawbreaker"},{"@type":"MusicAlbum","creditedTo":"Jawbreaker","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","name":"Jawbreaker"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d9d46ecf-5ed2-3d4e-a2de-c628edd52235","albumProductionType":"http://schema.org/CompilationAlbum","name":"Etc."},{"byArtist":{"@type":"MusicGroup","name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/784d91cb-803e-3ebd-ae81-9e65b1b2dd1a","name":"Live 4-30-96","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"Jawbreaker"},{"byArtist":{"name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","@type":"MusicGroup"},"name":"Busy","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f314217f-a3f0-305b-ac78-66cb77aa6bb4","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Jawbreaker","@type":"MusicAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/016fba14-1fc6-4986-86c2-2113ec9b28de","name":"Jawbox","@type":"MusicGroup"},{"name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","@type":"MusicGroup"}],"name":"Jawbox / Jawbreaker","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/20e8f1a2-cc03-3dac-b2b3-26346b03770a","@type":"MusicAlbum","creditedTo":"Jawbox / Jawbreaker"},{"creditedTo":"Jawbreaker / Crimpshrine","@type":"MusicAlbum","byArtist":[{"@type":"MusicGroup","name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0"},{"name":"Crimpshrine","@id":"https://musicbrainz.org/artist/16615a4c-ccb6-4ea8-9617-e3e0d71f51a9","@type":"MusicGroup"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Jawbreaker / Crimpshrine","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0d9e51ae-8adc-31e4-b77f-cfdec4a8274e"},{"@type":"MusicAlbum","creditedTo":"Jawbreaker","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2d360281-6527-3a52-8813-7a5b8fa115dd","albumProductionType":"http://schema.org/StudioAlbum","name":"Fireman","byArtist":{"@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0","name":"Jawbreaker","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Jawbreaker","byArtist":{"@type":"MusicGroup","name":"Jawbreaker","@id":"https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/f4bf72aa-38a0-4c3d-9532-c69c4552de29","albumProductionType":"http://schema.org/StudioAlbum","name":"Chesterfield King"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fec88cdc3-0517-4951-b5ef-7323e7316db0">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fec88cdc3-0517-4951-b5ef-7323e7316db0">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker – Jawbreaker"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/releases" title="Jawbreaker"><bdi>Releases</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/recordings" title="Jawbreaker"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/works" title="Jawbreaker"><bdi>Works</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/events" title="Jawbreaker"><bdi>Events</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/relationships" title="Jawbreaker"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/aliases" title="Jawbreaker"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/tags" title="Jawbreaker"><bdi>Tags</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/details" title="Jawbreaker"><bdi>Details</bdi></a></li>            <li><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/edit" title="Jawbreaker"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=21400" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/60546e37-e5fb-3cb7-941d-3141477eaff8"><bdi>Unfun</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/184a2492-774f-3a4d-97d4-492967d16d57"><bdi>Bivouac</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/87f60917-1ce9-3e93-92c3-a3e4184e46ca"><bdi>24 Hour Revenge Therapy</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/2a4d791d-b328-3212-8bef-edc98c7de3f7"><bdi>Dear You</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/d9d46ecf-5ed2-3d4e-a2de-c628edd52235"><bdi>Etc.</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/784d91cb-803e-3ebd-ae81-9e65b1b2dd1a"><bdi>Live 4-30-96</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/f314217f-a3f0-305b-ac78-66cb77aa6bb4"><bdi>Busy</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/20e8f1a2-cc03-3dac-b2b3-26346b03770a"><bdi>Jawbox / Jawbreaker</bdi></a></td>
+        
+        <td><a href="/artist/016fba14-1fc6-4986-86c2-2113ec9b28de" title="Jawbox"><bdi>Jawbox</bdi></a> / <a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/0d9e51ae-8adc-31e4-b77f-cfdec4a8274e"><bdi>Jawbreaker / Crimpshrine</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a> / <a href="/artist/16615a4c-ccb6-4ea8-9617-e3e0d71f51a9" title="Crimpshrine"><bdi>Crimpshrine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/2d360281-6527-3a52-8813-7a5b8fa115dd"><bdi>Fireman</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/f4bf72aa-38a0-4c3d-9532-c69c4552de29"><bdi>Chesterfield King</bdi></a></td>
+        
+        <td><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0" title="Jawbreaker"><bdi>Jawbreaker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1988</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/74e50e58-5deb-4b99-93a2-decbb365c07f"><bdi>New York</bdi></a>, <a href="/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"><bdi>New York</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>1996 (8 years)</dd>
+<dt>Dissolved in:</dt>
+<dd class="end_area"><a href="/area/83f22bb6-4631-443c-bace-9fae8540362a"><bdi>San Francisco</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/ratings" title="Jawbreaker"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/punk"><bdi>punk</bdi></a>, <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/emo"><bdi>emo</bdi></a>, <a href="/tag/indie"><bdi>indie</bdi></a>, <a href="/tag/punk%20rock"><bdi>punk rock</bdi></a>, <a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/tags" title="Jawbreaker"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000808944">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/305968">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Jawbreaker">Jawbreaker</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Jawbreaker">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/jawbreaker">jawbreaker</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/jawbreaker">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/18409">Musik-Sammler</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/10290">SecondHandSongs</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/jawbreaker">jawbreaker</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/153778453">VIAF: 153778453</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q624538">Q624538</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Jawbreaker_(band)">en: Jawbreaker (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/ec88cdc3-0517-4951-b5ef-7323e7316db0/relationships" title="Jawbreaker"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fec88cdc3-0517-4951-b5ef-7323e7316db0">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-07-25 18:26 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

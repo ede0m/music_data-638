@@ -1,0 +1,823 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Thomas Hampson - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1955-06-28, Area: United States"/><script type="application/ld+json">{"album":[{"creditedTo":"Mahler; Wiener Philharmoniker, Leonard Bernstein, Thomas Hampson","@id":"https://musicbrainz.org/release-group/6f4230e6-9e05-3119-878b-c9470b34953f","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphonie No. 6 / Kindertotenlieder","byArtist":[{"@type":["Person","MusicGroup"],"name":"Gustav Mahler","@id":"https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9"},{"@type":"MusicGroup","name":"Wiener Philharmoniker","@id":"https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6"},{"@type":["Person","MusicGroup"],"name":"Leonard Bernstein","@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"}],"@type":"MusicAlbum"},{"creditedTo":"Franz Schubert; Josef Protschka, Karita Mattila, Cheryl Studer, Robert Gambill, Thomas Hampson, Robert Holl, László Polgár, Arnold Schönberg Chor, The Chamber Orchestra of Europe, Claudio Abbado","@id":"https://musicbrainz.org/release-group/d363fa20-697d-459a-a8f5-8be36457f784","albumProductionType":"http://schema.org/StudioAlbum","name":"Fierrabras","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Franz Schubert","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed"},{"name":"Josef Protschka","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/01453e58-8202-4990-b41a-b74c73a7d961"},{"@type":["Person","MusicGroup"],"name":"Karita Mattila","@id":"https://musicbrainz.org/artist/1021a132-8afc-4313-bc19-f4ad656f14ce"},{"name":"Cheryl Studer","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/cedc341e-0def-4e5b-988e-f58df78d872a"},{"@id":"https://musicbrainz.org/artist/58934e93-6cf3-4d07-95c2-7049b906b48e","name":"Robert Gambill","@type":["Person","MusicGroup"]},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"@id":"https://musicbrainz.org/artist/3d738c4e-453b-4a91-971a-ed3d9e6fd07e","name":"Robert Holl","@type":["Person","MusicGroup"]},{"name":"László Polgár","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/06356455-05fe-431a-92e3-975e4a147509"},{"@id":"https://musicbrainz.org/artist/29ae6848-5db5-4ea5-aa87-fa944c0b3d76","name":"Arnold Schönberg Chor","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/3f221c60-2568-40f5-b1c3-625fed319258","@type":"MusicGroup","name":"The Chamber Orchestra of Europe"},{"@id":"https://musicbrainz.org/artist/39e84597-3e0f-4ccc-89d2-6ee1dd6fb050","name":"Claudio Abbado","@type":["Person","MusicGroup"]}]},{"@id":"https://musicbrainz.org/release-group/30559a9f-b3c3-3a09-8ae9-f34f48a8e4c2","creditedTo":"Mahler; Wiener Philharmoniker, Leonard Bernstein, Thomas Hampson","byArtist":[{"@type":["Person","MusicGroup"],"name":"Gustav Mahler","@id":"https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9"},{"@type":"MusicGroup","name":"Wiener Philharmoniker","@id":"https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6"},{"name":"Leonard Bernstein","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Lieder eines fahrenden Gesellen / Kindertotenlieder / Rückert-Lieder"},{"name":"The Hyperion Schubert Edition, Volume 14: Schubert \u0026 the Classics","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Franz Schubert","@id":"https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"name":"Graham Johnson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/79c3088e-8b34-402d-83d9-12e94704610f"}],"creditedTo":"Franz Schubert; Thomas Hampson, Graham Johnson","@id":"https://musicbrainz.org/release-group/40bb6dc1-629b-4085-94be-f636d5349746"},{"creditedTo":"Richard Wagner; Éva Marton, Siegfried Jerusalem, Thomas Hampson, Marjana Lipovšek, John Tomlinson, Theo Adam, Eva-Maria Bundschuh, Bernard Haitink, Symphonieorchester des Bayerischen Rundfunks, Chor des Bayerischen Rundfunks","@id":"https://musicbrainz.org/release-group/26dbe646-1ea1-41cb-a5b3-d5121524ff18","name":"Götterdämmerung","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Richard Wagner","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/eefd7c1e-abcf-4ccc-ba60-0fd435c9061f"},{"name":"Éva Marton","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9d4786b7-84b2-41da-863e-62804607a063"},{"@type":["Person","MusicGroup"],"name":"Siegfried Jerusalem","@id":"https://musicbrainz.org/artist/363df287-7cd0-4c7f-8075-22951d46de57"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"},{"@id":"https://musicbrainz.org/artist/49f767d7-8d51-4b69-bcbf-ad511336442a","@type":["Person","MusicGroup"],"name":"Marjana Lipovšek"},{"@id":"https://musicbrainz.org/artist/d3321893-74cc-4bb5-9906-149b4125e01f","name":"John Tomlinson","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Theo Adam","@id":"https://musicbrainz.org/artist/c8ebd8f0-ea55-42d0-a33e-77c191de9f2c"},{"@type":["Person","MusicGroup"],"name":"Eva-Maria Bundschuh","@id":"https://musicbrainz.org/artist/b6c1ba9c-7f39-46c8-bd92-4d7c20a7e4c2"},{"@id":"https://musicbrainz.org/artist/8bc0b4b4-cc3f-40cf-8223-4ee980cb768d","@type":["Person","MusicGroup"],"name":"Bernard Haitink"},{"@id":"https://musicbrainz.org/artist/59cf9a49-c3b2-4388-8717-4fb836cc7269","name":"Symphonieorchester des Bayerischen Rundfunks","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/9a6cdfe0-82ec-4aea-93a5-bcd473d8437d","name":"Chor des Bayerischen Rundfunks","@type":"MusicGroup"}],"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/89ad4ac3-39f7-470e-963a-56509c546377","@type":"MusicGroup","name":"Various Artists"},{"@id":"https://musicbrainz.org/artist/059c61e0-0b32-4ae7-b6c5-ab352a4673af","@type":["Person","MusicGroup"],"name":"Jerry Hadley"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"},{"@type":"MusicGroup","name":"Orchestra of the Welsh National Opera","@id":"https://musicbrainz.org/artist/887573e3-6507-4147-9117-5b7073f5432c"},{"@id":"https://musicbrainz.org/artist/b482d66b-ba57-4507-8553-39bbb91a07ee","@type":["Person","MusicGroup"],"name":"Carlo Rizzi"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Hadley \u0026 Hampson: Famous Opera Duets","@id":"https://musicbrainz.org/release-group/5e86b80c-571a-4d36-96e4-3cc023ca15c7","creditedTo":"Various Artists; Jerry Hadley, Thomas Hampson, The Orchestra of the Welsh National Opera, Carlo Rizzi"},{"@id":"https://musicbrainz.org/release-group/448fa18d-7ed4-37a0-b989-3935b44ce32b","creditedTo":"Gustav Mahler; Thomas Hampson, Geoffrey Parsons","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9","name":"Gustav Mahler","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","name":"Thomas Hampson","@type":["Person","MusicGroup"]},{"name":"Geoffrey Parsons","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/575f99fa-81a8-48ee-b27d-92ca62c32b2e"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Songs from Des Knaben Wunderhorn"},{"creditedTo":"Aaron Copland; Saint Paul Chamber Orchestra, Hugh Wolff, Dawn Upshaw, Thomas Hampson","@id":"https://musicbrainz.org/release-group/51c0a59f-d7c3-38e9-b2d0-2d95b8eab6b0","albumReleaseType":"http://schema.org/AlbumRelease","name":"Long Time Ago","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Aaron Copland","@id":"https://musicbrainz.org/artist/aad3af83-5b59-4b86-a569-1a8409149b09"},{"@id":"https://musicbrainz.org/artist/d6653a8f-90c4-49a1-ae66-0b2e180e3bb5","name":"Saint Paul Chamber Orchestra","@type":"MusicGroup"},{"name":"Hugh Wolff","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9f1bc551-0a38-4ab8-900c-f8b3c2039e1e"},{"@id":"https://musicbrainz.org/artist/cc199c4d-2e0b-4e35-8fce-1ccc10d2b1fa","@type":["Person","MusicGroup"],"name":"Dawn Upshaw"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"}],"@type":"MusicAlbum"},{"creditedTo":"Thomas Hampson","@id":"https://musicbrainz.org/release-group/af3e0533-5454-4105-b7cc-f6262bfbbf6a","name":"Romantic Songs: Berlioz / Wagner / Liszt","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Samuel Barber","@id":"https://musicbrainz.org/artist/74ed34ce-ee95-44e9-a87d-4d2d5056c24a"},{"name":"Cheryl Studer","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/cedc341e-0def-4e5b-988e-f58df78d872a"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","name":"Thomas Hampson","@type":["Person","MusicGroup"]},{"name":"John Browning","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ccaa2893-76e2-4335-a704-732ae1266203"},{"@id":"https://musicbrainz.org/artist/fd20e8ed-0736-44db-8d97-530fbf00e813","@type":"MusicGroup","name":"Emerson String Quartet"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"The Complete Songs","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/58db3fc7-3128-3c75-a0cb-be7aebdfa64c","creditedTo":"Barber; Cheryl Studer, Thomas Hampson, John Browning, Emerson String Quartet"},{"creditedTo":"Thomas Hampson","@id":"https://musicbrainz.org/release-group/8b852e21-dbc3-4312-88cf-06d8732c70c2","albumProductionType":"http://schema.org/StudioAlbum","name":"A Portrait of Thomas Hampson: Arias \u0026 Songs from Bach to Zemlinsky","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"}},{"name":"La bohème","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/a693df4a-8762-4a45-b7fd-6695b558385e","name":"Giacomo Puccini","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Roberto Alagna","@id":"https://musicbrainz.org/artist/0459517d-082f-4983-b7eb-5680d3913cb4"},{"@id":"https://musicbrainz.org/artist/9ed010b6-5dd5-4b41-92b7-4c33ce833165","@type":["Person","MusicGroup"],"name":"Leontina Vaduva"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","name":"Thomas Hampson","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/260d5174-ce12-4a04-890c-604aa6bea4b0","name":"Ruth Ann Swenson","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Simon Keenlyside","@id":"https://musicbrainz.org/artist/5d89830f-7e47-4a2c-a337-fca27a04f454"},{"name":"Samuel Ramey","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/60bf649b-abb0-4588-b204-4d8cdbcbf6a2"},{"@type":"MusicGroup","name":"Philharmonia Orchestra","@id":"https://musicbrainz.org/artist/5610302e-bfd9-421c-80e2-03d790a0f5e5"},{"@type":"MusicGroup","name":"London Voices","@id":"https://musicbrainz.org/artist/36c14a29-956e-4ea0-b5e6-5593ef044881"},{"name":"Antonio Pappano","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e383fed3-2e50-4592-bca2-4591079cce2b"}],"@type":"MusicAlbum","creditedTo":"Giacomo Puccini; Roberto Alagna, Leontina Vaduva, Thomas Hampson, Ruth Ann Swenson, Simon Keenlyside, Samuel Ramey, Philharmonia Orchestra, London Voices, Antonio Pappano","@id":"https://musicbrainz.org/release-group/23f29265-9d8f-35e9-8cb2-171eb6a32a63"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Mozart: Idomeneo","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"name":"Wolfgang Amadeus Mozart","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75"},{"name":"Plácido Domingo","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/521df2bd-01f6-456e-9d5f-f081068819c2"},{"@type":["Person","MusicGroup"],"name":"Cecilia Bartoli","@id":"https://musicbrainz.org/artist/043a40c7-fb90-42f7-89a8-077a8ff61db6"},{"@id":"https://musicbrainz.org/artist/e6f8466b-1283-477e-b2e3-cc33f979eca1","@type":["Person","MusicGroup"],"name":"Carol Vaness"},{"@type":["Person","MusicGroup"],"name":"Heidi Grant Murphy","@id":"https://musicbrainz.org/artist/78c6b99d-a620-453b-ac61-2bff8ae37e9a"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"name":"Frank Lopardo","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c21143a0-426c-4f70-9e39-4ce2024a5e09"},{"@id":"https://musicbrainz.org/artist/4b4dea0b-f5a1-4f55-a870-24ad4cdc0840","name":"Bryn Terfel","@type":["Person","MusicGroup"]},{"name":"Metropolitan Opera Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/ff08a478-c4af-40f2-81fd-5421db1c1683"},{"@id":"https://musicbrainz.org/artist/9ade995f-2a67-4268-8220-07ffd2d4984e","@type":"MusicGroup","name":"Metropolitan Opera Chorus"},{"name":"James Levine","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/37a2d213-9c2b-4216-a02c-10b1e150c130"}],"creditedTo":"Wolfgang Amadeus Mozart, Plácido Domingo, Cecilia Bartoli, Carol Vaness, Heidi Grant Murphy, Thomas Hampson, Frank Lopardo, Bryn Terfel, Metropolitan Opera Orchestra, Metropolitan Opera Chorus, James Levine","@id":"https://musicbrainz.org/release-group/27e91d8f-96a0-41c3-bdeb-e7fa1687409d"},{"@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Gustav Mahler","@id":"https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9"},{"@type":["Person","MusicGroup"],"name":"Peter Seiffert","@id":"https://musicbrainz.org/artist/d26bb6a0-ddd2-47fb-8b64-ce6282d6c1a8"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"},{"name":"City of Birmingham Symphony Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/ed526a9c-f88d-4e52-9518-6a5ce9a46e61"},{"@type":["Person","MusicGroup"],"name":"Simon Rattle","@id":"https://musicbrainz.org/artist/80c3bce9-0b54-409c-aa10-3b0c7dbbc597"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Das Lied von der Erde","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fb61d2a9-8f6a-4813-83cc-df015ad93716","creditedTo":"Mahler; Peter Seiffert, Thomas Hampson, City of Birmingham Symphony Orchestra, Simon Rattle"},{"@id":"https://musicbrainz.org/release-group/f8857063-a7ed-39ef-9432-0baa85a02dbf","creditedTo":"Walton; Thomas Hampson, City of Birmingham Symphony Orchestra Chorus, The Cleveland Orchestra Chorus, City of Birmingham Symphony Orchestra, Simon Rattle","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Sir William Walton","@id":"https://musicbrainz.org/artist/d019a8cc-060f-4491-83d6-76e1211a1a08"},{"@type":["Person","MusicGroup"],"name":"Thomas Hampson","@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"name":"City of Birmingham Symphony Orchestra Chorus","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/8525e88f-fd6c-46a9-95da-b5b8dd2cd33d"},{"name":"The Cleveland Orchestra Chorus","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c3322d3e-f2b3-43a9-8996-030622af1487"},{"@id":"https://musicbrainz.org/artist/ed526a9c-f88d-4e52-9518-6a5ce9a46e61","name":"City of Birmingham Symphony Orchestra","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/80c3bce9-0b54-409c-aa10-3b0c7dbbc597","@type":["Person","MusicGroup"],"name":"Simon Rattle"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Belshazzar's Feast / Symphony no. 1"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Król Roger / Symphony no. 4 (Sinfonia concertante)","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/e04ef24e-b64e-4ca5-a479-b6bc79042ff5","name":"Karol Szymanowski","@type":["Person","MusicGroup"]},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"name":"Elzbieta Szmytka","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1437b892-1e76-4b3a-91ff-5bcd79867b04"},{"name":"Ryszard Minkiewicz","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/777b0a34-6098-488f-8883-9560ac1bd9ef"},{"@id":"https://musicbrainz.org/artist/fc511669-6f9c-453d-a44d-2cc23a5c9eca","name":"Philip Langridge","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Leif Ove Andsnes","@id":"https://musicbrainz.org/artist/2c094b77-1268-4609-ba95-7545c2c5eb62"},{"name":"Simon Rattle","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/80c3bce9-0b54-409c-aa10-3b0c7dbbc597"},{"@id":"https://musicbrainz.org/artist/8525e88f-fd6c-46a9-95da-b5b8dd2cd33d","name":"City of Birmingham Symphony Orchestra Chorus","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/6c8cff98-f97b-44f6-9a49-c9d13605727a","@type":"MusicGroup","name":"City of Birmingham Symphony Youth Chorus"},{"@id":"https://musicbrainz.org/artist/ed526a9c-f88d-4e52-9518-6a5ce9a46e61","name":"City of Birmingham Symphony Orchestra","@type":"MusicGroup"}],"creditedTo":"Szymanowski; Thomas Hampson, Elzbieta Szmytka, Ryszard Minkiewicz, Philip Langridge, Leif Ove Andsnes, Simon Rattle, City of Birmingham Symphony Orchestra Chorus, City of Birmingham Symphony Youth Chorus, City of Birmingham Symphony Orchestra","@id":"https://musicbrainz.org/release-group/2fd87c9c-81ed-3a03-bcc0-ded31d42fa53"},{"@type":"MusicAlbum","byArtist":[{"name":"Johannes Brahms","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51"},{"@type":["Person","MusicGroup"],"name":"Janet Williams","@id":"https://musicbrainz.org/artist/1ef9f370-f38e-48a3-be45-7630690d89f7"},{"@type":["Person","MusicGroup"],"name":"Thomas Hampson","@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"@type":"MusicGroup","name":"Chicago Symphony Chorus","@id":"https://musicbrainz.org/artist/63a1b104-76a7-4a9f-b14d-e3e007e0efba"},{"name":"Chicago Symphony Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/509c772e-1164-4457-8d09-0553cfa77d64"},{"name":"Daniel Barenboim","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/fac566b2-7a0e-4977-ad92-533f43420975"}],"name":"Symphonies Nos. 3, 4 / Ein deutsches Requiem","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/15b16f5f-216d-36d8-8715-0fecb26a11dd","creditedTo":"Johannes Brahms; Williams, Hampson, Chicago Symphony Chorus, Chicago Symphony Orchestra, Daniel Barenboim"},{"@id":"https://musicbrainz.org/release-group/f60a8732-8970-3004-a15c-fd069517b237","creditedTo":"Massenet; Renée Fleming, Thomas Hampson, Giuseppe Sabbatini, Orchestre National Bordeaux Aquitaine, Yves Abel","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/85d783d6-6795-4726-b817-9d83095ad7be","@type":["Person","MusicGroup"],"name":"Jules Massenet"},{"@id":"https://musicbrainz.org/artist/c0cc5761-007e-44ec-918f-bac00d14d7a2","name":"Renée Fleming","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","name":"Thomas Hampson","@type":["Person","MusicGroup"]},{"name":"Giuseppe Sabbatini","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c61cbb1b-9f4b-46d2-86cf-e2d6fe94fc53"},{"@id":"https://musicbrainz.org/artist/484945e4-3d36-4e16-8d2a-fcd569da97e2","name":"Orchestre National Bordeaux Aquitaine","@type":"MusicGroup"},{"name":"Yves Abel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/564ab65e-2f42-4b29-9916-3398499dcb62"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Thaïs"},{"@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Giuseppe Verdi","@id":"https://musicbrainz.org/artist/f1bedf1f-4445-4651-9c35-f4a3f3860a13"},{"name":"Анна Юрьевна Нетребко","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/90cba256-80b2-464f-9d58-a877a3757d3a"},{"@id":"https://musicbrainz.org/artist/74e9b4e0-cee6-4959-a535-ec5d07d14c36","@type":["Person","MusicGroup"],"name":"Rolando Villazón"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","name":"Thomas Hampson","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6","@type":"MusicGroup","name":"Wiener Philharmoniker"},{"@id":"https://musicbrainz.org/artist/b482d66b-ba57-4507-8553-39bbb91a07ee","name":"Carlo Rizzi","@type":["Person","MusicGroup"]}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"La Traviata","@id":"https://musicbrainz.org/release-group/60c45a85-ac53-3aa3-b605-7cb34cdf4308","creditedTo":"Verdi; Anna Netrebko, Rolando Villazón, Thomas Hampson, Wiener Philharmoniker, Carlo Rizzi"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"To the Soul: Thomas Hampson Sings the Poetry of Walt Whitman","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},"@type":"MusicAlbum","creditedTo":"Thomas Hampson","@id":"https://musicbrainz.org/release-group/ed166a13-c845-4c98-ba58-2569d7aff160"},{"@id":"https://musicbrainz.org/release-group/511ca887-615f-4b4e-9288-2087b3719caa","creditedTo":"Brahms; Wiener Philharmoniker, Arnold Schoenberg Chor, Genia Kühmeier, Thomas Hampson, Nikolaus Harnoncourt","byArtist":[{"@type":["Person","MusicGroup"],"name":"Johannes Brahms","@id":"https://musicbrainz.org/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51"},{"@id":"https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6","@type":"MusicGroup","name":"Wiener Philharmoniker"},{"@id":"https://musicbrainz.org/artist/29ae6848-5db5-4ea5-aa87-fa944c0b3d76","name":"Arnold Schönberg Chor","@type":"MusicGroup"},{"name":"Genia Kühmeier","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7e429e0a-39a3-4c55-a5f4-24bb2d891587"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"},{"@type":["Person","MusicGroup"],"name":"Nikolaus Harnoncourt","@id":"https://musicbrainz.org/artist/98b95966-64db-4631-8b9f-8aa66f32cc98"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Ein deutsches Requiem","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/037c2ad4-a288-4b0e-94e4-299a31ff0163","creditedTo":"Gustav Mahler; Wiener Virtuosen, Thomas Hampson","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9","name":"Gustav Mahler","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/640f6ea0-c1a1-4c88-9d0d-2d1f4bd87e5c","name":"Wiener Virtuosen","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","name":"Thomas Hampson","@type":["Person","MusicGroup"]}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Des Knaben Wunderhorn","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Schubert; Thomas Hampson, Wolfgang Sawallisch","@id":"https://musicbrainz.org/release-group/c6bf7474-7ef3-41b7-a96b-843457d35356","albumReleaseType":"http://schema.org/AlbumRelease","name":"Winterreise","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"name":"Franz Schubert","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"@id":"https://musicbrainz.org/artist/471b45e3-c9aa-447c-878b-7afd8794e3e7","@type":["Person","MusicGroup"],"name":"Wolfgang Sawallisch"}],"@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Le Nozze di Figaro","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75","name":"Wolfgang Amadeus Mozart","@type":["Person","MusicGroup"]},{"name":"Luca Pisaroni","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/50d23599-9455-42c7-9201-dea358d78cea"},{"@id":"https://musicbrainz.org/artist/5380bf86-f2e0-4aa1-8e75-368ba09d49ae","name":"Christiane Karg","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/84c4f3ea-1897-4649-befb-ccbc013910ed","@type":["Person","MusicGroup"],"name":"Yannick Nézet-Séguin"},{"name":"Sonya Yoncheva","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d912436c-cba6-4010-8fae-ef915157ab94"},{"@id":"https://musicbrainz.org/artist/3f221c60-2568-40f5-b1c3-625fed319258","name":"The Chamber Orchestra of Europe","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/da7c775b-ea4e-4e5f-a9a4-878574ca2c75","@type":["Person","MusicGroup"],"name":"Anne Sofie von Otter"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"@type":"MusicGroup","name":"Angela Brower","@id":"https://musicbrainz.org/artist/c1146061-a745-4107-b940-b5000a46c793"},{"@id":"https://musicbrainz.org/artist/24c3c88f-5bc1-4621-8f97-4f4b2c945fb0","@type":"MusicGroup","name":"Maurizio Muraro"}],"creditedTo":"Wolfgang Amadeus Mozart; Luca Pisaroni, Christiane Karg, Yannick Nézet-Séguin, Sonya Yoncheva, The Chamber Orchestra of Europe, Anne Sofie von Otter, Thomas Hampson, Angela Brower, Maurizio Muraro","@id":"https://musicbrainz.org/release-group/ae594867-0c11-4271-8d22-70dcad80a5eb"},{"@type":"MusicAlbum","byArtist":[{"name":"George Frideric Handel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc"},{"@type":["Person","MusicGroup"],"name":"Georg Philipp Telemann","@id":"https://musicbrainz.org/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3"},{"name":"Roberta Alexander","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/059372e4-d920-4a0b-9226-970cf9a27cc5"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},{"@id":"https://musicbrainz.org/artist/9b891046-35af-4eb0-a058-eba4c9b8d01f","name":"Concentus Musicus Wien","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Nikolaus Harnoncourt","@id":"https://musicbrainz.org/artist/98b95966-64db-4631-8b9f-8aa66f32cc98"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Händel: Apollo e Dafne / Telemann: Ino","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f4af578b-e9b6-3c59-8cf2-5a4e85825cc8","creditedTo":"Händel, Telemann; Roberta Alexander, Thomas Hampson, Concentus Musicus Wien, Nikolaus Harnoncourt"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/2a006dfe-a7af-46d1-b38f-8c1d90dd230d","@type":["Person","MusicGroup"],"name":"Frederick Delius"},{"@type":"MusicGroup","name":"Orchestra of the Welsh National Opera","@id":"https://musicbrainz.org/artist/887573e3-6507-4147-9117-5b7073f5432c"},{"name":"Chorus of the Welsh National Opera","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9f4c588e-d02c-4ff5-bc1c-02bd1cd83fbf"},{"name":"Charles Mackerras","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/69a7d073-869e-4af2-a58b-a62fe34454d6"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Sea Drift / Florida Suite","@id":"https://musicbrainz.org/release-group/4ad4237c-3541-32f3-b2bd-6edca5aef684","creditedTo":"Delius; Orchestra of the Welsh National Opera, Chorus of the Welsh National Opera, Sir Charles Mackerras, Thomas Hampson"},{"@id":"https://musicbrainz.org/release-group/ad85bf0f-9613-4393-9623-5cde037c5947","creditedTo":"Schubert; Thomas Hampson, Wolfgang Sawallisch","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed","@type":["Person","MusicGroup"],"name":"Franz Schubert"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"},{"@id":"https://musicbrainz.org/artist/471b45e3-c9aa-447c-878b-7afd8794e3e7","name":"Wolfgang Sawallisch","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Winterreise","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Thomas Hampson","@id":"https://musicbrainz.org/release-group/dd41f727-36ab-485d-9a92-b89bb112f56d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","name":"Song of America","byArtist":{"@type":["Person","MusicGroup"],"name":"Thomas Hampson","@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},"@type":"MusicAlbum"},{"creditedTo":"Thomas Hampson","@id":"https://musicbrainz.org/release-group/94b52749-5182-37e1-a4cd-c7cab7859dd2","albumProductionType":"http://schema.org/CompilationAlbum","name":"American Dreamer: Songs of Stephen Foster","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Thomas Hampson","@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"},"@type":"MusicAlbum"},{"name":"Charles Ives: An American Journey","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Charles Ives","@id":"https://musicbrainz.org/artist/eb87b85e-857d-4c11-8aa9-4c55f3b54880"},{"@id":"https://musicbrainz.org/artist/f6df125a-a83c-4161-8cbe-48f4a3a7cad5","name":"Michael Tilson Thomas","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/deebc49a-6e06-418e-860f-8c7f770a8bac","name":"San Francisco Symphony","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/568d7c51-0573-4c65-9211-65bf8c8470c7","@type":"MusicGroup","name":"San Francisco Symphony Chorus"},{"name":"Thomas Hampson","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666"}],"@type":"MusicAlbum","creditedTo":"Charles Ives; Michael Tilson Thomas, San Francisco Symphony, San Francisco Symphony Chorus, Thomas Hampson","@id":"https://musicbrainz.org/release-group/f9fc8588-f5f2-3d50-b814-1739f8a05869"},{"creditedTo":"Renée Fleming, Thomas Hampson, Albert Dohmen, Hanna-Elisabeth Müller, Christian Thielemann \u0026 Sächsische Staatskapelle Dresden","@id":"https://musicbrainz.org/release-group/7e5313f7-d30b-4b88-be70-c24b987a40b6","albumProductionType":"http://schema.org/LiveAlbum","name":"Richard Strauss: Arabella","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/c0cc5761-007e-44ec-918f-bac00d14d7a2","name":"Renée Fleming","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"},{"name":"Albert Dohmen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/afe4cc0a-16cd-4c46-8a16-a6e40bb744bc"},{"@id":"https://musicbrainz.org/artist/745ccf17-9ba1-4d30-ab34-56852d47b324","@type":["Person","MusicGroup"],"name":"Hanna-Elisabeth Müller"},{"@id":"https://musicbrainz.org/artist/64b7fd16-f29c-49f2-a4a6-5c673ac039db","@type":["Person","MusicGroup"],"name":"Christian Thielemann"},{"@id":"https://musicbrainz.org/artist/62250633-e888-49bb-ab9f-d6f14ef21012","name":"Staatskapelle Dresden","@type":"MusicGroup"}]},{"name":"Songs of America II: Wondrous Free","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","name":"Thomas Hampson","@type":["Person","MusicGroup"]},"creditedTo":"Thomas Hampson","@id":"https://musicbrainz.org/release-group/5b83c332-fdb3-4f78-8877-b45d1b58e5ac"},{"creditedTo":"Wolfgang Amadeus Mozart; Charlotte Margiono, Barbara Bonney, Thomas Hampson, Anton Scharinger, Nikolaus Harnoncourt","@id":"https://musicbrainz.org/release-group/14c4cad8-e9b5-3a7c-a4d5-c3cdf2a0d730","name":"Le Nozze di Figaro: Highlights","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Wolfgang Amadeus Mozart","@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75"},{"name":"Charlotte Margiono","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7eb0db97-c717-4fbb-963f-03cb6460db3b"},{"@id":"https://musicbrainz.org/artist/c6364110-01b0-44a9-8ea2-4409fadfc66c","@type":["Person","MusicGroup"],"name":"Barbara Bonney"},{"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","@type":["Person","MusicGroup"],"name":"Thomas Hampson"},{"@id":"https://musicbrainz.org/artist/fd969aab-22ac-4b40-a6f6-700589790516","@type":["Person","MusicGroup"],"name":"Anton Scharinger"},{"@id":"https://musicbrainz.org/artist/98b95966-64db-4631-8b9f-8aa66f32cc98","name":"Nikolaus Harnoncourt","@type":["Person","MusicGroup"]}]}],"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666","sameAs":["http://viaf.org/viaf/113993085","http://www.hampsong.com/","https://en.wikipedia.org/wiki/Thomas_Hampson_(baritone)","https://www.discogs.com/artist/751505","https://www.wikidata.org/wiki/Q539708"],"@context":"http://schema.org","location":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"birthDate":"1955-06-28","name":"Thomas Hampson"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5e70a068-c605-4ace-894b-66cb3fbf0666">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5e70a068-c605-4ace-894b-66cb3fbf0666">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Thomas Hampson – Hampson, Thomas"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/releases" title="Hampson, Thomas"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/recordings" title="Hampson, Thomas"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/works" title="Hampson, Thomas"><bdi>Works</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/events" title="Hampson, Thomas"><bdi>Events</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/relationships" title="Hampson, Thomas"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/aliases" title="Hampson, Thomas"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/tags" title="Hampson, Thomas"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/details" title="Hampson, Thomas"><bdi>Details</bdi></a></li>            <li><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/edit" title="Hampson, Thomas"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=124937" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/6f4230e6-9e05-3119-878b-c9470b34953f"><bdi>Symphonie No. 6 / Kindertotenlieder</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9" title="Gustav Mahler – Mahler, Gustav"><bdi>Mahler</bdi></a></span>; <a href="/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6" title="Wiener Philharmoniker"><bdi>Wiener Philharmoniker</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/d363fa20-697d-459a-a8f5-8be36457f784"><bdi>Fierrabras</bdi></a></td>
+        
+        <td><a href="/artist/f91e3a88-24ee-4563-8963-fab73d2765ed" title="Schubert, Franz (Austrian composer Franz Peter Schubert)"><bdi>Franz Schubert</bdi></a>; <a href="/artist/01453e58-8202-4990-b41a-b74c73a7d961" title="Protschka, Josef"><bdi>Josef Protschka</bdi></a>, <a href="/artist/1021a132-8afc-4313-bc19-f4ad656f14ce" title="Mattila, Karita"><bdi>Karita Mattila</bdi></a>, <a href="/artist/cedc341e-0def-4e5b-988e-f58df78d872a" title="Studer, Cheryl"><bdi>Cheryl Studer</bdi></a>, <a href="/artist/58934e93-6cf3-4d07-95c2-7049b906b48e" title="Gambill, Robert"><bdi>Robert Gambill</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/3d738c4e-453b-4a91-971a-ed3d9e6fd07e" title="Holl, Robert"><bdi>Robert Holl</bdi></a>, <a href="/artist/06356455-05fe-431a-92e3-975e4a147509" title="Polgár, László (bass vocalist)"><bdi>László Polgár</bdi></a>, <a href="/artist/29ae6848-5db5-4ea5-aa87-fa944c0b3d76" title="Arnold Schönberg Chor"><bdi>Arnold Schönberg Chor</bdi></a>, <a href="/artist/3f221c60-2568-40f5-b1c3-625fed319258" title="Chamber Orchestra of Europe, The"><bdi>The Chamber Orchestra of Europe</bdi></a>, <a href="/artist/39e84597-3e0f-4ccc-89d2-6ee1dd6fb050" title="Abbado, Claudio"><bdi>Claudio Abbado</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/30559a9f-b3c3-3a09-8ae9-f34f48a8e4c2"><bdi>Lieder eines fahrenden Gesellen / Kindertotenlieder / Rückert-Lieder</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9" title="Gustav Mahler – Mahler, Gustav"><bdi>Mahler</bdi></a></span>; <a href="/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6" title="Wiener Philharmoniker"><bdi>Wiener Philharmoniker</bdi></a>, <a href="/artist/fa39bc82-9b27-4bbb-9425-d719a72e09ac" title="Bernstein, Leonard"><bdi>Leonard Bernstein</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/40bb6dc1-629b-4085-94be-f636d5349746"><bdi>The Hyperion Schubert Edition, Volume 14: Schubert &amp; the Classics</bdi></a></td>
+        
+        <td><a href="/artist/f91e3a88-24ee-4563-8963-fab73d2765ed" title="Schubert, Franz (Austrian composer Franz Peter Schubert)"><bdi>Franz Schubert</bdi></a>; <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/79c3088e-8b34-402d-83d9-12e94704610f" title="Johnson, Graham (pianist)"><bdi>Graham Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/26dbe646-1ea1-41cb-a5b3-d5121524ff18"><bdi>Götterdämmerung</bdi></a></td>
+        
+        <td><a href="/artist/eefd7c1e-abcf-4ccc-ba60-0fd435c9061f" title="Wagner, Richard"><bdi>Richard Wagner</bdi></a>; <a href="/artist/9d4786b7-84b2-41da-863e-62804607a063" title="Marton, Eva"><bdi>Éva Marton</bdi></a>, <a href="/artist/363df287-7cd0-4c7f-8075-22951d46de57" title="Jerusalem, Siegfried"><bdi>Siegfried Jerusalem</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/49f767d7-8d51-4b69-bcbf-ad511336442a" title="Lipovšek, Marjana"><bdi>Marjana Lipovšek</bdi></a>, <a href="/artist/d3321893-74cc-4bb5-9906-149b4125e01f" title="Tomlinson, John (English operatic bass)"><bdi>John Tomlinson</bdi></a>, <a href="/artist/c8ebd8f0-ea55-42d0-a33e-77c191de9f2c" title="Adam, Theo (German classical bass-baritone)"><bdi>Theo Adam</bdi></a>, <a href="/artist/b6c1ba9c-7f39-46c8-bd92-4d7c20a7e4c2" title="Bundschuh, Eva-Maria"><bdi>Eva-Maria Bundschuh</bdi></a>, <a href="/artist/8bc0b4b4-cc3f-40cf-8223-4ee980cb768d" title="Haitink, Bernard"><bdi>Bernard Haitink</bdi></a>, <a href="/artist/59cf9a49-c3b2-4388-8717-4fb836cc7269" title="Symphonieorchester des Bayerischen Rundfunks"><bdi>Symphonieorchester des Bayerischen Rundfunks</bdi></a>, <a href="/artist/9a6cdfe0-82ec-4aea-93a5-bcd473d8437d" title="Chor des Bayerischen Rundfunks"><bdi>Chor des Bayerischen Rundfunks</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/5e86b80c-571a-4d36-96e4-3cc023ca15c7"><bdi>Hadley &amp; Hampson: Famous Opera Duets</bdi></a></td>
+        
+        <td><a href="/artist/89ad4ac3-39f7-470e-963a-56509c546377" title="Various Artists (add compilations to this artist)"><bdi>Various Artists</bdi></a>; <a href="/artist/059c61e0-0b32-4ae7-b6c5-ab352a4673af" title="Hadley, Jerry (tenor)"><bdi>Jerry Hadley</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <span class="name-variation"><a href="/artist/887573e3-6507-4147-9117-5b7073f5432c" title="Orchestra of the Welsh National Opera – Orchestra of the Welsh National Opera"><bdi>The Orchestra of the Welsh National Opera</bdi></a></span>, <a href="/artist/b482d66b-ba57-4507-8553-39bbb91a07ee" title="Rizzi, Carlo"><bdi>Carlo Rizzi</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/448fa18d-7ed4-37a0-b989-3935b44ce32b"><bdi>Songs from Des Knaben Wunderhorn</bdi></a></td>
+        
+        <td><a href="/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9" title="Mahler, Gustav"><bdi>Gustav Mahler</bdi></a>; <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/575f99fa-81a8-48ee-b27d-92ca62c32b2e" title="Parsons, Geoffrey (pianist)"><bdi>Geoffrey Parsons</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/51c0a59f-d7c3-38e9-b2d0-2d95b8eab6b0"><bdi>Long Time Ago</bdi></a></td>
+        
+        <td><a href="/artist/aad3af83-5b59-4b86-a569-1a8409149b09" title="Copland, Aaron"><bdi>Aaron Copland</bdi></a>; <a href="/artist/d6653a8f-90c4-49a1-ae66-0b2e180e3bb5" title="Saint Paul Chamber Orchestra"><bdi>Saint Paul Chamber Orchestra</bdi></a>, <a href="/artist/9f1bc551-0a38-4ab8-900c-f8b3c2039e1e" title="Wolff, Hugh"><bdi>Hugh Wolff</bdi></a>, <a href="/artist/cc199c4d-2e0b-4e35-8fce-1ccc10d2b1fa" title="Upshaw, Dawn"><bdi>Dawn Upshaw</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/af3e0533-5454-4105-b7cc-f6262bfbbf6a"><bdi>Romantic Songs: Berlioz / Wagner / Liszt</bdi></a></td>
+        
+        <td><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/58db3fc7-3128-3c75-a0cb-be7aebdfa64c"><bdi>The Complete Songs</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/74ed34ce-ee95-44e9-a87d-4d2d5056c24a" title="Samuel Barber – Barber, Samuel"><bdi>Barber</bdi></a></span>; <a href="/artist/cedc341e-0def-4e5b-988e-f58df78d872a" title="Studer, Cheryl"><bdi>Cheryl Studer</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/ccaa2893-76e2-4335-a704-732ae1266203" title="Browning, John (American pianist)"><bdi>John Browning</bdi></a>, <a href="/artist/fd20e8ed-0736-44db-8d97-530fbf00e813" title="Emerson String Quartet"><bdi>Emerson String Quartet</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/8b852e21-dbc3-4312-88cf-06d8732c70c2"><bdi>A Portrait of Thomas Hampson: Arias &amp; Songs from Bach to Zemlinsky</bdi></a></td>
+        
+        <td><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/23f29265-9d8f-35e9-8cb2-171eb6a32a63"><bdi>La bohème</bdi></a> <span class="comment">(<bdi>1995 studio cast</bdi>)</span></td>
+        
+        <td><a href="/artist/a693df4a-8762-4a45-b7fd-6695b558385e" title="Puccini, Giacomo (Italian composer)"><bdi>Giacomo Puccini</bdi></a>; <a href="/artist/0459517d-082f-4983-b7eb-5680d3913cb4" title="Alagna, Roberto (tenor)"><bdi>Roberto Alagna</bdi></a>, <a href="/artist/9ed010b6-5dd5-4b41-92b7-4c33ce833165" title="Vaduva, Leontina"><bdi>Leontina Vaduva</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/260d5174-ce12-4a04-890c-604aa6bea4b0" title="Ann Swenson, Ruth"><bdi>Ruth Ann Swenson</bdi></a>, <a href="/artist/5d89830f-7e47-4a2c-a337-fca27a04f454" title="Keenlyside, Simon"><bdi>Simon Keenlyside</bdi></a>, <a href="/artist/60bf649b-abb0-4588-b204-4d8cdbcbf6a2" title="Ramey, Samuel"><bdi>Samuel Ramey</bdi></a>, <a href="/artist/5610302e-bfd9-421c-80e2-03d790a0f5e5" title="Philharmonia Orchestra (London orchestra aka New Philharmonia Orchestra from 1964-1976)"><bdi>Philharmonia Orchestra</bdi></a>, <a href="/artist/36c14a29-956e-4ea0-b5e6-5593ef044881" title="London Voices"><bdi>London Voices</bdi></a>, <a href="/artist/e383fed3-2e50-4592-bca2-4591079cce2b" title="Pappano, Antonio"><bdi>Antonio Pappano</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/27e91d8f-96a0-41c3-bdeb-e7fa1687409d"><bdi>Mozart: Idomeneo</bdi></a></td>
+        
+        <td><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Mozart, Wolfgang Amadeus (classical composer)"><bdi>Wolfgang Amadeus Mozart</bdi></a>, <a href="/artist/521df2bd-01f6-456e-9d5f-f081068819c2" title="Domingo, Plácido"><bdi>Plácido Domingo</bdi></a>, <a href="/artist/043a40c7-fb90-42f7-89a8-077a8ff61db6" title="Bartoli, Cecilia"><bdi>Cecilia Bartoli</bdi></a>, <a href="/artist/e6f8466b-1283-477e-b2e3-cc33f979eca1" title="Vaness, Carol"><bdi>Carol Vaness</bdi></a>, <a href="/artist/78c6b99d-a620-453b-ac61-2bff8ae37e9a" title="Murphy, Heidi Grant"><bdi>Heidi Grant Murphy</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/c21143a0-426c-4f70-9e39-4ce2024a5e09" title="Lopardo, Frank"><bdi>Frank Lopardo</bdi></a>, <a href="/artist/4b4dea0b-f5a1-4f55-a870-24ad4cdc0840" title="Terfel, Bryn (bass-baritone opera singer)"><bdi>Bryn Terfel</bdi></a>, <a href="/artist/ff08a478-c4af-40f2-81fd-5421db1c1683" title="Metropolitan Opera Orchestra"><bdi>Metropolitan Opera Orchestra</bdi></a>, <a href="/artist/9ade995f-2a67-4268-8220-07ffd2d4984e" title="Metropolitan Opera Chorus"><bdi>Metropolitan Opera Chorus</bdi></a>, <a href="/artist/37a2d213-9c2b-4216-a02c-10b1e150c130" title="Levine, James (US conductor and pianist)"><bdi>James Levine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/fb61d2a9-8f6a-4813-83cc-df015ad93716"><bdi>Das Lied von der Erde</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9" title="Gustav Mahler – Mahler, Gustav"><bdi>Mahler</bdi></a></span>; <a href="/artist/d26bb6a0-ddd2-47fb-8b64-ce6282d6c1a8" title="Seiffert, Peter"><bdi>Peter Seiffert</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/ed526a9c-f88d-4e52-9518-6a5ce9a46e61" title="City of Birmingham Symphony Orchestra"><bdi>City of Birmingham Symphony Orchestra</bdi></a>, <a href="/artist/80c3bce9-0b54-409c-aa10-3b0c7dbbc597" title="Rattle, Simon"><bdi>Simon Rattle</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/f8857063-a7ed-39ef-9432-0baa85a02dbf"><bdi>Belshazzar's Feast / Symphony no. 1</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/d019a8cc-060f-4491-83d6-76e1211a1a08" title="Sir William Walton – Walton, William, Sir"><bdi>Walton</bdi></a></span>; <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/8525e88f-fd6c-46a9-95da-b5b8dd2cd33d" title="City of Birmingham Symphony Orchestra Chorus"><bdi>City of Birmingham Symphony Orchestra Chorus</bdi></a>, <a href="/artist/c3322d3e-f2b3-43a9-8996-030622af1487" title="Cleveland Orchestra Chorus, The"><bdi>The Cleveland Orchestra Chorus</bdi></a>, <a href="/artist/ed526a9c-f88d-4e52-9518-6a5ce9a46e61" title="City of Birmingham Symphony Orchestra"><bdi>City of Birmingham Symphony Orchestra</bdi></a>, <a href="/artist/80c3bce9-0b54-409c-aa10-3b0c7dbbc597" title="Rattle, Simon"><bdi>Simon Rattle</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/2fd87c9c-81ed-3a03-bcc0-ded31d42fa53"><bdi>Król Roger / Symphony no. 4 (Sinfonia concertante)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/e04ef24e-b64e-4ca5-a479-b6bc79042ff5" title="Karol Szymanowski – Szymanowski, Karol"><bdi>Szymanowski</bdi></a></span>; <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/1437b892-1e76-4b3a-91ff-5bcd79867b04" title="Szmytka, Elzbieta"><bdi>Elzbieta Szmytka</bdi></a>, <a href="/artist/777b0a34-6098-488f-8883-9560ac1bd9ef" title="Minkiewicz, Ryszard (Polish tenor)"><bdi>Ryszard Minkiewicz</bdi></a>, <a href="/artist/fc511669-6f9c-453d-a44d-2cc23a5c9eca" title="Langridge, Philip"><bdi>Philip Langridge</bdi></a>, <a href="/artist/2c094b77-1268-4609-ba95-7545c2c5eb62" title="Andsnes, Leif Ove"><bdi>Leif Ove Andsnes</bdi></a>, <a href="/artist/80c3bce9-0b54-409c-aa10-3b0c7dbbc597" title="Rattle, Simon"><bdi>Simon Rattle</bdi></a>, <a href="/artist/8525e88f-fd6c-46a9-95da-b5b8dd2cd33d" title="City of Birmingham Symphony Orchestra Chorus"><bdi>City of Birmingham Symphony Orchestra Chorus</bdi></a>, <a href="/artist/6c8cff98-f97b-44f6-9a49-c9d13605727a" title="City of Birmingham Symphony Youth Chorus"><bdi>City of Birmingham Symphony Youth Chorus</bdi></a>, <a href="/artist/ed526a9c-f88d-4e52-9518-6a5ce9a46e61" title="City of Birmingham Symphony Orchestra"><bdi>City of Birmingham Symphony Orchestra</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/15b16f5f-216d-36d8-8715-0fecb26a11dd"><bdi>Symphonies Nos. 3, 4 / Ein deutsches Requiem</bdi></a></td>
+        
+        <td><a href="/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51" title="Brahms, Johannes"><bdi>Johannes Brahms</bdi></a>; <span class="name-variation"><a href="/artist/1ef9f370-f38e-48a3-be45-7630690d89f7" title="Janet Williams – Williams, Janet"><bdi>Williams</bdi></a></span>, <span class="name-variation"><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Thomas Hampson – Hampson, Thomas"><bdi>Hampson</bdi></a></span>, <a href="/artist/63a1b104-76a7-4a9f-b14d-e3e007e0efba" title="Chicago Symphony Chorus"><bdi>Chicago Symphony Chorus</bdi></a>, <a href="/artist/509c772e-1164-4457-8d09-0553cfa77d64" title="Chicago Symphony Orchestra"><bdi>Chicago Symphony Orchestra</bdi></a>, <a href="/artist/fac566b2-7a0e-4977-ad92-533f43420975" title="Barenboim, Daniel"><bdi>Daniel Barenboim</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/f60a8732-8970-3004-a15c-fd069517b237"><bdi>Thaïs</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/85d783d6-6795-4726-b817-9d83095ad7be" title="Jules Massenet – Massenet, Jules"><bdi>Massenet</bdi></a></span>; <a href="/artist/c0cc5761-007e-44ec-918f-bac00d14d7a2" title="Fleming, Renée"><bdi>Renée Fleming</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/c61cbb1b-9f4b-46d2-86cf-e2d6fe94fc53" title="Sabbatini, Giuseppe (tenor)"><bdi>Giuseppe Sabbatini</bdi></a>, <a href="/artist/484945e4-3d36-4e16-8d2a-fcd569da97e2" title="Orchestre National Bordeaux Aquitaine"><bdi>Orchestre National Bordeaux Aquitaine</bdi></a>, <a href="/artist/564ab65e-2f42-4b29-9916-3398499dcb62" title="Abel, Yves"><bdi>Yves Abel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/60c45a85-ac53-3aa3-b605-7cb34cdf4308"><bdi>La Traviata</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f1bedf1f-4445-4651-9c35-f4a3f3860a13" title="Giuseppe Verdi – Verdi, Giuseppe (Italian opera composer)"><bdi>Verdi</bdi></a></span>; <span class="name-variation"><a href="/artist/90cba256-80b2-464f-9d58-a877a3757d3a" title="Анна Юрьевна Нетребко – Netrebko, Anna Yur'yevna"><bdi>Anna Netrebko</bdi></a></span>, <a href="/artist/74e9b4e0-cee6-4959-a535-ec5d07d14c36" title="Villazón, Rolando"><bdi>Rolando Villazón</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6" title="Wiener Philharmoniker"><bdi>Wiener Philharmoniker</bdi></a>, <a href="/artist/b482d66b-ba57-4507-8553-39bbb91a07ee" title="Rizzi, Carlo"><bdi>Carlo Rizzi</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/ed166a13-c845-4c98-ba58-2569d7aff160"><bdi>To the Soul: Thomas Hampson Sings the Poetry of Walt Whitman</bdi></a></td>
+        
+        <td><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/511ca887-615f-4b4e-9288-2087b3719caa"><bdi>Ein deutsches Requiem</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51" title="Johannes Brahms – Brahms, Johannes"><bdi>Brahms</bdi></a></span>; <a href="/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6" title="Wiener Philharmoniker"><bdi>Wiener Philharmoniker</bdi></a>, <span class="name-variation"><a href="/artist/29ae6848-5db5-4ea5-aa87-fa944c0b3d76" title="Arnold Schönberg Chor – Arnold Schönberg Chor"><bdi>Arnold Schoenberg Chor</bdi></a></span>, <a href="/artist/7e429e0a-39a3-4c55-a5f4-24bb2d891587" title="Kühmeier, Genia"><bdi>Genia Kühmeier</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/98b95966-64db-4631-8b9f-8aa66f32cc98" title="Harnoncourt, Nikolaus"><bdi>Nikolaus Harnoncourt</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/037c2ad4-a288-4b0e-94e4-299a31ff0163"><bdi>Des Knaben Wunderhorn</bdi></a></td>
+        
+        <td><a href="/artist/8d610e51-64b4-4654-b8df-064b0fb7a9d9" title="Mahler, Gustav"><bdi>Gustav Mahler</bdi></a>; <a href="/artist/640f6ea0-c1a1-4c88-9d0d-2d1f4bd87e5c" title="Wiener Virtuosen"><bdi>Wiener Virtuosen</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/c6bf7474-7ef3-41b7-a96b-843457d35356"><bdi>Winterreise</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f91e3a88-24ee-4563-8963-fab73d2765ed" title="Franz Schubert – Schubert, Franz (Austrian composer Franz Peter Schubert)"><bdi>Schubert</bdi></a></span>; <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/471b45e3-c9aa-447c-878b-7afd8794e3e7" title="Sawallisch, Wolfgang"><bdi>Wolfgang Sawallisch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/ae594867-0c11-4271-8d22-70dcad80a5eb"><bdi>Le Nozze di Figaro</bdi></a></td>
+        
+        <td><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Mozart, Wolfgang Amadeus (classical composer)"><bdi>Wolfgang Amadeus Mozart</bdi></a>; <a href="/artist/50d23599-9455-42c7-9201-dea358d78cea" title="Pisaroni, Luca"><bdi>Luca Pisaroni</bdi></a>, <a href="/artist/5380bf86-f2e0-4aa1-8e75-368ba09d49ae" title="Karg, Christiane"><bdi>Christiane Karg</bdi></a>, <a href="/artist/84c4f3ea-1897-4649-befb-ccbc013910ed" title="Nézet-Séguin, Yannick"><bdi>Yannick Nézet-Séguin</bdi></a>, <a href="/artist/d912436c-cba6-4010-8fae-ef915157ab94" title="Yoncheva, Sonya (soprano)"><bdi>Sonya Yoncheva</bdi></a>, <a href="/artist/3f221c60-2568-40f5-b1c3-625fed319258" title="Chamber Orchestra of Europe, The"><bdi>The Chamber Orchestra of Europe</bdi></a>, <a href="/artist/da7c775b-ea4e-4e5f-a9a4-878574ca2c75" title="Otter, Anne Sofie von"><bdi>Anne Sofie von Otter</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/c1146061-a745-4107-b940-b5000a46c793" title="Brower, Angela"><bdi>Angela Brower</bdi></a>, <a href="/artist/24c3c88f-5bc1-4621-8f97-4f4b2c945fb0" title="Muraro, Maurizio"><bdi>Maurizio Muraro</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f4af578b-e9b6-3c59-8cf2-5a4e85825cc8"><bdi>Händel: Apollo e Dafne / Telemann: Ino</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc" title="George Frideric Handel – Handel, George Frideric (German‐British baroque composer)"><bdi>Händel</bdi></a></span>, <span class="name-variation"><a href="/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3" title="Georg Philipp Telemann – Telemann, Georg Philipp"><bdi>Telemann</bdi></a></span>; <a href="/artist/059372e4-d920-4a0b-9226-970cf9a27cc5" title="Alexander, Roberta"><bdi>Roberta Alexander</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/9b891046-35af-4eb0-a058-eba4c9b8d01f" title="Concentus Musicus Wien"><bdi>Concentus Musicus Wien</bdi></a>, <a href="/artist/98b95966-64db-4631-8b9f-8aa66f32cc98" title="Harnoncourt, Nikolaus"><bdi>Nikolaus Harnoncourt</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/4ad4237c-3541-32f3-b2bd-6edca5aef684"><bdi>Sea Drift / Florida Suite</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/2a006dfe-a7af-46d1-b38f-8c1d90dd230d" title="Frederick Delius – Delius, Frederick"><bdi>Delius</bdi></a></span>; <a href="/artist/887573e3-6507-4147-9117-5b7073f5432c" title="Orchestra of the Welsh National Opera"><bdi>Orchestra of the Welsh National Opera</bdi></a>, <a href="/artist/9f4c588e-d02c-4ff5-bc1c-02bd1cd83fbf" title="Chorus of the Welsh National Opera"><bdi>Chorus of the Welsh National Opera</bdi></a>, <span class="name-variation"><a href="/artist/69a7d073-869e-4af2-a58b-a62fe34454d6" title="Charles Mackerras – Mackerras, Charles (Australian conductor)"><bdi>Sir Charles Mackerras</bdi></a></span>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/ad85bf0f-9613-4393-9623-5cde037c5947"><bdi>Winterreise</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f91e3a88-24ee-4563-8963-fab73d2765ed" title="Franz Schubert – Schubert, Franz (Austrian composer Franz Peter Schubert)"><bdi>Schubert</bdi></a></span>; <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/471b45e3-c9aa-447c-878b-7afd8794e3e7" title="Sawallisch, Wolfgang"><bdi>Wolfgang Sawallisch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/dd41f727-36ab-485d-9a92-b89bb112f56d"><bdi>Song of America</bdi></a></td>
+        
+        <td><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/94b52749-5182-37e1-a4cd-c7cab7859dd2"><bdi>American Dreamer: Songs of Stephen Foster</bdi></a></td>
+        
+        <td><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/f9fc8588-f5f2-3d50-b814-1739f8a05869"><bdi>Charles Ives: An American Journey</bdi></a></td>
+        
+        <td><a href="/artist/eb87b85e-857d-4c11-8aa9-4c55f3b54880" title="Ives, Charles"><bdi>Charles Ives</bdi></a>; <a href="/artist/f6df125a-a83c-4161-8cbe-48f4a3a7cad5" title="Thomas, Michael Tilson"><bdi>Michael Tilson Thomas</bdi></a>, <a href="/artist/deebc49a-6e06-418e-860f-8c7f770a8bac" title="San Francisco Symphony"><bdi>San Francisco Symphony</bdi></a>, <a href="/artist/568d7c51-0573-4c65-9211-65bf8c8470c7" title="San Francisco Symphony Chorus"><bdi>San Francisco Symphony Chorus</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/7e5313f7-d30b-4b88-be70-c24b987a40b6"><bdi>Richard Strauss: Arabella</bdi></a></td>
+        
+        <td><a href="/artist/c0cc5761-007e-44ec-918f-bac00d14d7a2" title="Fleming, Renée"><bdi>Renée Fleming</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/afe4cc0a-16cd-4c46-8a16-a6e40bb744bc" title="Dohmen, Albert"><bdi>Albert Dohmen</bdi></a>, <a href="/artist/745ccf17-9ba1-4d30-ab34-56852d47b324" title="Müller, Hanna-Elisabeth"><bdi>Hanna-Elisabeth Müller</bdi></a>, <a href="/artist/64b7fd16-f29c-49f2-a4a6-5c673ac039db" title="Thielemann, Christian (German conductor)"><bdi>Christian Thielemann</bdi></a> &amp; <span class="name-variation"><a href="/artist/62250633-e888-49bb-ab9f-d6f14ef21012" title="Staatskapelle Dresden – Staatskapelle Dresden"><bdi>Sächsische Staatskapelle Dresden</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/5b83c332-fdb3-4f78-8877-b45d1b58e5ac"><bdi>Songs of America II: Wondrous Free</bdi></a></td>
+        
+        <td><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/14c4cad8-e9b5-3a7c-a4d5-c3cdf2a0d730"><bdi>Le Nozze di Figaro: Highlights</bdi></a></td>
+        
+        <td><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Mozart, Wolfgang Amadeus (classical composer)"><bdi>Wolfgang Amadeus Mozart</bdi></a>; <a href="/artist/7eb0db97-c717-4fbb-963f-03cb6460db3b" title="Margiono, Charlotte"><bdi>Charlotte Margiono</bdi></a>, <a href="/artist/c6364110-01b0-44a9-8ea2-4409fadfc66c" title="Bonney, Barbara"><bdi>Barbara Bonney</bdi></a>, <a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666" title="Hampson, Thomas"><bdi>Thomas Hampson</bdi></a>, <a href="/artist/fd969aab-22ac-4b40-a6f6-700589790516" title="Scharinger, Anton"><bdi>Anton Scharinger</bdi></a>, <a href="/artist/98b95966-64db-4631-8b9f-8aa66f32cc98" title="Harnoncourt, Nikolaus"><bdi>Nikolaus Harnoncourt</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Hampson, Thomas</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1955-06-28 (61 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/baritone"><bdi>baritone</bdi></a>, <a href="/tag/classical"><bdi>classical</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.hampsong.com/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/751505">Discogs</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/113993085">VIAF: 113993085</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q539708">Q539708</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Thomas_Hampson_(baritone)">en: Thomas Hampson (baritone)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5e70a068-c605-4ace-894b-66cb3fbf0666/relationships" title="Hampson, Thomas"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5e70a068-c605-4ace-894b-66cb3fbf0666">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-12-09 22:01 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

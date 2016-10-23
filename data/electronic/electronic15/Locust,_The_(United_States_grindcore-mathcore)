@@ -1,0 +1,634 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Locust - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="United States grindcore/mathcore, Type: Group, Founded: 1994 in San Diego, Area: San Diego"/><script type="application/ld+json">{"name":"The Locust","member":[{"roleName":[],"endDate":"2001","@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Dave Astor","@id":"https://musicbrainz.org/artist/06f7885a-7548-412d-823b-890eab26b7d9"},"startDate":"1994"},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3ee38733-1450-49af-b216-b462f4f127e6","name":"Bobby Bray"},"@type":"OrganizationRole","startDate":"1994"},{"startDate":"1994","roleName":[],"@type":"OrganizationRole","endDate":"1996","member":{"name":"Dylan Scharf","@id":"https://musicbrainz.org/artist/70497bde-fd2b-491b-b15e-56fb12776853","@type":["Person","MusicGroup"]}},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Jimmy LaValle","@id":"https://musicbrainz.org/artist/73a97e9d-e945-4b50-9fd4-e7205eeb77a7"},"endDate":"1998","@type":"OrganizationRole","startDate":"1996"},{"startDate":"1994","member":{"name":"Dave Warshaw","@id":"https://musicbrainz.org/artist/75c774e8-e25a-4aa3-a7e2-b6bfb5bccde3","@type":["Person","MusicGroup"]},"roleName":[],"endDate":"1996","@type":"OrganizationRole"},{"startDate":"1997","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/a2c149c1-ec4e-4e1d-b888-43fe7368a17b","name":"Joseph Karam","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"startDate":"1998","roleName":[],"member":{"name":"Gabe Serbian","@id":"https://musicbrainz.org/artist/ac16054e-0915-48ee-89d9-296c8e439b51","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/b42337c1-0c07-40bb-a972-1d61dfa67f97","name":"Justin Pearson","@type":["Person","MusicGroup"]},"startDate":"1994"}],"@type":"MusicGroup","album":[{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Man Is the Bastard / The Locust","byArtist":[{"@id":"https://musicbrainz.org/artist/b59a4797-4292-49a4-a21c-8f43c61f6bb8","name":"Man Is the Bastard","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust","@type":"MusicGroup"}],"@id":"https://musicbrainz.org/release-group/c9bc54c1-d8e8-3938-9dd7-26b4dfd8d630","name":"Man Is the Bastard / The Locust","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/72bba95f-c8ca-3525-ba86-fc3f4328abb5","name":"The Locust","creditedTo":"The Locust","byArtist":{"@type":"MusicGroup","name":"The Locust","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1"},"albumProductionType":"http://schema.org/StudioAlbum"},{"name":"The Locust / Arab on Radar","@id":"https://musicbrainz.org/release-group/5bd8a08a-1b04-3a13-94de-7b853a76de11","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"The Locust / Arab on Radar","byArtist":[{"@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust","@type":"MusicGroup"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/a44b17cc-bd51-4415-908f-97d39cf67b5d","name":"Arab on Radar"}]},{"creditedTo":"The Locust","byArtist":{"@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ec1ba13a-c92a-3e9a-b4ff-df75e53ceedb","name":"Plague Soundscapes"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/760981b1-f125-37d7-88b7-285e247ae146","name":"New Erections","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust"},"creditedTo":"The Locust","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Molecular Genetics From the Gold Standard Labs","@id":"https://musicbrainz.org/release-group/76ad5337-b07a-4f39-83f2-b08b39368932","creditedTo":"The Locust","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust"},"albumProductionType":"http://schema.org/CompilationAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/3ba1e504-14e0-49c3-a84b-49e2d041f315","name":"The Peel Sessions","byArtist":{"@type":"MusicGroup","name":"The Locust","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1"},"creditedTo":"The Locust","albumProductionType":"http://schema.org/LiveAlbum"},{"byArtist":{"@type":"MusicGroup","name":"The Locust","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1"},"creditedTo":"The Locust","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Well I’ll be a Monkey’s Uncle","@id":"https://musicbrainz.org/release-group/5839ac45-e1fb-3039-8e48-628063e195ca"},{"albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","name":"The Locust / Jenny Piccolo","@id":"https://musicbrainz.org/release-group/607f978d-d4c9-4399-9fe0-adc06f74a104","creditedTo":"The Locust / Jenny Piccolo","byArtist":[{"@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust","@type":"MusicGroup"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e00a7ef0-e2f1-46a7-a6ef-59b22080dfc1","name":"Jenny Piccolo"}],"albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"The Locust","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","@type":"MusicGroup"},"creditedTo":"The Locust","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Flight of the Wounded Locust","@id":"https://musicbrainz.org/release-group/55f2d89a-2bd1-3555-89ca-c23dda51c9c7"},{"name":"The Locust / Melt‐Banana","@id":"https://musicbrainz.org/release-group/6d16207e-60ce-3c62-b7b7-121691f29096","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"The Locust / Melt‐Banana","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/6d3f44c3-132d-42a6-a45b-16560b30a1fc","name":"Melt‐Banana"}]},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"The Locust","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1"},"creditedTo":"The Locust","@id":"https://musicbrainz.org/release-group/884d2dc0-96c3-3aba-a3e7-c51cf1050267","name":"Follow the Flock, Step in Shit","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"byArtist":{"name":"The Locust","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","@type":"MusicGroup"},"creditedTo":"The Locust","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"The Locust","@id":"https://musicbrainz.org/release-group/d5eb08c1-af0f-32ca-8424-88062d5d4dca"},{"albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/44b87663-3265-36f0-82de-dc18dceed6b5","name":"Safety Second, Body Last","byArtist":{"@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","name":"The Locust","@type":"MusicGroup"},"creditedTo":"The Locust","albumProductionType":"http://schema.org/StudioAlbum"}],"foundingDate":"1994","@id":"https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1","@context":"http://schema.org","sameAs":["http://en.wikipedia.org/wiki/The_Locust","http://www.allmusic.com/artist/mn0000096756","http://www.thelocust.com/","https://rateyourmusic.com/artist/the_locust","https://www.discogs.com/artist/125425","https://www.wikidata.org/wiki/Q284351"],"groupOrigin":{"@type":"City","containedIn":{"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"name":"California","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/82f3a697-ba65-404d-a1ed-360147af7d10","name":"San Diego"},"location":{"name":"San Diego","@id":"https://musicbrainz.org/area/82f3a697-ba65-404d-a1ed-360147af7d10","containedIn":{"name":"California","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","@type":"AdministrativeArea"},"@type":"City"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a> <span class="comment">(<bdi>United States grindcore/mathcore</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="The Locust – Locust, The (United States grindcore/mathcore)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/releases" title="Locust, The (United States grindcore/mathcore)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/recordings" title="Locust, The (United States grindcore/mathcore)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/works" title="Locust, The (United States grindcore/mathcore)"><bdi>Works</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/events" title="Locust, The (United States grindcore/mathcore)"><bdi>Events</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/relationships" title="Locust, The (United States grindcore/mathcore)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/aliases" title="Locust, The (United States grindcore/mathcore)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/tags" title="Locust, The (United States grindcore/mathcore)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/details" title="Locust, The (United States grindcore/mathcore)"><bdi>Details</bdi></a></li>            <li><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/edit" title="Locust, The (United States grindcore/mathcore)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>The Locust</b> is a musical group from San Diego, California, United States known for their unique mix of grindcore speed and aggression, complexity, and new wave weirdness.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/The_Locust">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=44049" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/c9bc54c1-d8e8-3938-9dd7-26b4dfd8d630"><bdi>Man Is the Bastard / The Locust</bdi></a></td>
+        
+        <td><a href="/artist/b59a4797-4292-49a4-a21c-8f43c61f6bb8" title="Man Is the Bastard"><bdi>Man Is the Bastard</bdi></a> / <a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/72bba95f-c8ca-3525-ba86-fc3f4328abb5"><bdi>The Locust</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/5bd8a08a-1b04-3a13-94de-7b853a76de11"><bdi>The Locust / Arab on Radar</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a> / <a href="/artist/a44b17cc-bd51-4415-908f-97d39cf67b5d" title="Arab on Radar"><bdi>Arab on Radar</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ec1ba13a-c92a-3e9a-b4ff-df75e53ceedb"><bdi>Plague Soundscapes</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/760981b1-f125-37d7-88b7-285e247ae146"><bdi>New Erections</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/76ad5337-b07a-4f39-83f2-b08b39368932"><bdi>Molecular Genetics From the Gold Standard Labs</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/3ba1e504-14e0-49c3-a84b-49e2d041f315"><bdi>The Peel Sessions</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/5839ac45-e1fb-3039-8e48-628063e195ca"><bdi>Well I’ll be a Monkey’s Uncle</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/607f978d-d4c9-4399-9fe0-adc06f74a104"><bdi>The Locust / Jenny Piccolo</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a> / <a href="/artist/e00a7ef0-e2f1-46a7-a6ef-59b22080dfc1" title="Jenny Piccolo"><bdi>Jenny Piccolo</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/55f2d89a-2bd1-3555-89ca-c23dda51c9c7"><bdi>Flight of the Wounded Locust</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/6d16207e-60ce-3c62-b7b7-121691f29096"><bdi>The Locust / Melt‐Banana</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a> / <a href="/artist/6d3f44c3-132d-42a6-a45b-16560b30a1fc" title="Melt‐Banana"><bdi>Melt‐Banana</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/884d2dc0-96c3-3aba-a3e7-c51cf1050267"><bdi>Follow the Flock, Step in Shit</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/d5eb08c1-af0f-32ca-8424-88062d5d4dca"><bdi>The Locust</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/44b87663-3265-36f0-82de-dc18dceed6b5"><bdi>Safety Second, Body Last</bdi></a></td>
+        
+        <td><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1" title="Locust, The (United States grindcore/mathcore)"><bdi>The Locust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Locust.jpg/250px-The_Locust.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:The Locust.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Locust, The</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1994 (22 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/82f3a697-ba65-404d-a1ed-360147af7d10"><bdi>San Diego</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><a href="/area/82f3a697-ba65-404d-a1ed-360147af7d10"><bdi>San Diego</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/ratings" title="Locust, The (United States grindcore/mathcore)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/grindcore"><bdi>grindcore</bdi></a>, <a href="/tag/hardcore"><bdi>hardcore</bdi></a>, <a href="/tag/math%20rock"><bdi>math rock</bdi></a>, <a href="/tag/rock%20and%20indie"><bdi>rock and indie</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.thelocust.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000096756">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/125425">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/wiki/The_Locust">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/thelocust">thelocust</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/the_locust">Rateyourmusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/thelocustofficial">thelocustofficial</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q284351">Q284351</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/The_Locust">en: The Locust</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1/relationships" title="Locust, The (United States grindcore/mathcore)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F9cdbbd26-b4e0-4b4d-bfd3-c65d447af9a1">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-09-01 14:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

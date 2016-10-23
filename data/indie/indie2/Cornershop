@@ -1,0 +1,795 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cornershop - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1991 in Leicester, Area: United Kingdom"/><script type="application/ld+json">{"member":[{"roleName":[],"member":{"@id":"https://musicbrainz.org/artist/02be7c2e-dbdb-4e66-a4c9-c2c5fe23ca31","name":"Anthony Saffery","@type":["Person","MusicGroup"]},"endDate":"2002","@type":"OrganizationRole","startDate":"1994"},{"endDate":"1995","member":{"@id":"https://musicbrainz.org/artist/1a94e1b7-2916-4eee-92b6-c9dd0669e857","name":"David Chambers","@type":["Person","MusicGroup"]},"roleName":[],"startDate":"1991","@type":"OrganizationRole"},{"member":{"name":"Tjinder Singh","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/41297457-8d52-4d83-8640-480ca1d56c57"},"roleName":[],"startDate":"1991","@type":"OrganizationRole"},{"endDate":"1995","member":{"@type":["Person","MusicGroup"],"name":"Pete Hall","@id":"https://musicbrainz.org/artist/46a332ae-7317-410c-afa5-06bf17105ec4"},"roleName":[],"startDate":"1995","@type":"OrganizationRole"},{"endDate":"1995","roleName":[],"member":{"name":"Avtar Singh","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/57805a61-f2ef-409b-8a54-64375c8126de"},"startDate":"1991","@type":"OrganizationRole"},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Ben Ayres","@id":"https://musicbrainz.org/artist/5822f388-d1ee-45ff-bf94-955c5162d207"},"startDate":"1991","@type":"OrganizationRole"},{"roleName":[],"member":{"name":"Nick Simms","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/960f5e89-1f94-49b4-90b3-453635affcaa"},"startDate":"1995","@type":"OrganizationRole"},{"@type":"OrganizationRole","startDate":"2002","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Paul McGuigan","@id":"https://musicbrainz.org/artist/e0a12f6d-1c89-467c-856a-e0d547c6c46f"}},{"member":{"@id":"https://musicbrainz.org/artist/e62dc168-08cf-4373-b539-dbe2bad40e9b","name":"Peter Bengry","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole","startDate":"1995"},{"endDate":"1995","member":{"name":"Wallis Healey","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ed517ff3-2c9b-43bb-9d0a-a0559d7488a6"},"roleName":[],"startDate":"1994","@type":"OrganizationRole"}],"album":[{"@id":"https://musicbrainz.org/release-group/c544e57a-8470-3a45-97dc-be8e13b0ffbc","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Hold On It Hurts","creditedTo":"Cornershop","@type":"MusicAlbum"},{"name":"Woman’s Gotta Have It","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cornershop","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5a25b704-1874-3877-9f7f-c3873b79eee6"},{"@type":"MusicAlbum","creditedTo":"Cornershop","albumProductionType":"http://schema.org/StudioAlbum","name":"When I Was Born for the 7th Time","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/070fb0a3-76ff-34fb-a892-19f6c7d303f6"},{"@id":"https://musicbrainz.org/release-group/7e356ff6-e823-3306-9112-e6deecb231ee","byArtist":{"name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"Handcream for a Generation","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cornershop"},{"creditedTo":"Cornershop","@type":"MusicAlbum","name":"Judy Sucks a Lemon for Breakfast","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e3fd543a-9c71-46a3-a25e-0fa4d5b79096"},{"byArtist":[{"name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},{"name":"Bubbley Kaur","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/79668099-f3a3-42e5-ada0-b7e92e53fa00"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Cornershop and the Double-O Groove Of","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cornershop feat. Bubbley Kaur","@id":"https://musicbrainz.org/release-group/cdeab10e-04d9-4dfd-8c51-7e8e5b7ff018"},{"albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup"},"creditedTo":"Cornershop","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Hold On It's Easy","@id":"https://musicbrainz.org/release-group/949700f7-99ed-4c2e-bb47-48bf7ee99a49"},{"@id":"https://musicbrainz.org/release-group/eea9406c-7a6c-33b1-9436-e1bbe368716b","@type":"MusicAlbum","creditedTo":"Cornershop","albumProductionType":"http://schema.org/CompilationAlbum","name":"Elvis Sex-Change","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","@type":"MusicGroup","name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Cornershop","albumProductionType":"http://schema.org/CompilationAlbum","name":"Urban Turban – The Singhles Club","@id":"https://musicbrainz.org/release-group/2c24cf58-95b8-4036-ac5b-8f28a27298be"},{"@id":"https://musicbrainz.org/release-group/9ef09516-1a54-3b90-b56a-1ae085ca7daf","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumProductionType":"http://schema.org/StudioAlbum","name":"NME Peel Sessions Singles Club","@type":"MusicAlbum","creditedTo":"Cornershop"},{"@id":"https://musicbrainz.org/release-group/5fa3ece5-ce9a-427f-9abe-dde2a9f250a5","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Cornershop","@type":"MusicAlbum","name":"Wog","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/804a4661-42ae-31a4-a677-74b0b2818f0f","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Good Ships / Funky Days Are Back Again","@type":"MusicAlbum","creditedTo":"Cornershop"},{"name":"Brimful of Asha","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cornershop","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/0f033a8e-626f-391e-a861-880a0a8023f5"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Sleep on the Left Side","@type":"MusicAlbum","creditedTo":"Cornershop","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","@type":"MusicGroup","name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d83bf04b-d6d9-3548-af06-1b9df849f61e"},{"byArtist":{"name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Candyman","creditedTo":"Cornershop","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/ddfd47bb-67cd-42f8-bb52-40861968eebc"},{"byArtist":{"@type":"MusicGroup","name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/SingleRelease","name":"Sleep on the Left Side / Brimful of Asha","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cornershop","@id":"https://musicbrainz.org/release-group/b484d1b8-ae77-3ff6-a1da-2ba9a9738ae7"},{"albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"name":"Lessons Learned From Rocky I to Rocky III","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cornershop","@id":"https://musicbrainz.org/release-group/80e809da-e683-3c87-96e5-7eea9f57c014"},{"@id":"https://musicbrainz.org/release-group/7f488811-9497-4be6-8203-b4a8677dc9e5","byArtist":{"name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Cornershop","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Staging"},{"@id":"https://musicbrainz.org/release-group/7e541a27-2deb-333f-8b95-23aacb547ca9","@type":"MusicAlbum","creditedTo":"Cornershop presents Bubbley Kaur","albumProductionType":"http://schema.org/StudioAlbum","name":"Topknot / Natch","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},{"@id":"https://musicbrainz.org/artist/79668099-f3a3-42e5-ada0-b7e92e53fa00","@type":["Person","MusicGroup"],"name":"Bubbley Kaur"}]},{"byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Cornershop","name":"Wop the Groove","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5fd27d9f-e40d-346f-9172-715bd5aef1b3"},{"@id":"https://musicbrainz.org/release-group/fd40ed89-d57d-344c-b130-27e0e8054ecb","albumProductionType":"http://schema.org/StudioAlbum","name":"In the Days of Ford Cortina","@type":"MusicAlbum","creditedTo":"Cornershop","byArtist":{"sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/EPRelease"},{"@id":"https://musicbrainz.org/release-group/d6b82d4d-5e55-3dca-94f2-d28c1bd26de5","byArtist":{"@type":"MusicGroup","name":"Cornershop","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/EPRelease","name":"Readers' Wives","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cornershop"},{"@id":"https://musicbrainz.org/release-group/0974f687-b360-4282-988a-0360bb026104","byArtist":{"sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/EPRelease","creditedTo":"Cornershop","@type":"MusicAlbum","name":"The School of Soul E.P.","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"The Battle of New Orleans","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cornershop","@type":"MusicAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/7bd90a1e-06ab-47f4-8a83-91228245b6df"},{"albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop"},"creditedTo":"Cornershop","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Lock Stock \u0026 Double-Barrel","@id":"https://musicbrainz.org/release-group/ad603600-4f5b-30b2-acfb-d1ef328700fe"},{"@id":"https://musicbrainz.org/release-group/ca62e410-ab2c-3a1e-a07d-07e577ac19ab","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Cornershop","@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"},"name":"Jullandar Shere: The Grid/Star Liner Mixes","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","creditedTo":"Cornershop"}],"@type":"MusicGroup","sameAs":["http://musicmoz.org/Bands_and_Artists/C/Cornershop/","http://rateyourmusic.com/artist/cornershop","http://www.allmusic.com/artist/mn0000121746","http://www.bbc.co.uk/music/artists/92046be7-0927-4835-a4ed-a90416747d53","http://www.cornershop.com/","http://www.last.fm/music/Cornershop","https://en.wikipedia.org/wiki/Cornershop_(band)","https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","https://www.discogs.com/artist/7203","https://www.wikidata.org/wiki/Q1134101"],"@id":"https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53","@context":"http://schema.org","location":{"name":"United Kingdom","@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"groupOrigin":{"@type":"City","name":"Leicester","containedIn":{"containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"@id":"https://musicbrainz.org/area/9d5dd675-3cf4-4296-9e39-67865ebee758","name":"England","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/806b9b3b-5daf-4eaa-807d-7a2a29cde0da"},"performsAs":{"@id":"https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96","name":"Clinton","@type":"MusicGroup"},"alternateName":["Clinton"],"foundingDate":"1991","name":"Cornershop"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F92046be7-0927-4835-a4ed-a90416747d53">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F92046be7-0927-4835-a4ed-a90416747d53">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop – Cornershop"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/releases" title="Cornershop"><bdi>Releases</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/recordings" title="Cornershop"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/works" title="Cornershop"><bdi>Works</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/events" title="Cornershop"><bdi>Events</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/relationships" title="Cornershop"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/aliases" title="Cornershop"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/tags" title="Cornershop"><bdi>Tags</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/details" title="Cornershop"><bdi>Details</bdi></a></li>            <li><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/edit" title="Cornershop"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    <p><strong>Also performs as:</strong> <a href="/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96" title="Clinton"><bdi>Clinton</bdi></a></p>
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Cornershop</b> are a British indie rock band best known for their 1998 UK number-one single "Brimful of Asha". The band were formed in 1991 by Wolverhampton-born Tjinder Singh (singer, songwriter, and guitar), his brother Avtar Singh (bass guitar, vocals), David Chambers (drums) and Ben Ayres (guitar, keyboards, and tamboura), the first three having previously been members of Preston-based band General Havoc, who released one single (the "Fast Jaspal EP") in 1991. The band name originated from a stereotype referring to British Asians often owning corner shops. Their music is a fusion of Indian music, Britpop, alternative and electronic dance music.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/Cornershop_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=798" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/c544e57a-8470-3a45-97dc-be8e13b0ffbc"><bdi>Hold On It Hurts</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/5a25b704-1874-3877-9f7f-c3873b79eee6"><bdi>Woman’s Gotta Have It</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/070fb0a3-76ff-34fb-a892-19f6c7d303f6"><bdi>When I Was Born for the 7th Time</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7e356ff6-e823-3306-9112-e6deecb231ee"><bdi>Handcream for a Generation</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/e3fd543a-9c71-46a3-a25e-0fa4d5b79096"><bdi>Judy Sucks a Lemon for Breakfast</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/cdeab10e-04d9-4dfd-8c51-7e8e5b7ff018"><bdi>Cornershop and the Double-O Groove Of</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a> feat. <a href="/artist/79668099-f3a3-42e5-ada0-b7e92e53fa00" title="Kaur, Bubbley"><bdi>Bubbley Kaur</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/949700f7-99ed-4c2e-bb47-48bf7ee99a49"><bdi>Hold On It's Easy</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/eea9406c-7a6c-33b1-9436-e1bbe368716b"><bdi>Elvis Sex-Change</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/2c24cf58-95b8-4036-ac5b-8f28a27298be"><bdi>Urban Turban – The Singhles Club</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/9ef09516-1a54-3b90-b56a-1ae085ca7daf"><bdi>NME Peel Sessions Singles Club</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/5fa3ece5-ce9a-427f-9abe-dde2a9f250a5"><bdi>Wog</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/804a4661-42ae-31a4-a677-74b0b2818f0f"><bdi>Good Ships / Funky Days Are Back Again</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/0f033a8e-626f-391e-a861-880a0a8023f5"><bdi>Brimful of Asha</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/d83bf04b-d6d9-3548-af06-1b9df849f61e"><bdi>Sleep on the Left Side</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/ddfd47bb-67cd-42f8-bb52-40861968eebc"><bdi>Candyman</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/b484d1b8-ae77-3ff6-a1da-2ba9a9738ae7"><bdi>Sleep on the Left Side / Brimful of Asha</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/80e809da-e683-3c87-96e5-7eea9f57c014"><bdi>Lessons Learned From Rocky I to Rocky III</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/7f488811-9497-4be6-8203-b4a8677dc9e5"><bdi>Staging</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/7e541a27-2deb-333f-8b95-23aacb547ca9"><bdi>Topknot / Natch</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a> presents <a href="/artist/79668099-f3a3-42e5-ada0-b7e92e53fa00" title="Kaur, Bubbley"><bdi>Bubbley Kaur</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/5fd27d9f-e40d-346f-9172-715bd5aef1b3"><bdi>Wop the Groove</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/fd40ed89-d57d-344c-b130-27e0e8054ecb"><bdi>In the Days of Ford Cortina</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/d6b82d4d-5e55-3dca-94f2-d28c1bd26de5"><bdi>Readers' Wives</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/0974f687-b360-4282-988a-0360bb026104"><bdi>The School of Soul E.P.</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/7bd90a1e-06ab-47f4-8a83-91228245b6df"><bdi>The Battle of New Orleans</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/ad603600-4f5b-30b2-acfb-d1ef328700fe"><bdi>Lock Stock &amp; Double-Barrel</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/ca62e410-ab2c-3a1e-a07d-07e577ac19ab"><bdi>Jullandar Shere: The Grid/Star Liner Mixes</bdi></a></td>
+        
+        <td><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53" title="Cornershop"><bdi>Cornershop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cornershop.jpg/250px-Cornershop.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Cornershop.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1991 (25 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/806b9b3b-5daf-4eaa-807d-7a2a29cde0da"><bdi>Leicester</bdi></a>, <a href="/area/9d5dd675-3cf4-4296-9e39-67865ebee758"><bdi>England</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:68%;">3.4</span>    </span>
+</span>    (<a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/ratings" title="Cornershop"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/asian"><bdi>asian</bdi></a>, <a href="/tag/brit%20pop"><bdi>brit pop</bdi></a>, <a href="/tag/british%20asian"><bdi>british asian</bdi></a>, <a href="/tag/dance"><bdi>dance</bdi></a>, <a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/tags" title="Cornershop"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.cornershop.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000121746">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/92046be7-0927-4835-a4ed-a90416747d53">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/7203">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Cornershop">Cornershop</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/cornershop">cornershop</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/C/Cornershop/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/cornershop">Rateyourmusic</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/cornershopHQ">@cornershopHQ</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/CornershopHQ">CornershopHQ</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1134101">Q1134101</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Cornershop_(band)">en: Cornershop (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/92046be7-0927-4835-a4ed-a90416747d53/relationships" title="Cornershop"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F92046be7-0927-4835-a4ed-a90416747d53">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-09-01 18:46 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

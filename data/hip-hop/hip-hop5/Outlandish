@@ -1,0 +1,648 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Outlandish - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1997 in Brøndby Strand, Area: Denmark"/><script type="application/ld+json">{"sameAs":["http://isni-url.oclc.nl/isni/0000000107280234","http://rateyourmusic.com/artist/outlandish","http://viaf.org/viaf/153886537","http://www.allmusic.com/artist/mn0000419719","http://www.bbc.co.uk/music/artists/442e5e86-6151-41a4-bb6d-2e97b62f5e38","http://www.imdb.com/name/nm1688455/","http://www.secondhandsongs.com/artist/2743","https://en.wikipedia.org/wiki/Outlandish","https://www.discogs.com/artist/220035","https://www.wikidata.org/wiki/Q586885"],"foundingDate":"1997","@context":"http://schema.org","groupOrigin":{"@type":"AdministrativeArea","containedIn":{"containedIn":{"@id":"https://musicbrainz.org/area/4757b525-2a60-324a-b060-578765d2c993","name":"Denmark","@type":"Country"},"@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/3dddb678-c1db-45f8-9007-3013502b2bc7","name":"Capital Region of Denmark"},"name":"Brøndby Strand","@id":"https://musicbrainz.org/area/eb4970de-ea48-4c14-8d09-d56142b73912"},"@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","name":"Outlandish","album":[{"creditedTo":"Outlandish","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1971bfcb-412e-3855-a042-409a77f38885","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Outland's Official","byArtist":{"@type":"MusicGroup","name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38"}},{"@type":"MusicAlbum","creditedTo":"Outlandish","byArtist":{"name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","@type":"MusicGroup"},"name":"Bread \u0026 Barrels of Water","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e2b438ca-7078-3d2c-bd33-adf7d4ca026c"},{"creditedTo":"Outlandish","@type":"MusicAlbum","name":"Closer Than Veins","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/6c3358bb-26a1-3c44-9f6f-82d8cdc9c729","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38"}},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e10883ac-3ec6-43e7-b6b9-583a2317baba","name":"Sound of a Rebel","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","name":"Outlandish"},"creditedTo":"Outlandish","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/279b8a36-dda9-4a9e-923f-7a1c9259677a","albumReleaseType":"http://schema.org/AlbumRelease","name":"Warrior // Worrier","byArtist":{"@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","name":"Outlandish","@type":"MusicGroup"},"creditedTo":"Outlandish","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/dfc16216-108b-468e-9c91-dd7f2c9cf60f","name":"Aicha","byArtist":{"@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","name":"Outlandish","@type":"MusicGroup"},"creditedTo":"Outlandish","@type":"MusicAlbum"},{"creditedTo":"Outlandish","@type":"MusicAlbum","name":"Guantanamo","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/175bcdc8-c521-3949-ade6-8736284bc86e","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","name":"Outlandish"}},{"creditedTo":"Outlandish","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b51a759f-74d6-4c14-901a-b0e111a412cf","name":"Callin' U (radio edit)","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","name":"Outlandish"}},{"byArtist":{"@type":"MusicGroup","name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38"},"name":"In Good Hand","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b1a4e5d2-e02a-473e-94c2-2538da10727c","@type":"MusicAlbum","creditedTo":"Outlandish"},{"creditedTo":"Outlandish","@type":"MusicAlbum","name":"Look Into My Eyes","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b7780352-b62a-4862-b73e-e08f294756e8","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","@type":"MusicGroup"}},{"creditedTo":"Outlandish","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/98f26c95-5348-4153-92a6-fa3105c7a82c","albumReleaseType":"http://schema.org/SingleRelease","name":"TriumF feat. Providers","byArtist":{"name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Outlandish","byArtist":{"@type":"MusicGroup","name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38"},"@id":"https://musicbrainz.org/release-group/883f0ee7-79da-32c0-86ce-d00cfdf1e5d2","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Man binder os på mund og hånd"},{"byArtist":{"name":"Outlandish","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","@type":"MusicGroup"},"name":"I Only Ask of God","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/8727a5d1-fe77-464f-99f7-320d72a762be","@type":"MusicAlbum","creditedTo":"Outlandish"},{"albumProductionType":"http://schema.org/RemixAlbum","@id":"https://musicbrainz.org/release-group/d1067547-22c9-4055-a630-d78822b0ebea","name":"TriumF (Remixes)","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38","name":"Outlandish"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c9e0d986-ad30-4570-a077-b67684673ff1","name":"Providers"}],"creditedTo":"Outlandish feat. Providers","@type":"MusicAlbum"}],"@type":"MusicGroup","member":[{"member":{"@type":["Person","MusicGroup"],"name":"Waqas Ali","@id":"https://musicbrainz.org/artist/3d912820-8116-49b9-ba45-17f7ed45a0b0"},"@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Lenny Martinez","@id":"https://musicbrainz.org/artist/b9da21ee-a20b-42dd-beae-3d9afcd39cc3"}},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/dede48b3-c037-4ae9-865a-229db6d4a879","name":"Isam B"}}],"location":{"@type":"Country","name":"Denmark","@id":"https://musicbrainz.org/area/4757b525-2a60-324a-b060-578765d2c993"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F442e5e86-6151-41a4-bb6d-2e97b62f5e38">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F442e5e86-6151-41a4-bb6d-2e97b62f5e38">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish – Outlandish"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/releases" title="Outlandish"><bdi>Releases</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/recordings" title="Outlandish"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/works" title="Outlandish"><bdi>Works</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/events" title="Outlandish"><bdi>Events</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/relationships" title="Outlandish"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/aliases" title="Outlandish"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/tags" title="Outlandish"><bdi>Tags</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/details" title="Outlandish"><bdi>Details</bdi></a></li>            <li><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/edit" title="Outlandish"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Outlandish</b> is a hip-hop music group based in Denmark. Formed in 1997, it consists of Isam Bachiri (born in Denmark and of Moroccan background), Waqas Ali Qadri (born in Denmark and of Pakistani background), and Lenny Martinez (born in Honduras and of Cuban and Honduran descent). All three members are religious, with Isam and Waqas being Muslims and Lenny being Catholic.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/Outlandish">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=48978" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/1971bfcb-412e-3855-a042-409a77f38885"><bdi>Outland's Official</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e2b438ca-7078-3d2c-bd33-adf7d4ca026c"><bdi>Bread &amp; Barrels of Water</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/6c3358bb-26a1-3c44-9f6f-82d8cdc9c729"><bdi>Closer Than Veins</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/e10883ac-3ec6-43e7-b6b9-583a2317baba"><bdi>Sound of a Rebel</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/279b8a36-dda9-4a9e-923f-7a1c9259677a"><bdi>Warrior // Worrier</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/dfc16216-108b-468e-9c91-dd7f2c9cf60f"><bdi>Aicha</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/175bcdc8-c521-3949-ade6-8736284bc86e"><bdi>Guantanamo</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/b51a759f-74d6-4c14-901a-b0e111a412cf"><bdi>Callin' U (radio edit)</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/b1a4e5d2-e02a-473e-94c2-2538da10727c"><bdi>In Good Hand</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/b7780352-b62a-4862-b73e-e08f294756e8"><bdi>Look Into My Eyes</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/98f26c95-5348-4153-92a6-fa3105c7a82c"><bdi>TriumF feat. Providers</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/883f0ee7-79da-32c0-86ce-d00cfdf1e5d2"><bdi>Man binder os på mund og hånd</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/8727a5d1-fe77-464f-99f7-320d72a762be"><bdi>I Only Ask of God</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/d1067547-22c9-4055-a630-d78822b0ebea"><bdi>TriumF (Remixes)</bdi></a></td>
+        
+        <td><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38" title="Outlandish"><bdi>Outlandish</bdi></a> feat. <a href="/artist/c9e0d986-ad30-4570-a077-b67684673ff1" title="Providers"><bdi>Providers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outlandish_%28band%29.jpg/250px-Outlandish_%28band%29.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Outlandish (band).jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1997 (19 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/eb4970de-ea48-4c14-8d09-d56142b73912"><bdi>Brøndby Strand</bdi></a>, <a href="/area/3dddb678-c1db-45f8-9007-3013502b2bc7"><bdi>Capital Region of Denmark</bdi></a>, <span class="flag flag-DK"><a href="/area/4757b525-2a60-324a-b060-578765d2c993"><bdi>Denmark</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DK"><a href="/area/4757b525-2a60-324a-b060-578765d2c993"><bdi>Denmark</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000107280234">0000 0001 0728 0234    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/denmark"><bdi>denmark</bdi></a>, <a href="/tag/desi"><bdi>desi</bdi></a>, <a href="/tag/dk"><bdi>dk</bdi></a>, <a href="/tag/english"><bdi>english</bdi></a>, <a href="/tag/hip%20hop"><bdi>hip hop</bdi></a>, <a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/tags" title="Outlandish"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000419719">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/442e5e86-6151-41a4-bb6d-2e97b62f5e38">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/220035">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1688455/">IMDb</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Outlandish">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/outlandish">outlandish</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/outlandish">Rateyourmusic</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/2743">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/outlandishDK">@outlandishDK</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/outlandsofficial">outlandsofficial</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/153886537">VIAF: 153886537</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q586885">Q586885</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Outlandish">en: Outlandish</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/OutlandishTV">OutlandishTV</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/OutlandishVEVO">OutlandishVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/442e5e86-6151-41a4-bb6d-2e97b62f5e38/relationships" title="Outlandish"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F442e5e86-6151-41a4-bb6d-2e97b62f5e38">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-12-12 01:50 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

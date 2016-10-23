@@ -1,0 +1,682 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Recoil - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Alan Wilder's post-Depeche Mode project, Type: Group, Founded: 1986, Area: United Kingdom"/><script type="application/ld+json">{"@type":"MusicGroup","@context":"http://schema.org","location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"sameAs":["http://en.wikipedia.org/wiki/Recoil_(band)","http://www.allmusic.com/artist/mn0000883755","http://www.recoil.co.uk/","https://www.discogs.com/artist/9542","https://www.wikidata.org/wiki/Q1778786"],"@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","album":[{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","name":"Recoil"},"creditedTo":"Recoil","@id":"https://musicbrainz.org/release-group/be4e0687-30ea-30e6-b830-47b4a59c46b6","albumReleaseType":"http://schema.org/AlbumRelease","name":"Hydrology"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Recoil","byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"@id":"https://musicbrainz.org/release-group/028a5f67-6b9e-3649-b4fb-2062008d34be","albumReleaseType":"http://schema.org/AlbumRelease","name":"Bloodline"},{"name":"Unsound Methods","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/27f5b70b-8b56-32f0-b353-80d03444ad14","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"creditedTo":"Recoil"},{"@id":"https://musicbrainz.org/release-group/820c30d1-d872-3c37-a17c-f790f79d9ba1","albumReleaseType":"http://schema.org/AlbumRelease","name":"Liquid","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Recoil","byArtist":{"name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/26cb84df-2eff-3cf4-9e2c-29cbb61102d2","albumReleaseType":"http://schema.org/AlbumRelease","name":"subHuman","creditedTo":"Recoil","byArtist":{"@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","name":"Recoil","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","@type":"MusicGroup"},"creditedTo":"Recoil","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f9fc581b-29e5-4480-9175-27e9aab06c5b","name":"Selected"},{"name":"Recoil reMixes","@id":"https://musicbrainz.org/release-group/39526ba4-be88-4b47-aae3-ddc409973b7f","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Recoil","byArtist":{"@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","name":"Recoil","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum"},{"name":"Faith Healer","@id":"https://musicbrainz.org/release-group/d428d9f9-94b7-3186-83e8-96e8cc9259f6","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Recoil","byArtist":{"name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Drifting","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/65bfeb1f-3ce8-3fc1-a8de-297710bea1a4","byArtist":{"@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","name":"Recoil","@type":"MusicGroup"},"creditedTo":"Recoil","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Recoil","byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"@id":"https://musicbrainz.org/release-group/207bac68-bf4b-3a85-ad6b-dc1afda15e78","albumReleaseType":"http://schema.org/SingleRelease","name":"Stalker/Missing Piece"},{"byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"creditedTo":"Recoil","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"Strange Hours","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b64e1977-9c4f-38d2-ad68-16495104fd07"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","name":"Recoil"},"creditedTo":"Recoil","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/84e194d4-fafa-3e5d-8769-2876c3d87031","name":"Jezebel"},{"byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"creditedTo":"Recoil","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3780058f-db74-382d-b241-dcfc8f3b6230","albumReleaseType":"http://schema.org/SingleRelease","name":"Prey"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","name":"Recoil","@type":"MusicGroup"},"creditedTo":"Recoil","name":"The Killing Ground","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/704b64c5-9d00-4364-94a7-74dd14794be6"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Recoil","byArtist":{"@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","name":"Recoil","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/85ebff5e-4b22-4166-a1c8-2258caa68931","albumReleaseType":"http://schema.org/SingleRelease","name":"Prey / Allelujah"},{"name":"Faith Healer","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/8047fff3-172a-4fa5-b82c-acfd952036fa","creditedTo":"Recoil","byArtist":{"name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9","@type":"MusicGroup"},"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/5a122653-5506-32a8-a74e-99b99429e723","albumReleaseType":"http://schema.org/EPRelease","name":"1 \u002b 2","creditedTo":"Recoil","byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/91fd2f05-9f99-3111-b63c-3d0e48198016","albumReleaseType":"http://schema.org/EPRelease","name":"Hydrology plus 1\u002b2","byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"creditedTo":"Recoil","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/8192b4d5-c894-4e6c-b97e-858369aa59da","name":"Want: The Architect Mixes","creditedTo":"Recoil","byArtist":{"@type":"MusicGroup","name":"Recoil","@id":"https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9"},"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum"}],"member":[{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9785d4c6-0922-408b-9ca7-bf46c0548f71","name":"Alan Wilder"},"roleName":[],"@type":"OrganizationRole"}],"name":"Recoil","foundingDate":"1986"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fa4a3ecce-7ee9-4599-940a-49be61c2fee9">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fa4a3ecce-7ee9-4599-940a-49be61c2fee9">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Recoil</bdi></a> <span class="comment">(<bdi>Alan Wilder's post-Depeche Mode project</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9" title="Recoil – Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/releases" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/recordings" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/works" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Works</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/events" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Events</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/relationships" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/aliases" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/tags" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/details" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Details</bdi></a></li>            <li><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/edit" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Recoil</b> is a musical project created by former Depeche Mode member Alan Wilder. Essentially a solo venture, Recoil began whilst Wilder was still in Depeche Mode as an outlet for his experimental, less pop-oriented compositions. Once he announced his departure from the group in 1995, Recoil was transformed from a small side-project into Wilder's primary musical enterprise.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Recoil_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=329" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/be4e0687-30ea-30e6-b830-47b4a59c46b6"><bdi>Hydrology</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/028a5f67-6b9e-3649-b4fb-2062008d34be"><bdi>Bloodline</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/27f5b70b-8b56-32f0-b353-80d03444ad14"><bdi>Unsound Methods</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/820c30d1-d872-3c37-a17c-f790f79d9ba1"><bdi>Liquid</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/26cb84df-2eff-3cf4-9e2c-29cbb61102d2"><bdi>subHuman</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f9fc581b-29e5-4480-9175-27e9aab06c5b"><bdi>Selected</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/39526ba4-be88-4b47-aae3-ddc409973b7f"><bdi>Recoil reMixes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/d428d9f9-94b7-3186-83e8-96e8cc9259f6"><bdi>Faith Healer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/65bfeb1f-3ce8-3fc1-a8de-297710bea1a4"><bdi>Drifting</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/207bac68-bf4b-3a85-ad6b-dc1afda15e78"><bdi>Stalker/Missing Piece</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/b64e1977-9c4f-38d2-ad68-16495104fd07"><bdi>Strange Hours</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/84e194d4-fafa-3e5d-8769-2876c3d87031"><bdi>Jezebel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/3780058f-db74-382d-b241-dcfc8f3b6230"><bdi>Prey</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/704b64c5-9d00-4364-94a7-74dd14794be6"><bdi>The Killing Ground</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/85ebff5e-4b22-4166-a1c8-2258caa68931"><bdi>Prey / Allelujah</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/8047fff3-172a-4fa5-b82c-acfd952036fa"><bdi>Faith Healer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/5a122653-5506-32a8-a74e-99b99429e723"><bdi>1 + 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/91fd2f05-9f99-3111-b63c-3d0e48198016"><bdi>Hydrology plus 1+2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/8192b4d5-c894-4e6c-b97e-858369aa59da"><bdi>Want: The Architect Mixes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1986 (30 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/ratings" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/avant-garde"><bdi>avant-garde</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/electronica"><bdi>electronica</bdi></a>, <a href="/tag/english"><bdi>english</bdi></a>, <a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/tags" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.recoil.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000883755">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/9542">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/recoil">recoil</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/recoilofficial">recoilofficial</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1778786">Q1778786</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Recoil_(band)">en: Recoil (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/recoilofficial">recoilofficial</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/a4a3ecce-7ee9-4599-940a-49be61c2fee9/relationships" title="Recoil (Alan Wilder's post-Depeche Mode project)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fa4a3ecce-7ee9-4599-940a-49be61c2fee9">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2011-12-04 21:28 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,1457 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yello - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1979 in Zurich, Area: Switzerland"/><script type="application/ld+json">{"@type":"MusicGroup","@context":"http://schema.org","location":{"@id":"https://musicbrainz.org/area/1333ff06-8e3d-3c8e-9f3a-13a2a38b41df","name":"Switzerland","@type":"Country"},"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","sameAs":["http://en.wikipedia.org/wiki/Yello","http://isni-url.oclc.nl/isni/0000000122595816","http://musicmoz.org/Bands_and_Artists/Y/Yello/","http://viaf.org/viaf/130369790","http://www.allmusic.com/artist/mn0000683795","http://www.bbc.co.uk/music/artists/c616aef1-e21f-46f8-864f-b7bad96f41b2","http://www.secondhandsongs.com/artist/19383","http://www.worldcat.org/wcidentities/lccn-n91-115791","http://www.yello.com/","https://musicbrainz.org/artist/4952facb-263a-48d4-8256-1920e4947d96","https://rateyourmusic.com/artist/yello","https://www.discogs.com/artist/5873","https://www.wikidata.org/wiki/Q639301"],"groupOrigin":{"name":"Zurich","@id":"https://musicbrainz.org/area/e2bd38a1-c5ad-4dd4-b9a4-0632ff3be7ae","containedIn":{"name":"Zürich","@id":"https://musicbrainz.org/area/6e9c8367-459e-4271-ac33-7658cdeeb271","containedIn":{"name":"Switzerland","@id":"https://musicbrainz.org/area/1333ff06-8e3d-3c8e-9f3a-13a2a38b41df","@type":"Country"},"@type":"AdministrativeArea"},"@type":"City"},"album":[{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"creditedTo":"Yello","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fbf527de-969d-3798-855e-d0c51797840b","name":"Solid Pleasure"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6ec2e21a-2fa3-35b9-b897-4605cd8743a4","name":"Claro Que Si"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b46b86de-fe16-37b3-8756-6e0cb2b35e4f","name":"You Gotta Say Yes to Another Excess","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Stella","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8d5f179a-3bbb-3de4-bf80-eac413920317","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1686dfdb-8e3c-3a31-9cf7-f5bb796d8515","name":"One Second"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"creditedTo":"Yello","@id":"https://musicbrainz.org/release-group/5b1baa7e-59de-325e-abad-817150f66ce5","albumReleaseType":"http://schema.org/AlbumRelease","name":"Flag"},{"byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"Baby","@id":"https://musicbrainz.org/release-group/6809242d-810b-3168-9b8c-f3e9605a162f","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello","@id":"https://musicbrainz.org/release-group/02575edd-8f73-3f06-86c6-28361fdcc50c","albumReleaseType":"http://schema.org/AlbumRelease","name":"Zebra"},{"name":"Pocket Universe","@id":"https://musicbrainz.org/release-group/29f81a45-4984-38f2-afa6-c8bed2b0a5b1","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"creditedTo":"Yello","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/8ecf36ee-2ab1-39c3-9639-a7e2c0f9bf0a","albumReleaseType":"http://schema.org/AlbumRelease","name":"Motion Picture","creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/5a80b7af-7c42-4e96-bb1d-ce2f5bee72e9","albumReleaseType":"http://schema.org/AlbumRelease","name":"Zebra"},{"@id":"https://musicbrainz.org/release-group/d2b593cc-a8f3-44d2-a77e-810a14156bce","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Eye","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"creditedTo":"Yello"},{"creditedTo":"Yello","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Touch Yello","@id":"https://musicbrainz.org/release-group/c2cb2488-92fe-46e7-8504-12ef929c38f6","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"name":"Toy","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bce975ef-b3de-4758-b68a-df883e6fade2"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello","@id":"https://musicbrainz.org/release-group/7319e3ad-e169-3d18-acfb-7cd770e5887d","albumReleaseType":"http://schema.org/AlbumRelease","name":"1980-1985 The New Mix in One Go"},{"name":"Essential Yello","@id":"https://musicbrainz.org/release-group/da9af5bb-01f0-3546-bdd2-dd8265b3e72a","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"creditedTo":"Yello"},{"name":"Very Best '99","@id":"https://musicbrainz.org/release-group/bb71615b-4690-458f-adf3-0d9b8a50e352","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"}},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"name":"Collection","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/71387e5d-ef87-3213-846a-1d9293404488"},{"name":"Remaster Series","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/18a64bed-2383-4f0c-9469-067f77d2b181","creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"name":"Yello by Yello: The Anthology","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d4238abc-3afe-45d7-bf0f-3c2ad8ac6776"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello","name":"Hands on Yello","@id":"https://musicbrainz.org/release-group/561e8566-346e-33c1-ad18-4d4939e8a0bb","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Hands on Yello: The Updates","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f3e427f6-a82a-31d8-84a7-b56c257930db","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"}},{"name":"Eccentrix Remixes","@id":"https://musicbrainz.org/release-group/c6ba8e63-3f30-354f-a42e-925704599421","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"creditedTo":"Yello","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"I.T. Splash","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/815d2843-87dd-33d2-bc18-fe8f0d726898"},{"byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2dfd03c7-2333-48e0-ae70-0db3fa0f54cb","name":"I Love You"},{"name":"Let Me Cry","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/447ce5f0-20be-3287-8a1a-054625639fad","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"creditedTo":"Yello","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/6e7ab782-637c-458b-8514-c2808eaa699f","albumReleaseType":"http://schema.org/SingleRelease","name":"I Love You: Extended Dance Version for Ladies \u0026 Gents","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello"},{"name":"Desire","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c049f5fe-0678-4671-a990-988fb6bcc6c3","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"creditedTo":"Yello"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello","@id":"https://musicbrainz.org/release-group/2c739949-6a6e-49ba-af37-76c24d10e201","albumReleaseType":"http://schema.org/SingleRelease","name":"Vicious Games"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/76500a95-6932-314f-b3c6-19963eb24f35","albumReleaseType":"http://schema.org/SingleRelease","name":"Goldrush"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ce6cc75b-6c84-3936-8da6-6531064994dc","name":"Oh Yeah"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"name":"Call It Love","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/bf4cddc7-f6f7-34df-aefd-2cce7d65c9c3"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/8ef92fa0-64d8-4212-a080-11844eeb3316","name":"The Rhythm Divine","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"creditedTo":"Yello","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"name":"Call It Love","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d977d719-24ba-4fda-a027-cbdf22a7f68b","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"name":"The Race","@id":"https://musicbrainz.org/release-group/16f4bffd-1b31-378a-a674-bb10a8af22bd","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3b12606a-7e11-3f87-a3ae-da6c207696ff","albumReleaseType":"http://schema.org/SingleRelease","name":"Tied Up"},{"name":"The Race","@id":"https://musicbrainz.org/release-group/c83667fa-12d2-3971-aec1-ca2990604f30","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"Of Course I'm Lying","@id":"https://musicbrainz.org/release-group/9bf84aa1-d869-3ebb-88bb-cafb5ff11d8b","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Blazing Saddles","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b0ac75e5-9157-3099-b611-48846385fcd0","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello","name":"Rubberbandman","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6f2de902-cd94-30aa-8bbe-cc2dc43a39be"},{"byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/444321a2-73b9-488f-a711-dfe65017ddc3","name":"Who's Gone"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2fb16737-9441-3e20-8885-74446c5ba13d","name":"Jungle Bill","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"The Race / Bostich","@id":"https://musicbrainz.org/release-group/77c4bf0f-90ce-3af1-ae65-c9ab53c7d814","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"@id":"https://musicbrainz.org/release-group/654611c4-dd97-3d84-a814-e75dd0a40045","albumReleaseType":"http://schema.org/SingleRelease","name":"Bostich"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"creditedTo":"Yello","@id":"https://musicbrainz.org/release-group/9646d148-19e8-311a-a777-5cb86d60b840","albumReleaseType":"http://schema.org/SingleRelease","name":"Do It"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"name":"How How","@id":"https://musicbrainz.org/release-group/0cc1541e-b64c-3e2a-a149-7464465b3c89","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a6bdb510-c273-3d9c-b88a-39e57ec9c0ea","name":"Tremendous Pain (Suite 904)","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello"},{"name":"Jingle Bells","@id":"https://musicbrainz.org/release-group/8d537bf1-4139-3068-a657-249973aeb94f","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"creditedTo":"Yello","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},{"name":"Stina Nordenstam","@id":"https://musicbrainz.org/artist/6ac47f31-3b2e-4f95-bef0-ce869af4ee98","@type":["Person","MusicGroup"]}],"creditedTo":"Yello feat. Stina Nordenstam","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d345414d-891a-3493-a372-e8c49696a960","albumReleaseType":"http://schema.org/SingleRelease","name":"To the Sea"},{"creditedTo":"Yello","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"On Track","@id":"https://musicbrainz.org/release-group/28462ab7-042e-3571-a622-f7ce8b1a2b41","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Squeeze Please","@id":"https://musicbrainz.org/release-group/98cdca89-5ca0-3c8c-a6cf-7a268a2a66f8","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"}},{"creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/be7e046b-013a-31fd-b3e0-ce88e8b2e77f","albumReleaseType":"http://schema.org/SingleRelease","name":"Planet Dada"},{"@id":"https://musicbrainz.org/release-group/9d614b6f-2e55-40c6-9620-7fb95ac50542","albumReleaseType":"http://schema.org/SingleRelease","name":"The Eye","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Base for Alec","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d33bab75-097b-4832-a409-7b1a741df2e4"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d3a91244-b586-3ab8-a7bc-03442d459dea","name":"Don't Remix Me This Way / Tied Up in Africa","byArtist":[{"@id":"https://musicbrainz.org/artist/4ef24a03-45e8-40b3-b780-955bec848555","name":"Harold Melvin \u0026 The Blue Notes","@type":"MusicGroup"},{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"}],"creditedTo":"Harold Melvin \u0026 The Blue Notes / Yello","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"@id":"https://musicbrainz.org/release-group/29ac9cc5-7008-4b08-8356-1366cb1353f0","albumReleaseType":"http://schema.org/SingleRelease","name":"Jungle Bill"},{"byArtist":[{"name":"WestBam","@id":"https://musicbrainz.org/artist/12d5646a-b9e3-4510-ad37-5682c02a66ef","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"}],"creditedTo":"WestBam’s hands on Yello","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","name":"Bostich","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/3a70e2ed-65d3-35bc-b023-8f63cd70a88d"},{"name":"You Gotta Say Yes to Another Excess: Jam \u0026 Spoon's Hands on Yello (Great Mission)","@id":"https://musicbrainz.org/release-group/42b8e563-d89e-31d5-b04b-f29783871262","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum"},{"name":"Bostich","@id":"https://musicbrainz.org/release-group/8e441af7-4e46-4544-9638-a79804f733a6","albumReleaseType":"http://schema.org/EPRelease","creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c6a2bd37-7e36-3b18-b2ac-060134037ce4","name":"Goldrush"},{"@id":"https://musicbrainz.org/release-group/bcbd32e8-7c8f-3f41-b487-79b77b7be001","name":"Oh Yeah","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"}},{"name":"Tied Up","@id":"https://musicbrainz.org/release-group/9aaa755a-edb2-32b9-9c3e-60c9d02804a1","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"How How 4: Breaks, Beats \u0026 Loops: The DJ/Musician Edition","@id":"https://musicbrainz.org/release-group/b78079b8-2f2d-3cb7-939a-450fb4cc8236","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"}},{"name":"Oh Yeah (Super Touchdown 2012)","@id":"https://musicbrainz.org/release-group/20a07a8e-baba-412d-8bbf-09ab7be4d5d4","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Yello","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"}},{"byArtist":{"name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","@type":"MusicGroup"},"creditedTo":"Yello","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"Stereoplay: 2009","@id":"https://musicbrainz.org/release-group/60dfba61-ac71-45e0-9d3a-a576e0ad0a3d"},{"creditedTo":"Yello","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/f5505981-eea0-3bba-b3be-7a173e17ad4a","name":"Live At The Roxy N.Y. Dec 83"},{"byArtist":{"@type":"MusicGroup","name":"Yello","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2"},"creditedTo":"Yello","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","name":"Oh Yeah: Plutone's Hands on Yello","@id":"https://musicbrainz.org/release-group/93d9fe5d-619b-3c96-9a56-8d1fd71ea6c9"},{"@id":"https://musicbrainz.org/release-group/73ec66d4-8761-3e8c-ba26-08e5137cd7c5","name":"Vicious Games (vs. Hardfloor)","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello","@type":"MusicGroup"},"creditedTo":"Yello"},{"creditedTo":"Yello","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2","name":"Yello"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","name":"Oh Yeah 'Oh Six (The Remixes, Part 1)","@id":"https://musicbrainz.org/release-group/37018f81-da5f-3283-9414-43062864bdae"}],"member":[{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/463b50bc-3384-4991-b2a9-5dc573e89291","name":"Boris Blank"},"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Dieter Meier","@id":"https://musicbrainz.org/artist/b35a801b-c385-46f8-a852-25f28c1614da"}},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ef57f64e-c6c0-4ffb-854a-6ef76cb98910","name":"Carlos Perón"},"endDate":"1983","@type":"OrganizationRole"}],"name":"Yello","foundingDate":"1979"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc616aef1-e21f-46f8-864f-b7bad96f41b2">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fc616aef1-e21f-46f8-864f-b7bad96f41b2">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello – Yello"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/releases" title="Yello"><bdi>Releases</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/recordings" title="Yello"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/works" title="Yello"><bdi>Works</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/events" title="Yello"><bdi>Events</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/relationships" title="Yello"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/aliases" title="Yello"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/tags" title="Yello"><bdi>Tags</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/details" title="Yello"><bdi>Details</bdi></a></li>            <li><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/edit" title="Yello"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Yello</b> is a Swiss electronic band consisting of Dieter Meier and Boris Blank.</p>
+<p>The band is known for their 1985 single "Oh Yeah" which featured in the films <i>Ferris Bueller's Day Off</i>, <i>The Secret of My Success</i>, <i>American Pie Presents: The Book of Love</i>, <i>K-9</i>, and as the theme song for the character Duffman on <i>The Simpsons</i>.</p>
+<p>Their single "The Race" peaked at number 7 on the UK Singles Chart, and was also featured in the film Nuns on the Run.</p></div>
+<a href="https://en.wikipedia.org/wiki/Yello">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1686" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/fbf527de-969d-3798-855e-d0c51797840b"><bdi>Solid Pleasure</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/6ec2e21a-2fa3-35b9-b897-4605cd8743a4"><bdi>Claro Que Si</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/b46b86de-fe16-37b3-8756-6e0cb2b35e4f"><bdi>You Gotta Say Yes to Another Excess</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">12</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/8d5f179a-3bbb-3de4-bf80-eac413920317"><bdi>Stella</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">14</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/1686dfdb-8e3c-3a31-9cf7-f5bb796d8515"><bdi>One Second</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">13</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/5b1baa7e-59de-325e-abad-817150f66ce5"><bdi>Flag</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">17</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/6809242d-810b-3168-9b8c-f3e9605a162f"><bdi>Baby</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/02575edd-8f73-3f06-86c6-28361fdcc50c"><bdi>Zebra</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/29f81a45-4984-38f2-afa6-c8bed2b0a5b1"><bdi>Pocket Universe</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/8ecf36ee-2ab1-39c3-9639-a7e2c0f9bf0a"><bdi>Motion Picture</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/5a80b7af-7c42-4e96-bb1d-ce2f5bee72e9"><bdi>Zebra</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/d2b593cc-a8f3-44d2-a77e-810a14156bce"><bdi>The Eye</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/c2cb2488-92fe-46e7-8504-12ef929c38f6"><bdi>Touch Yello</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/bce975ef-b3de-4758-b68a-df883e6fade2"><bdi>Toy</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/7319e3ad-e169-3d18-acfb-7cd770e5887d"><bdi>1980-1985 The New Mix in One Go</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/da9af5bb-01f0-3546-bdd2-dd8265b3e72a"><bdi>Essential Yello</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/bb71615b-4690-458f-adf3-0d9b8a50e352"><bdi>Very Best '99</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/71387e5d-ef87-3213-846a-1d9293404488"><bdi>Collection</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/18a64bed-2383-4f0c-9469-067f77d2b181"><bdi>Remaster Series</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d4238abc-3afe-45d7-bf0f-3c2ad8ac6776"><bdi>Yello by Yello: The Anthology</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/561e8566-346e-33c1-ad18-4d4939e8a0bb"><bdi>Hands on Yello</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/f3e427f6-a82a-31d8-84a7-b56c257930db"><bdi>Hands on Yello: The Updates</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/c6ba8e63-3f30-354f-a42e-925704599421"><bdi>Eccentrix Remixes</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/815d2843-87dd-33d2-bc18-fe8f0d726898"><bdi>I.T. Splash</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/2dfd03c7-2333-48e0-ae70-0db3fa0f54cb"><bdi>I Love You</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/447ce5f0-20be-3287-8a1a-054625639fad"><bdi>Let Me Cry</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/6e7ab782-637c-458b-8514-c2808eaa699f"><bdi>I Love You: Extended Dance Version for Ladies &amp; Gents</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/c049f5fe-0678-4671-a990-988fb6bcc6c3"><bdi>Desire</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/2c739949-6a6e-49ba-af37-76c24d10e201"><bdi>Vicious Games</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/76500a95-6932-314f-b3c6-19963eb24f35"><bdi>Goldrush</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/ce6cc75b-6c84-3936-8da6-6531064994dc"><bdi>Oh Yeah</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/bf4cddc7-f6f7-34df-aefd-2cce7d65c9c3"><bdi>Call It Love</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/8ef92fa0-64d8-4212-a080-11844eeb3316"><bdi>The Rhythm Divine</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/d977d719-24ba-4fda-a027-cbdf22a7f68b"><bdi>Call It Love</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/16f4bffd-1b31-378a-a674-bb10a8af22bd"><bdi>The Race</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/3b12606a-7e11-3f87-a3ae-da6c207696ff"><bdi>Tied Up</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/c83667fa-12d2-3971-aec1-ca2990604f30"><bdi>The Race</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/9bf84aa1-d869-3ebb-88bb-cafb5ff11d8b"><bdi>Of Course I'm Lying</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/b0ac75e5-9157-3099-b611-48846385fcd0"><bdi>Blazing Saddles</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/6f2de902-cd94-30aa-8bbe-cc2dc43a39be"><bdi>Rubberbandman</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/444321a2-73b9-488f-a711-dfe65017ddc3"><bdi>Who's Gone</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/2fb16737-9441-3e20-8885-74446c5ba13d"><bdi>Jungle Bill</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/77c4bf0f-90ce-3af1-ae65-c9ab53c7d814"><bdi>The Race / Bostich</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/654611c4-dd97-3d84-a814-e75dd0a40045"><bdi>Bostich</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/9646d148-19e8-311a-a777-5cb86d60b840"><bdi>Do It</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/0cc1541e-b64c-3e2a-a149-7464465b3c89"><bdi>How How</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/a6bdb510-c273-3d9c-b88a-39e57ec9c0ea"><bdi>Tremendous Pain (Suite 904)</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/8d537bf1-4139-3068-a657-249973aeb94f"><bdi>Jingle Bells</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/d345414d-891a-3493-a372-e8c49696a960"><bdi>To the Sea</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a> feat. <a href="/artist/6ac47f31-3b2e-4f95-bef0-ce869af4ee98" title="Nordenstam, Stina"><bdi>Stina Nordenstam</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/28462ab7-042e-3571-a622-f7ce8b1a2b41"><bdi>On Track</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/98cdca89-5ca0-3c8c-a6cf-7a268a2a66f8"><bdi>Squeeze Please</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/be7e046b-013a-31fd-b3e0-ce88e8b2e77f"><bdi>Planet Dada</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/9d614b6f-2e55-40c6-9620-7fb95ac50542"><bdi>The Eye</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/d33bab75-097b-4832-a409-7b1a741df2e4"><bdi>Base for Alec</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/d3a91244-b586-3ab8-a7bc-03442d459dea"><bdi>Don't Remix Me This Way / Tied Up in Africa</bdi></a></td>
+        
+        <td><a href="/artist/4ef24a03-45e8-40b3-b780-955bec848555" title="Melvin, Harold &amp; Blue Notes, The"><bdi>Harold Melvin &amp; The Blue Notes</bdi></a> / <a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/29ac9cc5-7008-4b08-8356-1366cb1353f0"><bdi>Jungle Bill</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/3a70e2ed-65d3-35bc-b023-8f63cd70a88d"><bdi>Bostich</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/12d5646a-b9e3-4510-ad37-5682c02a66ef" title="WestBam – WestBam"><bdi>WestBam’s</bdi></a></span> hands on <a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/42b8e563-d89e-31d5-b04b-f29783871262"><bdi>You Gotta Say Yes to Another Excess: Jam &amp; Spoon's Hands on Yello (Great Mission)</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/8e441af7-4e46-4544-9638-a79804f733a6"><bdi>Bostich</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/c6a2bd37-7e36-3b18-b2ac-060134037ce4"><bdi>Goldrush</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/bcbd32e8-7c8f-3f41-b487-79b77b7be001"><bdi>Oh Yeah</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/9aaa755a-edb2-32b9-9c3e-60c9d02804a1"><bdi>Tied Up</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/b78079b8-2f2d-3cb7-939a-450fb4cc8236"><bdi>How How 4: Breaks, Beats &amp; Loops: The DJ/Musician Edition</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/20a07a8e-baba-412d-8bbf-09ab7be4d5d4"><bdi>Oh Yeah (Super Touchdown 2012)</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/60dfba61-ac71-45e0-9d3a-a576e0ad0a3d"><bdi>Stereoplay: 2009</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/f5505981-eea0-3bba-b3be-7a173e17ad4a"><bdi>Live At The Roxy N.Y. Dec 83</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/93d9fe5d-619b-3c96-9a56-8d1fd71ea6c9"><bdi>Oh Yeah: Plutone's Hands on Yello</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/73ec66d4-8761-3e8c-ba26-08e5137cd7c5"><bdi>Vicious Games (vs. Hardfloor)</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/37018f81-da5f-3283-9414-43062864bdae"><bdi>Oh Yeah 'Oh Six (The Remixes, Part 1)</bdi></a></td>
+        
+        <td><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2" title="Yello"><bdi>Yello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yello.svg/250px-Yello.svg.png"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Yello.svg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1979 (37 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/e2bd38a1-c5ad-4dd4-b9a4-0632ff3be7ae"><bdi>Zurich</bdi></a>, <a href="/area/6e9c8367-459e-4271-ac33-7658cdeeb271"><bdi>Zürich</bdi></a>, <span class="flag flag-CH"><a href="/area/1333ff06-8e3d-3c8e-9f3a-13a2a38b41df"><bdi>Switzerland</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-CH"><a href="/area/1333ff06-8e3d-3c8e-9f3a-13a2a38b41df"><bdi>Switzerland</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000122595816">0000 0001 2259 5816    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span>    (<a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/ratings" title="Yello"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/70s"><bdi>70s</bdi></a>, <a href="/tag/80s"><bdi>80s</bdi></a>, <a href="/tag/90s"><bdi>90s</bdi></a>, <a href="/tag/electronica"><bdi>electronica</bdi></a>, <a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/tags" title="Yello"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.yello.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000683795">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/c616aef1-e21f-46f8-864f-b7bad96f41b2">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/5873">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/yellosolidpleasure">yellosolidpleasure</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/Y/Yello/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/yello">Rateyourmusic</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/wcidentities/lccn-n91-115791">WorldCat</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/19383">SecondHandSongs</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/yello.ch">yello.ch</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/130369790">VIAF: 130369790</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q639301">Q639301</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Yello">en: Yello</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/c616aef1-e21f-46f8-864f-b7bad96f41b2/relationships" title="Yello"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc616aef1-e21f-46f8-864f-b7bad96f41b2">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-12-12 14:01 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

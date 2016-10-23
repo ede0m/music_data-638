@@ -1,0 +1,785 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Dead - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="03-15 post Grateful Dead, Type: Group, Founded: 2002-08-03 in San Francisco, Dissolved: 2015-07-05, Area: United States"/><script type="application/ld+json">{"groupOrigin":{"@type":"City","containedIn":{"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","name":"California","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"}},"@id":"https://musicbrainz.org/area/83f22bb6-4631-443c-bace-9fae8540362a","name":"San Francisco"},"dissolutionDate":"2015-07-05","album":[{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/50a985c2-e739-3831-b895-4f272dbaffb6","name":"2003-06-24 PNC Art Center - Holmdel, NJ"},{"creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/05976319-2c9c-4155-9f1a-a1c6d70df2b7","name":"2003-07-06 Red Rocks"},{"name":"2003-07-04 Spicewood, TX","@id":"https://musicbrainz.org/release-group/ea76573a-e963-42b2-ab8c-fed1c7187f4f","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"creditedTo":"The Dead"},{"@id":"https://musicbrainz.org/release-group/6bc1b25b-0707-4682-b669-1552aab7edb1","albumReleaseType":"http://schema.org/AlbumRelease","name":"2003-07-07 Red Rocks","creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"name":"2003-07-08 Red Rocks","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f68b4342-15c1-42f7-90b1-85a59325d084"},{"creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/db0e9991-de21-4622-835d-fa0bfb26f608","name":"2003-07-11 Red Rocks"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"creditedTo":"The Dead","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4f0270b2-1459-4eeb-88b3-bfc49cb243ab","name":"2003-08-09 Wantagh, NY"},{"name":"2003-08-10 Jones Beach, Wantagh, NY","@id":"https://musicbrainz.org/release-group/0aeffe06-7f88-4c8e-9884-f645c883f306","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"creditedTo":"The Dead"},{"name":"2003-09-18 Irvine, CA","@id":"https://musicbrainz.org/release-group/0169bd2e-7d5c-4d1b-9519-5076c39bb44d","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"creditedTo":"The Dead","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"2003-09-19 Mountain View, CA","@id":"https://musicbrainz.org/release-group/7f034117-8482-4a70-84d5-10f7d1f560ee","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/58f0990b-afb7-4bcf-9274-bd7ad5644fb3","albumReleaseType":"http://schema.org/AlbumRelease","name":"2003-09-21 George, WA"},{"creditedTo":"The Dead","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/4038d023-547c-47ef-8041-aa07e7f6238b","albumReleaseType":"http://schema.org/AlbumRelease","name":"2004-06-15 Red Rocks, Morrison, CO"},{"byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"creditedTo":"The Dead","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","name":"2004-06-20 Morrsion, CO","@id":"https://musicbrainz.org/release-group/7a19ef33-820f-4f04-8004-40cd71a57149","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"name":"2004-06-22 Phoenix, AZ","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f5862d17-f851-4da3-beb6-3eadd9e80ac3"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/01f87134-7fe7-4384-bdbd-7e7133fbc081","name":"2004-06-23: Chula Vista, CA","creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"creditedTo":"The Dead","name":"2004-06-24 Irvine, CA","@id":"https://musicbrainz.org/release-group/6ca3f874-515c-4282-a970-161571c17c8e","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8569145c-0101-4c4a-94d2-0d688332c5e9","name":"2004-06-26 Mountain View, CA","byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"creditedTo":"The Dead","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/56b56ef6-682a-4c2e-83a6-a78798ec0e2b","albumReleaseType":"http://schema.org/AlbumRelease","name":"2004-06-27 Marysville, CA","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"creditedTo":"The Dead","name":"2004-06-29 West Valley City, UT","@id":"https://musicbrainz.org/release-group/cd4c004c-e908-466b-9949-c732b59079a3","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"creditedTo":"The Dead","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/91c952c7-f620-496b-b9d0-d6cbbc4a6d06","name":"2004-07-01 Nampa, ID"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"creditedTo":"The Dead","@id":"https://musicbrainz.org/release-group/ce71c84b-0e24-458a-b62d-35223fbcb048","albumReleaseType":"http://schema.org/AlbumRelease","name":"2004-07-02 Portland, OR"},{"creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","name":"2004-07-25 Noblesville, IN","@id":"https://musicbrainz.org/release-group/10a2c0c4-1548-4f18-8659-e994d3434bc8","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"creditedTo":"The Dead","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","name":"2004-07-27 Clarkston, MI","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3fa1c39a-358a-4f95-9568-2bd7a4dd2a17"},{"@id":"https://musicbrainz.org/release-group/7be8a7c3-3767-493c-9df2-7795d037ffba","albumReleaseType":"http://schema.org/AlbumRelease","name":"2004-07-28 Cuyahoga Falls, OH","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"}},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"creditedTo":"The Dead","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d037d0dd-acdd-4cd1-89f0-6df0d47ec6c7","name":"2004-07-30 Mansfield, MA"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"name":"2004-07-31 Mansfield, MA","@id":"https://musicbrainz.org/release-group/d74ffd12-70f6-4bb2-9526-f25f162b7047","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"name":"2004-08-01 Saratoga Springs, NY","@id":"https://musicbrainz.org/release-group/9eac5334-46fe-4c22-b233-8a98c1365dc3","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f8fbdd1e-9a23-4872-af27-62ac659d4ef4","name":"2004-08-03 Hartford, CT","creditedTo":"The Dead","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum"},{"name":"2004-08-04 Scranton, PA","@id":"https://musicbrainz.org/release-group/a3c4431a-eb6f-46ce-8a5c-d6b0177a3883","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"creditedTo":"The Dead","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum"},{"creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9ca8781c-fd85-46f4-8c3f-039e6e7b4d26","name":"2004-08-06 Darien Center, NY"},{"creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/f192fe25-8d2c-41af-87a1-8bb3f0f16ddd","albumReleaseType":"http://schema.org/AlbumRelease","name":"2004-08-07 Camden, NJ"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e6b1f8ed-1fbf-4750-8a13-c8a15538a31d","name":"2004-08-08 Camden, NJ","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"}},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The Dead","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b5c44532-b43e-414c-89c6-de4746aa4873","name":"2004-08-10 Holmdel, NJ"},{"name":"2004-08-11 Holmdel, NJ","@id":"https://musicbrainz.org/release-group/b5b1a2d1-ddd9-4b95-8bf6-5148cbf887af","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/86605505-71ca-42df-a30c-44bbb1f9c79e","albumReleaseType":"http://schema.org/AlbumRelease","name":"2004-08-13 Wantagh, NY","byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"creditedTo":"The Dead","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"creditedTo":"The Dead","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"2004-08-14 Jones Beach, Wantagh, NY","@id":"https://musicbrainz.org/release-group/ccd87f58-d7d2-4a6b-99e2-fb18b3fb9ed2","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6ab87445-edfe-4c49-92d0-6e2ff9899fcf","name":"2004-08-15 Nissan Pavilion, Bristow, VA","creditedTo":"The Dead","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum"},{"name":"2004-08-17 Raleigh, NC","@id":"https://musicbrainz.org/release-group/a8d7dc69-e81c-4679-a932-01288d20faaa","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"The Dead","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f169010f-7da7-461c-97d0-80b186ff617e","name":"2004-08-18 Charlotte, NC","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"The Dead","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","@type":"MusicGroup"},"creditedTo":"The Dead","name":"2004-08-19 Atlanta, GA","@id":"https://musicbrainz.org/release-group/0dd40faa-5f0f-4176-8e77-0debf4378f1e","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/a3f31ec1-6287-416b-aaa4-fa21b12169cb","albumReleaseType":"http://schema.org/AlbumRelease","name":"2009-04-29 E. Rutherford, NJ","byArtist":{"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","name":"The Dead","@type":"MusicGroup"},"creditedTo":"The Dead","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum"},{"name":"2009-05-10 Mountain View, CA","@id":"https://musicbrainz.org/release-group/fd67cb3f-eb1c-4099-9beb-5cff95063842","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"The Dead","@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685"},"creditedTo":"The Dead"}],"name":"The Dead","foundingDate":"2002-08-03","member":[{"@type":"OrganizationRole","roleName":"drums","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/2d44035b-0516-44e8-8542-e9372a5a0bc8","name":"Bill Kreutzmann"}},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/915e673d-eff5-479a-a917-2fecfc26dc2e","name":"Mickey Hart"},"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c8a63580-9e6b-4852-bf93-c09760035e76","name":"Bob Weir"},"roleName":[],"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Phil Lesh","@id":"https://musicbrainz.org/artist/ea3d1341-bb3c-4784-bbf6-f71ebfd17e46"},"roleName":[],"@type":"OrganizationRole"}],"@type":"MusicGroup","@context":"http://schema.org","sameAs":["http://en.wikipedia.org/wiki/The_Dead_(band)","http://isni-url.oclc.nl/isni/0000000106673175","http://www.allmusic.com/artist/mn0002324160","http://www.allmusic.com/artist/mn0002404097","http://www.dead.net/","https://rateyourmusic.com/artist/the_dead_f2","https://www.discogs.com/artist/3391624","https://www.wikidata.org/wiki/Q1282779"],"@id":"https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685","location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F9abcbe69-fa83-4d34-8e34-ffc8c9876685">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F9abcbe69-fa83-4d34-8e34-ffc8c9876685">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685" title="Dead, The (03-15 post Grateful Dead)"><bdi>The Dead</bdi></a> <span class="comment">(<bdi>03-15 post Grateful Dead</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685" title="The Dead – Dead, The (03-15 post Grateful Dead)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/releases" title="Dead, The (03-15 post Grateful Dead)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/recordings" title="Dead, The (03-15 post Grateful Dead)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/works" title="Dead, The (03-15 post Grateful Dead)"><bdi>Works</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/events" title="Dead, The (03-15 post Grateful Dead)"><bdi>Events</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/relationships" title="Dead, The (03-15 post Grateful Dead)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/aliases" title="Dead, The (03-15 post Grateful Dead)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/tags" title="Dead, The (03-15 post Grateful Dead)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/details" title="Dead, The (03-15 post Grateful Dead)"><bdi>Details</bdi></a></li>            <li><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/edit" title="Dead, The (03-15 post Grateful Dead)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>The Dead</b> was an American rock band composed of some of the former members of the Grateful Dead.</p>
+<p>After the death of Jerry Garcia in 1995, Bob Weir, Phil Lesh, Mickey Hart, and Bill Kreutzmann formed a band called The Other Ones. They performed concert tours in 1998 (without Kreutzmann), 2000 (without Lesh), and 2002, and released one album, <i>The Strange Remain</i>. In 2003, they changed their name to The Dead.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/The_Dead_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=142030" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/50a985c2-e739-3831-b895-4f272dbaffb6"><bdi>2003-06-24 PNC Art Center - Holmdel, NJ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/05976319-2c9c-4155-9f1a-a1c6d70df2b7"><bdi>2003-07-06 Red Rocks</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ea76573a-e963-42b2-ab8c-fed1c7187f4f"><bdi>2003-07-04 Spicewood, TX</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/6bc1b25b-0707-4682-b669-1552aab7edb1"><bdi>2003-07-07 Red Rocks</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/f68b4342-15c1-42f7-90b1-85a59325d084"><bdi>2003-07-08 Red Rocks</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/db0e9991-de21-4622-835d-fa0bfb26f608"><bdi>2003-07-11 Red Rocks</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/4f0270b2-1459-4eeb-88b3-bfc49cb243ab"><bdi>2003-08-09 Wantagh, NY</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/0aeffe06-7f88-4c8e-9884-f645c883f306"><bdi>2003-08-10 Jones Beach, Wantagh, NY</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/0169bd2e-7d5c-4d1b-9519-5076c39bb44d"><bdi>2003-09-18 Irvine, CA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/7f034117-8482-4a70-84d5-10f7d1f560ee"><bdi>2003-09-19 Mountain View, CA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/58f0990b-afb7-4bcf-9274-bd7ad5644fb3"><bdi>2003-09-21 George, WA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/4038d023-547c-47ef-8041-aa07e7f6238b"><bdi>2004-06-15 Red Rocks, Morrison, CO</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/7a19ef33-820f-4f04-8004-40cd71a57149"><bdi>2004-06-20 Morrsion, CO</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f5862d17-f851-4da3-beb6-3eadd9e80ac3"><bdi>2004-06-22 Phoenix, AZ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/01f87134-7fe7-4384-bdbd-7e7133fbc081"><bdi>2004-06-23: Chula Vista, CA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/6ca3f874-515c-4282-a970-161571c17c8e"><bdi>2004-06-24 Irvine, CA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/8569145c-0101-4c4a-94d2-0d688332c5e9"><bdi>2004-06-26 Mountain View, CA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/56b56ef6-682a-4c2e-83a6-a78798ec0e2b"><bdi>2004-06-27 Marysville, CA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/cd4c004c-e908-466b-9949-c732b59079a3"><bdi>2004-06-29 West Valley City, UT</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/91c952c7-f620-496b-b9d0-d6cbbc4a6d06"><bdi>2004-07-01 Nampa, ID</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/ce71c84b-0e24-458a-b62d-35223fbcb048"><bdi>2004-07-02 Portland, OR</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/10a2c0c4-1548-4f18-8659-e994d3434bc8"><bdi>2004-07-25 Noblesville, IN</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/3fa1c39a-358a-4f95-9568-2bd7a4dd2a17"><bdi>2004-07-27 Clarkston, MI</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/7be8a7c3-3767-493c-9df2-7795d037ffba"><bdi>2004-07-28 Cuyahoga Falls, OH</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/d037d0dd-acdd-4cd1-89f0-6df0d47ec6c7"><bdi>2004-07-30 Mansfield, MA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/d74ffd12-70f6-4bb2-9526-f25f162b7047"><bdi>2004-07-31 Mansfield, MA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/9eac5334-46fe-4c22-b233-8a98c1365dc3"><bdi>2004-08-01 Saratoga Springs, NY</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f8fbdd1e-9a23-4872-af27-62ac659d4ef4"><bdi>2004-08-03 Hartford, CT</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/a3c4431a-eb6f-46ce-8a5c-d6b0177a3883"><bdi>2004-08-04 Scranton, PA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/9ca8781c-fd85-46f4-8c3f-039e6e7b4d26"><bdi>2004-08-06 Darien Center, NY</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f192fe25-8d2c-41af-87a1-8bb3f0f16ddd"><bdi>2004-08-07 Camden, NJ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/e6b1f8ed-1fbf-4750-8a13-c8a15538a31d"><bdi>2004-08-08 Camden, NJ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/b5c44532-b43e-414c-89c6-de4746aa4873"><bdi>2004-08-10 Holmdel, NJ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/b5b1a2d1-ddd9-4b95-8bf6-5148cbf887af"><bdi>2004-08-11 Holmdel, NJ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/86605505-71ca-42df-a30c-44bbb1f9c79e"><bdi>2004-08-13 Wantagh, NY</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/ccd87f58-d7d2-4a6b-99e2-fb18b3fb9ed2"><bdi>2004-08-14 Jones Beach, Wantagh, NY</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/6ab87445-edfe-4c49-92d0-6e2ff9899fcf"><bdi>2004-08-15 Nissan Pavilion, Bristow, VA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/a8d7dc69-e81c-4679-a932-01288d20faaa"><bdi>2004-08-17 Raleigh, NC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f169010f-7da7-461c-97d0-80b186ff617e"><bdi>2004-08-18 Charlotte, NC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/0dd40faa-5f0f-4176-8e77-0debf4378f1e"><bdi>2004-08-19 Atlanta, GA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/a3f31ec1-6287-416b-aaa4-fa21b12169cb"><bdi>2009-04-29 E. Rutherford, NJ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/fd67cb3f-eb1c-4099-9beb-5cff95063842"><bdi>2009-05-10 Mountain View, CA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_Dead_6.17.03.jpg/250px-The_Dead_6.17.03.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:The Dead 6.17.03.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Dead, The</dd>
+<dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2002-08-03</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/83f22bb6-4631-443c-bace-9fae8540362a"><bdi>San Francisco</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2015-07-05 (12 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000106673175">0000 0001 0667 3175    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/ratings" title="Dead, The (03-15 post Grateful Dead)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/americana"><bdi>americana</bdi></a>, <a href="/tag/folk"><bdi>folk</bdi></a>, <a href="/tag/jam"><bdi>jam</bdi></a>, <a href="/tag/psychedelic"><bdi>psychedelic</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.dead.net/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0002324160">AllMusic</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0002404097">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/3391624">Discogs</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/the_dead_f2">Rateyourmusic</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1282779">Q1282779</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/The_Dead_(band)">en: The Dead (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/9abcbe69-fa83-4d34-8e34-ffc8c9876685/relationships" title="Dead, The (03-15 post Grateful Dead)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F9abcbe69-fa83-4d34-8e34-ffc8c9876685">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-04-10 18:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

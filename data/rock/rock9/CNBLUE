@@ -1,0 +1,796 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CNBLUE - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2009-08-19 in Seoul, Area: South Korea"/><script type="application/ld+json">{"location":{"name":"South Korea","@type":"Country","@id":"https://musicbrainz.org/area/b9f7d640-46e8-313e-b158-ded6d18593b3"},"@type":"MusicGroup","name":"CNBLUE","@context":"http://schema.org","member":[{"startDate":"2009-08-19","member":{"@id":"https://musicbrainz.org/artist/21bfe797-1015-48ce-8614-716d8a0f357f","@type":["Person","MusicGroup"],"name":"이종현"},"roleName":"guitar","@type":"OrganizationRole"},{"endDate":"2009-09","member":{"@id":"https://musicbrainz.org/artist/593bf6ae-2e7a-4e85-955f-c93b32bd8a83","name":"권광진","@type":["Person","MusicGroup"]},"startDate":"2009-08-19","roleName":"bass","@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/abeaf55e-4a88-4feb-a7fd-7cd050203147","name":"이정신","@type":["Person","MusicGroup"]},"startDate":"2009-11-25","roleName":"bass","@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":"drums","member":{"@id":"https://musicbrainz.org/artist/d64e88f9-1a31-4996-a988-ecba930affb2","name":"강민혁","@type":["Person","MusicGroup"]},"startDate":"2009-08-19"},{"member":{"name":"정용화","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/daa21d16-172a-47e0-b9f8-133d83c747e7"},"startDate":"2009-08-19","roleName":["guitar","lead vocals"],"@type":"OrganizationRole"}],"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","album":[{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c91d92ec-7bba-49f4-938e-77f28ad92a2a","creditedTo":"CNBLUE","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"@type":"MusicAlbum","name":"ThankU"},{"@id":"https://musicbrainz.org/release-group/308bb8c5-8878-427e-a778-a437e19281b4","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"name":"FIRST STEP","creditedTo":"CNBLUE"},{"@id":"https://musicbrainz.org/release-group/61d43c1c-db0d-4b23-8375-d250a15fa368","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"name":"392","creditedTo":"CNBLUE"},{"name":"CODE NAME BLUE","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","creditedTo":"CNBLUE","@id":"https://musicbrainz.org/release-group/3247b32a-e683-43c1-90f3-2c153f440670","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/30b92eb9-e9f1-4a96-b12f-a7737cac8d33","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"What turns you on?","@type":"MusicAlbum","creditedTo":"CNBLUE"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/17dda6e0-d5f3-430a-9a32-d6cbe577704f","creditedTo":"CNBLUE","name":"WAVE","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum"},{"creditedTo":"CNBLUE","name":"2gether","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/609645e6-3bcf-43de-a6c6-5a25ed4c2bbf"},{"@id":"https://musicbrainz.org/release-group/6809bd88-e5ef-4323-b4f9-017cb2ae5b33","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"name":"colors","@type":"MusicAlbum","creditedTo":"CNBLUE"},{"creditedTo":"CNBLUE","name":"EUPHORIA","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9fc8a330-3da3-4d72-9fa7-b418938d72bc"},{"@id":"https://musicbrainz.org/release-group/0342e85b-5ba3-4e9d-9313-660fcd08b2e5","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"PRESENT","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","creditedTo":"CNBLUE"},{"creditedTo":"CNBLUE","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"Korea Best Album ‘Present’","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9a94b8ec-da0e-4eea-8462-1ee52fec32f0"},{"@id":"https://musicbrainz.org/release-group/d1948b6d-e939-4725-a51f-8dcec61d6b03","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","@type":"MusicGroup","name":"CNBLUE"},"@type":"MusicAlbum","name":"The Way","creditedTo":"CNBLUE"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/63e40f77-125c-4672-b915-cbc41f3d2cb3","creditedTo":"CNBLUE","name":"RE-MAINTENANCE","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"@type":"MusicAlbum"},{"byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"In My Head","@type":"MusicAlbum","creditedTo":"CNBLUE","@id":"https://musicbrainz.org/release-group/d7e32a9e-d47e-4726-98a6-293468ab99d5","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/47c9625f-13cf-4977-b5c4-5d2c1262ade9","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"Where you are","@type":"MusicAlbum","creditedTo":"CNBLUE"},{"creditedTo":"CNBLUE","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","@type":"MusicGroup","name":"CNBLUE"},"name":"Friday","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/09364717-56cb-47cc-83c7-5c59336b8661"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a2e08720-0071-4e5d-a677-2ddc875cb9a9","creditedTo":"CNBLUE","name":"Come on","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"Robot","creditedTo":"CNBLUE","@id":"https://musicbrainz.org/release-group/102c566b-f115-412a-9e73-cdf52670d58e","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"name":"Blind Love","@type":"MusicAlbum","creditedTo":"CNBLUE","@id":"https://musicbrainz.org/release-group/f847dfba-8aa6-45a9-9276-124e8e8892a3","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"CNBLUE","name":"Lady","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f2e5b6a4-9037-4bee-a4bf-f8e33cf541f2"},{"@id":"https://musicbrainz.org/release-group/bc13cad1-5154-4de4-9347-dd1bfc1be1a0","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","name":"GALAXY Music","creditedTo":"CNBLUE"},{"creditedTo":"CNBLUE","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","@type":"MusicGroup","name":"CNBLUE"},"name":"Truth","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2f787d21-3791-4207-8d73-e37767bb6dac"},{"@id":"https://musicbrainz.org/release-group/1cf156ea-6602-47ed-9208-6f6dd7540361","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","name":"Ryu Can Do It","creditedTo":"CNBLUE"},{"creditedTo":"CNBLUE","name":"Go your way","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","@type":"MusicGroup","name":"CNBLUE"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/02ee3542-6be8-441e-aa44-a005d7f7e9b7"},{"creditedTo":"CNBLUE","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"WHITE","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/640a8166-8142-4f7d-8437-680453ac7c6f"},{"@id":"https://musicbrainz.org/release-group/73c53b72-d81f-488f-b170-2dcfbce160cd","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Puzzle","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"CNBLUE"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/afa82ae1-5ac3-428d-81f1-acbf47c13b99","creditedTo":"CNBLUE","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"name":"Now or Never","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/9672b680-0156-4956-b473-54e7a67b6aa9","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","name":"VOICE","creditedTo":"CNBLUE"},{"creditedTo":"CNBLUE","name":"Bluetory","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/574c3707-e1e6-42d4-a795-ebd0095dedcf"},{"creditedTo":"CNBLUE","@type":"MusicAlbum","byArtist":{"name":"CNBLUE","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"BLUE LOVE","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/0f911094-67b4-4d53-a0f5-ced01df6e945"},{"byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","name":"CNBLUE","@type":"MusicGroup"},"@type":"MusicAlbum","name":"EAR FUN","creditedTo":"CNBLUE","@id":"https://musicbrainz.org/release-group/af49c4b6-48a2-40a8-90d2-f4409c244617","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/635fe278-c496-4196-9cd3-247baa23758b","creditedTo":"CNBLUE","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","@type":"MusicGroup","name":"CNBLUE"},"name":"Re:BLUE","@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f","@type":"MusicGroup","name":"CNBLUE"},"name":"Can't Stop","creditedTo":"CNBLUE","@id":"https://musicbrainz.org/release-group/36d21542-bf34-47a3-aeca-5d6513b64f20","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"CNBLUE","@id":"https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"},"name":"BLUEMING","creditedTo":"CNBLUE","@id":"https://musicbrainz.org/release-group/e6691126-2f16-4105-a55c-b1befc8928d8","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"}],"groupOrigin":{"@type":"City","name":"Seoul","containedIn":{"@id":"https://musicbrainz.org/area/b9f7d640-46e8-313e-b158-ded6d18593b3","@type":"Country","name":"South Korea"},"@id":"https://musicbrainz.org/area/aa03e165-4c73-4959-91c0-a99f9fa8ecab"},"foundingDate":"2009-08-19","sameAs":["http://en.wikipedia.org/wiki/CNBLUE","http://fncent.com/CNBLUE/b/introduce/1301","http://wmg.jp/artist/cnblue/","http://www.cnblue.co.kr/","http://www.generasia.com/wiki/CNBLUE","http://www.last.fm/music/CNBLUE","https://musicbrainz.org/artist/7084ed4e-6ef4-454c-8ff6-ee2a48f85c61","https://musicbrainz.org/artist/af4a2537-8c9d-42b4-978d-9d65ec6c8af7","https://www.wikidata.org/wiki/Q483172"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F555ab13f-acf4-415f-835d-1bc854e1236f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F555ab13f-acf4-415f-835d-1bc854e1236f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f" title="CNBLUE"><bdi>CNBLUE</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f" title="CNBLUE – CNBLUE"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/releases" title="CNBLUE"><bdi>Releases</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/recordings" title="CNBLUE"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/works" title="CNBLUE"><bdi>Works</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/events" title="CNBLUE"><bdi>Events</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/relationships" title="CNBLUE"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/aliases" title="CNBLUE"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/tags" title="CNBLUE"><bdi>Tags</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/details" title="CNBLUE"><bdi>Details</bdi></a></li>            <li><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/edit" title="CNBLUE"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>CNBLUE</b> (Korean: <span lang="ko">씨엔블루</span>) is a South Korean pop rock band formed in Seoul. The lineup originally consisted of Jung Yong-hwa (leader, guitar, main vocals, rap), Lee Jong-hyun (guitar, vocals), Kang Min-hyuk (drums), and Kwon Kwang-jin (bass), and they released their debut Japanese mini-album <i>Now or Never</i> in 2009. Kwon Kwang-jin left the band shortly after and was replaced by Lee Jung-shin (bass, rap).</p>
+<p>CN is an initialism for <i>Code Name</i>, while BLUE is a backronym for <i>burning</i>, <i>lovely</i>, <i>untouchable</i>, and <i>emotional</i>; it is meant to portray the images of Jong-hyun, Minh-hyuk, Jung-shin, and Yong-hwa, respectively. They released four teasers for their 1st Korean mini album <i>Bluetory</i>, starring one member per each of the videos in the sequence of Jong-hyun, Min-hyuk, Jung-shin and lastly, Yong-hwa on January 6, 8, 11 and 13, 2010 respectively. On January 14, 2010, CNBLUE debuted their first mini-album in Korea with the lead single "I'm a Loner" (<span lang="ko-Hang">외톨이야</span>). Their fan club is called "Boice".</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/CNBLUE">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=806160" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/c91d92ec-7bba-49f4-938e-77f28ad92a2a"><bdi>ThankU</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/308bb8c5-8878-427e-a778-a437e19281b4"><bdi>FIRST STEP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/61d43c1c-db0d-4b23-8375-d250a15fa368"><bdi>392</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/3247b32a-e683-43c1-90f3-2c153f440670"><bdi>CODE NAME BLUE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/30b92eb9-e9f1-4a96-b12f-a7737cac8d33"><bdi>What turns you on?</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/17dda6e0-d5f3-430a-9a32-d6cbe577704f"><bdi>WAVE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/609645e6-3bcf-43de-a6c6-5a25ed4c2bbf"><bdi>2gether</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/6809bd88-e5ef-4323-b4f9-017cb2ae5b33"><bdi>colors</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/9fc8a330-3da3-4d72-9fa7-b418938d72bc"><bdi>EUPHORIA</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/0342e85b-5ba3-4e9d-9313-660fcd08b2e5"><bdi>PRESENT</bdi></a> <span class="comment">(<bdi>JAPAN BEST ALBUM</bdi>)</span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/9a94b8ec-da0e-4eea-8462-1ee52fec32f0"><bdi>Korea Best Album ‘Present’</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d1948b6d-e939-4725-a51f-8dcec61d6b03"><bdi>The Way</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/63e40f77-125c-4672-b915-cbc41f3d2cb3"><bdi>RE-MAINTENANCE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/d7e32a9e-d47e-4726-98a6-293468ab99d5"><bdi>In My Head</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/47c9625f-13cf-4977-b5c4-5d2c1262ade9"><bdi>Where you are</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/09364717-56cb-47cc-83c7-5c59336b8661"><bdi>Friday</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/a2e08720-0071-4e5d-a677-2ddc875cb9a9"><bdi>Come on</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/102c566b-f115-412a-9e73-cdf52670d58e"><bdi>Robot</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/f847dfba-8aa6-45a9-9276-124e8e8892a3"><bdi>Blind Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/f2e5b6a4-9037-4bee-a4bf-f8e33cf541f2"><bdi>Lady</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/bc13cad1-5154-4de4-9347-dd1bfc1be1a0"><bdi>GALAXY Music</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/2f787d21-3791-4207-8d73-e37767bb6dac"><bdi>Truth</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/1cf156ea-6602-47ed-9208-6f6dd7540361"><bdi>Ryu Can Do It</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/02ee3542-6be8-441e-aa44-a005d7f7e9b7"><bdi>Go your way</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/640a8166-8142-4f7d-8437-680453ac7c6f"><bdi>WHITE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/73c53b72-d81f-488f-b170-2dcfbce160cd"><bdi>Puzzle</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/afa82ae1-5ac3-428d-81f1-acbf47c13b99"><bdi>Now or Never</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/9672b680-0156-4956-b473-54e7a67b6aa9"><bdi>VOICE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/574c3707-e1e6-42d4-a795-ebd0095dedcf"><bdi>Bluetory</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/0f911094-67b4-4d53-a0f5-ced01df6e945"><bdi>BLUE LOVE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/af49c4b6-48a2-40a8-90d2-f4409c244617"><bdi>EAR FUN</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/635fe278-c496-4196-9cd3-247baa23758b"><bdi>Re:BLUE</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/36d21542-bf34-47a3-aeca-5d6513b64f20"><bdi>Can't Stop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/e6691126-2f16-4105-a55c-b1befc8928d8"><bdi>BLUEMING</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2009-08-19 (7 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/aa03e165-4c73-4959-91c0-a99f9fa8ecab"><bdi>Seoul</bdi></a>, <span class="flag flag-KR"><a href="/area/b9f7d640-46e8-313e-b158-ded6d18593b3"><bdi>South Korea</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-KR"><a href="/area/b9f7d640-46e8-313e-b158-ded6d18593b3"><bdi>South Korea</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/ratings" title="CNBLUE"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/pop"><bdi>pop</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://wmg.jp/artist/cnblue/">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://fncent.com/CNBLUE/b/introduce/1301">Official homepage</a>
+          
+          
+        </li>               <li class="home-favicon">
+          
+          
+          <a href="http://www.cnblue.co.kr/">Official homepage</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/CNBLUE">CNBLUE</a>
+          
+          
+        </li>               <li class="generasia-favicon">
+          
+          
+          <a href="http://www.generasia.com/wiki/CNBLUE">generasia</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id469864779">iTunes</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/jp/artist/id469864779">iTunes</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/CNBLUE_4">@CNBLUE_4</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/CNBLUEOfficial">CNBLUEOfficial</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q483172">Q483172</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/CNBLUE">en: CNBLUE</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/cnblue">cnblue</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/555ab13f-acf4-415f-835d-1bc854e1236f/relationships" title="CNBLUE"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F555ab13f-acf4-415f-835d-1bc854e1236f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-10-01 10:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

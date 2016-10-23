@@ -1,0 +1,914 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Faust - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="German avant-garde group, Type: Group, Founded: 1969 in Hamburg, Area: Germany"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@context":"http://schema.org","album":[{"@id":"https://musicbrainz.org/release-group/cff68c1a-3298-390c-8445-840f8a46bd39","byArtist":{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust","@type":"MusicGroup"},"name":"Faust","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Faust","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/b04ef457-0584-42ef-b2fa-374bba9d3726","byArtist":[{"name":"Tony Conrad","@id":"https://musicbrainz.org/artist/39b56aa8-5d36-49ab-ae5e-c3aa836b6620","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"}],"name":"Outside the Dream Syndicate","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Tony Conrad with Faust","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Faust","@id":"https://musicbrainz.org/release-group/5eb73318-610f-39dd-ac16-89d88ef1341a","name":"So Far","byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"}},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Faust","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/a98fd038-9ef0-4393-8691-85e9db7457b1","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"},"name":"The Faust Tapes"},{"@id":"https://musicbrainz.org/release-group/75ec1e72-cc7d-37b6-bebd-a1131b578e7b","byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},"name":"Faust IV","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Faust","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/42c52add-dc8f-3736-9141-e716058384cd","name":"Rien","byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Faust"},{"name":"You Know Faust","byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},"@id":"https://musicbrainz.org/release-group/37eb26c0-86a7-3fd8-be70-7221e0097b1d","@type":"MusicAlbum","creditedTo":"Faust","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust","@type":"MusicGroup"},"name":"Faust Wakes Nosferatu","@id":"https://musicbrainz.org/release-group/278b40fe-4b7f-361c-923a-b5b41bb3d836","creditedTo":"Faust","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/b8c3053c-7221-3388-a716-26bcee12addb","byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},"name":"Faust Wakes Nosferatu","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Faust","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},"name":"Ravvivando","@id":"https://musicbrainz.org/release-group/3978cebf-4c8f-3edd-8767-853d3a5cdc71","creditedTo":"Faust","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/4f2c4842-f90f-476e-95d3-8e868ae4d745","name":"Dälek","@type":"MusicGroup"}],"name":"Derbe Respect, Alder","@id":"https://musicbrainz.org/release-group/9646af61-aa8f-38fe-8dcd-61995e44d441","creditedTo":"Faust vs. Dälek","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Faust \u0026 Nurse With Wound","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},{"@type":"MusicGroup","name":"Nurse With Wound","@id":"https://musicbrainz.org/artist/ac18f936-0086-4bd1-a8ea-629e2c35a906"}],"name":"Disconnected","@id":"https://musicbrainz.org/release-group/dfc626ee-83d7-4e82-8d3b-6d0a2598992e"},{"name":"C'est com... com... compliqué","byArtist":{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/c3ce0e8a-6bbd-3d23-ae38-cea097ad1c53","@type":"MusicAlbum","creditedTo":"Faust","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"name":"Schiphorst 2008","@id":"https://musicbrainz.org/release-group/954a7c55-d5c0-4c25-a62e-3b50e4ef2102","creditedTo":"Faust","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/d91d4e73-1336-4b62-b10b-a8e6d26eedf9","byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"name":"Faust Is Last","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Faust","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/612936da-50a6-4441-a1a0-a571aed542fb","name":"Something Dirty","byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Faust"},{"@id":"https://musicbrainz.org/release-group/767fe563-5adf-48b7-9aeb-7c1d57deb0bf","byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"name":"jUSt","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Faust","@type":"MusicAlbum"},{"creditedTo":"Faust","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"},"name":"Born in 1951","@id":"https://musicbrainz.org/release-group/3281c029-f096-4fe3-b9fa-d7a1040b5cb3"},{"@type":"MusicAlbum","creditedTo":"Faust","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Last LP","byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},"@id":"https://musicbrainz.org/release-group/130bcf21-7b4f-3e0c-8b1b-2dd38635d76f"},{"creditedTo":"Faust","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust","@type":"MusicGroup"},"name":"71 Minutes of ...","@id":"https://musicbrainz.org/release-group/4095ae75-0fc7-378e-844b-fcc92a1d6c71"},{"@id":"https://musicbrainz.org/release-group/eb8b7cbe-d9d0-3ea6-834c-7f4eebac6eec","byArtist":{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust","@type":"MusicGroup"},"name":"Two Classic Albums From Faust: Faust / So Far","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Faust","@type":"MusicAlbum"},{"creditedTo":"Faust","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"name":"Patchwork 1971-2002","@id":"https://musicbrainz.org/release-group/1bdfdbc6-f350-352e-afa7-627c62e98c39"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Faust","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/bd5bbb24-3c54-338f-ac60-64b26ab83457","byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"name":"The Faust Concerts, Volume 1"},{"@id":"https://musicbrainz.org/release-group/60617881-fd14-36e5-9b0f-5a84ba76b760","name":"The Faust Concerts, Volume 2","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"},"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Faust"},{"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Faust","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/68ecbc6f-df17-367c-870e-efce75434a2a","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"},"name":"The Land of Ukko \u0026 Rauni"},{"@type":"MusicAlbum","creditedTo":"Faust","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"BBC Sessions \u002b","byArtist":{"@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/45e3ddbb-eded-3e42-bffa-cfc243c0553d"},{"@id":"https://musicbrainz.org/release-group/cb7ca315-b3a9-3c60-bba5-60b1605e0065","name":"Collectif Met(z)","byArtist":{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Faust"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Faust","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/bb1098c1-7aff-3dab-b36e-85f720b39d1a","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"},"name":"Faust... In Autumn"},{"byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"name":"Kleine Welt","@id":"https://musicbrainz.org/release-group/ff4eafba-0ecc-4d5a-a987-0a5bc7b430ac","creditedTo":"Faust","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Freispiel","byArtist":{"name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/55b07888-f773-371c-ade3-fe0ef4953886","@type":"MusicAlbum","creditedTo":"Faust","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/RemixAlbum"},{"creditedTo":"Stereolab / Foetus / Faust","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"name":"Stereolab","@id":"https://musicbrainz.org/artist/f1df0431-9250-4ec8-95d8-f19ce7cf7fb6","@type":"MusicGroup"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/934c6bbc-3fc4-4d4a-9280-f02856da0e12","name":"Foetus"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"}],"name":"Überschall 1996","@id":"https://musicbrainz.org/release-group/4aed81fa-d87e-42bf-b79d-7995684a3bf3"},{"@id":"https://musicbrainz.org/release-group/991a62d0-f86f-40e0-9a33-207220390170","name":"Nummer 3","byArtist":[{"@type":"MusicGroup","name":"Faust","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd"},{"@type":"MusicGroup","name":"Dälek","@id":"https://musicbrainz.org/artist/4f2c4842-f90f-476e-95d3-8e868ae4d745"}],"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Faust vs. Dälek"},{"@type":"MusicAlbum","creditedTo":"Faust","albumProductionType":"http://schema.org/CompilationAlbum","name":"The Wümme Years 1970-73","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"},"@id":"https://musicbrainz.org/release-group/6d43e9e8-8210-33fe-babd-93cfc32ef84d"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","creditedTo":"Faust","@id":"https://musicbrainz.org/release-group/cbbefc84-3a60-3a39-bcd7-9aac5374a68a","name":"Od serca do duszy","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd","name":"Faust"}}],"name":"Faust","@type":"MusicGroup","groupOrigin":{"@id":"https://musicbrainz.org/area/11a44e18-a2e5-43a9-bee9-aa4f7c83f967","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad","name":"Germany"},"name":"Hamburg","@type":"City"},"sameAs":["http://en.wikipedia.org/wiki/Faust_(band)","http://faust-pages.com/","http://rateyourmusic.com/artist/faust","http://www.bbc.co.uk/music/artists/0568e321-d42b-4da4-a025-2643c9fc13dd","https://www.discogs.com/artist/26950","https://www.wikidata.org/wiki/Q679697"],"foundingDate":"1969","member":[{"roleName":[],"member":{"name":"Gunther Wüsthoff","@id":"https://musicbrainz.org/artist/00a0b349-f5b0-4361-a39e-8a9fb4cfc2e0","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/01ed6f3f-0d21-4552-98d4-130582abef92","name":"Lars Paukstat"},"roleName":[]},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"name":"Arnulf Meifert","@id":"https://musicbrainz.org/artist/255fd55d-01f3-4ae8-a7e5-55a753299788"},"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/40f2259b-66e8-43df-9c8c-bba6670464b2","name":"Uli Trepte"},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"member":{"name":"Jean-Hervé Peron","@id":"https://musicbrainz.org/artist/59c155d0-cfe3-4e46-b35b-a4a9a996b870","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"name":"Hans Joachim Irmler","@id":"https://musicbrainz.org/artist/722546e3-770d-4151-a4e9-629c2f010187"},"@type":"OrganizationRole","roleName":[]},{"startDate":"1997","@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/82f9ec9b-6ee4-4914-b08c-97f282efa8fa","name":"Michael Stoll","@type":["Person","MusicGroup"]},"roleName":[]},{"member":{"name":"Amaury Cambuzat","@id":"https://musicbrainz.org/artist/865ae722-e859-4215-a812-929870c64434","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","member":{"name":"Steven Wray Lobdell","@id":"https://musicbrainz.org/artist/8ab6bcca-0b2c-44aa-9aee-aeb5c420bfc1","@type":["Person","MusicGroup"]},"roleName":[]},{"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Rudolf Sosna","@id":"https://musicbrainz.org/artist/d7c8631c-8c34-4b62-9ab5-f52e408c4e56"},"roleName":[]},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/db79fd5a-fcfe-47f3-9197-cb34b22a144f","name":"Werner Diermaier"},"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e7e7e141-2ddb-4c7f-83f9-aed3ac6267ba","name":"Olivier Manchion"},"@type":"OrganizationRole","roleName":[]}],"location":{"@type":"Country","name":"Germany","@id":"https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0568e321-d42b-4da4-a025-2643c9fc13dd">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F0568e321-d42b-4da4-a025-2643c9fc13dd">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a> <span class="comment">(<bdi>German avant-garde group</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust – Faust (German avant-garde group)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/releases" title="Faust (German avant-garde group)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/recordings" title="Faust (German avant-garde group)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/works" title="Faust (German avant-garde group)"><bdi>Works</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/events" title="Faust (German avant-garde group)"><bdi>Events</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/relationships" title="Faust (German avant-garde group)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/aliases" title="Faust (German avant-garde group)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/tags" title="Faust (German avant-garde group)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/details" title="Faust (German avant-garde group)"><bdi>Details</bdi></a></li>            <li><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/edit" title="Faust (German avant-garde group)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=11051" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/cff68c1a-3298-390c-8445-840f8a46bd39"><bdi>Faust</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/b04ef457-0584-42ef-b2fa-374bba9d3726"><bdi>Outside the Dream Syndicate</bdi></a></td>
+        
+        <td><a href="/artist/39b56aa8-5d36-49ab-ae5e-c3aa836b6620" title="Conrad, Tony"><bdi>Tony Conrad</bdi></a> with <a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/5eb73318-610f-39dd-ac16-89d88ef1341a"><bdi>So Far</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/a98fd038-9ef0-4393-8691-85e9db7457b1"><bdi>The Faust Tapes</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1973</td>
+        <td><a href="/release-group/75ec1e72-cc7d-37b6-bebd-a1131b578e7b"><bdi>Faust IV</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/42c52add-dc8f-3736-9141-e716058384cd"><bdi>Rien</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/37eb26c0-86a7-3fd8-be70-7221e0097b1d"><bdi>You Know Faust</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/278b40fe-4b7f-361c-923a-b5b41bb3d836"><bdi>Faust Wakes Nosferatu</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/b8c3053c-7221-3388-a716-26bcee12addb"><bdi>Faust Wakes Nosferatu</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/3978cebf-4c8f-3edd-8767-853d3a5cdc71"><bdi>Ravvivando</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/9646af61-aa8f-38fe-8dcd-61995e44d441"><bdi>Derbe Respect, Alder</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a> vs. <a href="/artist/4f2c4842-f90f-476e-95d3-8e868ae4d745" title="Dälek"><bdi>Dälek</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/dfc626ee-83d7-4e82-8d3b-6d0a2598992e"><bdi>Disconnected</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a> &amp; <a href="/artist/ac18f936-0086-4bd1-a8ea-629e2c35a906" title="Nurse With Wound"><bdi>Nurse With Wound</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/c3ce0e8a-6bbd-3d23-ae38-cea097ad1c53"><bdi>C'est com... com... compliqué</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/954a7c55-d5c0-4c25-a62e-3b50e4ef2102"><bdi>Schiphorst 2008</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/d91d4e73-1336-4b62-b10b-a8e6d26eedf9"><bdi>Faust Is Last</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/612936da-50a6-4441-a1a0-a571aed542fb"><bdi>Something Dirty</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/767fe563-5adf-48b7-9aeb-7c1d57deb0bf"><bdi>jUSt</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/3281c029-f096-4fe3-b9fa-d7a1040b5cb3"><bdi>Born in 1951</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/130bcf21-7b4f-3e0c-8b1b-2dd38635d76f"><bdi>The Last LP</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/4095ae75-0fc7-378e-844b-fcc92a1d6c71"><bdi>71 Minutes of ...</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/eb8b7cbe-d9d0-3ea6-834c-7f4eebac6eec"><bdi>Two Classic Albums From Faust: Faust / So Far</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/1bdfdbc6-f350-352e-afa7-627c62e98c39"><bdi>Patchwork 1971-2002</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/bd5bbb24-3c54-338f-ac60-64b26ab83457"><bdi>The Faust Concerts, Volume 1</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/60617881-fd14-36e5-9b0f-5a84ba76b760"><bdi>The Faust Concerts, Volume 2</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/68ecbc6f-df17-367c-870e-efce75434a2a"><bdi>The Land of Ukko &amp; Rauni</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/45e3ddbb-eded-3e42-bffa-cfc243c0553d"><bdi>BBC Sessions +</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/cb7ca315-b3a9-3c60-bba5-60b1605e0065"><bdi>Collectif Met(z)</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/bb1098c1-7aff-3dab-b36e-85f720b39d1a"><bdi>Faust... In Autumn</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/ff4eafba-0ecc-4d5a-a987-0a5bc7b430ac"><bdi>Kleine Welt</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/55b07888-f773-371c-ade3-fe0ef4953886"><bdi>Freispiel</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/4aed81fa-d87e-42bf-b79d-7995684a3bf3"><bdi>Überschall 1996</bdi></a></td>
+        
+        <td><a href="/artist/f1df0431-9250-4ec8-95d8-f19ce7cf7fb6" title="Stereolab"><bdi>Stereolab</bdi></a> / <a href="/artist/934c6bbc-3fc4-4d4a-9280-f02856da0e12" title="Foetus"><bdi>Foetus</bdi></a> / <a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/991a62d0-f86f-40e0-9a33-207220390170"><bdi>Nummer 3</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a> vs. <a href="/artist/4f2c4842-f90f-476e-95d3-8e868ae4d745" title="Dälek"><bdi>Dälek</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/6d43e9e8-8210-33fe-babd-93cfc32ef84d"><bdi>The Wümme Years 1970-73</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/cbbefc84-3a60-3a39-bcd7-9aac5374a68a"><bdi>Od serca do duszy</bdi></a></td>
+        
+        <td><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd" title="Faust (German avant-garde group)"><bdi>Faust</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1969 (47 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/11a44e18-a2e5-43a9-bee9-aa4f7c83f967"><bdi>Hamburg</bdi></a>, <span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-DE"><a href="/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad"><bdi>Germany</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/ratings" title="Faust (German avant-garde group)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/krautrock"><bdi>krautrock</bdi></a>, <a href="/tag/progressive%20rock"><bdi>progressive rock</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/classic%20pop%20and%20rock"><bdi>classic pop and rock</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://faust-pages.com/">Official homepage</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/0568e321-d42b-4da4-a025-2643c9fc13dd">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/26950">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/faustpages">faustpages</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/faust">Rateyourmusic</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q679697">Q679697</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Faust_(band)">en: Faust (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/0568e321-d42b-4da4-a025-2643c9fc13dd/relationships" title="Faust (German avant-garde group)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0568e321-d42b-4da4-a025-2643c9fc13dd">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-04-04 15:04 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

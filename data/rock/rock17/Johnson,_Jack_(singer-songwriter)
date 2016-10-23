@@ -1,0 +1,926 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jack Johnson - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="singer-songwriter, Type: Person, Gender: Male, Born: 1975-05-18 in Hauʻula, Area: United States"/><script type="application/ld+json">{"location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"sameAs":["http://en.wikipedia.org/wiki/Jack_Johnson_(musician)","http://isni-url.oclc.nl/isni/0000000116691916","http://jackjohnsonmusic.com/","http://musicmoz.org/Bands_and_Artists/J/Johnson,_Jack/","http://rateyourmusic.com/artist/jack_johnson","http://viaf.org/viaf/71599805","http://www.allmusic.com/artist/mn0000120010","http://www.bbc.co.uk/music/artists/ff6e677f-91dd-4986-a174-8db0474b1799","http://www.imdb.com/name/nm0425273/","http://www.last.fm/music/Jack\u002bJohnson","http://www.musik-sammler.de/artist/9744","http://www.secondhandsongs.com/artist/25301","https://musicbrainz.org/artist/9d1ffba4-1f02-41f2-af57-5076bda2a531","https://www.discogs.com/artist/167366","https://www.wikidata.org/wiki/Q297097"],"birthPlace":{"@id":"https://musicbrainz.org/area/76944c2b-982f-46fb-9917-b998e1f51473","name":"Hauʻula","@type":"City","containedIn":{"name":"Hawaii","@id":"https://musicbrainz.org/area/1b420c08-51a5-4bdd-9b0e-cd601703d20b","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States"},"@type":"AdministrativeArea"}},"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","album":[{"byArtist":{"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","name":"Brushfire Fairytales","@id":"https://musicbrainz.org/release-group/df1bcf92-b690-38ab-bbc5-487a7dc2b688","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Jack Johnson"},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"On and On","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d91ffce6-1c11-34cd-9282-049d85fda780","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"In Between Dreams","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/20151063-d6d9-3131-91ac-5c4a7a0f5f01","byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"},"creditedTo":"Jack Johnson","@type":"MusicAlbum"},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e1db2c2d-cd56-3920-8513-ea276a7d5035","name":"Sleep Through the Static","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"@id":"https://musicbrainz.org/release-group/1ea155b4-ae1c-4468-9ac4-c9c989ba7212","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"To the Sea","@type":"MusicAlbum","creditedTo":"Jack Johnson"},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","byArtist":{"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/49a258c3-37b8-4606-a067-abdf793e0416","albumReleaseType":"http://schema.org/AlbumRelease","name":"From Here to Now to You","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson","@type":["Person","MusicGroup"]},"name":"iTunes Originals","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a43cc307-114d-4b2b-9ef7-df54765f2066"},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","@id":"https://musicbrainz.org/release-group/6ace3a24-cb5a-35e8-be3f-0ac577250c92","albumReleaseType":"http://schema.org/AlbumRelease","name":"Greatest Hits","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson","@type":["Person","MusicGroup"]}},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","name":"The Best Jack Johnson","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e12724f9-779f-3866-938c-392aff583ff6","byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"}},{"@id":"https://musicbrainz.org/release-group/fd5cd205-b32c-458c-a0c4-09679c04cf02","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"2005-08-05: Dodge Theatre, Phoenix, AZ, USA","byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"},"creditedTo":"Jack Johnson","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"name":"A Weekend At The Greek / Live In Japan","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/311759b0-50be-4c9d-88d3-9f08174641b9","creditedTo":"Jack Johnson","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/af03e365-ff1c-3aa1-823c-d41824ac82e5","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live From the Kokua Festival","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"@type":"MusicAlbum","creditedTo":"Jack Johnson"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/05b12dc5-d8ed-4054-9235-51f042b11685","albumProductionType":"http://schema.org/LiveAlbum","name":"En Concert","@type":"MusicAlbum","creditedTo":"Jack Johnson"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6611b60b-347c-4965-bde6-7d3e3d024bd3","name":"Best of Kokua Festival","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"@type":"MusicAlbum","creditedTo":"Jack Johnson \u0026 Friends"},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","@id":"https://musicbrainz.org/release-group/e54d4df5-8366-3abb-a08f-96a7f398d97f","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Live House of Blues","byArtist":{"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","@type":["Person","MusicGroup"]}},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"name":"Moonshine Festival","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/e3ee89fe-1c0e-3905-bf12-f5bebd923871","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"albumProductionType":"http://schema.org/SoundtrackAlbum","name":"Sing-A-Longs and Lullabies for the Film Curious George","@id":"https://musicbrainz.org/release-group/1b3e86f5-5a97-39e5-bb4f-5277d814e709","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/45b46b8e-d511-3683-b549-613e8ae7ab01","name":"Flake","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"},"creditedTo":"Jack Johnson","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","byArtist":{"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/8036f2b7-b708-31e4-b366-22e5c03af0e9","albumReleaseType":"http://schema.org/SingleRelease","name":"Sitting, Waiting, Wishing","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1eaf59f7-b8cb-37bf-940f-a829955e6478","albumProductionType":"http://schema.org/StudioAlbum","name":"Taylor","@type":"MusicAlbum","creditedTo":"Jack Johnson"},{"@id":"https://musicbrainz.org/release-group/e9d543f2-ac5e-44e0-ba2e-ec893907726a","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Better Together","byArtist":{"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","creditedTo":"Jack Johnson"},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","byArtist":{"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","name":"If I Had Eyes","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/9551f827-1076-3dba-ac0c-5ed72b6938f4"},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson"},"@id":"https://musicbrainz.org/release-group/aacde1f7-0a65-480f-9388-e3b8d6df3595","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"You and Your Heart"},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","byArtist":{"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/f8dbbe6f-51c5-4700-a795-28056fd9823c","albumProductionType":"http://schema.org/StudioAlbum","name":"In the Morning"},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","name":"Jack Johnson","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/abad4111-67fd-30c7-84cc-66bb65169787","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"The Horizon Has Been Defeated"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"},"name":"Upside Down","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c3b2f0af-5146-3e9f-9f8a-d255316683d4","@type":"MusicAlbum","creditedTo":"Jack Johnson"},{"@type":"MusicAlbum","creditedTo":"Jack Johnson","byArtist":{"@type":["Person","MusicGroup"],"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/e76c347e-d7c4-3def-8209-041ba1011c13","albumProductionType":"http://schema.org/StudioAlbum","name":"Rolling Stone Original"},{"creditedTo":"Jack Johnson","@type":"MusicAlbum","byArtist":{"name":"Jack Johnson","@id":"https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/673de47d-6b44-4043-9b68-2339269b4b3d","name":"2010-08-18: The Cynthia Woods-Mitchell Pavilion, The Woodlands, TX, USA","albumProductionType":"http://schema.org/LiveAlbum"}],"birthDate":"1975-05-18","@context":"http://schema.org"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fff6e677f-91dd-4986-a174-8db0474b1799">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fff6e677f-91dd-4986-a174-8db0474b1799">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a> <span class="comment">(<bdi>singer-songwriter</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Jack Johnson – Johnson, Jack (singer-songwriter)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/releases" title="Johnson, Jack (singer-songwriter)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/recordings" title="Johnson, Jack (singer-songwriter)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/works" title="Johnson, Jack (singer-songwriter)"><bdi>Works</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/events" title="Johnson, Jack (singer-songwriter)"><bdi>Events</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/relationships" title="Johnson, Jack (singer-songwriter)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/aliases" title="Johnson, Jack (singer-songwriter)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/tags" title="Johnson, Jack (singer-songwriter)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/details" title="Johnson, Jack (singer-songwriter)"><bdi>Details</bdi></a></li>            <li><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/edit" title="Johnson, Jack (singer-songwriter)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+        <p><strong>Legal name:</strong> Jack Hody Johnson</p>
+    
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Jack Hody Johnson</b> (born May 18, 1975) is an American singer-songwriter, musician, actor, record producer, documentary filmmaker and a former professional surfer. Johnson is known primarily for his work in the soft rock and acoustic genres. In 2001, he achieved commercial success after the release of his debut album, <i>Brushfire Fairytales</i>. Johnson has hit the <i>Billboard</i> 200 #1 chart for the albums: <i>Curious George (Soundtrack)</i> in 2006, <i>Sleep Through The Static</i> in 2008, <i>To the Sea</i> in 2010, and <i>From Here to Now to You</i> in 2013 - 2014. Johnson's <i>In Between Dreams</i> album peaked at #2 in 2005 and again in 2013 on the <i>Billboard</i> 200.</p>
+<p>Johnson is active in the ecology and sustainability movement, often with an ocean-centric focus. Johnson and wife Kim created the Johnson Ohana Charitable Foundation and the Kōkua Hawaii Foundation. In 2008 Johnson adopted the concept of greening (reduce and reuse), and donated 100% of the proceeds of the <i>Sleep Through the Static</i> tour to the Johnson Ohana Charitable Foundation. Similarly, the proceeds from the 2010 <i>To The Sea</i> album tour went to All At Once, a Johnson backed collaborative of greening charities promoting fan involvement.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Jack_Johnson_%28musician%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=24227" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/df1bcf92-b690-38ab-bbc5-487a7dc2b688"><bdi>Brushfire Fairytales</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/d91ffce6-1c11-34cd-9282-049d85fda780"><bdi>On and On</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/20151063-d6d9-3131-91ac-5c4a7a0f5f01"><bdi>In Between Dreams</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/e1db2c2d-cd56-3920-8513-ea276a7d5035"><bdi>Sleep Through the Static</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/1ea155b4-ae1c-4468-9ac4-c9c989ba7212"><bdi>To the Sea</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/49a258c3-37b8-4606-a067-abdf793e0416"><bdi>From Here to Now to You</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/a43cc307-114d-4b2b-9ef7-df54765f2066"><bdi>iTunes Originals</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/6ace3a24-cb5a-35e8-be3f-0ac577250c92"><bdi>Greatest Hits</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e12724f9-779f-3866-938c-392aff583ff6"><bdi>The Best Jack Johnson</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/fd5cd205-b32c-458c-a0c4-09679c04cf02"><bdi>2005-08-05: Dodge Theatre, Phoenix, AZ, USA</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/311759b0-50be-4c9d-88d3-9f08174641b9"><bdi>A Weekend At The Greek / Live In Japan</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/af03e365-ff1c-3aa1-823c-d41824ac82e5"><bdi>Live From the Kokua Festival</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/05b12dc5-d8ed-4054-9235-51f042b11685"><bdi>En Concert</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/6611b60b-347c-4965-bde6-7d3e3d024bd3"><bdi>Best of Kokua Festival</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Jack Johnson – Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson &amp; Friends</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e54d4df5-8366-3abb-a08f-96a7f398d97f"><bdi>Live House of Blues</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/e3ee89fe-1c0e-3905-bf12-f5bebd923871"><bdi>Moonshine Festival</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/1b3e86f5-5a97-39e5-bb4f-5277d814e709"><bdi>Sing-A-Longs and Lullabies for the Film Curious George</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/45b46b8e-d511-3683-b549-613e8ae7ab01"><bdi>Flake</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/8036f2b7-b708-31e4-b366-22e5c03af0e9"><bdi>Sitting, Waiting, Wishing</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/1eaf59f7-b8cb-37bf-940f-a829955e6478"><bdi>Taylor</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/e9d543f2-ac5e-44e0-ba2e-ec893907726a"><bdi>Better Together</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/9551f827-1076-3dba-ac0c-5ed72b6938f4"><bdi>If I Had Eyes</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/aacde1f7-0a65-480f-9388-e3b8d6df3595"><bdi>You and Your Heart</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/f8dbbe6f-51c5-4700-a795-28056fd9823c"><bdi>In the Morning</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/abad4111-67fd-30c7-84cc-66bb65169787"><bdi>The Horizon Has Been Defeated</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/c3b2f0af-5146-3e9f-9f8a-d255316683d4"><bdi>Upside Down</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/e76c347e-d7c4-3def-8209-041ba1011c13"><bdi>Rolling Stone Original</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/673de47d-6b44-4043-9b68-2339269b4b3d"><bdi>2010-08-18: The Cynthia Woods-Mitchell Pavilion, The Woodlands, TX, USA</bdi></a></td>
+        
+        <td><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799" title="Johnson, Jack (singer-songwriter)"><bdi>Jack Johnson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/ff6e677f-91dd-4986-a174-8db0474b1799?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bonnaroo08_jackjohnson2_lg.jpg/250px-Bonnaroo08_jackjohnson2_lg.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Bonnaroo08 jackjohnson2 lg.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Johnson, Jack</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1975-05-18 (41 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/76944c2b-982f-46fb-9917-b998e1f51473"><bdi>Hauʻula</bdi></a>, <a href="/area/1b420c08-51a5-4bdd-9b0e-cd601703d20b"><bdi>Hawaii</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000116691916">0000 0001 1669 1916    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/ratings" title="Johnson, Jack (singer-songwriter)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/folk"><bdi>folk</bdi></a>, <a href="/tag/acoustic"><bdi>acoustic</bdi></a>, <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/pop"><bdi>pop</bdi></a>, <a href="/tag/pop%20and%20chart"><bdi>pop and chart</bdi></a>, <a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/tags" title="Johnson, Jack (singer-songwriter)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://jackjohnsonmusic.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000120010">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/ff6e677f-91dd-4986-a174-8db0474b1799">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/167366">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm0425273/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Jack+Johnson">Jack Johnson</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Jack_Johnson">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/jackjohnsonmusic">jackjohnsonmusic</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/J/Johnson,_Jack/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/jack_johnson">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/9744">Musik-Sammler</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/jackjohnson">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/25301">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/jackjohnson">@jackjohnson</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/jackjohnson">jackjohnson</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/71599805">VIAF: 71599805</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q297097">Q297097</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Jack_Johnson_(musician)">en: Jack Johnson (musician)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/jackjohnsonmusic">jackjohnsonmusic</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/JackJohnsonVEVO">JackJohnsonVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/ff6e677f-91dd-4986-a174-8db0474b1799/relationships" title="Johnson, Jack (singer-songwriter)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fff6e677f-91dd-4986-a174-8db0474b1799">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-12-08 11:01 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

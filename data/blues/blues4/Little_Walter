@@ -1,0 +1,983 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Little Walter - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1930-05-01 in Marksville, Died: 1968-02-15 in Chicago, Area: United States"/><script type="application/ld+json">{"deathPlace":{"@id":"https://musicbrainz.org/area/29a709d8-0320-493e-8d0c-f2c386662b7f","containedIn":{"name":"Illinois","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"@id":"https://musicbrainz.org/area/8c2196d9-b7be-4051-90d1-ac81895355f1"},"@type":"City","name":"Chicago"},"alternateName":["Marion Walter Jacobs"],"sameAs":["http://viaf.org/viaf/7574546","http://www.allmusic.com/artist/mn0000824599","http://www.bbc.co.uk/music/artists/5545a012-0977-46ff-9d69-39bf5952616f","http://www.last.fm/music/Little%20Walter","http://www.secondhandsongs.com/artist/2535","https://en.wikipedia.org/wiki/Little_Walter","https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","https://musicbrainz.org/artist/67c99eec-f58b-4513-9121-88197f1915a0","https://musicbrainz.org/artist/92927d06-4025-41f5-a4bd-8df0d45114dd","https://musicbrainz.org/artist/f2f7c9e7-343f-4557-8465-4aef94a9a31f","https://rateyourmusic.com/artist/little_walter","https://www.discogs.com/artist/340688","https://www.wikidata.org/wiki/Q380261"],"birthPlace":{"name":"Marksville","@type":"City","containedIn":{"@id":"https://musicbrainz.org/area/fc68ecf5-507e-4012-b60b-d93747a3cfa7","name":"Louisiana","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"}},"@id":"https://musicbrainz.org/area/03aa5b14-2694-489b-8610-7a48a03bc17c"},"deathDate":"1968-02-15","@type":["Person","MusicGroup"],"location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@context":"http://schema.org","album":[{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"name":"Boss Blues Harmonica","creditedTo":"Little Walter","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/25dd048b-d45c-35d1-afcb-6c776c45693b"},{"name":"Hate to See You Go","creditedTo":"Little Walter","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/277b3437-5552-36ba-823f-112113463418","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"creditedTo":"Little Walter","name":"The Electric Harmonica Genius","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1ff7b6fe-e003-413d-94c6-e3eee4d20d38","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f4c121d9-466c-4051-8c97-6e378d575690","creditedTo":"Little Walter","name":"Blues With a Feeling","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Super Blues","creditedTo":"Bo Diddley, Muddy Waters \u0026 Little Walter","byArtist":[{"name":"Bo Diddley","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bf659d74-0b61-488c-8a7d-594f43bed9e0"},{"@type":["Person","MusicGroup"],"name":"Muddy Waters","@id":"https://musicbrainz.org/artist/f86f1f07-d182-45ce-ae93-ef610880ca72"},{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"}],"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/10b45add-7b9e-37ee-8dc3-11839f329e46"},{"@id":"https://musicbrainz.org/release-group/475d89ae-66ec-3ba1-b0a5-dafa32a7be53","albumProductionType":"http://schema.org/StudioAlbum","name":"Confessin' the Blues","creditedTo":"Little Walter","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"creditedTo":"Little Walter","name":"Juke","@id":"https://musicbrainz.org/release-group/a0d1c562-e9da-34dd-9914-23118702008c","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/ceea64bb-f442-4871-91a7-de01f876370a","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"name":"My Babe","creditedTo":"Little Walter","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/56295155-82e5-329c-a5b9-adeda96dcfad","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/40ee7c92-f44a-4d14-9aee-f87244465ee4","@type":["Person","MusicGroup"],"name":"Otis Rush"},{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"}],"name":"Windy City Blues","creditedTo":"Otis Rush \u0026 Little Walter","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Best of Little Walter","creditedTo":"Little Walter","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/16bad57a-456a-3579-92ca-651411e71a9e","albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Best of Little Walter, Volume Two","creditedTo":"Little Walter","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"@id":"https://musicbrainz.org/release-group/ceed6800-b36d-34c2-928b-07ecfb16eb6b","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"creditedTo":"Little Walter","name":"Charly Blues Masterworks, Volume 23: Blues With a Feeling","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/453d6922-8307-3a35-a72b-fc0be8a5d625"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"name":"The Chess Years 1952-1963","creditedTo":"Little Walter","@id":"https://musicbrainz.org/release-group/cfb855cd-9bb6-4eaa-829c-2276d76f14fd","albumProductionType":"http://schema.org/CompilationAlbum"},{"creditedTo":"Little Walter","name":"The Essential Little Walter","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bed745d3-d428-3d7d-867a-10e36a7d9f81","albumProductionType":"http://schema.org/CompilationAlbum"},{"name":"Blues Masters","creditedTo":"Little Walter / Otis Rush","byArtist":[{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},{"name":"Otis Rush","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/40ee7c92-f44a-4d14-9aee-f87244465ee4"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/78c79ace-331d-4185-bad0-06934f97167f","albumProductionType":"http://schema.org/CompilationAlbum"},{"creditedTo":"Little Walter","name":"The Blues Collection: Little Walter, Boss Blues Harmonica","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0fd6526e-c25a-3f28-b989-316456194175","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Little Walter","name":"Confessin' the Blues","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"@id":"https://musicbrainz.org/release-group/4f18d54f-f284-3094-9276-8be5b38e37d7","albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"name":"His Best","creditedTo":"Little Walter","@id":"https://musicbrainz.org/release-group/e7471d69-17f1-33f0-a357-45b182ef75ff","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/74c512a0-966e-3379-b90f-20e7900cf76c","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"creditedTo":"Little Walter","name":"Blues With a Feeling","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/4bb45385-99b0-4961-8803-024d1ca058c7","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Blues With a Feeling","creditedTo":"Little Walter","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"}},{"@id":"https://musicbrainz.org/release-group/7b4295ad-938f-4b9f-9236-5f37f769b557","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"name":"Blowin' the Blues","creditedTo":"Little Walter"},{"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/a18af959-2301-45fb-9a30-aebddc066a7a","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"name":"The Complete Chess Masters (1950-1967): Little Walter","creditedTo":"Little Walter"},{"@id":"https://musicbrainz.org/release-group/cb61bdfb-ce4f-4e0d-aa36-ec7242269eee","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Little Walter","name":"Rock Bottom","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"name":"Little Walter","creditedTo":"Little Walter","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/f5c4d0f5-17c0-3fa0-bbd7-1c2fbb32028e"},{"byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"creditedTo":"Little Walter","name":"Juke / Can't Hold On Much Longer","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/56e9e877-c52c-3a7e-950f-8184ce4f717a","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/99fbfe7d-b0b6-3e08-9125-d83dcf72035f","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"name":"Sad Hours / Mean Old World","creditedTo":"Little Walter"},{"name":"Tell Me Mama / Off the Wall","creditedTo":"Little Walter","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9b01b75a-6b0a-3a74-be5f-cdeac20d17c8"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/63b673e1-573c-34dc-acb8-18396981f2ce","creditedTo":"Little Walter","name":"Blues With a Feeling / Quarter to Twelve","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/f6531943-0fb3-4ee3-b1e1-27e6a26d4d59","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Little Walter","name":"You're So Fine / Lights Out","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"}},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Don't Have to Hunt No More / Tonight With a Fool","creditedTo":"Little Walter","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"@id":"https://musicbrainz.org/release-group/75fd43a9-dbae-46c7-a6bd-281285466571","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Little Walter","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f"},"name":"You'd Better Watch Yourself / Blue Light","creditedTo":"Little Walter","@id":"https://musicbrainz.org/release-group/401e83af-1eec-38a2-b564-43b60b59659f","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Little Walter","name":"Last Night / Mellow Down Easy","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5e6553b6-0d75-33f1-a76d-e8cfc51cd892"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"name":"My Babe / Thunderbird","creditedTo":"Little Walter","@id":"https://musicbrainz.org/release-group/4688d9d2-c180-3f5e-bbcd-82e362141224","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Roller Coaster / I Got to Go","creditedTo":"Little Walter","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/30e3e453-4841-3e3f-9ecf-139a8cf7906f"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a210407d-78a4-3801-a868-6059faa18537","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"creditedTo":"Little Walter","name":"Too Late / I Hate to See You Go","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/aca9372a-e222-4a7a-8479-15741109ba64","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"name":"Just a Feeling / Teenage Beat","creditedTo":"Little Walter","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Little Walter","name":"Take Me Back / It's Too Late Brother","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/d58d7ef2-4c15-4803-aa45-ba23fadfb5e0","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/0d351c44-e3c1-3bd3-805f-b9db69060723","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Little Walter","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58"},"name":"Who / It Ain't Right","creditedTo":"Little Walter","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Boom, Boom, Out Goes the Lights / Temperature","creditedTo":"Little Walter","byArtist":{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},"@id":"https://musicbrainz.org/release-group/2d7f07da-f0d2-3110-b195-1d8921276f02","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Little Walter","name":"Ah'w Baby / I Had My Fun","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/46663652-a59c-4575-81bd-d4db469a20e0"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"creditedTo":"Little Walter","name":"Crazy Legs / Crazy for My Baby","@id":"https://musicbrainz.org/release-group/347d84a5-d97d-36e3-9c7e-8a47c66dc430","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"name":"Just Your Fool / I Got to Find My Baby","creditedTo":"Little Walter","@id":"https://musicbrainz.org/release-group/75d23948-8ace-49ba-931b-1b09131e116c","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Little Walter","name":"Diggin' My Potatoes / Snake Dancer","byArtist":{"@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","name":"Little Walter","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/870e4961-0451-452b-922c-8c8524681440","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","creditedTo":"Muddy Waters / Little Walter / Howlin’ Wolf","name":"We Three Kings","byArtist":[{"@id":"https://musicbrainz.org/artist/f86f1f07-d182-45ce-ae93-ef610880ca72","name":"Muddy Waters","@type":["Person","MusicGroup"]},{"sameAs":"https://musicbrainz.org/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58","@id":"https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f","@type":["Person","MusicGroup"],"name":"Little Walter"},{"@type":["Person","MusicGroup"],"name":"Howlin’ Wolf","@id":"https://musicbrainz.org/artist/ca5b38c2-f39d-45a4-ad3d-daf4448846ef"}],"albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/eb66579a-f765-4a3e-bd80-75b75c920654"}],"birthDate":"1930-05-01","name":"Little Walter"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5545a012-0977-46ff-9d69-39bf5952616f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5545a012-0977-46ff-9d69-39bf5952616f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter – Little Walter"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/releases" title="Little Walter"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/recordings" title="Little Walter"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/works" title="Little Walter"><bdi>Works</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/events" title="Little Walter"><bdi>Events</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/relationships" title="Little Walter"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/aliases" title="Little Walter"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/tags" title="Little Walter"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/details" title="Little Walter"><bdi>Details</bdi></a></li>            <li><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/edit" title="Little Walter"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/0cc739a4-c26d-487c-ae53-90cf44e0ed58" title="Jacobs, Marion Walter (legal name of Little Walter)"><bdi>Marion Walter Jacobs</bdi></a> <span class="comment">(<bdi>legal name of Little Walter</bdi>)</span></p>
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=32032" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/25dd048b-d45c-35d1-afcb-6c776c45693b"><bdi>Boss Blues Harmonica</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/277b3437-5552-36ba-823f-112113463418"><bdi>Hate to See You Go</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/1ff7b6fe-e003-413d-94c6-e3eee4d20d38"><bdi>The Electric Harmonica Genius</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/f4c121d9-466c-4051-8c97-6e378d575690"><bdi>Blues With a Feeling</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/10b45add-7b9e-37ee-8dc3-11839f329e46"><bdi>Super Blues</bdi></a></td>
+        
+        <td><a href="/artist/bf659d74-0b61-488c-8a7d-594f43bed9e0" title="Diddley, Bo"><bdi>Bo Diddley</bdi></a>, <a href="/artist/f86f1f07-d182-45ce-ae93-ef610880ca72" title="Muddy Waters"><bdi>Muddy Waters</bdi></a> &amp; <a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/475d89ae-66ec-3ba1-b0a5-dafa32a7be53"><bdi>Confessin' the Blues</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/a0d1c562-e9da-34dd-9914-23118702008c"><bdi>Juke</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/ceea64bb-f442-4871-91a7-de01f876370a"><bdi>My Babe</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/56295155-82e5-329c-a5b9-adeda96dcfad"><bdi>Windy City Blues</bdi></a></td>
+        
+        <td><a href="/artist/40ee7c92-f44a-4d14-9aee-f87244465ee4" title="Rush, Otis"><bdi>Otis Rush</bdi></a> &amp; <a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1967</td>
+        <td><a href="/release-group/16bad57a-456a-3579-92ca-651411e71a9e"><bdi>The Best of Little Walter</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/ceed6800-b36d-34c2-928b-07ecfb16eb6b"><bdi>The Best of Little Walter, Volume Two</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/453d6922-8307-3a35-a72b-fc0be8a5d625"><bdi>Charly Blues Masterworks, Volume 23: Blues With a Feeling</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/cfb855cd-9bb6-4eaa-829c-2276d76f14fd"><bdi>The Chess Years 1952-1963</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/bed745d3-d428-3d7d-867a-10e36a7d9f81"><bdi>The Essential Little Walter</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/78c79ace-331d-4185-bad0-06934f97167f"><bdi>Blues Masters</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a> / <a href="/artist/40ee7c92-f44a-4d14-9aee-f87244465ee4" title="Rush, Otis"><bdi>Otis Rush</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/0fd6526e-c25a-3f28-b989-316456194175"><bdi>The Blues Collection: Little Walter, Boss Blues Harmonica</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/4f18d54f-f284-3094-9276-8be5b38e37d7"><bdi>Confessin' the Blues</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/e7471d69-17f1-33f0-a357-45b182ef75ff"><bdi>His Best</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/74c512a0-966e-3379-b90f-20e7900cf76c"><bdi>Blues With a Feeling</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/4bb45385-99b0-4961-8803-024d1ca058c7"><bdi>Blues With a Feeling</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/7b4295ad-938f-4b9f-9236-5f37f769b557"><bdi>Blowin' the Blues</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/a18af959-2301-45fb-9a30-aebddc066a7a"><bdi>The Complete Chess Masters (1950-1967): Little Walter</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/cb61bdfb-ce4f-4e0d-aa36-ec7242269eee"><bdi>Rock Bottom</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f5c4d0f5-17c0-3fa0-bbd7-1c2fbb32028e"><bdi>Little Walter</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1952</td>
+        <td><a href="/release-group/56e9e877-c52c-3a7e-950f-8184ce4f717a"><bdi>Juke / Can't Hold On Much Longer</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1952</td>
+        <td><a href="/release-group/99fbfe7d-b0b6-3e08-9125-d83dcf72035f"><bdi>Sad Hours / Mean Old World</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1953</td>
+        <td><a href="/release-group/9b01b75a-6b0a-3a74-be5f-cdeac20d17c8"><bdi>Tell Me Mama / Off the Wall</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1953</td>
+        <td><a href="/release-group/63b673e1-573c-34dc-acb8-18396981f2ce"><bdi>Blues With a Feeling / Quarter to Twelve</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1953</td>
+        <td><a href="/release-group/f6531943-0fb3-4ee3-b1e1-27e6a26d4d59"><bdi>You're So Fine / Lights Out</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1953</td>
+        <td><a href="/release-group/75fd43a9-dbae-46c7-a6bd-281285466571"><bdi>Don't Have to Hunt No More / Tonight With a Fool</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1954</td>
+        <td><a href="/release-group/401e83af-1eec-38a2-b564-43b60b59659f"><bdi>You'd Better Watch Yourself / Blue Light</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1954</td>
+        <td><a href="/release-group/5e6553b6-0d75-33f1-a76d-e8cfc51cd892"><bdi>Last Night / Mellow Down Easy</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1955</td>
+        <td><a href="/release-group/4688d9d2-c180-3f5e-bbcd-82e362141224"><bdi>My Babe / Thunderbird</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1955</td>
+        <td><a href="/release-group/30e3e453-4841-3e3f-9ecf-139a8cf7906f"><bdi>Roller Coaster / I Got to Go</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1955</td>
+        <td><a href="/release-group/a210407d-78a4-3801-a868-6059faa18537"><bdi>Too Late / I Hate to See You Go</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1956</td>
+        <td><a href="/release-group/aca9372a-e222-4a7a-8479-15741109ba64"><bdi>Just a Feeling / Teenage Beat</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1956</td>
+        <td><a href="/release-group/d58d7ef2-4c15-4803-aa45-ba23fadfb5e0"><bdi>Take Me Back / It's Too Late Brother</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1956</td>
+        <td><a href="/release-group/0d351c44-e3c1-3bd3-805f-b9db69060723"><bdi>Who / It Ain't Right</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1957</td>
+        <td><a href="/release-group/2d7f07da-f0d2-3110-b195-1d8921276f02"><bdi>Boom, Boom, Out Goes the Lights / Temperature</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1960</td>
+        <td><a href="/release-group/46663652-a59c-4575-81bd-d4db469a20e0"><bdi>Ah'w Baby / I Had My Fun</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1961</td>
+        <td><a href="/release-group/347d84a5-d97d-36e3-9c7e-8a47c66dc430"><bdi>Crazy Legs / Crazy for My Baby</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1962</td>
+        <td><a href="/release-group/75d23948-8ace-49ba-931b-1b09131e116c"><bdi>Just Your Fool / I Got to Find My Baby</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1964</td>
+        <td><a href="/release-group/870e4961-0451-452b-922c-8c8524681440"><bdi>Diggin' My Potatoes / Snake Dancer</bdi></a></td>
+        
+        <td><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1971</td>
+        <td><a href="/release-group/eb66579a-f765-4a3e-bd80-75b75c920654"><bdi>We Three Kings</bdi></a></td>
+        
+        <td><a href="/artist/f86f1f07-d182-45ce-ae93-ef610880ca72" title="Muddy Waters"><bdi>Muddy Waters</bdi></a> / <a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f" title="Little Walter"><bdi>Little Walter</bdi></a> / <a href="/artist/ca5b38c2-f39d-45a4-ad3d-daf4448846ef" title="Howlin’ Wolf"><bdi>Howlin’ Wolf</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1930-05-01</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/03aa5b14-2694-489b-8610-7a48a03bc17c"><bdi>Marksville</bdi></a>, <a href="/area/fc68ecf5-507e-4012-b60b-d93747a3cfa7"><bdi>Louisiana</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Died:</dt>
+<dd>1968-02-15 (aged 37)</dd>
+<dt>Died in:</dt>
+<dd class="end_area"><a href="/area/29a709d8-0320-493e-8d0c-f2c386662b7f"><bdi>Chicago</bdi></a>, <a href="/area/8c2196d9-b7be-4051-90d1-ac81895355f1"><bdi>Illinois</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/ratings" title="Little Walter"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/blues"><bdi>blues</bdi></a>, <a href="/tag/chicago%20blues"><bdi>chicago blues</bdi></a>, <a href="/tag/death%20by%20blood%20clot"><bdi>death by blood clot</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000824599">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/5545a012-0977-46ff-9d69-39bf5952616f">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/340688">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Little%20Walter">Little Walter</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/little_walter">Rateyourmusic</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/2535">SecondHandSongs</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/7574546">VIAF: 7574546</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q380261">Q380261</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Little_Walter">en: Little Walter</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5545a012-0977-46ff-9d69-39bf5952616f/relationships" title="Little Walter"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5545a012-0977-46ff-9d69-39bf5952616f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-05-28 16:12 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,814 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chris Isaak - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1956-06-26 in Stockton, Area: United States"/><script type="application/ld+json">{"@type":["Person","MusicGroup"],"location":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"name":"Chris Isaak","birthPlace":{"@type":"City","name":"Stockton","@id":"https://musicbrainz.org/area/ac84aab3-62db-4e26-9651-93d3f66cf982","containedIn":{"@id":"https://musicbrainz.org/area/ae0110b6-13d4-4998-9116-5b926287aa23","containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States","@type":"Country"},"@type":"AdministrativeArea","name":"California"}},"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","album":[{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/188cde57-d8c0-3e31-a480-617810bc1c84","creditedTo":"Chris Isaak","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum","name":"Silvertone"},{"creditedTo":"Chris Isaak","name":"Chris Isaak","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/221c72d2-5f0e-3d48-a487-f03ee609a469"},{"@id":"https://musicbrainz.org/release-group/f6f75c7a-f1bb-3b22-ae18-269bf5bd7f47","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Chris Isaak","@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum","name":"Heart Shaped World","creditedTo":"Chris Isaak"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d9d75876-b5b5-347c-af6e-e176fa0654bd","creditedTo":"Chris Isaak","byArtist":{"@type":["Person","MusicGroup"],"name":"Chris Isaak","@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"San Francisco Days","@type":"MusicAlbum"},{"creditedTo":"Chris Isaak","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"Forever Blue","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c0a0fbbf-eb70-3bdc-a78b-7892753c8171"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d767a49e-dccc-3001-b1ff-5cc4c4ad5064","creditedTo":"Chris Isaak","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum","name":"Baja Sessions"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/92e8732a-4ac8-3e0d-a67d-01eb0d4f961a","creditedTo":"Chris Isaak","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","@type":["Person","MusicGroup"],"name":"Chris Isaak"},"name":"Speak of the Devil"},{"@id":"https://musicbrainz.org/release-group/349dae92-cb61-3386-b2cd-2342a99b50e4","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum","name":"Always Got Tonight","creditedTo":"Chris Isaak"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/be48a10a-4700-38a1-b1a3-47b903f8544e","creditedTo":"Chris Isaak","name":"Christmas","byArtist":{"@type":["Person","MusicGroup"],"name":"Chris Isaak","@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/fd985139-f6c8-3780-a238-10d18d46f5ae","creditedTo":"Chris Isaak","@type":"MusicAlbum","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"Mr. Lucky"},{"byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"name":"Beyond the Sun","@type":"MusicAlbum","creditedTo":"Chris Isaak","@id":"https://musicbrainz.org/release-group/c4af402e-7d90-4108-97b1-da400ffebaa7","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a4798419-aedb-4a8a-8c0e-a424703fc4d3","creditedTo":"Chris Isaak","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"First Comes the Night","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/ddcb035b-33f7-3645-b7c8-9da31e264448","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"Plugged and Unplugged 1994-95","creditedTo":"Chris Isaak"},{"creditedTo":"Chris Isaak","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"name":"San Francisco Days / Chris Isaak","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ba1fbd34-12b2-34e6-ad9a-9f10548470af"},{"byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","name":"Wicked Game","creditedTo":"Chris Isaak","@id":"https://musicbrainz.org/release-group/5d6a9542-6c8c-3e61-9646-9b2798fbe655","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/da865c04-e6e0-48f7-b1d4-75535c48388a","creditedTo":"Chris Isaak","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","@type":["Person","MusicGroup"],"name":"Chris Isaak"},"name":"Forever Blue / Wicked Game","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/bee6999b-b9ce-373d-b91e-fc8e3917cb06","creditedTo":"Chris Isaak","@type":"MusicAlbum","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"Best of Chris Isaak"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5bfc48c7-8304-3563-9ba2-488c5984091f","creditedTo":"Chris Isaak","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Chris Isaak","@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"Best 1985-1998"},{"creditedTo":"Chris Isaak","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"name":"The Best Of","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8bfac481-c485-3e87-80c6-fb9e9472c393"},{"albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/98bf7ffb-3456-3897-b565-9cfea938657d","creditedTo":"Chris Isaak","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"name":"Live in Australia","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/c836fd43-f8a5-4055-9647-113cdcb857ea","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Live at the Fillmore","byArtist":{"@type":["Person","MusicGroup"],"name":"Chris Isaak","@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum","creditedTo":"Chris Isaak"},{"creditedTo":"Chris Isaak","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","@type":["Person","MusicGroup"],"name":"Chris Isaak"},"name":"Wicked Game","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/90fb7a7c-d663-3af2-b20b-3350fcde66c5"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8cdd0043-0f51-4b9e-940e-1585e1673118","creditedTo":"Chris Isaak / Angelo Badalamenti","byArtist":[{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},{"name":"Angelo Badalamenti","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5894dac5-0260-4175-b36e-e34680a859d6"}],"name":"Wild at Heart","@type":"MusicAlbum"},{"creditedTo":"Chris Isaak","name":"Blue Hotel","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c5cc2b81-1a69-3019-b529-93b83623d5f2"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4935e5cc-a8d2-3aa2-85fc-967c3bf5d8ed","creditedTo":"Chris Isaak","byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"name":"Solitary Man","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995","name":"Chris Isaak","@type":["Person","MusicGroup"]},"name":"Dark Moon","@type":"MusicAlbum","creditedTo":"Chris Isaak","@id":"https://musicbrainz.org/release-group/bc24ac60-da44-3f4f-a019-a2486051eb85","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Somebody's Crying","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum","creditedTo":"Chris Isaak","@id":"https://musicbrainz.org/release-group/7d08120f-d168-3bf8-8bd0-9069e663cc66","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"Chris Isaak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"name":"Baby Did a Bad Bad Thing","creditedTo":"Chris Isaak","@id":"https://musicbrainz.org/release-group/2444ffcc-229b-3b7a-bc0c-c2937279ed00","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1e360f33-8402-3719-8d8e-12204df34304","creditedTo":"Chris Isaak","name":"Let Me Down Easy","byArtist":{"@type":["Person","MusicGroup"],"name":"Chris Isaak","@id":"https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995"},"@type":"MusicAlbum"}],"birthDate":"1956-06-26","sameAs":["http://en.wikipedia.org/wiki/Chris_Isaak","http://isni-url.oclc.nl/isni/0000000078236727","http://rateyourmusic.com/artist/chris_isaak","http://viaf.org/viaf/56796549","http://www.allmusic.com/artist/mn0000775323","http://www.chrisisaak.com/","http://www.imdb.com/name/nm0001389/","http://www.secondhandsongs.com/artist/190","https://www.discogs.com/artist/152425","https://www.wikidata.org/wiki/Q313009"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F479497d4-e7c2-4e78-972e-56e78fac3995">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F479497d4-e7c2-4e78-972e-56e78fac3995">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Chris Isaak – Isaak, Chris"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/releases" title="Isaak, Chris"><bdi>Releases</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/recordings" title="Isaak, Chris"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/works" title="Isaak, Chris"><bdi>Works</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/events" title="Isaak, Chris"><bdi>Events</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/relationships" title="Isaak, Chris"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/aliases" title="Isaak, Chris"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/tags" title="Isaak, Chris"><bdi>Tags</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/details" title="Isaak, Chris"><bdi>Details</bdi></a></li>            <li><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/edit" title="Isaak, Chris"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Christopher Joseph</b> "<b>Chris</b>" <b>Isaak</b> (born June 26, 1956) is an American rock musician and occasional actor. He is best known for his hit "Wicked Game," as well as the popular hit songs "Baby Did A Bad Bad Thing" and "Somebody's Crying." He is renowned for his signature 1950s rock &amp; roll style and crooner sound, as well as his soaring falsetto and reverb-laden music. He is closely associated with film director David Lynch, who has used his music in numerous films and gave him a large role in the film <i>Twin Peaks: Fire Walk with Me</i>. His songs generally focus on the themes of love, loss and heartbreak. With a career spanning four decades, he has amassed a total of twelve studio albums, and has accumulated numerous award nominations and tours. He has been called the Roy Orbison of the 1990s, and is often also compared to Elvis Presley, Ricky Nelson and Duane Eddy.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/Chris_Isaak">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=313" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/188cde57-d8c0-3e31-a480-617810bc1c84"><bdi>Silvertone</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/221c72d2-5f0e-3d48-a487-f03ee609a469"><bdi>Chris Isaak</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/f6f75c7a-f1bb-3b22-ae18-269bf5bd7f47"><bdi>Heart Shaped World</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/d9d75876-b5b5-347c-af6e-e176fa0654bd"><bdi>San Francisco Days</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/c0a0fbbf-eb70-3bdc-a78b-7892753c8171"><bdi>Forever Blue</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/d767a49e-dccc-3001-b1ff-5cc4c4ad5064"><bdi>Baja Sessions</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/92e8732a-4ac8-3e0d-a67d-01eb0d4f961a"><bdi>Speak of the Devil</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/349dae92-cb61-3386-b2cd-2342a99b50e4"><bdi>Always Got Tonight</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/be48a10a-4700-38a1-b1a3-47b903f8544e"><bdi>Christmas</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/fd985139-f6c8-3780-a238-10d18d46f5ae"><bdi>Mr. Lucky</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/c4af402e-7d90-4108-97b1-da400ffebaa7"><bdi>Beyond the Sun</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/a4798419-aedb-4a8a-8c0e-a424703fc4d3"><bdi>First Comes the Night</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/ddcb035b-33f7-3645-b7c8-9da31e264448"><bdi>Plugged and Unplugged 1994-95</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/ba1fbd34-12b2-34e6-ad9a-9f10548470af"><bdi>San Francisco Days / Chris Isaak</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/5d6a9542-6c8c-3e61-9646-9b2798fbe655"><bdi>Wicked Game</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/da865c04-e6e0-48f7-b1d4-75535c48388a"><bdi>Forever Blue / Wicked Game</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bee6999b-b9ce-373d-b91e-fc8e3917cb06"><bdi>Best of Chris Isaak</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/5bfc48c7-8304-3563-9ba2-488c5984091f"><bdi>Best 1985-1998</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/8bfac481-c485-3e87-80c6-fb9e9472c393"><bdi>The Best Of</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/98bf7ffb-3456-3897-b565-9cfea938657d"><bdi>Live in Australia</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/c836fd43-f8a5-4055-9647-113cdcb857ea"><bdi>Live at the Fillmore</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/90fb7a7c-d663-3af2-b20b-3350fcde66c5"><bdi>Wicked Game</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/8cdd0043-0f51-4b9e-940e-1585e1673118"><bdi>Wild at Heart</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a> / <a href="/artist/5894dac5-0260-4175-b36e-e34680a859d6" title="Badalamenti, Angelo"><bdi>Angelo Badalamenti</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/c5cc2b81-1a69-3019-b529-93b83623d5f2"><bdi>Blue Hotel</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/4935e5cc-a8d2-3aa2-85fc-967c3bf5d8ed"><bdi>Solitary Man</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/bc24ac60-da44-3f4f-a019-a2486051eb85"><bdi>Dark Moon</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/7d08120f-d168-3bf8-8bd0-9069e663cc66"><bdi>Somebody's Crying</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/2444ffcc-229b-3b7a-bc0c-c2937279ed00"><bdi>Baby Did a Bad Bad Thing</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/1e360f33-8402-3719-8d8e-12204df34304"><bdi>Let Me Down Easy</bdi></a></td>
+        
+        <td><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995" title="Isaak, Chris"><bdi>Chris Isaak</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/479497d4-e7c2-4e78-972e-56e78fac3995?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Chris_Isaak.jpg/250px-Chris_Isaak.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Chris Isaak.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Isaak, Chris</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1956-06-26 (60 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/ac84aab3-62db-4e26-9651-93d3f66cf982"><bdi>Stockton</bdi></a>, <a href="/area/ae0110b6-13d4-4998-9116-5b926287aa23"><bdi>California</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000078236727">0000 0000 7823 6727    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/ratings" title="Isaak, Chris"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/tag/rock%20&amp;%20roll"><bdi>rock &amp; roll</bdi></a>, <a href="/tag/rockabilly"><bdi>rockabilly</bdi></a>, <a href="/tag/roots%20rock"><bdi>roots rock</bdi></a>, <a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/tags" title="Isaak, Chris"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.chrisisaak.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000775323">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/152425">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm0001389/">IMDb</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/chrisisaak">chrisisaak</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/chris_isaak">Rateyourmusic</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/190">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/chrisisaak">@chrisisaak</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/chrisisaak">chrisisaak</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/56796549">VIAF: 56796549</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q313009">Q313009</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Chris_Isaak">en: Chris Isaak</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/479497d4-e7c2-4e78-972e-56e78fac3995/relationships" title="Isaak, Chris"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F479497d4-e7c2-4e78-972e-56e78fac3995">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-09-13 17:52 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,886 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nickelback - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1995 in Hanna, Area: Canada"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","member":[{"startDate":"1995","member":{"@type":["Person","MusicGroup"],"name":"Brandon Kroeger","@id":"https://musicbrainz.org/artist/6046c7e8-358f-4252-a311-ed20065b43fa"},"endDate":"1996","@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"name":"Daniel Adair","@id":"https://musicbrainz.org/artist/6fedf620-c0f4-4167-bab1-ae70b0a7fda3"},"startDate":"2005"},{"@type":"OrganizationRole","roleName":[],"startDate":"1998","endDate":"2005","member":{"name":"Ryan Vikedal","@id":"https://musicbrainz.org/artist/762ff530-eb70-46b5-88ca-0c7d4ccd666a","@type":["Person","MusicGroup"]}},{"member":{"name":"Mike Kroeger","@id":"https://musicbrainz.org/artist/9b487ea7-78b3-4e32-af99-372c40499b8d","@type":["Person","MusicGroup"]},"startDate":"1995","roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/a59edb65-fae2-4344-b77a-5232516d4d7a","name":"Chad Kroeger","@type":["Person","MusicGroup"]},"startDate":"1995"},{"member":{"name":"Ryan Peake","@id":"https://musicbrainz.org/artist/aaf05d54-7c36-4d12-88b3-958a29c394a7","@type":["Person","MusicGroup"]},"startDate":"1995","roleName":[],"@type":"OrganizationRole"},{"startDate":"1996","member":{"@id":"https://musicbrainz.org/artist/fc472c8a-b6ef-453e-ac91-6072c8ae1499","name":"Mitch Guindon","@type":["Person","MusicGroup"]},"endDate":"1998","@type":"OrganizationRole","roleName":[]}],"name":"Nickelback","album":[{"byArtist":{"name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/63ca6c02-8cb1-3caa-8fe0-f1ab52e0be3f","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Curb","creditedTo":"Nickelback","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"@id":"https://musicbrainz.org/release-group/f4a5efdc-bf28-3818-94f0-fd1bad20a2e6","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"The State","creditedTo":"Nickelback","@type":"MusicAlbum"},{"name":"Silver Side Up","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f35498a6-e3a4-3834-b243-8a67d3d1f88c","byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"creditedTo":"Nickelback","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"albumProductionType":"http://schema.org/StudioAlbum","name":"The Long Road","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ba053794-a331-31da-a3e6-69a6c3e6cd45","creditedTo":"Nickelback","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/11c5709d-6939-3519-97e8-6be48f3bd4f2","albumProductionType":"http://schema.org/StudioAlbum","name":"All the Right Reasons","byArtist":{"@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback","@type":"MusicGroup"},"creditedTo":"Nickelback","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Nickelback","byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Dark Horse","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4a62f40e-acce-3938-bdcd-c4ee3003e747"},{"@type":"MusicAlbum","creditedTo":"Nickelback","byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Here and Now","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/14741ae6-8a67-4010-b0ec-e0804019e705"},{"byArtist":{"@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback","@type":"MusicGroup"},"name":"No Fixed Address","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/221e0eac-7a43-487b-bd6c-2bf92daf2398","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Nickelback"},{"name":"Three-Sided Coin","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/35f0afe8-f3be-3a49-ab73-b89e3f66f6b5","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"creditedTo":"Nickelback","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"albumProductionType":"http://schema.org/CompilationAlbum","name":"Ultimate Video Collection","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f23882ad-e0ac-3ab3-8ad9-c70e6154f591","creditedTo":"Nickelback","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"@id":"https://musicbrainz.org/release-group/1a893aab-35f3-4457-95a3-1bca2a320992","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Best of Nickelback, Volume 1","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Nickelback"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"@id":"https://musicbrainz.org/release-group/feb9d8e3-db1a-4e1f-8059-92e15cf0cea0","albumReleaseType":"http://schema.org/AlbumRelease","name":"Original Album Series","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Nickelback","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"albumProductionType":"http://schema.org/LiveAlbum","name":"Live at Home","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/274c13c2-0e34-3d6f-b1e4-913da5282529","@type":"MusicAlbum","creditedTo":"Nickelback"},{"@type":"MusicAlbum","creditedTo":"Nickelback","byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d26887ae-5328-4d80-bf14-584099557226","name":"MTV Unplugged","albumProductionType":"http://schema.org/LiveAlbum"},{"creditedTo":"Nickelback","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/8aabb98a-85b4-3195-913c-8580ecd2b568","name":"Leader of Men","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"name":"How You Remind Me","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7aa5a01a-711e-34c5-9240-f96649db4321","albumReleaseType":"http://schema.org/SingleRelease","creditedTo":"Nickelback","@type":"MusicAlbum"},{"creditedTo":"Nickelback","@type":"MusicAlbum","name":"Too Bad","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e802d78e-0442-4153-bd03-02a5fd231081","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback","@type":"MusicGroup"},"name":"Never Again","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/0876f033-6fc1-4c4e-b57b-54b499646552","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Nickelback"},{"@type":"MusicAlbum","creditedTo":"Nickelback","name":"Someday","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0062e8ec-ecc1-39ce-85d2-a7d80746fd42","byArtist":{"@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ca549e34-4874-3d1f-97e7-6b39d83167a8","name":"Figured You Out","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Nickelback"},{"@type":"MusicAlbum","creditedTo":"Nickelback","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/60922a34-a1e9-3893-89d1-cf3d70a63771","name":"Feelin' Way Too Damn Good","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"name":"Photograph","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/56f3bc3a-6f86-37b8-81ce-75cf7053a16a","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Nickelback"},{"@type":"MusicAlbum","creditedTo":"Nickelback","byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"},"name":"Far Away","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1b5e3ba2-bf00-37cc-92fa-69df36592e5b"},{"@type":"MusicAlbum","creditedTo":"Nickelback","name":"If Everyone Cared","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e6af8f44-eeff-4225-94f7-5e7d059ff2ed","byArtist":{"name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","@type":"MusicGroup"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"@id":"https://musicbrainz.org/release-group/6a76d62d-b33f-3701-b129-717f7746db16","albumReleaseType":"http://schema.org/SingleRelease","name":"Rockstar","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Nickelback","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Nickelback","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"@id":"https://musicbrainz.org/release-group/ab835294-dc3b-4892-a415-b6d8bb751aa7","albumReleaseType":"http://schema.org/SingleRelease","name":"Savin' Me","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Gotta Be Somebody","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e02c86d9-babe-390b-bcaa-984cd375203c","byArtist":{"@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback","@type":"MusicGroup"},"creditedTo":"Nickelback","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/d9f9f76b-9319-350e-955c-dbb7c6a4e6ba","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"I'd Come for You","byArtist":{"name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Nickelback"},{"@id":"https://musicbrainz.org/release-group/1b4a4b88-6417-4635-ad4c-cb9ffd809b72","albumReleaseType":"http://schema.org/SingleRelease","name":"This Afternoon","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","@type":"MusicGroup"},"creditedTo":"Nickelback","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Nickelback","albumProductionType":"http://schema.org/StudioAlbum","name":"Bottoms Up","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/8f1f20cc-bd8b-49ed-8ec0-b73508d5ff86","byArtist":{"@type":"MusicGroup","name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb"}},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/69acbdc6-1453-43ba-bf3b-bf81f19b315a","name":"Edge of a Revolution","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Nickelback","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Nickelback","@id":"https://musicbrainz.org/release-group/ba9e9784-c6ef-4b5d-ae8c-6bdb63ef1656","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"What Are You Waiting For?","byArtist":{"name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","@type":"MusicGroup"}},{"creditedTo":"Nickelback","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Hesher","@id":"https://musicbrainz.org/release-group/1d0867b8-bb65-3caa-94ba-ab8a7122fe8c","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","name":"Nickelback","@type":"MusicGroup"}},{"@type":"MusicAlbum","creditedTo":"Nickelback","byArtist":{"name":"Nickelback","@id":"https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb","@type":"MusicGroup"},"name":"The Videos","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/f4eb858a-4d22-3c32-b995-980765c51545"}],"foundingDate":"1995","@context":"http://schema.org","location":{"@type":"Country","@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b","name":"Canada"},"sameAs":["http://en.wikipedia.org/wiki/Nickelback","http://isni-url.oclc.nl/isni/0000000115122084","http://musicmoz.org/Bands_and_Artists/N/Nickelback/","http://www.allmusic.com/artist/mn0000868616","http://www.bbc.co.uk/music/artists/bc710bcf-8815-42cf-bad2-3f1d12246aeb","http://www.imdb.com/name/nm1327727/","http://www.last.fm/music/Nickelback","http://www.nickelback.com/","http://www.secondhandsongs.com/artist/7574","https://rateyourmusic.com/artist/nickelback","https://www.discogs.com/artist/108713","https://www.wikidata.org/wiki/Q483802"],"@type":"MusicGroup","groupOrigin":{"name":"Hanna","@id":"https://musicbrainz.org/area/e1249d78-470e-4beb-b450-2c9a82b9ae4c","containedIn":{"@id":"https://musicbrainz.org/area/11e1b699-4e38-49b0-bb24-5092e0f8f4ad","name":"Alberta","@type":"AdministrativeArea","containedIn":{"@type":"Country","name":"Canada","@id":"https://musicbrainz.org/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"}},"@type":"City"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbc710bcf-8815-42cf-bad2-3f1d12246aeb">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fbc710bcf-8815-42cf-bad2-3f1d12246aeb">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb" title="Nickelback"><bdi>Nickelback</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb" title="Nickelback – Nickelback"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/releases" title="Nickelback"><bdi>Releases</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/recordings" title="Nickelback"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/works" title="Nickelback"><bdi>Works</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/events" title="Nickelback"><bdi>Events</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/relationships" title="Nickelback"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/aliases" title="Nickelback"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/tags" title="Nickelback"><bdi>Tags</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/details" title="Nickelback"><bdi>Details</bdi></a></li>            <li><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/edit" title="Nickelback"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Nickelback</b> is a Canadian rock band formed in 1995 in Hanna, Alberta, Canada. The band is composed of guitarist and lead vocalist Chad Kroeger, guitarist, keyboardist and backing vocalist Ryan Peake, bassist Mike Kroeger, and drummer Daniel Adair. The band went through a few drummer changes between 1995 and 2005, achieving its current form when Adair replaced drummer Ryan Vikedal.</p>
+<p>Nickelback is one of the most commercially successful Canadian groups, having sold more than 50 million albums worldwide and ranking as the eleventh best-selling music act, and the second best-selling foreign act in the U.S. of the 2000s, behind The Beatles. <i>Billboard</i> ranks them the most successful rock group of the decade; their song "How You Remind Me" was listed as the best-selling rock song of the decade and the fourth best-selling of the decade. They were listed number seven on the <i>Billboard</i> top artist of the decade, with four albums listed on the <i>Billboard</i> top albums of the decade.</p>
+<p>The band signed with Roadrunner Records in 1999 and re-released their once-independent album <i>The State</i>. The band achieved commercial success with the release of their 2000 album <i>The State</i> and then they achieved mainstream success with the release of their 2001 album <i>Silver Side Up</i>. Following the release of <i>Silver Side Up</i> the band released their biggest and most known hit today, "How You Remind Me" which peaked number 1 on the American and Canadian charts at the same time. Then, the band's fourth album <i>The Long Road</i> (2003) spawned 5 singles and continued the band's mainstream success with their hit single "Someday" which peaked at number 7 on the <i>Billboard</i> Hot 100 and number 1 at the Canadian Singles Chart. Afterwards, the band put out their biggest album to date, <i>All The Right Reasons</i> (2005) which produced 3 top 10 singles and 5 top 20 singles, on the <i>Billboard</i> Hot 100 example of songs like "Photograph", "Far Away", and "Rockstar". The band's album <i>Dark Horse</i> (2008) was a success which produced eight singles, one of which peaked on the top 10 on the <i>Billboard</i> Hot 100 and two of which peaked on the top 20 on the <i>Billboard</i> Hot 100. In 2011, the band released their seventh album <i>Here and Now</i> which again topped the charts. Their eighth studio album <i>No Fixed Address</i> was released on 17 November 2014.</p>
+<p>The band is based in Vancouver, Canada. The band's original domestic signing was with EMI Canada. They subsequently obtained an American deal with global distribution via Roadrunner Records. For the release of their seventh album, the band parted from EMI Canada and signed a new Canadian domestic distribution deal with Universal Music Canada.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Nickelback">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=12068" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/63ca6c02-8cb1-3caa-8fe0-f1ab52e0be3f"><bdi>Curb</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/f4a5efdc-bf28-3818-94f0-fd1bad20a2e6"><bdi>The State</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/f35498a6-e3a4-3834-b243-8a67d3d1f88c"><bdi>Silver Side Up</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ba053794-a331-31da-a3e6-69a6c3e6cd45"><bdi>The Long Road</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/11c5709d-6939-3519-97e8-6be48f3bd4f2"><bdi>All the Right Reasons</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:73%;">3.65</span>    </span>
+</span></td><td class="c">15</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/4a62f40e-acce-3938-bdcd-c4ee3003e747"><bdi>Dark Horse</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/14741ae6-8a67-4010-b0ec-e0804019e705"><bdi>Here and Now</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/221e0eac-7a43-487b-bd6c-2bf92daf2398"><bdi>No Fixed Address</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/35f0afe8-f3be-3a49-ab73-b89e3f66f6b5"><bdi>Three-Sided Coin</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/f23882ad-e0ac-3ab3-8ad9-c70e6154f591"><bdi>Ultimate Video Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/1a893aab-35f3-4457-95a3-1bca2a320992"><bdi>The Best of Nickelback, Volume 1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/feb9d8e3-db1a-4e1f-8059-92e15cf0cea0"><bdi>Original Album Series</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/274c13c2-0e34-3d6f-b1e4-913da5282529"><bdi>Live at Home</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/d26887ae-5328-4d80-bf14-584099557226"><bdi>MTV Unplugged</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/8aabb98a-85b4-3195-913c-8580ecd2b568"><bdi>Leader of Men</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/7aa5a01a-711e-34c5-9240-f96649db4321"><bdi>How You Remind Me</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">13</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e802d78e-0442-4153-bd03-02a5fd231081"><bdi>Too Bad</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/0876f033-6fc1-4c4e-b57b-54b499646552"><bdi>Never Again</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/0062e8ec-ecc1-39ce-85d2-a7d80746fd42"><bdi>Someday</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ca549e34-4874-3d1f-97e7-6b39d83167a8"><bdi>Figured You Out</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/60922a34-a1e9-3893-89d1-cf3d70a63771"><bdi>Feelin' Way Too Damn Good</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/56f3bc3a-6f86-37b8-81ce-75cf7053a16a"><bdi>Photograph</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/1b5e3ba2-bf00-37cc-92fa-69df36592e5b"><bdi>Far Away</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/e6af8f44-eeff-4225-94f7-5e7d059ff2ed"><bdi>If Everyone Cared</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/6a76d62d-b33f-3701-b129-717f7746db16"><bdi>Rockstar</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/ab835294-dc3b-4892-a415-b6d8bb751aa7"><bdi>Savin' Me</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/e02c86d9-babe-390b-bcaa-984cd375203c"><bdi>Gotta Be Somebody</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/d9f9f76b-9319-350e-955c-dbb7c6a4e6ba"><bdi>I'd Come for You</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/1b4a4b88-6417-4635-ad4c-cb9ffd809b72"><bdi>This Afternoon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/8f1f20cc-bd8b-49ed-8ec0-b73508d5ff86"><bdi>Bottoms Up</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/69acbdc6-1453-43ba-bf3b-bf81f19b315a"><bdi>Edge of a Revolution</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/ba9e9784-c6ef-4b5d-ae8c-6bdb63ef1656"><bdi>What Are You Waiting For?</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/1d0867b8-bb65-3caa-94ba-ab8a7122fe8c"><bdi>Hesher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/f4eb858a-4d22-3c32-b995-980765c51545"><bdi>The Videos</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ryan_Peake_Nickelback.jpg/250px-Ryan_Peake_Nickelback.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Ryan Peake Nickelback.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1995 (21 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/e1249d78-470e-4beb-b450-2c9a82b9ae4c"><bdi>Hanna</bdi></a>, <a href="/area/11e1b699-4e38-49b0-bb24-5092e0f8f4ad"><bdi>Alberta</bdi></a>, <span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-CA"><a href="/area/71bbafaa-e825-3e15-8ca9-017dcad1748b"><bdi>Canada</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000115122084">0000 0001 1512 2084    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:83%;">4.15</span>    </span>
+</span>    (<a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/ratings" title="Nickelback"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/pop%20rock"><bdi>pop rock</bdi></a>, <a href="/tag/post-grunge"><bdi>post-grunge</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/tags" title="Nickelback"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.nickelback.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000868616">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/bc710bcf-8815-42cf-bad2-3f1d12246aeb">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/108713">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1327727/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Nickelback">Nickelback</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/nickelback">nickelback</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/N/Nickelback/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/nickelback">Rateyourmusic</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/us/artist/id5280361">iTunes</a>
+          
+          
+        </li>               <li class="googleplay-favicon">
+          
+          
+          <a href="https://play.google.com/store/music/artist?id=Aufu46uyvtdevaapcsd7lrezb2m">Google Play</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/7574">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/nickelback">@nickelback</a>
+          
+          
+        </li>               <li class="vk-favicon">
+          
+          
+          <a href="https://vk.com/nickelbackclub">nickelbackclub</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/Nickelback">Nickelback</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q483802">Q483802</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Nickelback">en: Nickelback</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/channel/UCx5IEfAbL5pqw3fgKgRi6DQ">YouTube</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/nickelback">nickelback</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/bc710bcf-8815-42cf-bad2-3f1d12246aeb/relationships" title="Nickelback"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fbc710bcf-8815-42cf-bad2-3f1d12246aeb">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-06-12 17:46 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

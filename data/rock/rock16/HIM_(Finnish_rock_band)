@@ -1,0 +1,975 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HIM - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Finnish rock band, Type: Group, Founded: 1991 in Helsinki, Area: Finland"/><script type="application/ld+json">{"foundingDate":"1991","groupOrigin":{"@id":"https://musicbrainz.org/area/39d62198-1e76-4de4-b079-e86e3a393bbc","containedIn":{"@type":"AdministrativeArea","name":"Uusimaa","@id":"https://musicbrainz.org/area/942bd6e5-e590-4202-b16f-de6335211dd5","containedIn":{"@id":"https://musicbrainz.org/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616","@type":"Country","name":"Finland"}},"name":"Helsinki","@type":"City"},"sameAs":["http://en.wikipedia.org/wiki/HIM_(Finnish_band)","http://isni-url.oclc.nl/isni/0000000123318626","http://www.allmusic.com/artist/mn0000577091","http://www.bbc.co.uk/music/artists/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","http://www.heartagram.com/","http://www.imdb.com/name/nm1367079/","http://www.secondhandsongs.com/artist/557","https://rateyourmusic.com/artist/him","https://www.discogs.com/artist/95251","https://www.wikidata.org/wiki/Q23479"],"album":[{"byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum","name":"Greatest Lovesongs Vol. 666","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/7da0c455-b394-30d4-87be-ad9157bcc88c","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Razorblade Romance","@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/17cb76c8-851a-3c15-ac6c-273d5131dfc7","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7ab8c5e6-9f2f-3300-8da1-82b6fcd6f982","creditedTo":"HIM","name":"Deep Shadows and Brilliant Highlights","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/75b68d24-94b4-3cbf-85b4-b0105cec4c1c","creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"Love Metal"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0b8e5ee3-583f-35d7-a190-595bd27f82ec","creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Dark Light"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/dedf8864-ef54-30b5-bbd8-f81f2e7d3307","creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"Venus Doom"},{"creditedTo":"HIM","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Screamworks: Love in Theory and Practice","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/62a76f49-789f-4958-9fb7-6d0808793e13"},{"@id":"https://musicbrainz.org/release-group/8edeb6b8-7f0a-4695-b24a-6b91d82150e8","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum","name":"Tears on Tape","creditedTo":"HIM"},{"name":"The Single Collection","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/86b58aff-c43c-38d0-a939-2279a07737d3","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/e21fdee7-b1ff-3417-bbad-9246de30f726","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"And Love Said No: The Greatest Hits 1997–2004","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"HIM"},{"byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Uneasy Listening, Volume 1","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/507eb0bb-16cb-32bb-acf9-45b53adc90ff","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/53d8333d-fa78-3362-90b3-8ba04338076c","creditedTo":"HIM","name":"Uneasy Listening, Volume 2","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum"},{"creditedTo":"HIM","byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum","name":"Uneasy Listening, Vol. 1 \u0026 2","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/5ff63be5-773d-491c-83cb-91a1328bebc1"},{"byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"@type":"MusicAlbum","name":"XX: Two Decades of Love Metal","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/0618b153-c91a-4e42-a488-586187aea76d","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/30bebd95-e867-4df7-a1e5-353c15efed60","creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Lashes to Ashes, Lust to Dust: A Vinyl Retrospective '96-'03"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/505cf297-b047-3683-ba06-f8a27498631e","creditedTo":"HIM","name":"Digital Versatile Doom: Live at the Orpheum Theatre XXXVII A.S.","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"name":"SWRMXS","@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/f33d2e9c-15ef-44c6-8344-452cbb3d336d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/RemixAlbum"},{"byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"When Love and Death Embrace","@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/a0a78041-f7b4-348d-8d61-058e20af1827","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/257d944f-ecd9-42b5-af73-ae6f10f01c96","creditedTo":"HIM","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum","name":"Your Sweet Six Six Six"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/084ea51f-4cb5-3f23-b1d4-3c9af76c6d07","creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"Wicked Game"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5eaeb4e8-dc74-39d0-ba52-97d3e234c1fc","creditedTo":"HIM","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Join Me"},{"byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"@type":"MusicAlbum","name":"Right Here in My Arms","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/9cdbbdfc-290f-3426-a15a-1b3ee5872a83","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Your Sweet 666","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/abd126a0-7d49-4baf-a9e3-19b05eaf7b52","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Poison Girl","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/e99e0519-ba90-30bc-850b-84d0601d9be9","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Gone With the Sin","@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/ba3e3b47-e534-4e71-a9e6-254da8edd3fb","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"Pretending","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/876f7ed2-a430-31a3-925d-e611b9d52233"},{"byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"@type":"MusicAlbum","name":"In Joy and Sorrow","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/c597d1c6-bea9-41c5-aaa6-256a9e161089","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/dfe902bd-8c12-45a2-94ba-ac367eef79db","creditedTo":"HIM","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Heartache Every Moment \u0026 Close to the Flame"},{"byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"The Funeral of Hearts","@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/e6469d27-ff90-474b-a250-53520ddc432c","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"Buried Alive by Love","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/39750abc-ea2e-3326-9bad-cb1ea02a38b9"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fc0dbfbf-a8aa-4ae7-96d7-4e8f2c0ae975","creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"The Sacrament"},{"name":"Solitary Man","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/3ceac519-837e-33e2-9bc3-1ef0b1de40fc","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d9ae5b84-1ca4-4263-af3c-10f8081a584f","creditedTo":"HIM","name":"And Love Said No","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1f640212-9b09-3c01-a9f5-18507395588a","creditedTo":"HIM","byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Wings of a Butterfly","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ff18f0df-f97f-3cbc-84c5-81ed015113b8","creditedTo":"HIM","byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Killing Loneliness","@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"The Kiss of Dawn","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/a7f18783-084e-3e07-bc56-fa042c389a13","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/684ded78-5458-47ef-92a7-f2a794613426","creditedTo":"HIM","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Heartkiller","@type":"MusicAlbum"},{"creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Scared to Death","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f85a11af-542c-4dc4-982c-93f79403abc2"},{"name":"Strange World","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/543bd612-06fd-40f4-83b2-080fac75a5c0","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","@type":"MusicGroup","name":"HIM"},"name":"Into the Night","@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/095b7279-61e2-42c9-b0cd-d72f70b753d6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/acf13277-65cd-4834-a0bb-83796823a1b7","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Tears on Tape","creditedTo":"HIM"},{"@id":"https://musicbrainz.org/release-group/93f59d28-6f05-496e-93ea-c9ea9ef0f45b","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/DemoAlbum","byArtist":{"@type":"MusicGroup","name":"HIM","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Gone With the Sin","@type":"MusicAlbum","creditedTo":"HIM"},{"creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"666 Ways to Love: Prologue","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/c42128a4-3785-36dc-88eb-9e37764dc766"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b8c27ce1-ba9c-36cc-8c42-17bac1dda70a","creditedTo":"HIM","@type":"MusicAlbum","byArtist":{"name":"HIM","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c"},"name":"Heartache Every Moment \u0026 Close to the Flame EP"},{"byArtist":{"@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","name":"HIM","@type":"MusicGroup"},"name":"Bleed Well","@type":"MusicAlbum","creditedTo":"HIM","@id":"https://musicbrainz.org/release-group/654fe3e2-22dd-45ed-8c4d-4a3d0c8cf02e","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"}],"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c","member":[{"startDate":"1998","member":{"@type":["Person","MusicGroup"],"name":"Zoltan Pluto","@id":"https://musicbrainz.org/artist/018adf88-ba39-4bda-bcbb-d21d84a313f6"},"endDate":"2000","@type":"OrganizationRole","roleName":"keyboard"},{"roleName":["background vocals","keyboard","piano"],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/35710e17-0413-4527-863b-d0d582546a95","name":"Emerson Burton","@type":["Person","MusicGroup"]},"startDate":"2000"},{"member":{"name":"Migé Amour","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/450a0d90-83a9-4048-bcbc-fd6076e6234d"},"roleName":["background vocals","bass guitar","double bass"],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":"drumset","endDate":"1999","member":{"@id":"https://musicbrainz.org/artist/4b6c8b54-9112-4872-9343-b6f41b1414f5","name":"Juhana Rantala","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/700621b0-ad46-44dd-ae32-a53aa1fb5261","name":"Gas Lipstick","@type":["Person","MusicGroup"]},"startDate":"1999","endDate":"2015-01-27","roleName":"drumset","@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/d0169ab3-c719-4a25-be8b-8d707c9a39b7","name":"Ville Valo","@type":["Person","MusicGroup"]},"roleName":["guitar","lead vocals"],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":["background vocals","guitar"],"member":{"@id":"https://musicbrainz.org/artist/f35cfe37-d020-4c68-a798-9ecd961e9535","@type":["Person","MusicGroup"],"name":"Lily Lazer"}},{"@type":"OrganizationRole","roleName":"keyboard","member":{"@id":"https://musicbrainz.org/artist/f72f602d-6931-43d6-aad1-149cd977e334","@type":["Person","MusicGroup"],"name":"Antto Melasniemi"},"endDate":"1998"}],"name":"HIM","@type":"MusicGroup","location":{"@type":"Country","name":"Finland","@id":"https://musicbrainz.org/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F4cc51547-88ae-49a2-bf7e-0ef65ee7a94c">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F4cc51547-88ae-49a2-bf7e-0ef65ee7a94c">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c" title="HIM (Finnish rock band)"><bdi>HIM</bdi></a> <span class="comment">(<bdi>Finnish rock band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c" title="HIM – HIM (Finnish rock band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/releases" title="HIM (Finnish rock band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/recordings" title="HIM (Finnish rock band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/works" title="HIM (Finnish rock band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/events" title="HIM (Finnish rock band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/relationships" title="HIM (Finnish rock band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/aliases" title="HIM (Finnish rock band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/tags" title="HIM (Finnish rock band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/details" title="HIM (Finnish rock band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/edit" title="HIM (Finnish rock band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>HIM</b> (previously known as <b>HER</b> in the United States) is a rock band from Helsinki, Finland. The band was formed in the early 1990s by vocalist Ville Valo and bassist Mikko "Mige" Paananen under the name <b>His Infernal Majesty</b>. The band broke up in 1993, but was reformed in 1995 by Valo and guitarist Mikko "Linde" Lindström. After being rejoined by Mige, as well as keyboardist Antto Melasniemi and drummer Juhana "Pätkä" Rantala, the band, now called HIM, released their debut album <i>Greatest Love Songs Vol. 666</i> in 1997. In 2000, now with drummer Mika "Gas Lipstick" Karppinen and keyboardist Juska Salminen, the band released the album <i>Razorblade Romance</i>, which reached the number-one spot in Finland, Austria and Germany. Its first single, "Join Me in Death", also charted at number-one in Finland and Germany, eventually going platinum in their home country.</p>
+<p>Following the addition of Janne "Burton" Puurtinen on keyboards, HIM released <i>Deep Shadows and Brilliant Highlights</i> and <i>Love Metal</i> in 2001 and 2003, respectively. Both cracked the top ten in several countries, with latter being the band's first album to chart in the UK. After relocating to Los Angeles, HIM released <i>Dark Light</i> in 2005, which became the group's most successful album to date, cracking the top ten in five countries. With <i>Dark Light</i>, HIM also became the first-ever Finnish group to receive a gold album in the United States. <i>Dark Light</i> was followed by <i>Venus Doom</i> in 2007, the making of which was marred by personal problems faced by Valo. Despite this, the album gave the band their highest chart position ever in the US at number 12.</p>
+<p>After 2010's <i>Screamworks: Love in Theory and Practice</i>, HIM were put on hiatus, after drummer Gas Lipstick was diagnosed with a repetitive stress injury and nerve damage in his hands. Following several months of uncertainty, the band regrouped and eventually released the album <i>Tears on Tape</i> in 2013. In 2015, Gas Lipstick announced his departure from the band after 16 years, to pursue other musical projects. He was subsequently replaced by Jukka "Kosmo" Kröger.</p>
+<p>HIM is internationally one of the most commercially successful Finnish bands of all time, with seven platinum and over ten gold albums, and sales of over six million records. The band have released eight studio albums, six compilations, three video releases, and one live and one remix album. HIM's music and their logo, the heartagram, have also appeared in several films and TV series, such as <i>The Thirteenth Floor</i>, <i>Transformers</i>, <i>Viva La Bam</i> and <i>LA Ink</i>.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/HIM_%28Finnish_band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1881" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/7da0c455-b394-30d4-87be-ad9157bcc88c"><bdi>Greatest Lovesongs Vol. 666</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/17cb76c8-851a-3c15-ac6c-273d5131dfc7"><bdi>Razorblade Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">16</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/7ab8c5e6-9f2f-3300-8da1-82b6fcd6f982"><bdi>Deep Shadows and Brilliant Highlights</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">13</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/75b68d24-94b4-3cbf-85b4-b0105cec4c1c"><bdi>Love Metal</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">12</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/0b8e5ee3-583f-35d7-a190-595bd27f82ec"><bdi>Dark Light</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/dedf8864-ef54-30b5-bbd8-f81f2e7d3307"><bdi>Venus Doom</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/62a76f49-789f-4958-9fb7-6d0808793e13"><bdi>Screamworks: Love in Theory and Practice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/8edeb6b8-7f0a-4695-b24a-6b91d82150e8"><bdi>Tears on Tape</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/86b58aff-c43c-38d0-a939-2279a07737d3"><bdi>The Single Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/e21fdee7-b1ff-3417-bbad-9246de30f726"><bdi>And Love Said No: The Greatest Hits 1997–2004</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/507eb0bb-16cb-32bb-acf9-45b53adc90ff"><bdi>Uneasy Listening, Volume 1</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/53d8333d-fa78-3362-90b3-8ba04338076c"><bdi>Uneasy Listening, Volume 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/5ff63be5-773d-491c-83cb-91a1328bebc1"><bdi>Uneasy Listening, Vol. 1 &amp; 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/0618b153-c91a-4e42-a488-586187aea76d"><bdi>XX: Two Decades of Love Metal</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/30bebd95-e867-4df7-a1e5-353c15efed60"><bdi>Lashes to Ashes, Lust to Dust: A Vinyl Retrospective '96-'03</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/505cf297-b047-3683-ba06-f8a27498631e"><bdi>Digital Versatile Doom: Live at the Orpheum Theatre XXXVII A.S.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f33d2e9c-15ef-44c6-8344-452cbb3d336d"><bdi>SWRMXS</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/a0a78041-f7b4-348d-8d61-058e20af1827"><bdi>When Love and Death Embrace</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/257d944f-ecd9-42b5-af73-ae6f10f01c96"><bdi>Your Sweet Six Six Six</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/084ea51f-4cb5-3f23-b1d4-3c9af76c6d07"><bdi>Wicked Game</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/5eaeb4e8-dc74-39d0-ba52-97d3e234c1fc"><bdi>Join Me</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/9cdbbdfc-290f-3426-a15a-1b3ee5872a83"><bdi>Right Here in My Arms</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/abd126a0-7d49-4baf-a9e3-19b05eaf7b52"><bdi>Your Sweet 666</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/e99e0519-ba90-30bc-850b-84d0601d9be9"><bdi>Poison Girl</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ba3e3b47-e534-4e71-a9e6-254da8edd3fb"><bdi>Gone With the Sin</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/876f7ed2-a430-31a3-925d-e611b9d52233"><bdi>Pretending</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/c597d1c6-bea9-41c5-aaa6-256a9e161089"><bdi>In Joy and Sorrow</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/dfe902bd-8c12-45a2-94ba-ac367eef79db"><bdi>Heartache Every Moment &amp; Close to the Flame</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/e6469d27-ff90-474b-a250-53520ddc432c"><bdi>The Funeral of Hearts</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/39750abc-ea2e-3326-9bad-cb1ea02a38b9"><bdi>Buried Alive by Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/fc0dbfbf-a8aa-4ae7-96d7-4e8f2c0ae975"><bdi>The Sacrament</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/3ceac519-837e-33e2-9bc3-1ef0b1de40fc"><bdi>Solitary Man</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/d9ae5b84-1ca4-4263-af3c-10f8081a584f"><bdi>And Love Said No</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/1f640212-9b09-3c01-a9f5-18507395588a"><bdi>Wings of a Butterfly</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/ff18f0df-f97f-3cbc-84c5-81ed015113b8"><bdi>Killing Loneliness</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/a7f18783-084e-3e07-bc56-fa042c389a13"><bdi>The Kiss of Dawn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/684ded78-5458-47ef-92a7-f2a794613426"><bdi>Heartkiller</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f85a11af-542c-4dc4-982c-93f79403abc2"><bdi>Scared to Death</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/543bd612-06fd-40f4-83b2-080fac75a5c0"><bdi>Strange World</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/095b7279-61e2-42c9-b0cd-d72f70b753d6"><bdi>Into the Night</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/acf13277-65cd-4834-a0bb-83796823a1b7"><bdi>Tears on Tape</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Demo</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/93f59d28-6f05-496e-93ea-c9ea9ef0f45b"><bdi>Gone With the Sin</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/c42128a4-3785-36dc-88eb-9e37764dc766"><bdi>666 Ways to Love: Prologue</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/b8c27ce1-ba9c-36cc-8c42-17bac1dda70a"><bdi>Heartache Every Moment &amp; Close to the Flame EP</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/654fe3e2-22dd-45ed-8c4d-4a3d0c8cf02e"><bdi>Bleed Well</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/HIM_Wiltern_2010.jpg/250px-HIM_Wiltern_2010.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:HIM Wiltern 2010.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1991 (25 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/39d62198-1e76-4de4-b079-e86e3a393bbc"><bdi>Helsinki</bdi></a>, <a href="/area/942bd6e5-e590-4202-b16f-de6335211dd5"><bdi>Uusimaa</bdi></a>, <span class="flag flag-FI"><a href="/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616"><bdi>Finland</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-FI"><a href="/area/6a264f94-6ff1-30b1-9a81-41f7bfabd616"><bdi>Finland</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000123318626">0000 0001 2331 8626    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span>    (<a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/ratings" title="HIM (Finnish rock band)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/finnish"><bdi>finnish</bdi></a>, <a href="/tag/gothic%20metal"><bdi>gothic metal</bdi></a>, <a href="/tag/gothic%20rock"><bdi>gothic rock</bdi></a>, <a href="/tag/love%20metal"><bdi>love metal</bdi></a>, <a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/tags" title="HIM (Finnish rock band)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.heartagram.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000577091">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/95251">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1367079/">IMDb</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/heartagram">heartagram</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/him">Rateyourmusic</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/557">SecondHandSongs</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/theheartagram">theheartagram</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q23479">Q23479</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/HIM_(Finnish_band)">en: HIM (Finnish band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/him">him</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/4cc51547-88ae-49a2-bf7e-0ef65ee7a94c/relationships" title="HIM (Finnish rock band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F4cc51547-88ae-49a2-bf7e-0ef65ee7a94c">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-04-12 22:44 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

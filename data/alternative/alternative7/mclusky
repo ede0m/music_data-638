@@ -1,0 +1,587 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>mclusky - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1996 in Cardiff, Dissolved: 2005-01-07, Area: United Kingdom"/><script type="application/ld+json">{"groupOrigin":{"@id":"https://musicbrainz.org/area/f0b226db-8e22-40e6-9a53-d839cfec6228","name":"Cardiff","@type":"City","containedIn":{"@type":"AdministrativeArea","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"@id":"https://musicbrainz.org/area/8297708c-5743-47d6-a5ac-f40a41c49ad9","name":"Wales"}},"@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","name":"mclusky","sameAs":["http://isni-url.oclc.nl/isni/0000000110903391","http://rateyourmusic.com/artist/mclusky","http://viaf.org/viaf/140346068","http://www.allmusic.com/artist/mn0000402117","http://www.bbc.co.uk/music/artists/26860648-1c93-4849-bc52-a8541ec88219","http://www.last.fm/music/mclusky","http://www.musik-sammler.de/artist/5597","https://en.wikipedia.org/wiki/Mclusky","https://www.discogs.com/artist/109947","https://www.wikidata.org/wiki/Q1761282"],"foundingDate":"1996","@context":"http://schema.org","member":[{"roleName":[],"@type":"OrganizationRole","member":{"name":"Jack Egglestone","@id":"https://musicbrainz.org/artist/49033c86-9d5a-454b-a69d-2a9f438b4365","@type":["Person","MusicGroup"]}},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/92a3ffc3-fa0f-435b-833c-754eabddc90a","name":"Andy Falkous"},"@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/e5b63151-caa9-4df1-a0f6-d903d7ceaf32","name":"Jon Chapple","@type":["Person","MusicGroup"]}},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Matthew Harding","@id":"https://musicbrainz.org/artist/f22769ab-611a-4245-b7a3-847b32b394b3","@type":["Person","MusicGroup"]}}],"location":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"album":[{"@type":"MusicAlbum","creditedTo":"mclusky","byArtist":{"name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/25979311-2ff4-3250-87a6-7aa0efce3d4c","name":"My Pain and Sadness Is More Sad and Painful Than Yours"},{"@type":"MusicAlbum","creditedTo":"mclusky","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","name":"mclusky"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3e710532-61e8-3925-b3b9-24b21eb2fbf9","name":"mclusky Do Dallas"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/16c12427-7def-374d-b4f2-e2b12281e6de","name":"The Difference Between Me and You Is That I’m Not on Fire","byArtist":{"name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","@type":"MusicGroup"},"creditedTo":"mclusky","@type":"MusicAlbum"},{"name":"mcluskyism","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/56b9f981-9907-3d00-837a-bec5d9c3c097","byArtist":{"@type":"MusicGroup","name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219"},"creditedTo":"mclusky","@type":"MusicAlbum"},{"creditedTo":"mclusky","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2317df12-3a68-377f-bf8e-98f68ee35af0","albumReleaseType":"http://schema.org/SingleRelease","name":"Joy","byArtist":{"@type":"MusicGroup","name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219"}},{"creditedTo":"mclusky","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/9002cde1-9405-33be-a496-4c5f52f35df6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"rice is nice","byArtist":{"@type":"MusicGroup","name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219"}},{"creditedTo":"mclusky","@type":"MusicAlbum","name":"Whoyouknow","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/40dc4e0a-63e8-3d74-b18b-75b8164139b2","byArtist":{"name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","@type":"MusicGroup"}},{"name":"To Hell With Good Intentions","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4440f1ed-5bc9-3b2b-ba91-7814ff7186e4","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","name":"mclusky"},"creditedTo":"mclusky","@type":"MusicAlbum"},{"name":"Alan Is a Cowboy Killer","@id":"https://musicbrainz.org/release-group/3caacdfc-669a-3bcb-bf40-570c2101b747","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219"},"creditedTo":"mclusky","@type":"MusicAlbum"},{"creditedTo":"mclusky","@type":"MusicAlbum","name":"There Ain't No Fool in Ferguson","@id":"https://musicbrainz.org/release-group/83f6e5ad-1734-3a69-b543-9521feec8166","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","@type":"MusicGroup"}},{"name":"That Man Will Not Hang","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/431fd215-f503-3f4f-b814-fbd2a27efbda","byArtist":{"@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","name":"mclusky","@type":"MusicGroup"},"creditedTo":"mclusky","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"mclusky","byArtist":{"@type":"MusicGroup","name":"mclusky","@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219"},"@id":"https://musicbrainz.org/release-group/fedc855d-86c5-3f79-995c-00b38c12de2a","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"She Will Only Bring You Happiness"},{"@type":"MusicAlbum","creditedTo":"mclusky","byArtist":{"@id":"https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219","name":"mclusky","@type":"MusicGroup"},"name":"Undress for Success","@id":"https://musicbrainz.org/release-group/09b3c493-1b76-3ee7-a02c-0b7fe24f05b9","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"}],"@type":"MusicGroup","dissolutionDate":"2005-01-07"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F26860648-1c93-4849-bc52-a8541ec88219">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F26860648-1c93-4849-bc52-a8541ec88219">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219" title="mclusky"><bdi>mclusky</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219" title="mclusky – mclusky"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/releases" title="mclusky"><bdi>Releases</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/recordings" title="mclusky"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/works" title="mclusky"><bdi>Works</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/events" title="mclusky"><bdi>Events</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/relationships" title="mclusky"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/aliases" title="mclusky"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/tags" title="mclusky"><bdi>Tags</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/details" title="mclusky"><bdi>Details</bdi></a></li>            <li><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/edit" title="mclusky"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=53004" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/25979311-2ff4-3250-87a6-7aa0efce3d4c"><bdi>My Pain and Sadness Is More Sad and Painful Than Yours</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/3e710532-61e8-3925-b3b9-24b21eb2fbf9"><bdi>mclusky Do Dallas</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/16c12427-7def-374d-b4f2-e2b12281e6de"><bdi>The Difference Between Me and You Is That I’m Not on Fire</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/56b9f981-9907-3d00-837a-bec5d9c3c097"><bdi>mcluskyism</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/2317df12-3a68-377f-bf8e-98f68ee35af0"><bdi>Joy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/9002cde1-9405-33be-a496-4c5f52f35df6"><bdi>rice is nice</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/40dc4e0a-63e8-3d74-b18b-75b8164139b2"><bdi>Whoyouknow</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/4440f1ed-5bc9-3b2b-ba91-7814ff7186e4"><bdi>To Hell With Good Intentions</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/3caacdfc-669a-3bcb-bf40-570c2101b747"><bdi>Alan Is a Cowboy Killer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/83f6e5ad-1734-3a69-b543-9521feec8166"><bdi>There Ain't No Fool in Ferguson</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/431fd215-f503-3f4f-b814-fbd2a27efbda"><bdi>That Man Will Not Hang</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/fedc855d-86c5-3f79-995c-00b38c12de2a"><bdi>She Will Only Bring You Happiness</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/09b3c493-1b76-3ee7-a02c-0b7fe24f05b9"><bdi>Undress for Success</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/26860648-1c93-4849-bc52-a8541ec88219/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1996</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f0b226db-8e22-40e6-9a53-d839cfec6228"><bdi>Cardiff</bdi></a>, <a href="/area/8297708c-5743-47d6-a5ac-f40a41c49ad9"><bdi>Wales</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2005-01-07 (9 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000110903391">0000 0001 1090 3391    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/ratings" title="mclusky"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/noise%20rock"><bdi>noise rock</bdi></a>, <a href="/tag/alternative"><bdi>alternative</bdi></a>, <a href="/tag/punk"><bdi>punk</bdi></a>, <a href="/tag/rock%20and%20indie"><bdi>rock and indie</bdi></a>, <a href="/tag/wales"><bdi>wales</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000402117">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/26860648-1c93-4849-bc52-a8541ec88219">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/109947">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/mclusky">mclusky</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/McLusky">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/mcluskyarefuckingdead">mcluskyarefuckingdead</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/mclusky">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/5597">Musik-Sammler</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/140346068">VIAF: 140346068</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1761282">Q1761282</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Mclusky">en: Mclusky</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/26860648-1c93-4849-bc52-a8541ec88219/relationships" title="mclusky"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F26860648-1c93-4849-bc52-a8541ec88219">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-08-13 00:01 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

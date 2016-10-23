@@ -1,0 +1,980 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ace of Base - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1990, Area: Gothenburg"/><script type="application/ld+json">{"location":{"containedIn":{"@id":"https://musicbrainz.org/area/9d5d954d-5d88-42e3-8a55-f5b6a76a2f02","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/23d10872-f5ae-3f0c-bf55-332788a16ecb","name":"Sweden"},"name":"Västra Götaland","@type":"AdministrativeArea"},"@id":"https://musicbrainz.org/area/8f6c316e-9924-48ea-967b-16757dd82399","name":"Gothenburg","@type":"City"},"sameAs":["http://aceofbase.com/","http://d-nb.info/gnd/5518366-9","http://en.wikipedia.org/wiki/Ace_of_Base","http://isni-url.oclc.nl/isni/0000000121962688","http://musicmoz.org/Bands_and_Artists/A/Ace_of_Base/","http://rateyourmusic.com/artist/ace_of_base","http://viaf.org/viaf/159744549","http://www.allmusic.com/artist/mn0000495338","http://www.bbc.co.uk/music/artists/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","http://www.imdb.com/name/nm2132559/","http://www.last.fm/music/Ace\u002bof\u002bBase","http://www.secondhandsongs.com/artist/5387","http://www.whosampled.com/Ace-of-Base/","https://musicbrainz.org/artist/fbf8b92d-a1e2-4b30-bf7d-38734ee16d0c","https://www.discogs.com/artist/37231","https://www.wikidata.org/wiki/Q151634","https://www.worldcat.org/identities/lccn-no96-8110"],"@context":"http://schema.org","foundingDate":"1990","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","album":[{"@id":"https://musicbrainz.org/release-group/ccd9ca04-0671-3a7d-a24e-8c159b6ccc1f","name":"Happy Nation","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base","name":"The Sign","@id":"https://musicbrainz.org/release-group/af3c3c40-d1f3-319b-9950-fb421862f345","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"The Bridge","@id":"https://musicbrainz.org/release-group/44cc97d6-dd45-3a60-a19f-d3a3235cca86","creditedTo":"Ace of Base","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Flowers","@id":"https://musicbrainz.org/release-group/cae8429a-2db5-3189-af89-45d10f6fa4ae"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"name":"Cruel Summer","@id":"https://musicbrainz.org/release-group/29eb32a6-7dfc-3468-8567-c5693619b1c1","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Da Capo","@id":"https://musicbrainz.org/release-group/be62a5b3-2236-38e7-bcb0-c87f75be2259"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base","@id":"https://musicbrainz.org/release-group/97e1a188-13bc-461f-b521-67f4ac5cc85b","name":"The Golden Ratio","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Ace of Base","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Dance Remixes","@id":"https://musicbrainz.org/release-group/04ef8fa9-dd7f-4381-8ec4-e1e865a15244"},{"byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/02efcc8f-cdc6-3309-a17d-881a5d2b3572","name":"Singles of the 90s"},{"name":"Greatest Hits","@id":"https://musicbrainz.org/release-group/ab42f639-5c7d-30a9-b30b-019d374e0c46","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"}},{"@id":"https://musicbrainz.org/release-group/2658cf27-d856-3f3a-af61-5011eceae3ec","name":"The Collection","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"}},{"name":"Platinum \u0026 Gold Collection","@id":"https://musicbrainz.org/release-group/565ad351-157b-3f13-bca9-1dbff379b235","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Ace of Base","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"}},{"creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"},"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/fe2e9846-8a65-3a44-9f37-a73a6f7a2546","name":"The Ultimate Collection"},{"@id":"https://musicbrainz.org/release-group/ee39abea-2418-4377-b598-fd48a0721b37","name":"Greatest Hits","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base"},{"byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/dae7495c-55c4-3205-86ad-a27145785c7d","name":"Greatest Hits, Classic Remixes, and Music Videos"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d2036ec6-3689-44b6-92b9-e4f496090d17","name":"Greatest Hits","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"albumProductionType":"http://schema.org/CompilationAlbum"},{"name":"Best of the best music collection - New, best \u0026 remixes","@id":"https://musicbrainz.org/release-group/15888964-b1ba-4e29-9e67-6fd49956a516","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Ace of Base","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"}},{"byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Platinum \u0026 Gold","@id":"https://musicbrainz.org/release-group/06d11843-8956-4305-bb02-ab9d87d0ec22"},{"name":"Playlist: The Very Best of Ace of Base","@id":"https://musicbrainz.org/release-group/c50e0b71-c164-415c-87ce-92ae527ca080","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base"},{"name":"Dr. Beat","@id":"https://musicbrainz.org/release-group/203d093f-e5cf-41cc-9cc4-2b627f5dfc11","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"creditedTo":"Ace of Base"},{"name":"Hidden Gems","@id":"https://musicbrainz.org/release-group/89b7600a-91a0-45ff-aebc-de6adbe18873","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Ace of Base","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/24d8f731-01ea-3e5e-a212-186a79745707","name":"2001","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"},"creditedTo":"Ace of Base"},{"creditedTo":"Ace of Base","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/1ae618e6-0b6f-4baf-a543-fcff34650abf","name":"Beautiful Morning"},{"albumProductionType":"http://schema.org/RemixAlbum","creditedTo":"Ace of Base","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/a90dcd69-a5ca-32ac-a796-51dd35a21e55","name":"Aced! The Unreleased Mixes","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"name":"All That She Wants","@id":"https://musicbrainz.org/release-group/f1668a87-e232-3676-b0fe-fd71e84ff793","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Wheel of Fortune","@id":"https://musicbrainz.org/release-group/b703d23c-03f9-3815-9aaf-5dd68deadfd9","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","@type":"MusicGroup"},"creditedTo":"Ace of Base"},{"name":"The Sign","@id":"https://musicbrainz.org/release-group/d345547c-75a7-321d-818c-75daf0499a7b","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"}},{"creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Happy Nation","@id":"https://musicbrainz.org/release-group/bbc2fc1f-89f6-36e5-a479-a13a7adcfb8d"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base","@id":"https://musicbrainz.org/release-group/7ea811b4-ee1c-37e0-8d7e-d7866aeaba3e","name":"Waiting for Magic","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Ace of Base","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Don't Turn Around","@id":"https://musicbrainz.org/release-group/5febf333-2646-345b-82af-93396a724439"},{"name":"Living in Danger","@id":"https://musicbrainz.org/release-group/6e7daee9-7a3a-3e5e-90fa-ffebd3d8ba06","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"}},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Lucky Love","@id":"https://musicbrainz.org/release-group/e037f1a4-27dc-3e0c-a87f-3c38b073441e","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/4c85044d-79db-316b-9a75-c6dfcc17a119","name":"Beautiful Life","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Never Gonna Say I'm Sorry","@id":"https://musicbrainz.org/release-group/e362b0c6-4610-3c65-963f-dfdbdbdb16f6","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"}},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/44c22487-561e-34db-961e-77e9b78a1449","name":"Life Is a Flower","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/a31eb448-3fc3-48cf-a100-b359daa53732","name":"Cruel Summer","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"},"creditedTo":"Ace of Base"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Whenever You're Near Me","@id":"https://musicbrainz.org/release-group/4a451f5d-acf8-3e67-8548-ea386a77bc31","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/28d9afd9-1b09-38e7-82ce-5f1a4a0e65c6","name":"Travel to Romantis","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e23c3459-9c3e-3c08-8eee-32c57c7cf4c7","name":"Always Have, Always Will"},{"name":"Everytime It Rains","@id":"https://musicbrainz.org/release-group/45777658-cd6d-3fb5-b2bf-57d9654ff116","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base"},{"name":"C'est La Vie (Always 21)","@id":"https://musicbrainz.org/release-group/990fe80d-2d09-453e-9723-aea44295921a","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base"}},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"name":"Hallo Hallo","@id":"https://musicbrainz.org/release-group/a6dc076d-2f37-3ef5-a221-11d01e3fae5b","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Beautiful Morning","@id":"https://musicbrainz.org/release-group/5ce9aa42-8a8c-3725-abf5-5fe52ac2bc80","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6","name":"Ace of Base","@type":"MusicGroup"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/2ad2bd8d-3c8d-3a63-b2a6-1e3c7d5bfe9f","name":"The Juvenile"},{"byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"creditedTo":"Ace of Base","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c640e5d1-99ce-4aad-b936-4f2340a52181","name":"Show Me Love"},{"creditedTo":"Ace of Base","byArtist":{"@type":"MusicGroup","name":"Ace of Base","@id":"https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/1b4e0205-b674-3543-98b0-3522f1dbb81c","name":"Unspeakable"}],"name":"Ace of Base","@type":"MusicGroup","member":[{"startDate":"1990","@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0693a22f-665c-49ee-81f9-ccca2569346c","name":"Jonas Berggren"}},{"endDate":"2012","roleName":"lead vocals","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/2c4c2c40-e77e-4866-abb3-40c67724b123","name":"Clara Hagman"},"@type":"OrganizationRole","startDate":"2009"},{"member":{"name":"Jenny Berggren","@id":"https://musicbrainz.org/artist/82a96aad-07e5-4243-99f1-f5d8543fb7d2","@type":["Person","MusicGroup"]},"roleName":"lead vocals","@type":"OrganizationRole","startDate":"1990"},{"startDate":"1990","@type":"OrganizationRole","roleName":"lead vocals","endDate":"2007","member":{"@type":["Person","MusicGroup"],"name":"Malin Berggren","@id":"https://musicbrainz.org/artist/dc24206d-5172-4911-a070-32b4432a742d"}},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Ulf Ekberg","@id":"https://musicbrainz.org/artist/e6ce69a7-df5b-4e97-961b-41351d7c9653","@type":["Person","MusicGroup"]}},{"member":{"@type":["Person","MusicGroup"],"name":"Julia Williamson","@id":"https://musicbrainz.org/artist/ee04c640-304e-4b6d-80d8-7db21a338786"},"roleName":"lead vocals","@type":"OrganizationRole"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd4a1404d-e00c-4bac-b3ba-e3557f6468d6">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fd4a1404d-e00c-4bac-b3ba-e3557f6468d6">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6" title="Ace of Base"><bdi>Ace of Base</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6" title="Ace of Base – Ace of Base"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/releases" title="Ace of Base"><bdi>Releases</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/recordings" title="Ace of Base"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/works" title="Ace of Base"><bdi>Works</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/events" title="Ace of Base"><bdi>Events</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/relationships" title="Ace of Base"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/aliases" title="Ace of Base"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/tags" title="Ace of Base"><bdi>Tags</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/details" title="Ace of Base"><bdi>Details</bdi></a></li>            <li><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/edit" title="Ace of Base"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Ace of Base</b> was a Swedish pop group, originally consisting of Ulf "Buddha" Ekberg and three siblings, Jonas "Joker" Berggren, Malin "Linn" Berggren and Jenny Berggren. They released four studio albums between 1992 and 2002, which sold over 30 million copies worldwide, making them the third-most successful Swedish band of all time, after ABBA and Roxette.</p>
+<p><i>Happy Nation</i>, also called <i>The Sign</i>, is one of the best-selling debut albums of all time, and was certified nine times platinum in the United States. It was the first debut album to produce three number 1 singles on the <i>Billboard</i> Mainstream Top 40 chart: "All That She Wants", "The Sign", and "Don't Turn Around".</p>
+<p>Following the formal departure of singer Linn in 2007, the band performed a series of concerts as a trio in Europe and Asia between 2007 and 2009. Jenny Berggren revealed in November 2009 that she would be taking an indefinite leave of absence from the band to focus on a solo career. In 2009, Jonas and Ulf recruited two new female vocalists, Clara Hagman and Julia Williamson, and released <i>The Golden Ratio</i> in September 2010.</p>
+<p>Clara and Julia departed from the group in 2012, and in March 2015, a compilation album called <i>Hidden Gems</i> featuring unreleased songs and b-sides from the group's inception through 2005 was released, with promotion for the album being handled solely by Jonas and Ulf.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Ace_of_Base">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=11214" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/ccd9ca04-0671-3a7d-a24e-8c159b6ccc1f"><bdi>Happy Nation</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">12</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/af3c3c40-d1f3-319b-9950-fb421862f345"><bdi>The Sign</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/44cc97d6-dd45-3a60-a19f-d3a3235cca86"><bdi>The Bridge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/cae8429a-2db5-3189-af89-45d10f6fa4ae"><bdi>Flowers</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/29eb32a6-7dfc-3468-8567-c5693619b1c1"><bdi>Cruel Summer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/be62a5b3-2236-38e7-bcb0-c87f75be2259"><bdi>Da Capo</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/97e1a188-13bc-461f-b521-67f4ac5cc85b"><bdi>The Golden Ratio</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/04ef8fa9-dd7f-4381-8ec4-e1e865a15244"><bdi>Dance Remixes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/02efcc8f-cdc6-3309-a17d-881a5d2b3572"><bdi>Singles of the 90s</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ab42f639-5c7d-30a9-b30b-019d374e0c46"><bdi>Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2658cf27-d856-3f3a-af61-5011eceae3ec"><bdi>The Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/565ad351-157b-3f13-bca9-1dbff379b235"><bdi>Platinum &amp; Gold Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/fe2e9846-8a65-3a44-9f37-a73a6f7a2546"><bdi>The Ultimate Collection</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/ee39abea-2418-4377-b598-fd48a0721b37"><bdi>Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/dae7495c-55c4-3205-86ad-a27145785c7d"><bdi>Greatest Hits, Classic Remixes, and Music Videos</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/d2036ec6-3689-44b6-92b9-e4f496090d17"><bdi>Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/15888964-b1ba-4e29-9e67-6fd49956a516"><bdi>Best of the best music collection - New, best &amp; remixes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/06d11843-8956-4305-bb02-ab9d87d0ec22"><bdi>Platinum &amp; Gold</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/c50e0b71-c164-415c-87ce-92ae527ca080"><bdi>Playlist: The Very Best of Ace of Base</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/203d093f-e5cf-41cc-9cc4-2b627f5dfc11"><bdi>Dr. Beat</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/89b7600a-91a0-45ff-aebc-de6adbe18873"><bdi>Hidden Gems</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/24d8f731-01ea-3e5e-a212-186a79745707"><bdi>2001</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/1ae618e6-0b6f-4baf-a543-fcff34650abf"><bdi>Beautiful Morning</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a90dcd69-a5ca-32ac-a796-51dd35a21e55"><bdi>Aced! The Unreleased Mixes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/f1668a87-e232-3676-b0fe-fd71e84ff793"><bdi>All That She Wants</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/b703d23c-03f9-3815-9aaf-5dd68deadfd9"><bdi>Wheel of Fortune</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/d345547c-75a7-321d-818c-75daf0499a7b"><bdi>The Sign</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/bbc2fc1f-89f6-36e5-a479-a13a7adcfb8d"><bdi>Happy Nation</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/7ea811b4-ee1c-37e0-8d7e-d7866aeaba3e"><bdi>Waiting for Magic</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/5febf333-2646-345b-82af-93396a724439"><bdi>Don't Turn Around</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/6e7daee9-7a3a-3e5e-90fa-ffebd3d8ba06"><bdi>Living in Danger</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/e037f1a4-27dc-3e0c-a87f-3c38b073441e"><bdi>Lucky Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/4c85044d-79db-316b-9a75-c6dfcc17a119"><bdi>Beautiful Life</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/e362b0c6-4610-3c65-963f-dfdbdbdb16f6"><bdi>Never Gonna Say I'm Sorry</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/44c22487-561e-34db-961e-77e9b78a1449"><bdi>Life Is a Flower</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/a31eb448-3fc3-48cf-a100-b359daa53732"><bdi>Cruel Summer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">14</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/4a451f5d-acf8-3e67-8548-ea386a77bc31"><bdi>Whenever You're Near Me</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/28d9afd9-1b09-38e7-82ce-5f1a4a0e65c6"><bdi>Travel to Romantis</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/e23c3459-9c3e-3c08-8eee-32c57c7cf4c7"><bdi>Always Have, Always Will</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/45777658-cd6d-3fb5-b2bf-57d9654ff116"><bdi>Everytime It Rains</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/990fe80d-2d09-453e-9723-aea44295921a"><bdi>C'est La Vie (Always 21)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/a6dc076d-2f37-3ef5-a221-11d01e3fae5b"><bdi>Hallo Hallo</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/5ce9aa42-8a8c-3725-abf5-5fe52ac2bc80"><bdi>Beautiful Morning</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2ad2bd8d-3c8d-3a63-b2a6-1e3c7d5bfe9f"><bdi>The Juvenile</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/c640e5d1-99ce-4aad-b936-4f2340a52181"><bdi>Show Me Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/1b4e0205-b674-3543-98b0-3522f1dbb81c"><bdi>Unspeakable</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ace_of_Base_Members_1992-2007.jpg/250px-Ace_of_Base_Members_1992-2007.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Ace of Base Members 1992-2007.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1990 (26 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><a href="/area/8f6c316e-9924-48ea-967b-16757dd82399"><bdi>Gothenburg</bdi></a>, <a href="/area/9d5d954d-5d88-42e3-8a55-f5b6a76a2f02"><bdi>Västra Götaland</bdi></a>, <span class="flag flag-SE"><a href="/area/23d10872-f5ae-3f0c-bf55-332788a16ecb"><bdi>Sweden</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000121962688">0000 0001 2196 2688    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:67%;">3.35</span>    </span>
+</span>    (<a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/ratings" title="Ace of Base"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/pop"><bdi>pop</bdi></a>, <a href="/tag/eurodance"><bdi>eurodance</bdi></a>, <a href="/tag/europop"><bdi>europop</bdi></a>, <a href="/tag/swedish"><bdi>swedish</bdi></a>, <a href="/tag/dance-pop"><bdi>dance-pop</bdi></a>, <a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/tags" title="Ace of Base"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://aceofbase.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000495338">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/d4a1404d-e00c-4bac-b3ba-e3557f6468d6">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/37231">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm2132559/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Ace+of+Base">Ace of Base</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Ace_Of_Base">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/aceofbase">aceofbase</a>
+          
+          
+        </li>               <li class="dnb-favicon">
+          
+          
+          <a href="http://d-nb.info/gnd/5518366-9">DNB</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/A/Ace_of_Base/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/ace_of_base">Rateyourmusic</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="https://www.worldcat.org/identities/lccn-no96-8110">WorldCat</a>
+          
+          
+        </li>               <li class="whosampled-favicon">
+          
+          
+          <a href="http://www.whosampled.com/Ace-of-Base/">WhoSampled</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id13874">iTunes</a>
+          
+          
+        </li>               <li class="amazon-favicon">
+          
+          
+          <a href="//www.amazon.co.uk/-/e/B000APXPRA?tag=music080d-21">UK: B000APXPRA</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/5387">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/aceofbase">@aceofbase</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/aceofbase">aceofbase</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://play.spotify.com/artist/5ksRONqssB7BR161NTtJAm">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/159744549">VIAF: 159744549</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q151634">Q151634</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Ace_of_Base">en: Ace of Base</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/aceofbase">aceofbase</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/d4a1404d-e00c-4bac-b3ba-e3557f6468d6/relationships" title="Ace of Base"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd4a1404d-e00c-4bac-b3ba-e3557f6468d6">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-03-21 18:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

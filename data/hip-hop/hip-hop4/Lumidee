@@ -1,0 +1,693 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lumidee - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Female, Born: 1984-08-24 in East Harlem, Area: United States"/><script type="application/ld+json">{"name":"Lumidee","@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","sameAs":["http://isni-url.oclc.nl/isni/0000000055204220","http://viaf.org/viaf/19924919","http://www.allmusic.com/artist/mn0000320470","http://www.lumidee.net/","http://www.secondhandsongs.com/artist/6279","http://www.whosampled.com/Lumidee/","https://en.wikipedia.org/wiki/Lumidee","https://rateyourmusic.com/artist/lumidee","https://www.discogs.com/artist/120009","https://www.wikidata.org/wiki/Q272244"],"@context":"http://schema.org","birthPlace":{"@type":"City","containedIn":{"containedIn":{"@id":"https://musicbrainz.org/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95","name":"New York","containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States"},"@type":"AdministrativeArea"},"@type":"City","name":"New York","@id":"https://musicbrainz.org/area/74e50e58-5deb-4b99-93a2-decbb365c07f"},"@id":"https://musicbrainz.org/area/1cea068b-1894-4711-9578-47d9cfff5d84","name":"East Harlem"},"location":{"name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country"},"birthDate":"1984-08-24","album":[{"@type":"MusicAlbum","creditedTo":"Lumidee","byArtist":{"@type":["Person","MusicGroup"],"name":"Lumidee","@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35"},"@id":"https://musicbrainz.org/release-group/12bb20bb-d45b-35ea-bd37-1ddd0f0dec77","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Almost Famous"},{"creditedTo":"Lumidee","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/20feecc4-0140-391d-8e1d-bf578a11adf7","albumReleaseType":"http://schema.org/AlbumRelease","name":"Unexpected","byArtist":{"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee","@type":["Person","MusicGroup"]}},{"creditedTo":"Lumidee","@type":"MusicAlbum","name":"The Queen of Spanish Harlem","@id":"https://musicbrainz.org/release-group/6c42baeb-5aaf-4ead-8132-6759ab91008f","albumProductionType":"http://schema.org/DJMixAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee"}},{"creditedTo":"Lumidee","@type":"MusicAlbum","albumProductionType":"http://schema.org/DJMixAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/31ebcaa4-4ce8-44b9-84c8-eb6e0c85a6b8","name":"Coast 2 Coast Exclusive Series 2","byArtist":{"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee","@type":["Person","MusicGroup"]}},{"@type":"MusicAlbum","creditedTo":"Lumidee","byArtist":{"@type":["Person","MusicGroup"],"name":"Lumidee","@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35"},"name":"I’m Up, Vol. 1","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/MixtapeAlbum","@id":"https://musicbrainz.org/release-group/f5a0b4c8-de8e-4fc4-9473-4bab5e0e0aab"},{"@type":"MusicAlbum","creditedTo":"Lumidee","byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee"},"name":"The Best of Lumidee","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/MixtapeAlbum","@id":"https://musicbrainz.org/release-group/f260c1ce-a885-4fc6-893b-64e84cda8869"},{"name":"Luminadee","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/MixtapeAlbum","@id":"https://musicbrainz.org/release-group/eef73ab6-dbfd-443e-9375-30fce22861eb","byArtist":{"name":"Lumidee","@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","@type":["Person","MusicGroup"]},"creditedTo":"Lumidee","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/MixtapeAlbum","@id":"https://musicbrainz.org/release-group/3891e700-9398-4880-8f6a-f7d73b76d35e","name":"Lumi","byArtist":{"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee","@type":["Person","MusicGroup"]},"creditedTo":"Lumidee","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee"},"name":"Never Leave You (Uh Oooh, Uh Oooh)","@id":"https://musicbrainz.org/release-group/309d919d-249a-320a-b42d-23923bb14f97","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Lumidee"},{"name":"Crashin' a Party","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/76f6f16e-d8ce-39c0-9aae-f860f8e150a5","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"Lumidee","@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","@type":["Person","MusicGroup"]},"creditedTo":"Lumidee","@type":"MusicAlbum"},{"creditedTo":"Goleo VI presents Lumidee vs. Fatman Scoop","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a0b1bf44-6d5a-42d7-a058-b81c347491c1","name":"Dance!","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/a2a3d2ea-147f-4cb3-b581-a6669850b69a","name":"Goleo VI"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee"},{"@type":["Person","MusicGroup"],"name":"Fatman Scoop","@id":"https://musicbrainz.org/artist/d3d20e96-5783-4126-9d64-075566611c5e"}]},{"creditedTo":"Lumidee","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/775e1670-1fa6-383d-b749-770681734fb6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"She's Like the Wind","byArtist":{"name":"Lumidee","@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","@type":["Person","MusicGroup"]}},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/76012090-da43-4e04-ae2a-c812400b6211","name":"Mariah (You Know I Want You)","byArtist":[{"@type":["Person","MusicGroup"],"name":"Juan Magán","@id":"https://musicbrainz.org/artist/fe2d4768-80a4-4a00-b606-4872b6996a6a"},{"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee","@type":["Person","MusicGroup"]}],"creditedTo":"Juan Magan feat. Lumidee","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee","@type":["Person","MusicGroup"]},"name":"Where I Wanna Be","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/cb5ab3b6-8e53-4ed5-8146-427b4fdda6d4","@type":"MusicAlbum","creditedTo":"Lumidee"},{"byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9d131c78-badc-4f5f-af03-8f8cc7e7a127","name":"Ardian Bujupi"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b330f3d3-edfc-4d21-8df6-b1f5a17476a4","name":"DJ Mase"},{"name":"Big Ali","@id":"https://musicbrainz.org/artist/00a3eec9-fd81-48bb-b1ee-d61c6797d8e4","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35","name":"Lumidee","@type":["Person","MusicGroup"]}],"name":"Boom Rakatak","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/3f202efb-c1e8-4e57-9151-dd1a254b7828","@type":"MusicAlbum","creditedTo":"Ardian Bujupi feat. DJ Mase, Big Ali \u0026 Lumidee"},{"@type":"MusicAlbum","creditedTo":"Enur feat. Natasja \u0026 Lumidee","byArtist":[{"@type":"MusicGroup","name":"Enur","@id":"https://musicbrainz.org/artist/4062025b-e1a7-4413-adc4-0236d6155dc0"},{"name":"Natasja","@id":"https://musicbrainz.org/artist/6b678f17-c410-4027-8c74-e071de98b216","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Lumidee","@id":"https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35"}],"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b236f3c3-6315-4979-8278-bd0e84f26087","name":"Enur’s Bonfire"}],"@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0fc6441d-ee08-4088-8a70-1d6ed2ad5a35">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F0fc6441d-ee08-4088-8a70-1d6ed2ad5a35">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee – Lumidee"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/releases" title="Lumidee"><bdi>Releases</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/recordings" title="Lumidee"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/works" title="Lumidee"><bdi>Works</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/events" title="Lumidee"><bdi>Events</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/relationships" title="Lumidee"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/aliases" title="Lumidee"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/tags" title="Lumidee"><bdi>Tags</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/details" title="Lumidee"><bdi>Details</bdi></a></li>            <li><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/edit" title="Lumidee"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+        <p><strong>Legal name:</strong> Lumidee Cedeño</p>
+    
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=108365" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/12bb20bb-d45b-35ea-bd37-1ddd0f0dec77"><bdi>Almost Famous</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/20feecc4-0140-391d-8e1d-bf578a11adf7"><bdi>Unexpected</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + DJ-mix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/6c42baeb-5aaf-4ead-8132-6759ab91008f"><bdi>The Queen of Spanish Harlem</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/31ebcaa4-4ce8-44b9-84c8-eb6e0c85a6b8"><bdi>Coast 2 Coast Exclusive Series 2</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Mixtape/Street</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/f5a0b4c8-de8e-4fc4-9473-4bab5e0e0aab"><bdi>I’m Up, Vol. 1</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f260c1ce-a885-4fc6-893b-64e84cda8869"><bdi>The Best of Lumidee</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/eef73ab6-dbfd-443e-9375-30fce22861eb"><bdi>Luminadee</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/3891e700-9398-4880-8f6a-f7d73b76d35e"><bdi>Lumi</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/309d919d-249a-320a-b42d-23923bb14f97"><bdi>Never Leave You (Uh Oooh, Uh Oooh)</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/76f6f16e-d8ce-39c0-9aae-f860f8e150a5"><bdi>Crashin' a Party</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/a0b1bf44-6d5a-42d7-a058-b81c347491c1"><bdi>Dance!</bdi></a></td>
+        
+        <td><a href="/artist/a2a3d2ea-147f-4cb3-b581-a6669850b69a" title="Goleo VI"><bdi>Goleo VI</bdi></a> presents <a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a> vs. <a href="/artist/d3d20e96-5783-4126-9d64-075566611c5e" title="Fatman Scoop"><bdi>Fatman Scoop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/775e1670-1fa6-383d-b749-770681734fb6"><bdi>She's Like the Wind</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/76012090-da43-4e04-ae2a-c812400b6211"><bdi>Mariah (You Know I Want You)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/fe2d4768-80a4-4a00-b606-4872b6996a6a" title="Juan Magán – Magán, Juan"><bdi>Juan Magan</bdi></a></span> feat. <a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/cb5ab3b6-8e53-4ed5-8146-427b4fdda6d4"><bdi>Where I Wanna Be</bdi></a></td>
+        
+        <td><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/3f202efb-c1e8-4e57-9151-dd1a254b7828"><bdi>Boom Rakatak</bdi></a></td>
+        
+        <td><a href="/artist/9d131c78-badc-4f5f-af03-8f8cc7e7a127" title="Bujupi, Ardian (German)"><bdi>Ardian Bujupi</bdi></a> feat. <a href="/artist/b330f3d3-edfc-4d21-8df6-b1f5a17476a4" title="Mase, DJ (German dj)"><bdi>DJ Mase</bdi></a>, <a href="/artist/00a3eec9-fd81-48bb-b1ee-d61c6797d8e4" title="Big Ali"><bdi>Big Ali</bdi></a> &amp; <a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/b236f3c3-6315-4979-8278-bd0e84f26087"><bdi>Enur’s Bonfire</bdi></a></td>
+        
+        <td><a href="/artist/4062025b-e1a7-4413-adc4-0236d6155dc0" title="Enur"><bdi>Enur</bdi></a> feat. <a href="/artist/6b678f17-c410-4027-8c74-e071de98b216" title="Natasja (Natasja Saad, Danish reggae fusion artist)"><bdi>Natasja</bdi></a> &amp; <a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35" title="Lumidee"><bdi>Lumidee</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Female</dd>
+<dt>Born:</dt>
+<dd>1984-08-24 (32 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/1cea068b-1894-4711-9578-47d9cfff5d84"><bdi>East Harlem</bdi></a>, <a href="/area/74e50e58-5deb-4b99-93a2-decbb365c07f"><bdi>New York</bdi></a>, <a href="/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"><bdi>New York</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000055204220">0000 0000 5520 4220    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/american"><bdi>american</bdi></a>, <a href="/tag/hip%20hop%20rnb%20and%20dance%20hall"><bdi>hip hop rnb and dance hall</bdi></a>, <a href="/tag/hip-hop"><bdi>hip-hop</bdi></a>, <a href="/tag/reggaeton"><bdi>reggaeton</bdi></a>, <a href="/tag/rnb"><bdi>rnb</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.lumidee.net/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000320470">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/120009">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Lumidee">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/lumidee">lumidee</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/lumidee">Rateyourmusic</a>
+          
+          
+        </li>               <li class="whosampled-favicon">
+          
+          
+          <a href="http://www.whosampled.com/Lumidee/">WhoSampled</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/6279">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/thereallumidee">@thereallumidee</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/lumidee.cedeno.1">lumidee.cedeno.1</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/19924919">VIAF: 19924919</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q272244">Q272244</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Lumidee">en: Lumidee</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/0fc6441d-ee08-4088-8a70-1d6ed2ad5a35/relationships" title="Lumidee"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F0fc6441d-ee08-4088-8a70-1d6ed2ad5a35">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-10-22 23:55 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

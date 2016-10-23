@@ -1,0 +1,901 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AlunaGeorge - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2009 in London, Area: United Kingdom"/><script type="application/ld+json">{"foundingDate":"2009","name":"AlunaGeorge","member":[{"member":{"name":"George Reid","@id":"https://musicbrainz.org/artist/02512f89-9a55-418e-a3e9-1b58247940e2","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole","startDate":"2009"},{"@type":"OrganizationRole","startDate":"2009","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4d937f0c-1248-4b0d-93f5-427059092c33","name":"Aluna Francis"},"roleName":"lead vocals"}],"album":[{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f"},"creditedTo":"AlunaGeorge","name":"Body Music","@id":"https://musicbrainz.org/release-group/7e054c1a-f419-4059-a0ad-b89a9c435ec7","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c598ba2c-f8bd-4da9-861d-648ea0aa1012","name":"I Remember","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"},"creditedTo":"AlunaGeorge","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","creditedTo":"AlunaGeorge","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"},"@id":"https://musicbrainz.org/release-group/36db29ef-b31f-49eb-ae03-d1c58bc20ee1","albumReleaseType":"http://schema.org/AlbumRelease","name":"Body Music (remixed)"},{"name":"Analyser/We Are Chosen","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ef556231-0a6f-4205-a006-b2d2911f2aaa","creditedTo":"AlunaGeorge","byArtist":{"@type":"MusicGroup","name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"byArtist":[{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/7ebe7b0c-1e4b-4825-972e-2a618ec584de","name":"Rustie"},{"name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","@type":"MusicGroup"}],"creditedTo":"Rustie feat. AlunaGeorge","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"After Light","@id":"https://musicbrainz.org/release-group/922287d0-8197-4586-b0a2-f06c647c5281","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"AlunaGeorge","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"},"name":"You Know You Like It","@id":"https://musicbrainz.org/release-group/a134c516-968a-40e2-a91e-06af346b226d","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"White Noise","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/9d50a757-2586-40e8-8ec5-802dec90d67c","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/ae65c507-d9a0-4d42-9a6c-2b1f82158b9f","name":"Disclosure"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"}],"creditedTo":"Disclosure feat. AlunaGeorge"},{"name":"Attracting Flies","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/a59ef115-fd4f-4c2b-b493-5bef675f385f","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"AlunaGeorge","byArtist":{"@type":"MusicGroup","name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f"}},{"name":"Supernatural","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c0a2721d-0621-4ce1-a4a8-be279b5edefd","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","@type":"MusicGroup"},"creditedTo":"AlunaGeorge"},{"name":"Automatic","@id":"https://musicbrainz.org/release-group/4fa2ffcf-7fc6-460d-a2a5-411a9e3420b7","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"ZHU","@id":"https://musicbrainz.org/artist/eca0569c-877e-4d72-a280-90581c2adfd5"},{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"}],"creditedTo":"ZHU x AlunaGeorge","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/5028091f-7e2a-4047-85e0-174b3d2f9cd5","albumReleaseType":"http://schema.org/SingleRelease","name":"I'm in Control","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Popcaan","@id":"https://musicbrainz.org/artist/d7641934-7dfb-49ea-b948-da0b12816b12"}],"creditedTo":"AlunaGeorge feat. Popcaan"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e1465ac6-9de7-497d-a68f-b6683db3c905","name":"I Remember","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"AlunaGeorge","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"}},{"name":"My Blood","@id":"https://musicbrainz.org/release-group/6ee81a42-afd6-4397-a67c-7e01cca1c4e5","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"AlunaGeorge feat. ZHU","byArtist":[{"@type":"MusicGroup","name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/eca0569c-877e-4d72-a280-90581c2adfd5","name":"ZHU"}]},{"name":"Mean What I Mean","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/8336d744-9b19-48ae-ad63-1864c5c0c1eb","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"AlunaGeorge feat. Leikeli47 \u0026 Dreezy","byArtist":[{"name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/da8a2bf4-8298-4da4-b5ff-ad5adb856037","name":"Leikeli47"},{"@id":"https://musicbrainz.org/artist/22991d79-deaa-4ff8-9d47-c40395bafc85","name":"Dreezy","@type":["Person","MusicGroup"]}]},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"},"creditedTo":"AlunaGeorge","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/36f199a7-93d5-4c2f-887f-33b0d989edea","name":"Mediator"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"AlunaGeorge","byArtist":{"@type":"MusicGroup","name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f"},"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/9d441379-61f0-437c-bad9-6193e5ed27b3","name":"Spotify Sessions (live from Spotify London)"},{"creditedTo":"Disclosure \u0026 Lorde feat. AlunaGeorge","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/ae65c507-d9a0-4d42-9a6c-2b1f82158b9f","name":"Disclosure"},{"@type":["Person","MusicGroup"],"name":"Lorde","@id":"https://musicbrainz.org/artist/8e494408-8620-4c6a-82c2-c2ca4a1e4f12"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"}],"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","name":"Royals / White Noise (live from the BRITs)","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/32310b07-307f-48a4-a626-e667f44b2825"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ef335a00-a472-496d-8d72-a047f515f792","name":"White Noise (HudMo remix)","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/ae65c507-d9a0-4d42-9a6c-2b1f82158b9f","name":"Disclosure","@type":"MusicGroup"},{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"}],"creditedTo":"Disclosure feat. AlunaGeorge"},{"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","byArtist":[{"name":"DJ Snake","@id":"https://musicbrainz.org/artist/31445b1e-96f3-4c7f-84ec-dd02e647e690","@type":["Person","MusicGroup"]},{"name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","@type":"MusicGroup"}],"creditedTo":"DJ Snake \u0026 AlunaGeorge","name":"You Know You Like It","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/246bfecd-41f3-4ccb-8d93-326b3bc10650"},{"name":"To Ü","@id":"https://musicbrainz.org/release-group/7107b734-d2e9-4efc-bc7b-299b155048ee","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/8a40cfa4-e190-4133-a9af-e668c7d5f6f3","name":"Jack Ü","@type":"MusicGroup"},{"@type":"MusicGroup","name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f"}],"creditedTo":"Jack Ü feat. AlunaGeorge","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum"},{"name":"I'm in Control (Fakear remix)","@id":"https://musicbrainz.org/release-group/6e5734e3-7696-4eb8-86b2-a75f450c5490","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","creditedTo":"AlunaGeorge feat. Popcaan","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"},{"@id":"https://musicbrainz.org/artist/d7641934-7dfb-49ea-b948-da0b12816b12","name":"Popcaan","@type":["Person","MusicGroup"]}]},{"name":"I'm in Control (The Magician remix)","@id":"https://musicbrainz.org/release-group/dc82bca2-2ca3-4fe0-962f-73501f9952ea","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge"},{"name":"Popcaan","@id":"https://musicbrainz.org/artist/d7641934-7dfb-49ea-b948-da0b12816b12","@type":["Person","MusicGroup"]}],"creditedTo":"AlunaGeorge feat. Popcaan"},{"creditedTo":"AlunaGeorge feat. Popcaan","byArtist":[{"name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Popcaan","@id":"https://musicbrainz.org/artist/d7641934-7dfb-49ea-b948-da0b12816b12"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","name":"I'm in Control (Jules Field remix)","@id":"https://musicbrainz.org/release-group/0cc7a67b-189a-4137-8a42-0238d8fce3f4","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"You Know You Like It","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/c0967ca9-bda2-4969-80e3-c89cc7b4f983","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"},"creditedTo":"AlunaGeorge"},{"name":"You Know You Like It (remix EP)","@id":"https://musicbrainz.org/release-group/668a9f29-5a46-415a-bd16-8f7afb68c22d","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"},"creditedTo":"AlunaGeorge"},{"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"},"creditedTo":"AlunaGeorge","@id":"https://musicbrainz.org/release-group/8c121fb5-78e2-4a33-8b1f-3d3a825085fd","albumReleaseType":"http://schema.org/EPRelease","name":"Your Drums, Your Love (remixes)"},{"@id":"https://musicbrainz.org/release-group/e279c534-a796-4cd4-819b-22a3fe1019ee","albumReleaseType":"http://schema.org/EPRelease","name":"Best Be Believing (remix EP)","byArtist":{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"},"creditedTo":"AlunaGeorge","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum"},{"name":"Attracting Flies (remixes)","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/ed80bfda-f453-42ad-92c1-b5333a08c61c","creditedTo":"AlunaGeorge","byArtist":{"name":"AlunaGeorge","@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","@type":"MusicGroup"},"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","creditedTo":"AlunaGeorge","byArtist":{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/f1c5f87b-3c43-48ec-97bc-beb2a5f0274b","name":"Supernatural (remixes)"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","name":"AlunaGeorge","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/da8a2bf4-8298-4da4-b5ff-ad5adb856037","name":"Leikeli47"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/22991d79-deaa-4ff8-9d47-c40395bafc85","name":"Dreezy"}],"creditedTo":"AlunaGeorge feat. Leikeli47 \u0026 Dreezy","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e12e3a9f-c236-4961-9b7b-c102b19c5f84","albumReleaseType":"http://schema.org/EPRelease","name":"Mean What I Mean (remix EP)"}],"groupOrigin":{"@id":"https://musicbrainz.org/area/f03d09b3-39dc-4083-afd6-159e3f0d462f","name":"London","@type":"City","containedIn":{"@type":"AdministrativeArea","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"@id":"https://musicbrainz.org/area/9d5dd675-3cf4-4296-9e39-67865ebee758","name":"England"}},"@id":"https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f","sameAs":["http://alunageorge.com/","http://en.wikipedia.org/wiki/AlunaGeorge","http://www.allmusic.com/artist/mn0002756671","https://musicbrainz.org/artist/096e28a9-addd-4f9f-8ccb-d4a8199982dc","https://rateyourmusic.com/artist/alunageorge","https://www.discogs.com/artist/2204391","https://www.wikidata.org/wiki/Q10353"],"location":{"@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom"},"@context":"http://schema.org","@type":"MusicGroup"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fe9da3ed5-eb9a-4f70-a0ed-4e59e380601f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fe9da3ed5-eb9a-4f70-a0ed-4e59e380601f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge – AlunaGeorge"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/releases" title="AlunaGeorge"><bdi>Releases</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/recordings" title="AlunaGeorge"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/works" title="AlunaGeorge"><bdi>Works</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/events" title="AlunaGeorge"><bdi>Events</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/relationships" title="AlunaGeorge"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/aliases" title="AlunaGeorge"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/tags" title="AlunaGeorge"><bdi>Tags</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/details" title="AlunaGeorge"><bdi>Details</bdi></a></li>            <li><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/edit" title="AlunaGeorge"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>AlunaGeorge</b> are an English electronic music duo from London, consisting of Aluna Francis (vocals and songwriting) and George Reid (production and instrumentation).</p>
+<p>It was announced on 6 December 2012 that AlunaGeorge had been shortlisted for the 2013 BRIT Award of Critics' Choice. Then, on 9 December, the BBC announced that the duo had also been nominated for the Sound of 2013 poll, in which they finished in second place.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/AlunaGeorge">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=863096" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/7e054c1a-f419-4059-a0ad-b89a9c435ec7"><bdi>Body Music</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/c598ba2c-f8bd-4da9-861d-648ea0aa1012"><bdi>I Remember</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/36db29ef-b31f-49eb-ae03-d1c58bc20ee1"><bdi>Body Music (remixed)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/ef556231-0a6f-4205-a006-b2d2911f2aaa"><bdi>Analyser/We Are Chosen</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/922287d0-8197-4586-b0a2-f06c647c5281"><bdi>After Light</bdi></a></td>
+        
+        <td><a href="/artist/7ebe7b0c-1e4b-4825-972e-2a618ec584de" title="Rustie"><bdi>Rustie</bdi></a> feat. <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/a134c516-968a-40e2-a91e-06af346b226d"><bdi>You Know You Like It</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/9d50a757-2586-40e8-8ec5-802dec90d67c"><bdi>White Noise</bdi></a></td>
+        
+        <td><a href="/artist/ae65c507-d9a0-4d42-9a6c-2b1f82158b9f" title="Disclosure (Brothers Guy and Howard Lawrence)"><bdi>Disclosure</bdi></a> feat. <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/a59ef115-fd4f-4c2b-b493-5bef675f385f"><bdi>Attracting Flies</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/c0a2721d-0621-4ce1-a4a8-be279b5edefd"><bdi>Supernatural</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/4fa2ffcf-7fc6-460d-a2a5-411a9e3420b7"><bdi>Automatic</bdi></a></td>
+        
+        <td><a href="/artist/eca0569c-877e-4d72-a280-90581c2adfd5" title="ZHU"><bdi>ZHU</bdi></a> x <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/5028091f-7e2a-4047-85e0-174b3d2f9cd5"><bdi>I'm in Control</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a> feat. <a href="/artist/d7641934-7dfb-49ea-b948-da0b12816b12" title="Popcaan"><bdi>Popcaan</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/e1465ac6-9de7-497d-a68f-b6683db3c905"><bdi>I Remember</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/6ee81a42-afd6-4397-a67c-7e01cca1c4e5"><bdi>My Blood</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a> feat. <a href="/artist/eca0569c-877e-4d72-a280-90581c2adfd5" title="ZHU"><bdi>ZHU</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/8336d744-9b19-48ae-ad63-1864c5c0c1eb"><bdi>Mean What I Mean</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a> feat. <a href="/artist/da8a2bf4-8298-4da4-b5ff-ad5adb856037" title="Leikeli47 (NYC rapper)"><bdi>Leikeli47</bdi></a> &amp; <a href="/artist/22991d79-deaa-4ff8-9d47-c40395bafc85" title="Dreezy"><bdi>Dreezy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/36f199a7-93d5-4c2f-887f-33b0d989edea"><bdi>Mediator</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/9d441379-61f0-437c-bad9-6193e5ed27b3"><bdi>Spotify Sessions (live from Spotify London)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/32310b07-307f-48a4-a626-e667f44b2825"><bdi>Royals / White Noise (live from the BRITs)</bdi></a></td>
+        
+        <td><a href="/artist/ae65c507-d9a0-4d42-9a6c-2b1f82158b9f" title="Disclosure (Brothers Guy and Howard Lawrence)"><bdi>Disclosure</bdi></a> &amp; <a href="/artist/8e494408-8620-4c6a-82c2-c2ca4a1e4f12" title="Lorde (New Zealand singer-songwriter)"><bdi>Lorde</bdi></a> feat. <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/ef335a00-a472-496d-8d72-a047f515f792"><bdi>White Noise (HudMo remix)</bdi></a></td>
+        
+        <td><a href="/artist/ae65c507-d9a0-4d42-9a6c-2b1f82158b9f" title="Disclosure (Brothers Guy and Howard Lawrence)"><bdi>Disclosure</bdi></a> feat. <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/246bfecd-41f3-4ccb-8d93-326b3bc10650"><bdi>You Know You Like It</bdi></a></td>
+        
+        <td><a href="/artist/31445b1e-96f3-4c7f-84ec-dd02e647e690" title="Snake, DJ (French EDM/Trap producer William Grigahcine)"><bdi>DJ Snake</bdi></a> &amp; <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/7107b734-d2e9-4efc-bc7b-299b155048ee"><bdi>To Ü</bdi></a></td>
+        
+        <td><a href="/artist/8a40cfa4-e190-4133-a9af-e668c7d5f6f3" title="Jack Ü (Skrillex &amp; Diplo)"><bdi>Jack Ü</bdi></a> feat. <a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/6e5734e3-7696-4eb8-86b2-a75f450c5490"><bdi>I'm in Control (Fakear remix)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a> feat. <a href="/artist/d7641934-7dfb-49ea-b948-da0b12816b12" title="Popcaan"><bdi>Popcaan</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/dc82bca2-2ca3-4fe0-962f-73501f9952ea"><bdi>I'm in Control (The Magician remix)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a> feat. <a href="/artist/d7641934-7dfb-49ea-b948-da0b12816b12" title="Popcaan"><bdi>Popcaan</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/0cc7a67b-189a-4137-8a42-0238d8fce3f4"><bdi>I'm in Control (Jules Field remix)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a> feat. <a href="/artist/d7641934-7dfb-49ea-b948-da0b12816b12" title="Popcaan"><bdi>Popcaan</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/c0967ca9-bda2-4969-80e3-c89cc7b4f983"><bdi>You Know You Like It</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/668a9f29-5a46-415a-bd16-8f7afb68c22d"><bdi>You Know You Like It (remix EP)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/8c121fb5-78e2-4a33-8b1f-3d3a825085fd"><bdi>Your Drums, Your Love (remixes)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/e279c534-a796-4cd4-819b-22a3fe1019ee"><bdi>Best Be Believing (remix EP)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/ed80bfda-f453-42ad-92c1-b5333a08c61c"><bdi>Attracting Flies (remixes)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/f1c5f87b-3c43-48ec-97bc-beb2a5f0274b"><bdi>Supernatural (remixes)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/e12e3a9f-c236-4961-9b7b-c102b19c5f84"><bdi>Mean What I Mean (remix EP)</bdi></a></td>
+        
+        <td><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f" title="AlunaGeorge"><bdi>AlunaGeorge</bdi></a> feat. <a href="/artist/da8a2bf4-8298-4da4-b5ff-ad5adb856037" title="Leikeli47 (NYC rapper)"><bdi>Leikeli47</bdi></a> &amp; <a href="/artist/22991d79-deaa-4ff8-9d47-c40395bafc85" title="Dreezy"><bdi>Dreezy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/AlunaGeorge_at_St._Jerome%27s_Laneway_Festival%2C_Detroit_by_Subsocietal_Inc..jpg/250px-AlunaGeorge_at_St._Jerome%27s_Laneway_Festival%2C_Detroit_by_Subsocietal_Inc..jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:AlunaGeorge at St. Jerome's Laneway Festival, Detroit by Subsocietal Inc..jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2009 (7 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f03d09b3-39dc-4083-afd6-159e3f0d462f"><bdi>London</bdi></a>, <a href="/area/9d5dd675-3cf4-4296-9e39-67865ebee758"><bdi>England</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/indie"><bdi>indie</bdi></a>, <a href="/tag/trip-hop"><bdi>trip-hop</bdi></a>, <a href="/tag/uk%20garage"><bdi>uk garage</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://alunageorge.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0002756671">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/2204391">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/AlunaGeorge">LyricWiki</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/alunageorge">Rateyourmusic</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id425686769">iTunes</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/alunageorge">@alunageorge</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/alunageorge">alunageorge</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/alunageorge">alunageorge</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q10353">Q10353</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/AlunaGeorge">en: AlunaGeorge</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/alunageorge">alunageorge</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/AlunaGeorgeVEVO">AlunaGeorgeVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/e9da3ed5-eb9a-4f70-a0ed-4e59e380601f/relationships" title="AlunaGeorge"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fe9da3ed5-eb9a-4f70-a0ed-4e59e380601f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-07-31 09:20 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,604 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bob van Asperen - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1947-10-08 in Amsterdam, Area: Netherlands"/><script type="application/ld+json">{"birthDate":"1947-10-08","location":{"@type":"Country","name":"Netherlands","@id":"https://musicbrainz.org/area/ef1b7cc0-cd26-36f4-8ea0-04d9623786c7"},"birthPlace":{"@id":"https://musicbrainz.org/area/e8e317a1-268c-4e46-9db1-f10af959ffca","@type":"City","name":"Amsterdam","containedIn":{"containedIn":{"name":"Netherlands","@type":"Country","@id":"https://musicbrainz.org/area/ef1b7cc0-cd26-36f4-8ea0-04d9623786c7"},"name":"Noord-Holland","@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/61d4a9f2-68f1-4cec-a25f-e8f953954459"}},"@context":"http://schema.org","album":[{"creditedTo":"John Bull; Bob van Asperen","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b6a79573-e40d-3450-aa31-abcc4f1bf87f","byArtist":[{"@id":"https://musicbrainz.org/artist/ca013e83-6a0a-4ce1-9b35-baaad4e697e0","name":"John Bull","@type":["Person","MusicGroup"]},{"@type":["Person","MusicGroup"],"name":"Bob van Asperen","@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"}],"@type":"MusicAlbum","name":"Music for Harpsichord","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Harpsichord In The Netherlands - 1580-1712","byArtist":{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","name":"Bob van Asperen","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/f30836be-23fd-3a82-bad4-eca352a9dfca","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Bob van Asperen"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Domenico Scarlatti; Bob van Asperen","name":"Sonatas","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8e1b6e77-55d2-4496-9e3c-46915270e93b","byArtist":[{"@id":"https://musicbrainz.org/artist/95c7a1d1-5cfd-41d5-99f9-0611262de8e1","name":"Domenico Scarlatti","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","@type":["Person","MusicGroup"],"name":"Bob van Asperen"}]},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Boccherini; Anner Bylsma, Kenneth Slowik, Bob van Asperen","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Cello Sonatas / Fugues for 2 Cellos","@id":"https://musicbrainz.org/release-group/82160ecf-d412-4417-81a1-967bf9bbb247","byArtist":[{"name":"Luigi Boccherini","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5c1a3f8f-d5e5-4dcd-9e44-9443f06bb77d"},{"@id":"https://musicbrainz.org/artist/68ff4d23-dbd3-459a-a295-df867b8ce9b9","@type":["Person","MusicGroup"],"name":"Anner Bylsma"},{"@id":"https://musicbrainz.org/artist/6c935014-0a38-4f89-b92d-6586d66284b5","@type":["Person","MusicGroup"],"name":"Kenneth Slowik"},{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","name":"Bob van Asperen","@type":["Person","MusicGroup"]}]},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"JS Bach; Bob van Asperen, Gustav Leonhardt","@type":"MusicAlbum","name":"Concertos for 2 Harpsichords","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Johann Sebastian Bach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"@type":["Person","MusicGroup"],"name":"Bob van Asperen","@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"},{"@type":["Person","MusicGroup"],"name":"Gustav Leonhardt","@id":"https://musicbrainz.org/artist/27b0750a-7318-4075-9470-43b82d454ea0"}],"@id":"https://musicbrainz.org/release-group/56c49404-dd2c-4a09-884e-9afabbf34292"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","name":"Johann Sebastian Bach","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","name":"Bob van Asperen","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/56f451ac-cab2-3ad0-bf6e-4df644bb4fb2","name":"The Well-Tempered Clavier","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"J.S. Bach; Bob van Asperen","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"A l'honneur de Madame Sibylle","@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Bob van Asperen","@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"},"@id":"https://musicbrainz.org/release-group/1f22000f-2d2a-41d3-8996-016bf8fe1c59","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Bob van Asperen"},{"@type":"MusicAlbum","name":"Toccatas / Goldberg Variations","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Johann Sebastian Bach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","name":"Bob van Asperen","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/a012bb99-1133-4947-b0dd-5fc52422f46f","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Johann Sebastian Bach; Bob van Asperen"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"C.P.E. Bach; Barthold Kuijken, Bob van Asperen","albumReleaseType":"http://schema.org/AlbumRelease","name":"Complete Flute Sonatas","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d6bc89ed-d71c-3114-8fcf-d7ed3d993586","byArtist":[{"@type":["Person","MusicGroup"],"name":"Carl Philipp Emanuel Bach","@id":"https://musicbrainz.org/artist/f6486fc7-90ef-48ad-8ca3-905af1354afe"},{"name":"Barthold Kuijken","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/78d102d1-c148-4cbe-8d05-32b866a9fa21"},{"name":"Bob van Asperen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"}]},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Bob van Asperen","@type":"MusicAlbum","name":"Antonio Soler Integral de la obra pare clave","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","name":"Bob van Asperen","@type":["Person","MusicGroup"]},"@id":"https://musicbrainz.org/release-group/06f1e4eb-ecb7-46c8-b7c5-312634798be9"},{"@type":"MusicAlbum","name":"Cembalo concerti III","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7aa9c8cc-4506-3202-b3bd-4f49a1dc0d07","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","name":"Johann Sebastian Bach","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","name":"Bob van Asperen","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Johann Sebastian Bach; Bob Van Asperen"},{"name":"Sonatas for Viola da Gamba","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8ed2e9cc-2346-3bbf-a600-9e235be00507","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach"},{"@id":"https://musicbrainz.org/artist/16d891b8-3367-4ef1-94c9-d4257e271115","@type":["Person","MusicGroup"],"name":"Johann Christoph Friedrich Bach"},{"@id":"https://musicbrainz.org/artist/68ff4d23-dbd3-459a-a295-df867b8ce9b9","name":"Anner Bylsma","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","name":"Bob van Asperen","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"J. S. Bach, J. C. F. Bach; Anner Bylsma, Bob van Asperen"},{"@id":"https://musicbrainz.org/release-group/2a313c91-c31a-44b4-8703-3f3f4a807050","byArtist":{"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","@type":["Person","MusicGroup"],"name":"Bob van Asperen"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"War \u0026 Peace","creditedTo":"Bob van Asperen","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/f539c697-934f-4867-aec8-7da285e2fe8c","byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","@type":["Person","MusicGroup"],"name":"Antonio Vivaldi"},{"@id":"https://musicbrainz.org/artist/0416f387-270d-4686-97b2-6394652d43b0","@type":["Person","MusicGroup"],"name":"Walter van Hauwe"},{"@type":["Person","MusicGroup"],"name":"Bob van Asperen","@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"},{"@id":"https://musicbrainz.org/artist/81de3040-be91-4542-9eba-4036d910d3f8","@type":["Person","MusicGroup"],"name":"Wouter Möller"},{"@id":"https://musicbrainz.org/artist/22f919f7-1987-4850-9a3f-f351e7aa4126","name":"Frans Robert Berkhout","@type":"MusicGroup"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Sonatas: Blockflutes 4","@type":"MusicAlbum","creditedTo":"Antonio Vivaldi; Walter van Hauwe, Bob van Asperen, Wouter Möller, Frans Robert Berkhout","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Bob van Asperen \u0026 Wolfgang Basch","name":"Chamber Music for Trumpet and Winds","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Bob van Asperen","@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"},{"@id":"https://musicbrainz.org/artist/43fe1958-4649-4497-81bf-521614304758","@type":["Person","MusicGroup"],"name":"Wolfgang Basch"}],"@id":"https://musicbrainz.org/release-group/9bc3e5c7-8aed-4820-b2fe-efbf1ae07715"},{"name":"Harpsichord Concertos","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/205a6cf1-e112-48ea-b18b-9755de2a095c","byArtist":[{"name":"Johann Sebastian Bach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"name":"Bob van Asperen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"}],"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Johann Sebastian Bach; Bob van Asperen"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Johann Sebastian Bach; Bob van Asperen, Melante Amsterdam","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Concertos for 2, 3 \u0026 4 Harpsicords","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach"},{"name":"Bob van Asperen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"},{"name":"Melante Amsterdam","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/2f51179a-25ba-45fe-a89b-227004cacbdf"}],"@id":"https://musicbrainz.org/release-group/d78cb5fb-4e39-4d2c-8066-d0b2436745ad"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Georg Friedrich Händel; Brüggen, Haynes, Lange, Bylsma, Van Asperen","name":"The Complete Wind Sonatas","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc","@type":["Person","MusicGroup"],"name":"George Frideric Handel"},{"@id":"https://musicbrainz.org/artist/2ef36a7b-c93c-4e05-9d23-2dd9f85c653a","name":"Frans Brüggen","@type":["Person","MusicGroup"]},{"name":"Bruce Haynes","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/bfcf4d4a-8536-49ec-b7ed-92e8a9523524"},{"name":"Hansjürg Lange","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4e00ff54-84af-4e16-9e9e-3376fa9084a6"},{"@id":"https://musicbrainz.org/artist/68ff4d23-dbd3-459a-a295-df867b8ce9b9","@type":["Person","MusicGroup"],"name":"Anner Bylsma"},{"name":"Bob van Asperen","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a"}],"@id":"https://musicbrainz.org/release-group/42273858-a80d-34a0-bf71-380460ed82bc"}],"@id":"https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a","sameAs":["http://en.wikipedia.org/wiki/Bob_van_Asperen","https://www.wikidata.org/wiki/Q603270"],"name":"Bob van Asperen","@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F1f7af258-5683-4fdd-be7a-6e60d69ad12a">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F1f7af258-5683-4fdd-be7a-6e60d69ad12a">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Bob van Asperen – Asperen, van, Bob"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/releases" title="Asperen, van, Bob"><bdi>Releases</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/recordings" title="Asperen, van, Bob"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/works" title="Asperen, van, Bob"><bdi>Works</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/events" title="Asperen, van, Bob"><bdi>Events</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/relationships" title="Asperen, van, Bob"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/aliases" title="Asperen, van, Bob"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/tags" title="Asperen, van, Bob"><bdi>Tags</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/details" title="Asperen, van, Bob"><bdi>Details</bdi></a></li>            <li><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/edit" title="Asperen, van, Bob"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=304185" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/b6a79573-e40d-3450-aa31-abcc4f1bf87f"><bdi>Music for Harpsichord</bdi></a></td>
+        
+        <td><a href="/artist/ca013e83-6a0a-4ce1-9b35-baaad4e697e0" title="Bull, John (16th century composer)"><bdi>John Bull</bdi></a>; <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/f30836be-23fd-3a82-bad4-eca352a9dfca"><bdi>The Harpsichord In The Netherlands - 1580-1712</bdi></a></td>
+        
+        <td><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/8e1b6e77-55d2-4496-9e3c-46915270e93b"><bdi>Sonatas</bdi></a></td>
+        
+        <td><a href="/artist/95c7a1d1-5cfd-41d5-99f9-0611262de8e1" title="Scarlatti, Domenico"><bdi>Domenico Scarlatti</bdi></a>; <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/82160ecf-d412-4417-81a1-967bf9bbb247"><bdi>Cello Sonatas / Fugues for 2 Cellos</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/5c1a3f8f-d5e5-4dcd-9e44-9443f06bb77d" title="Luigi Boccherini – Boccherini, Luigi"><bdi>Boccherini</bdi></a></span>; <a href="/artist/68ff4d23-dbd3-459a-a295-df867b8ce9b9" title="Bylsma, Anner"><bdi>Anner Bylsma</bdi></a>, <a href="/artist/6c935014-0a38-4f89-b92d-6586d66284b5" title="Slowik, Kenneth"><bdi>Kenneth Slowik</bdi></a>, <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/56c49404-dd2c-4a09-884e-9afabbf34292"><bdi>Concertos for 2 Harpsichords</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>JS Bach</bdi></a></span>; <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a>, <a href="/artist/27b0750a-7318-4075-9470-43b82d454ea0" title="Leonhardt, Gustav"><bdi>Gustav Leonhardt</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/56f451ac-cab2-3ad0-bf6e-4df644bb4fb2"><bdi>The Well-Tempered Clavier</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>J.S. Bach</bdi></a></span>; <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/1f22000f-2d2a-41d3-8996-016bf8fe1c59"><bdi>A l'honneur de Madame Sibylle</bdi></a></td>
+        
+        <td><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/a012bb99-1133-4947-b0dd-5fc52422f46f"><bdi>Toccatas / Goldberg Variations</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/d6bc89ed-d71c-3114-8fcf-d7ed3d993586"><bdi>Complete Flute Sonatas</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f6486fc7-90ef-48ad-8ca3-905af1354afe" title="Carl Philipp Emanuel Bach – Bach, Carl Philipp Emanuel"><bdi>C.P.E. Bach</bdi></a></span>; <a href="/artist/78d102d1-c148-4cbe-8d05-32b866a9fa21" title="Kuijken, Barthold"><bdi>Barthold Kuijken</bdi></a>, <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/06f1e4eb-ecb7-46c8-b7c5-312634798be9"><bdi>Antonio Soler Integral de la obra pare clave</bdi></a></td>
+        
+        <td><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/7aa9c8cc-4506-3202-b3bd-4f49a1dc0d07"><bdi>Cembalo concerti III</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <span class="name-variation"><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Bob van Asperen – Asperen, van, Bob"><bdi>Bob Van Asperen</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/8ed2e9cc-2346-3bbf-a600-9e235be00507"><bdi>Sonatas for Viola da Gamba</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>J. S. Bach</bdi></a></span>, <span class="name-variation"><a href="/artist/16d891b8-3367-4ef1-94c9-d4257e271115" title="Johann Christoph Friedrich Bach – Bach, Johann Christoph Friedrich"><bdi>J. C. F. Bach</bdi></a></span>; <a href="/artist/68ff4d23-dbd3-459a-a295-df867b8ce9b9" title="Bylsma, Anner"><bdi>Anner Bylsma</bdi></a>, <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/2a313c91-c31a-44b4-8703-3f3f4a807050"><bdi>War &amp; Peace</bdi></a></td>
+        
+        <td><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/f539c697-934f-4867-aec8-7da285e2fe8c"><bdi>Sonatas: Blockflutes 4</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/0416f387-270d-4686-97b2-6394652d43b0" title="Hauwe, van, Walter"><bdi>Walter van Hauwe</bdi></a>, <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a>, <a href="/artist/81de3040-be91-4542-9eba-4036d910d3f8" title="Möller, Wouter"><bdi>Wouter Möller</bdi></a>, <a href="/artist/22f919f7-1987-4850-9a3f-f351e7aa4126" title="Berkhout, Frans Robert"><bdi>Frans Robert Berkhout</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/9bc3e5c7-8aed-4820-b2fe-efbf1ae07715"><bdi>Chamber Music for Trumpet and Winds</bdi></a></td>
+        
+        <td><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a> &amp; <a href="/artist/43fe1958-4649-4497-81bf-521614304758" title="Basch, Wolfgang"><bdi>Wolfgang Basch</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/205a6cf1-e112-48ea-b18b-9755de2a095c"><bdi>Harpsichord Concertos</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/d78cb5fb-4e39-4d2c-8066-d0b2436745ad"><bdi>Concertos for 2, 3 &amp; 4 Harpsicords</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Asperen, van, Bob"><bdi>Bob van Asperen</bdi></a>, <a href="/artist/2f51179a-25ba-45fe-a89b-227004cacbdf" title="Melante Amsterdam"><bdi>Melante Amsterdam</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/42273858-a80d-34a0-bf71-380460ed82bc"><bdi>The Complete Wind Sonatas</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc" title="George Frideric Handel – Handel, George Frideric (German‐British baroque composer)"><bdi>Georg Friedrich Händel</bdi></a></span>; <span class="name-variation"><a href="/artist/2ef36a7b-c93c-4e05-9d23-2dd9f85c653a" title="Frans Brüggen – Brüggen, Frans"><bdi>Brüggen</bdi></a></span>, <span class="name-variation"><a href="/artist/bfcf4d4a-8536-49ec-b7ed-92e8a9523524" title="Bruce Haynes – Haynes, Bruce (American and Canadian oboist, recorder player, musicologist and specialist in historical performance practice)"><bdi>Haynes</bdi></a></span>, <span class="name-variation"><a href="/artist/4e00ff54-84af-4e16-9e9e-3376fa9084a6" title="Hansjürg Lange – Lange, Hansjürg"><bdi>Lange</bdi></a></span>, <span class="name-variation"><a href="/artist/68ff4d23-dbd3-459a-a295-df867b8ce9b9" title="Anner Bylsma – Bylsma, Anner"><bdi>Bylsma</bdi></a></span>, <span class="name-variation"><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a" title="Bob van Asperen – Asperen, van, Bob"><bdi>Van Asperen</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Asperen, van, Bob</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1947-10-08 (69 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/e8e317a1-268c-4e46-9db1-f10af959ffca"><bdi>Amsterdam</bdi></a>, <a href="/area/61d4a9f2-68f1-4cec-a25f-e8f953954459"><bdi>Noord-Holland</bdi></a>, <span class="flag flag-NL"><a href="/area/ef1b7cc0-cd26-36f4-8ea0-04d9623786c7"><bdi>Netherlands</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-NL"><a href="/area/ef1b7cc0-cd26-36f4-8ea0-04d9623786c7"><bdi>Netherlands</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/ratings" title="Asperen, van, Bob"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/dutch%20harpsichordist"><bdi>dutch harpsichordist</bdi></a>, <a href="/tag/harpsichord"><bdi>harpsichord</bdi></a>, <a href="/tag/harpsichordist"><bdi>harpsichordist</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q603270">Q603270</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Bob_van_Asperen">en: Bob van Asperen</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/1f7af258-5683-4fdd-be7a-6e60d69ad12a/relationships" title="Asperen, van, Bob"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F1f7af258-5683-4fdd-be7a-6e60d69ad12a">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-06-09 12:29 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

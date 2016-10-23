@@ -1,0 +1,996 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sigur Rós - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1994-01-04 in Reykjavík, Area: Iceland"/><script type="application/ld+json">{"@type":"MusicGroup","member":[{"startDate":"1994-08","roleName":["drums","percussion"],"endDate":"1999","member":{"@id":"https://musicbrainz.org/artist/03d4e964-8657-4ad8-9d54-097a4a4efd41","name":"Ágúst Ævar Gunnarsson","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"roleName":["background vocals","banjo","flute","guitar","keyboard","oboe","organ","piano","synthesizer","tin whistle"],"endDate":"2013","member":{"@type":["Person","MusicGroup"],"name":"Kjartan Sveinsson","@id":"https://musicbrainz.org/artist/14503d80-d0e0-4ff5-b791-8b4b0686b744"},"@type":"OrganizationRole","startDate":"1998"},{"startDate":"1999","roleName":["drums","keyboard","percussion","sampler"],"member":{"name":"Orri Páll Dýrason","@id":"https://musicbrainz.org/artist/16749097-a779-46df-be1a-d94695ec6f72","@type":["Person","MusicGroup"]},"@type":"OrganizationRole"},{"roleName":["background vocals","bass guitar","glockenspiel","keyboard","toy piano"],"member":{"@type":["Person","MusicGroup"],"name":"Georg Hólm","@id":"https://musicbrainz.org/artist/4f47248b-4b19-4cf2-af58-0cdaf22221c9"},"@type":"OrganizationRole","startDate":"1994-08"},{"startDate":"1994-08","roleName":["banjo","bass guitar","bowed string instruments","guitar","harmonica","keyboard","lead vocals"],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/af00f655-402f-4d80-bb83-de525cde7a8d","name":"Jón Þór Birgisson","@type":["Person","MusicGroup"]}}],"name":"Sigur Rós","album":[{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"creditedTo":"Sigur Rós","@id":"https://musicbrainz.org/release-group/7b3844d1-5125-3158-8aed-90e0b6f61def","name":"Von","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Ágætis byrjun","@id":"https://musicbrainz.org/release-group/62b427b8-1c52-34e7-b250-da2aa3e44860","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"creditedTo":"Sigur Rós"},{"creditedTo":"Sigur Rós","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/950a650b-1e8d-3097-92af-9f7686bba4f1","name":"( )"},{"@id":"https://musicbrainz.org/release-group/47d8e9e2-dc13-3d94-afee-1f8c38cec091","name":"Takk…","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"creditedTo":"Sigur Rós"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Með suð í eyrum við spilum endalaust","@id":"https://musicbrainz.org/release-group/15143341-de7d-3c64-90a1-2fffe2c4b5a9","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"creditedTo":"Sigur Rós","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"creditedTo":"Sigur Rós","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Valtari","@id":"https://musicbrainz.org/release-group/7c78acfc-3253-42b9-abdf-06085e99d71b"},{"creditedTo":"Sigur Rós","byArtist":{"@type":"MusicGroup","name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Kveikur","@id":"https://musicbrainz.org/release-group/9fa7397e-7212-425f-8158-87c3bfb79602"},{"albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"creditedTo":"Sigur Rós","@id":"https://musicbrainz.org/release-group/25f92646-cded-42a2-a2d6-65c82f49a5ec","name":"Inni","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b927e61d-5e21-4f86-8635-131c70fe63d7","name":"iTunes Festival: London 2013","creditedTo":"Sigur Rós","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"albumProductionType":"http://schema.org/LiveAlbum"},{"albumProductionType":"http://schema.org/RemixAlbum","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"creditedTo":"Sigur Rós","name":"Von brigði","@id":"https://musicbrainz.org/release-group/474910da-e0e1-3413-a663-c333dd431007","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Englar Alheimsins","@id":"https://musicbrainz.org/release-group/e3b988ae-4b40-3127-87d8-062c46400bf5","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","creditedTo":"Hilmar Örn Hilmarsson \u0026 Sigur Rós","byArtist":[{"@id":"https://musicbrainz.org/artist/8602d053-d56c-438c-8adb-a2c9809e111d","name":"Hilmar Örn Hilmarsson","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8"}]},{"creditedTo":"Sigur Rós","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"albumProductionType":"http://schema.org/SoundtrackAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Hlemmur","@id":"https://musicbrainz.org/release-group/22e72e76-3a9c-38d3-b00a-bb8d96856d47"},{"@id":"https://musicbrainz.org/release-group/0c0315a4-5e98-31b8-9f49-7ed0021a82d9","name":"Svefn-g-englar","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8"},"creditedTo":"Sigur Rós"},{"name":"Ný batterí","@id":"https://musicbrainz.org/release-group/f106db74-2784-3e83-8169-b7cafa6c54d4","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sigur Rós","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sigur Rós","byArtist":{"@type":"MusicGroup","name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8"},"@id":"https://musicbrainz.org/release-group/7930f879-b930-3a09-9009-c51fbd49f234","name":"Vaka","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Hoppípolla","@id":"https://musicbrainz.org/release-group/2c875eb8-4413-3427-9eb4-2dd222e15ef1","creditedTo":"Sigur Rós","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sigur Rós","byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"name":"Hljómalind","@id":"https://musicbrainz.org/release-group/7ad4e9bc-24da-3ec7-b2f6-8c0ea4b3f9b7","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"@type":"MusicGroup","name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8"},"creditedTo":"Sigur Rós","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/96eac30a-794c-3481-bfb3-05a53a96fafd","name":"Inní mér syngur vitleysingur"},{"name":"Ekki Múkk","@id":"https://musicbrainz.org/release-group/3abd80d7-10b5-40da-b905-1b6acf70c2aa","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8"},"creditedTo":"Sigur Rós"},{"creditedTo":"Sigur Rós","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/38ff63c9-6f1f-417d-a911-465d47078d29","name":"Varúð"},{"name":"Brennisteinn","@id":"https://musicbrainz.org/release-group/e37300d8-ae5f-4b52-8800-23cea9e43eb4","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sigur Rós","byArtist":{"@type":"MusicGroup","name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8"}},{"creditedTo":"Sigur Rós","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Ísjaki","@id":"https://musicbrainz.org/release-group/d309468a-8351-41c7-8e36-b31d2408fa4b"},{"byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"creditedTo":"Sigur Rós","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"The Rains of Castamere","@id":"https://musicbrainz.org/release-group/6e0d607e-f8c8-4308-bf16-f7e1328e6817"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sigur Rós","byArtist":{"@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/7fc4feae-e189-483e-bf1a-c6ff4561f862","name":"Óveður","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós","@type":"MusicGroup"},"creditedTo":"Sigur Rós","@id":"https://musicbrainz.org/release-group/db0b352f-beaa-4c27-913c-415dfc8c9336","name":"Sigur 1/Sigur 9","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/RemixAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"creditedTo":"Sigur Rós","@id":"https://musicbrainz.org/release-group/ec49bec1-bc32-4e85-afac-273d19140cd4","name":"Gobbledigook: Remixes","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Rímur EP","@id":"https://musicbrainz.org/release-group/5d6ff8f1-27c5-38b9-a5a7-8914040f1c70","creditedTo":"Sigur Rós featuring Steindór Andersen","byArtist":[{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/cd4fc8c7-15cc-43cf-8b78-97cc83647249","name":"Steindór Andersen","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/4d56b463-6fd6-3f04-8141-074a0018fba9","name":"Ba Ba Ti Ki Di Do","creditedTo":"Sigur Rós","byArtist":{"@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Sæglópur","@id":"https://musicbrainz.org/release-group/5268c5bf-f1dd-3d7f-a3db-4d25c21c358e","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"creditedTo":"Sigur Rós","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Sigur Rós","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Hvarf-Heim","@id":"https://musicbrainz.org/release-group/19171580-5910-3f03-a035-b2a0d4db042a"},{"@id":"https://musicbrainz.org/release-group/393c8982-663e-49af-ae32-3bd2ae22822d","name":"Brennisteinn EP","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sigur Rós","byArtist":{"@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","name":"Sigur Rós","@type":"MusicGroup"}},{"byArtist":{"name":"Sigur Rós","@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@type":"MusicGroup"},"creditedTo":"Sigur Rós","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/014fcabb-b425-41ab-add9-8826ce25955c","name":"Heima"}],"sameAs":["http://en.wikipedia.org/wiki/Sigur_R%C3%B3s","http://musicmoz.org/Bands_and_Artists/S/Sigur_R%C3%B3s/","http://rateyourmusic.com/artist/sigur_ros","http://viaf.org/viaf/137467340","http://www.allmusic.com/artist/mn0000753868","http://www.bbc.co.uk/music/artists/f6f2326f-6b25-4170-b89d-e235b25508e8","http://www.imdb.com/name/nm1460176/","http://www.last.fm/music/Sigur\u002bR%C3%B3s","http://www.secondhandsongs.com/artist/28303","http://www.sigur-ros.co.uk/","https://www.discogs.com/artist/8299","https://www.wikidata.org/wiki/Q483828"],"@id":"https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8","@context":"http://schema.org","foundingDate":"1994-01-04","location":{"@type":"Country","name":"Iceland","@id":"https://musicbrainz.org/area/48802a32-075a-3805-a183-277c66047693"},"groupOrigin":{"containedIn":{"@type":"AdministrativeArea","containedIn":{"name":"Iceland","@id":"https://musicbrainz.org/area/48802a32-075a-3805-a183-277c66047693","@type":"Country"},"@id":"https://musicbrainz.org/area/70d81d56-533f-4444-82d0-2453f7ec2aa8","name":"Höfuðborgarsvæðið"},"@id":"https://musicbrainz.org/area/e498a3ef-704c-462e-b144-6e6fc108a6f2","name":"Reykjavík","@type":"City"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ff6f2326f-6b25-4170-b89d-e235b25508e8">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Ff6f2326f-6b25-4170-b89d-e235b25508e8">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós – Sigur Rós"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/releases" title="Sigur Rós"><bdi>Releases</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/recordings" title="Sigur Rós"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/works" title="Sigur Rós"><bdi>Works</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/events" title="Sigur Rós"><bdi>Events</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/relationships" title="Sigur Rós"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/aliases" title="Sigur Rós"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/tags" title="Sigur Rós"><bdi>Tags</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/details" title="Sigur Rós"><bdi>Details</bdi></a></li>            <li><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/edit" title="Sigur Rós"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Sigur Rós</b> (<small>Icelandic pronunciation: </small><span title="Representation in the International Phonetic Alphabet (IPA)">[ˈsɪːɣʏr ˈroːus]</span> <span title="English pronunciation respelling"><i><b><span><span>SIG</span></span></b>-ər rohss</i></span>) is an Icelandic post-rock band from Reykjavík, who have been active since 1994. Known for their ethereal sound, frontman Jónsi's falsetto vocals, and the use of bowed guitar, the band's music is also noticeable for its incorporation of classical and minimalist aesthetic elements. The band is named after Jónsi's sister Sigurrós Elín.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/Sigur_R%C3%B3s">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=11546" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/7b3844d1-5125-3158-8aed-90e0b6f61def"><bdi>Von</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:83%;">4.15</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/62b427b8-1c52-34e7-b250-da2aa3e44860"><bdi>Ágætis byrjun</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span></td><td class="c">11</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/950a650b-1e8d-3097-92af-9f7686bba4f1"><bdi>( )</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:91%;">4.55</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/47d8e9e2-dc13-3d94-afee-1f8c38cec091"><bdi>Takk…</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:85%;">4.25</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/15143341-de7d-3c64-90a1-2fffe2c4b5a9"><bdi>Með suð í eyrum við spilum endalaust</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:86%;">4.3</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/7c78acfc-3253-42b9-abdf-06085e99d71b"><bdi>Valtari</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:95%;">4.75</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/9fa7397e-7212-425f-8158-87c3bfb79602"><bdi>Kveikur</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/25f92646-cded-42a2-a2d6-65c82f49a5ec"><bdi>Inni</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/b927e61d-5e21-4f86-8635-131c70fe63d7"><bdi>iTunes Festival: London 2013</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/474910da-e0e1-3413-a663-c333dd431007"><bdi>Von brigði</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/e3b988ae-4b40-3127-87d8-062c46400bf5"><bdi>Englar Alheimsins</bdi></a> <span class="comment">(<bdi>Angels of the Universe</bdi>)</span></td>
+        
+        <td><a href="/artist/8602d053-d56c-438c-8adb-a2c9809e111d" title="Hilmar Örn Hilmarsson"><bdi>Hilmar Örn Hilmarsson</bdi></a> &amp; <a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/22e72e76-3a9c-38d3-b00a-bb8d96856d47"><bdi>Hlemmur</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/0c0315a4-5e98-31b8-9f49-7ed0021a82d9"><bdi>Svefn-g-englar</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/f106db74-2784-3e83-8169-b7cafa6c54d4"><bdi>Ný batterí</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/7930f879-b930-3a09-9009-c51fbd49f234"><bdi>Vaka</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/2c875eb8-4413-3427-9eb4-2dd222e15ef1"><bdi>Hoppípolla</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/7ad4e9bc-24da-3ec7-b2f6-8c0ea4b3f9b7"><bdi>Hljómalind</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/96eac30a-794c-3481-bfb3-05a53a96fafd"><bdi>Inní mér syngur vitleysingur</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/3abd80d7-10b5-40da-b905-1b6acf70c2aa"><bdi>Ekki Múkk</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/38ff63c9-6f1f-417d-a911-465d47078d29"><bdi>Varúð</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/e37300d8-ae5f-4b52-8800-23cea9e43eb4"><bdi>Brennisteinn</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/d309468a-8351-41c7-8e36-b31d2408fa4b"><bdi>Ísjaki</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/6e0d607e-f8c8-4308-bf16-f7e1328e6817"><bdi>The Rains of Castamere</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/7fc4feae-e189-483e-bf1a-c6ff4561f862"><bdi>Óveður</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/db0b352f-beaa-4c27-913c-415dfc8c9336"><bdi>Sigur 1/Sigur 9</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/ec49bec1-bc32-4e85-afac-273d19140cd4"><bdi>Gobbledigook: Remixes</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/5d6ff8f1-27c5-38b9-a5a7-8914040f1c70"><bdi>Rímur EP</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a> featuring <a href="/artist/cd4fc8c7-15cc-43cf-8b78-97cc83647249" title="Andersen, Steindór"><bdi>Steindór Andersen</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/4d56b463-6fd6-3f04-8141-074a0018fba9"><bdi>Ba Ba Ti Ki Di Do</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/5268c5bf-f1dd-3d7f-a3db-4d25c21c358e"><bdi>Sæglópur</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/19171580-5910-3f03-a035-b2a0d4db042a"><bdi>Hvarf-Heim</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:95%;">4.75</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/393c8982-663e-49af-ae32-3bd2ae22822d"><bdi>Brennisteinn EP</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/014fcabb-b425-41ab-add9-8826ce25955c"><bdi>Heima</bdi></a></td>
+        
+        <td><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8" title="Sigur Rós"><bdi>Sigur Rós</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/f6f2326f-6b25-4170-b89d-e235b25508e8?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Reykjavik05a-01.jpg/250px-Reykjavik05a-01.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Reykjavik05a-01.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1994-01-04 (22 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/e498a3ef-704c-462e-b144-6e6fc108a6f2"><bdi>Reykjavík</bdi></a>, <a href="/area/70d81d56-533f-4444-82d0-2453f7ec2aa8"><bdi>Höfuðborgarsvæðið</bdi></a>, <span class="flag flag-IS"><a href="/area/48802a32-075a-3805-a183-277c66047693"><bdi>Iceland</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-IS"><a href="/area/48802a32-075a-3805-a183-277c66047693"><bdi>Iceland</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:89%;">4.45</span>    </span>
+</span>    (<a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/ratings" title="Sigur Rós"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/post-rock"><bdi>post-rock</bdi></a>, <a href="/tag/icelandic"><bdi>icelandic</bdi></a>, <a href="/tag/dream%20pop"><bdi>dream pop</bdi></a>, <a href="/tag/ambient"><bdi>ambient</bdi></a>, <a href="/tag/ambient%20pop"><bdi>ambient pop</bdi></a>, <a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/tags" title="Sigur Rós"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.sigur-ros.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000753868">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/f6f2326f-6b25-4170-b89d-e235b25508e8">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/8299">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1460176/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Sigur+R%C3%B3s">Sigur Rós</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/sigurros">sigurros</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/S/Sigur_R%C3%B3s/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/sigur_ros">Rateyourmusic</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/sigurros">PureVolume</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/28303">SecondHandSongs</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="http://instagram.com/sigurros/">@sigurros</a>
+          
+          
+        </li>               <li class="googleplus-favicon">
+          
+          
+          <a href="https://plus.google.com/+sigurros">Google+</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/sigurros">@sigurros</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/sigurros">sigurros</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/sigur-ros">sigur-ros</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/137467340">VIAF: 137467340</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q483828">Q483828</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Sigur_R%C3%B3s">en: Sigur Rós</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/sigurros">sigurros</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/SigurRosVEVO">SigurRosVEVO</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/f6f2326f-6b25-4170-b89d-e235b25508e8/relationships" title="Sigur Rós"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ff6f2326f-6b25-4170-b89d-e235b25508e8">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-01-08 11:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

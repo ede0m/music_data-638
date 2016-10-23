@@ -1,0 +1,948 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mercury Rev - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1989 in Buffalo, Area: United States"/><script type="application/ld+json">{"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","member":[{"endDate":"2001","member":{"name":"Jason Sebastian Russo","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/0f628e10-7c2e-44ed-b458-cad02b3699a6"},"roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","member":{"name":"Jeff Mercel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/3ef5ff2c-aafa-4e89-b645-c1547913eadd"}},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/4e2799f2-cae7-4ef5-9485-4dfe3042d5a5","name":"Jonathan Donahue","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/54e24577-868e-496c-9f48-44a043e71717","name":"Carlos Anthony Molina","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"member":{"name":"Dave Fridmann","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6b09687f-72de-4337-9a0b-da8f6248ce7c"},"startDate":"1984","@type":"OrganizationRole","roleName":[]},{"@type":"OrganizationRole","roleName":[],"member":{"name":"Grasshopper Mackowiak","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/8927065a-1a3e-46ba-9d0c-aec4f0786fe3"}}],"@type":"MusicGroup","name":"Mercury Rev","location":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"groupOrigin":{"@type":"City","name":"Buffalo","containedIn":{"name":"New York","@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95","containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country","name":"United States"}},"@id":"https://musicbrainz.org/area/7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48"},"foundingDate":"1989","sameAs":["http://en.wikipedia.org/wiki/Mercury_Rev","http://musicmoz.org/Bands_and_Artists/M/Mercury_Rev/","http://rateyourmusic.com/artist/mercury_rev","http://www.allmusic.com/artist/mn0000408696","http://www.bbc.co.uk/music/artists/7b1cf87e-c54f-4abc-893d-90245a31900d","http://www.imdb.com/name/nm1479515/","http://www.mercuryrev.net/","https://www.discogs.com/artist/9658","https://www.wikidata.org/wiki/Q583344"],"album":[{"@id":"https://musicbrainz.org/release-group/b1f64a58-e374-3057-bb43-4f3535a80295","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Yerself Is Steam","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum","creditedTo":"Mercury Rev"},{"creditedTo":"Mercury Rev","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","name":"Mercury Rev","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Boces","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/39712247-814e-38cc-a0c0-f2c8a7b6b27d"},{"@id":"https://musicbrainz.org/release-group/ad4045ae-730f-3324-acc1-9627d3f73576","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"See You on the Other Side","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"@type":"MusicAlbum","creditedTo":"Mercury Rev"},{"@id":"https://musicbrainz.org/release-group/09c61550-5780-3fb4-b5ec-8b873fe4e8a9","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"@type":"MusicAlbum","name":"Deserter’s Songs","creditedTo":"Mercury Rev"},{"byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"name":"All Is Dream","@type":"MusicAlbum","creditedTo":"Mercury Rev","@id":"https://musicbrainz.org/release-group/08f53003-a3d8-3a84-8b02-0fb81a92b8de","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/213197b2-1439-328c-984c-3216e9c97ff4","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","name":"Mercury Rev","@type":"MusicGroup"},"name":"The Secret Migration","@type":"MusicAlbum","creditedTo":"Mercury Rev"},{"@id":"https://musicbrainz.org/release-group/f4a3d428-19ca-3027-96e9-2c6755593173","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Snowflake Midnight","@type":"MusicAlbum","creditedTo":"Mercury Rev"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c9580098-0ff8-3a17-89e0-e88934671271","creditedTo":"Mercury Rev","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Strange Attractor","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/f9e6f8ef-d2c9-4ee9-b3b0-14460322f134","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"@type":"MusicAlbum","name":"The Light in You","creditedTo":"Mercury Rev"},{"creditedTo":"Mercury Rev","name":"Lego My Ego","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/18364481-d43f-31ca-be1c-213583c70062"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/7cc6c74e-c45d-3998-9643-64f81e4a5385","creditedTo":"Mercury Rev","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"The Essential Mercury Rev: Stillness Breathes 1991-2006","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","name":"Mercury Rev","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Back to Mine: Mercury Rev","creditedTo":"Mercury Rev","@id":"https://musicbrainz.org/release-group/5873eda4-3ffe-3bf3-9184-9b9ebb42038f","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"The Peel Sessions","byArtist":{"name":"Mercury Rev","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum","creditedTo":"Mercury Rev","@id":"https://musicbrainz.org/release-group/97ea2ff2-bc8f-4563-b432-e79766412e76","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/d3a7adbc-f7fa-4b56-823f-db549551b640","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","name":"Mercury Rev","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Inner Autumn Outer Space","creditedTo":"Mercury Rev"},{"creditedTo":"Mercury Rev","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Le Divan du Monde, Paris, 08-11-2001","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/72a6c00b-afb1-4e24-a8fa-d6bd21fb8ddf"},{"@id":"https://musicbrainz.org/release-group/9b6d3f5f-2f1b-3e83-addc-e14b89be915b","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum","name":"Hello Blackbird","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","name":"Mercury Rev","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Mercury Rev"},{"name":"Car Wash Hair","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","name":"Mercury Rev","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"Mercury Rev","@id":"https://musicbrainz.org/release-group/24df5086-ddbc-3951-a6e5-123801ec9028","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/289aa908-6fc8-3a4f-878f-a99c3d8002c3","creditedTo":"Mercury Rev","name":"Bronx Cheer","byArtist":{"name":"Mercury Rev","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum"},{"creditedTo":"Spiritualized / Mercury Rev","byArtist":[{"name":"Spiritualized","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/65041e06-83d2-4987-ae52-c17a915fc82a"},{"name":"Mercury Rev","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"}],"name":"Good Dope, Good Fun / Boys Peel Out","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/bb6a6e9c-d0ca-363f-af15-33a20e80c667"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/bcd8bd44-a03d-4637-a646-30e21ebf3b70","creditedTo":"Mercury Rev","name":"Something for Joey","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2b019853-a80c-3a92-baac-5a4e112ebb6a","creditedTo":"Mercury Rev","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"name":"The Hum Is Coming From Her","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/e5fb3b07-1d91-3bdd-80a8-483cda2a0590","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","name":"Mercury Rev","@type":"MusicGroup"},"name":"Everlasting Arm","creditedTo":"Mercury Rev"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/5ef5bebb-f19d-3653-bdbb-1d8f812da42e","creditedTo":"Mercury Rev","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"name":"Goddess on a Hiway","@type":"MusicAlbum"},{"name":"Delta Sun Bottleneck Stomp","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum","creditedTo":"Mercury Rev","@id":"https://musicbrainz.org/release-group/58483b77-1ed4-3e9a-8edb-fd7c3d89d168","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"name":"Opus 40","byArtist":{"name":"Mercury Rev","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum","creditedTo":"Mercury Rev","@id":"https://musicbrainz.org/release-group/d45e4712-fc3a-3040-bd2b-2c24fd9a4b69","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/1c4493bd-0077-33cb-b45c-e5f7be3bb985","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Nite and Fog","creditedTo":"Mercury Rev"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/0cb67b1f-74e2-38d5-abc0-f50a24bfbdea","creditedTo":"Mercury Rev","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"The Dark Is Rising"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Little Rhymes","creditedTo":"Mercury Rev","@id":"https://musicbrainz.org/release-group/0ad0d6db-7a04-40c3-bd32-1dcc89cb7950","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Mercury Rev","byArtist":{"name":"Mercury Rev","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"name":"In a Funny Way","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e4e843fe-cb38-3e37-8b34-f62018a800aa"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/915162eb-8f09-46bf-a9c1-f7d68266a30b","creditedTo":"Mercury Rev","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Across Yer Ocean","@type":"MusicAlbum"},{"creditedTo":"Mercury Rev","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"name":"Senses on Fire","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/cc562075-64e0-393e-a1d9-ce78d9c0d824"},{"creditedTo":"Mercury Rev","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Butterfly's Wing","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/40f2f077-e316-3159-8eec-07d2fcd746f1"},{"creditedTo":"Mercury Rev","name":"Chasing a Bee","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1938edca-170e-3bab-8f4e-d9cf6af28d56"},{"@id":"https://musicbrainz.org/release-group/0e67ff63-c294-3ccc-a577-f7c8fe4b4da3","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","name":"Holes","byArtist":{"@type":"MusicGroup","name":"Mercury Rev","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"@type":"MusicAlbum","creditedTo":"Mercury Rev"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/643e657b-6d49-38cd-80d1-7fa586153491","creditedTo":"Mercury Rev","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d","@type":"MusicGroup","name":"Mercury Rev"},"name":"Opus 40"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b574237b-bc56-3576-9efc-8a4f38fa5adc","creditedTo":"Mercury Rev","byArtist":{"name":"Mercury Rev","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d"},"name":"Mercury Rev","@type":"MusicAlbum"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7b1cf87e-c54f-4abc-893d-90245a31900d">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F7b1cf87e-c54f-4abc-893d-90245a31900d">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev – Mercury Rev"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/releases" title="Mercury Rev"><bdi>Releases</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/recordings" title="Mercury Rev"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/works" title="Mercury Rev"><bdi>Works</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/events" title="Mercury Rev"><bdi>Events</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/relationships" title="Mercury Rev"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/aliases" title="Mercury Rev"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/tags" title="Mercury Rev"><bdi>Tags</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/details" title="Mercury Rev"><bdi>Details</bdi></a></li>            <li><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/edit" title="Mercury Rev"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Mercury Rev</b> is an American alternative rock group, that formed in the late 1980s in Buffalo, New York. Original personnel were David Baker (vocals), Jonathan Donahue (vocals, guitars), Sean Mackowiak, a.k.a. "Grasshopper" (guitars, clarinet), Suzanne Thorpe (flute), Dave Fridmann (bass) and Jimy Chambers (drums).</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Mercury_Rev">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=11544" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/b1f64a58-e374-3057-bb43-4f3535a80295"><bdi>Yerself Is Steam</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/39712247-814e-38cc-a0c0-f2c8a7b6b27d"><bdi>Boces</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/ad4045ae-730f-3324-acc1-9627d3f73576"><bdi>See You on the Other Side</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/09c61550-5780-3fb4-b5ec-8b873fe4e8a9"><bdi>Deserter’s Songs</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:90%;">4.5</span>    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/08f53003-a3d8-3a84-8b02-0fb81a92b8de"><bdi>All Is Dream</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/213197b2-1439-328c-984c-3216e9c97ff4"><bdi>The Secret Migration</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/f4a3d428-19ca-3027-96e9-2c6755593173"><bdi>Snowflake Midnight</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c9580098-0ff8-3a17-89e0-e88934671271"><bdi>Strange Attractor</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/f9e6f8ef-d2c9-4ee9-b3b0-14460322f134"><bdi>The Light in You</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/18364481-d43f-31ca-be1c-213583c70062"><bdi>Lego My Ego</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/7cc6c74e-c45d-3998-9643-64f81e4a5385"><bdi>The Essential Mercury Rev: Stillness Breathes 1991-2006</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/5873eda4-3ffe-3bf3-9184-9b9ebb42038f"><bdi>Back to Mine: Mercury Rev</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/97ea2ff2-bc8f-4563-b432-e79766412e76"><bdi>The Peel Sessions</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/d3a7adbc-f7fa-4b56-823f-db549551b640"><bdi>Inner Autumn Outer Space</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/72a6c00b-afb1-4e24-a8fa-d6bd21fb8ddf"><bdi>Le Divan du Monde, Paris, 08-11-2001</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/9b6d3f5f-2f1b-3e83-addc-e14b89be915b"><bdi>Hello Blackbird</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/24df5086-ddbc-3951-a6e5-123801ec9028"><bdi>Car Wash Hair</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/289aa908-6fc8-3a4f-878f-a99c3d8002c3"><bdi>Bronx Cheer</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/bb6a6e9c-d0ca-363f-af15-33a20e80c667"><bdi>Good Dope, Good Fun / Boys Peel Out</bdi></a></td>
+        
+        <td><a href="/artist/65041e06-83d2-4987-ae52-c17a915fc82a" title="Spiritualized"><bdi>Spiritualized</bdi></a> / <a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/bcd8bd44-a03d-4637-a646-30e21ebf3b70"><bdi>Something for Joey</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/2b019853-a80c-3a92-baac-5a4e112ebb6a"><bdi>The Hum Is Coming From Her</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/e5fb3b07-1d91-3bdd-80a8-483cda2a0590"><bdi>Everlasting Arm</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/5ef5bebb-f19d-3653-bdbb-1d8f812da42e"><bdi>Goddess on a Hiway</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/58483b77-1ed4-3e9a-8edb-fd7c3d89d168"><bdi>Delta Sun Bottleneck Stomp</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/d45e4712-fc3a-3040-bd2b-2c24fd9a4b69"><bdi>Opus 40</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/1c4493bd-0077-33cb-b45c-e5f7be3bb985"><bdi>Nite and Fog</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/0cb67b1f-74e2-38d5-abc0-f50a24bfbdea"><bdi>The Dark Is Rising</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/0ad0d6db-7a04-40c3-bd32-1dcc89cb7950"><bdi>Little Rhymes</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/e4e843fe-cb38-3e37-8b34-f62018a800aa"><bdi>In a Funny Way</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/915162eb-8f09-46bf-a9c1-f7d68266a30b"><bdi>Across Yer Ocean</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/cc562075-64e0-393e-a1d9-ce78d9c0d824"><bdi>Senses on Fire</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/40f2f077-e316-3159-8eec-07d2fcd746f1"><bdi>Butterfly's Wing</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/1938edca-170e-3bab-8f4e-d9cf6af28d56"><bdi>Chasing a Bee</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/0e67ff63-c294-3ccc-a577-f7c8fe4b4da3"><bdi>Holes</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/643e657b-6d49-38cd-80d1-7fa586153491"><bdi>Opus 40</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/b574237b-bc56-3576-9efc-8a4f38fa5adc"><bdi>Mercury Rev</bdi></a></td>
+        
+        <td><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d" title="Mercury Rev"><bdi>Mercury Rev</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/7b1cf87e-c54f-4abc-893d-90245a31900d?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mercury_rev.jpg/250px-Mercury_rev.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Mercury rev.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1989 (27 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48"><bdi>Buffalo</bdi></a>, <a href="/area/75e398a3-5f3f-4224-9cd8-0fe44715bc95"><bdi>New York</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span>    (<a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/ratings" title="Mercury Rev"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/chamber%20pop"><bdi>chamber pop</bdi></a>, <a href="/tag/dream%20pop"><bdi>dream pop</bdi></a>, <a href="/tag/experimental%20rock"><bdi>experimental rock</bdi></a>, <a href="/tag/neo-psychedelia"><bdi>neo-psychedelia</bdi></a>, <a href="/tag/noise%20pop"><bdi>noise pop</bdi></a>, <a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/tags" title="Mercury Rev"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.mercuryrev.net/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000408696">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/7b1cf87e-c54f-4abc-893d-90245a31900d">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/9658">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1479515/">IMDb</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/M/Mercury_Rev/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/mercury_rev">Rateyourmusic</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/MercuryRev">MercuryRev</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q583344">Q583344</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Mercury_Rev">en: Mercury Rev</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/7b1cf87e-c54f-4abc-893d-90245a31900d/relationships" title="Mercury Rev"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7b1cf87e-c54f-4abc-893d-90245a31900d">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-09-14 04:19 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

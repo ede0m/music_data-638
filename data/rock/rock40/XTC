@@ -1,0 +1,1385 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>XTC - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1976 in Swindon, Area: United Kingdom"/><script type="application/ld+json">{"name":"XTC","@type":"MusicGroup","location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"@context":"http://schema.org","member":[{"endDate":"1978","member":{"@id":"https://musicbrainz.org/artist/1641d08f-b56f-4255-a493-d295ae6c1213","name":"Barry Andrews","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]},{"member":{"@id":"https://musicbrainz.org/artist/2375c2a4-f94d-43bb-9f7b-d8e3352300a0","@type":["Person","MusicGroup"],"name":"Dave Gregory"},"startDate":"1979","endDate":"1999","roleName":[],"@type":"OrganizationRole"},{"roleName":[],"@type":"OrganizationRole","endDate":"1983","member":{"@id":"https://musicbrainz.org/artist/24d0b158-cac4-4163-a668-eeb69073f25b","name":"Terry Chambers","@type":["Person","MusicGroup"]},"startDate":"1976"},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/2dd07d00-33a8-478e-8eaa-0cdab0aa2113","@type":["Person","MusicGroup"],"name":"Colin Moulding"}},{"member":{"@id":"https://musicbrainz.org/artist/58bf6897-e828-4cd0-9728-c0a3da4d2121","name":"Andy Partridge","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]}],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","performsAs":[{"@type":["Person","MusicGroup"],"name":"Terry \u0026 The Lovemen","@id":"https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"},{"@id":"https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","@type":"MusicGroup","name":"The Dukes of Stratosphear"}],"album":[{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/576e4598-dfdd-3888-bc7c-6ab01aa28a06","creditedTo":"XTC","byArtist":{"@type":"MusicGroup","name":"XTC","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","name":"White Music"},{"@id":"https://musicbrainz.org/release-group/386655f3-9aaf-3eec-8c18-bdd4d13762e0","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"XTC","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","name":"Go 2","creditedTo":"XTC"},{"@id":"https://musicbrainz.org/release-group/b2b0f57f-2caf-31b4-a2b1-ad245c3c7af2","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"name":"Drums and Wires","creditedTo":"XTC"},{"creditedTo":"XTC","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Black Sea","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3219729b-5773-3d4f-a32c-99144d6680be"},{"creditedTo":"XTC","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"English Settlement","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d1cf6125-2cbb-3be0-81fb-a60c9491e9a5"},{"byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","name":"Mummer","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/bb2cab31-fa60-3f3a-b116-9e32a395276d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/51e05970-e3a1-397e-8528-fdc5b3194458","creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"name":"The Big Express"},{"@id":"https://musicbrainz.org/release-group/507d4ab2-03f0-3b8a-a076-cb37d0f970c7","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"name":"Skylarking","creditedTo":"XTC"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"name":"Oranges \u0026 Lemons","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/d61ff3c3-52dc-3211-a8b4-26c4402270db","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"XTC","byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"name":"Nonsuch","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/657f5aa0-e25e-35fb-83b8-5ba4fc1f2f2c"},{"creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"name":"Apple Venus, Volume 1","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/955bc23e-4ae3-3623-a1ea-0f0ee6043055"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/80cd46ca-d359-3a4f-b347-fc2c045ef36b","creditedTo":"XTC","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","name":"Homespun: The Apple Venus Volume One Home Demos"},{"creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"name":"Apple Venus, Volume 2: Wasp Star","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2699c584-3b5f-380c-bb64-6b853ce5c1e3"},{"creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"name":"Homegrown","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/62fa9b53-6e2a-3113-ba3d-7613e34071ba"},{"name":"Instruvenus","byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/a8586825-d061-3e92-b1ef-e19dab873e83","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"XTC","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"name":"Waspstrumental","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3886cef3-2d6c-3fa6-a69c-debbced1070a"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/13e532dc-da37-4a06-8709-ea42582b2d88","creditedTo":"XTC","name":"English Settlement","byArtist":{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"XTC","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"name":"Beeswax: Some B-Sides 1977–1982","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/75179384-eb5f-349e-85be-dc2c0794b304","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Waxworks / Beeswax","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/4f7b7cde-d3fd-4615-83af-8968d58da2c8","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/249035bc-611a-3ae9-b38c-969a83772e49","creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"name":"Waxworks: Some Singles 1977–1982"},{"@type":"MusicAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"name":"The Compact XTC: The Singles 1978–85","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/2a75224c-9b4f-32da-90db-eb7806bafa96","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"name":"Explode Together: The Dub Experiments 78–80","byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/5afc1a89-4191-3485-a706-187397d7c3c1","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/02421405-8483-30de-8679-27269bfbba42","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","name":"Rag \u0026 Bone Buffet: Rare Cuts \u0026 Leftovers","creditedTo":"XTC"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/c083fcda-fc33-3c0b-a1ca-981f9fb6b34b","creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"name":"Fossil Fuel: The XTC Singles 1977–92"},{"creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"name":"Upsy Daisy Assortment","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/739c9710-d8de-3572-8a35-754db6ea6104"},{"albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c7531225-1fac-33c7-baa1-ca7600bf5086","creditedTo":"XTC","byArtist":{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","name":"Coat of Many Cupboards"},{"creditedTo":"XTC","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"name":"Apple Box","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/43c06715-c701-422b-a9be-b0ff410cb573"},{"@id":"https://musicbrainz.org/release-group/fccecfe9-e8f9-4b85-aef5-76d10187a4b6","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},{"@id":"https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","@type":"MusicGroup","name":"The Dukes of Stratosphear"}],"@type":"MusicAlbum","name":"The Complete and Utter Dukes","creditedTo":"XTC as The Dukes of Stratosphear"},{"@id":"https://musicbrainz.org/release-group/64ba6689-4d05-3f59-86a4-a2b6151fdd8c","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"name":"Live in Concert","@type":"MusicAlbum","creditedTo":"XTC"},{"creditedTo":"XTC","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"name":"Drums and Wireless: BBC Radio Sessions 1977–1989","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/8b55b2db-9305-3e4e-9c58-07ff3f2396ab"},{"creditedTo":"XTC","name":"Transistor Blast: The Best of the BBC Sessions","byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/20706d4b-cab1-3c64-a081-e7d224f0d6f4"},{"@id":"https://musicbrainz.org/release-group/b03dfee3-9c87-4679-803e-7854c54c5850","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"name":"Science Friction","creditedTo":"XTC"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c01d3486-3fd8-3eca-bb55-74d467d79cdc","creditedTo":"XTC","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","name":"Statue of Liberty"},{"@id":"https://musicbrainz.org/release-group/1a049efe-3560-3f5f-9556-8bbe4f4fc3d7","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"name":"This Is Pop?","creditedTo":"XTC"},{"creditedTo":"XTC","byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"name":"Are You Receiving Me?","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8aa75356-003e-3a78-931d-09bd32625b26"},{"byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","name":"Life Begins at the Hop","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/81541748-8c64-34e5-b10d-5986e8217fa6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5b0c843d-9c02-30a2-a450-d57c3a20b6f7","creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"name":"Making Plans for Nigel"},{"@type":"MusicAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"name":"Ten Feet Tall","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/92c0deb3-e61a-4d70-9852-c3f323454b25","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e8f80f50-fbb5-377d-b787-60b8e8211497","creditedTo":"XTC","name":"Wait Till Your Boat Goes Down","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Generals and Majors","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/f7be2e31-8ebd-3d9b-b535-7fc15b5e2308","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"XTC","name":"Towers of London","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6b26a37b-8e25-3ce1-be24-0d3c243fe238"},{"@id":"https://musicbrainz.org/release-group/a466e2f9-0e61-374e-8474-f25f1a1b0f9e","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"name":"Sgt. Rock (Is Going to Help Me)","@type":"MusicAlbum","creditedTo":"XTC"},{"creditedTo":"XTC / The Ruts","byArtist":[{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/a2f938aa-1aa3-474b-a070-762067274eab","@type":"MusicGroup","name":"The Ruts"}],"@type":"MusicAlbum","name":"Take This Town","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7074daa0-26af-36c6-b7ec-287196a70583"},{"@id":"https://musicbrainz.org/release-group/096e7bc7-dee7-36ec-beaa-cc0aaed17f66","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Respectable Street","creditedTo":"XTC"},{"creditedTo":"XTC","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","name":"Senses Working Overtime","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6d8bd84e-e118-395a-a333-73722a69b32a"},{"byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"name":"Ball and Chain","@type":"MusicAlbum","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/8d9c42d4-c629-4ee8-8284-308f75848937","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"XTC","byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","name":"No Thugs in Our House","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/7cb19dc3-5629-4359-a972-7e0799937559"},{"creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"name":"Looking for Footprints","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/090c7882-58ef-4d72-84d3-d9c5aa12778e"},{"byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Great Fire","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/81c318a2-9746-4ef9-835c-dfef152f44fe","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/b7be4077-7f5c-4670-9775-23a63d54cc4e","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Love on a Farmboy’s Wages","byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","creditedTo":"XTC"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b300d8ec-ffd6-4b05-8833-a81d19f15786","creditedTo":"XTC","name":"Wonderland","byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum"},{"creditedTo":"XTC","name":"All You Pretty Girls","byArtist":{"@type":"MusicGroup","name":"XTC","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/87ed8e49-79a6-4cc3-81cd-f98ad38a4b61"},{"creditedTo":"XTC","name":"This World Over","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/41be689b-0ef3-324e-aede-bfa8915f9553"},{"name":"Wake Up","byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/0ce23704-b76f-47fd-a20d-753fdd044087","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/276b5813-a40a-4b70-8db6-e9aaf0e3348f","creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"name":"Grass"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"name":"Earn Enough for Us","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/5e64b59f-f1a2-4b2e-a487-c9bfc47f6865","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"XTC","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"name":"The Meeting Place","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/c4c8d061-98ab-4a4f-b5e7-34fe3ff33ea3"},{"name":"Mayor of Simpleton","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/a8a22eec-b5b5-3f0a-86d9-9180e69330ed","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"XTC","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","name":"King for a Day","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/48b9aba0-4060-3598-af17-4af978c0a048"},{"creditedTo":"XTC","name":"The Loving","byArtist":{"name":"XTC","@type":"MusicGroup","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3a76130b-4728-4d72-8948-fd4754eba076"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"name":"The Diſappointed","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/12d9cd6a-912a-3c61-bf80-ef9c1a2e3288","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/546ca094-38be-3b99-9e69-8407798e817b","creditedTo":"XTC","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"The Ballad of Peter Pumpkinhead"},{"@id":"https://musicbrainz.org/release-group/65e9f363-decf-33d0-9dc2-5e2011a6a2ef","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Easter Theatre","creditedTo":"XTC"},{"@id":"https://musicbrainz.org/release-group/42d9e25e-a5b9-37a5-a0fb-fb58caa30da4","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","name":"I’d Like That","creditedTo":"XTC"},{"@id":"https://musicbrainz.org/release-group/d6185a54-615b-3809-876a-63be77cb6bea","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"XTC","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","name":"I’m the Man Who Murdered Love","creditedTo":"XTC"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b9365f44-d5a0-38d7-892c-94922c5b62ef","creditedTo":"XTC","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"@type":"MusicAlbum","name":"3D EP"},{"creditedTo":"XTC","@type":"MusicAlbum","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"name":"Limelight","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/aad3557a-8310-4d49-965b-f0789ae7483f"},{"creditedTo":"XTC","byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","name":"5 Senses","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/dfaefc97-1d5b-4845-b27f-1e67e0aa6170"},{"creditedTo":"XTC","name":"Dear God","byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","@type":"MusicGroup","name":"XTC"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/8477e0b4-467a-30c7-8bdf-84df67b24f56"},{"byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","name":"The Disappointed","creditedTo":"XTC","@id":"https://musicbrainz.org/release-group/32113648-d4fe-45b7-b7e5-5cfb1f7b5cae","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"@id":"https://musicbrainz.org/release-group/c0110edc-d855-3bea-9d32-08a6d65e336e","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"name":"XTC","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"]},"@type":"MusicAlbum","name":"Apple Bite","creditedTo":"XTC"},{"@id":"https://musicbrainz.org/release-group/63cfcfdc-3277-4bb0-b8b5-a4d3f4827555","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/LiveAlbum"],"byArtist":{"sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","name":"XTC","@type":"MusicGroup"},"name":"Live \u0026 More","@type":"MusicAlbum","creditedTo":"XTC"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/471b2a36-be06-3033-94c5-9c57bba5e69c","creditedTo":"XTC","byArtist":{"@id":"https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f","sameAs":["https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51"],"name":"XTC","@type":"MusicGroup"},"name":"Demo Tracks","@type":"MusicAlbum"}],"alternateName":["Terry \u0026 The Lovemen","The Dukes of Stratosphear"],"groupOrigin":{"@id":"https://musicbrainz.org/area/aee482fe-df6b-4f0f-849f-18f2329bab7c","containedIn":{"name":"England","@type":"AdministrativeArea","@id":"https://musicbrainz.org/area/9d5dd675-3cf4-4296-9e39-67865ebee758","containedIn":{"name":"United Kingdom","@type":"Country","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"}},"@type":"AdministrativeArea","name":"Swindon"},"foundingDate":"1976","sameAs":["http://en.wikipedia.org/wiki/XTC","http://isni-url.oclc.nl/isni/0000000115474610","http://www.allmusic.com/artist/mn0000678339","http://www.bbc.co.uk/music/artists/97c86b2c-2765-46a2-aef8-76a7e24c430f","http://www.xtcidearecords.co.uk/","https://musicbrainz.org/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00","https://musicbrainz.org/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51","https://rateyourmusic.com/artist/xtc","https://www.discogs.com/artist/15118","https://www.wikidata.org/wiki/Q1413926"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F97c86b2c-2765-46a2-aef8-76a7e24c430f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F97c86b2c-2765-46a2-aef8-76a7e24c430f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC – XTC"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/releases" title="XTC"><bdi>Releases</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/recordings" title="XTC"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/works" title="XTC"><bdi>Works</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/events" title="XTC"><bdi>Events</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/relationships" title="XTC"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/aliases" title="XTC"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/tags" title="XTC"><bdi>Tags</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/details" title="XTC"><bdi>Details</bdi></a></li>            <li><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/edit" title="XTC"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    <p><strong>Also performs as:</strong> <a href="/artist/83941aa9-6a94-4d2d-bf37-978aeb27be51" title="Terry &amp; The Lovemen"><bdi>Terry &amp; The Lovemen</bdi></a>, <a href="/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00" title="Dukes of Stratosphear, The"><bdi>The Dukes of Stratosphear</bdi></a></p>
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>XTC</b> were an English rock band formed in Swindon in 1972. Led by songwriters Andy Partridge and Colin Moulding, their music ranged from tense, jerky riffs to lushly arranged, meticulous pop, emerging from the punk and new wave explosion of the late 1970s. The band failed to maintain popular success in the UK and US, partly because their music was generally out of step with the times. They nevertheless amassed a devoted cult following.</p>
+<p>Under the name <b>Star Park</b>, the group began as a trio with drummer Terry Chambers, then changing their name to <b>Helium Kidz</b>. As the punk movement took off, they settled on the name XTC, debuting on Virgin Records in 1977. In 1982, the group stopped concert touring and became a studio-based project centred on Partridge, Moulding, and guitarist Dave Gregory with various session musicians. A spin-off group, the Dukes of Stratosphear, was invented as an outlet for the band's excursions into 1960s psychedelic music. For most of the 1990s, XTC were mired by record label difficulties. In 2006, the band ceased activity following the disintegration of Partridge and Moulding's musical partnership.</p>
+<p>XTC's only records that placed within the UK top 20 were the singles "Making Plans for Nigel" (1979), "Sgt. Rock (Is Going to Help Me)" (1980) and "Senses Working Overtime" (1982), as well as the albums <i>Black Sea</i> (1980) and <i>English Settlement</i> (1982). In the US, they're also known for the songs "Dear God" (1986) and "The Ballad of Peter Pumpkinhead" (1992), while "Mayor of Simpleton" (1989) was their only US single to chart.</p>
+<p></p>
+</div>
+<a href="https://en.wikipedia.org/wiki/XTC">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1192" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/576e4598-dfdd-3888-bc7c-6ab01aa28a06"><bdi>White Music</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">32</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/386655f3-9aaf-3eec-8c18-bdd4d13762e0"><bdi>Go 2</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">20</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/b2b0f57f-2caf-31b4-a2b1-ad245c3c7af2"><bdi>Drums and Wires</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">29</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/3219729b-5773-3d4f-a32c-99144d6680be"><bdi>Black Sea</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">21</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/d1cf6125-2cbb-3be0-81fb-a60c9491e9a5"><bdi>English Settlement</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:87%;">4.35</span>    </span>
+</span></td><td class="c">35</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/bb2cab31-fa60-3f3a-b116-9e32a395276d"><bdi>Mummer</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">25</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/51e05970-e3a1-397e-8528-fdc5b3194458"><bdi>The Big Express</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">17</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/507d4ab2-03f0-3b8a-a076-cb37d0f970c7"><bdi>Skylarking</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">27</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/d61ff3c3-52dc-3211-a8b4-26c4402270db"><bdi>Oranges &amp; Lemons</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">26</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/657f5aa0-e25e-35fb-83b8-5ba4fc1f2f2c"><bdi>Nonsuch</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">13</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/955bc23e-4ae3-3623-a1ea-0f0ee6043055"><bdi>Apple Venus, Volume 1</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/80cd46ca-d359-3a4f-b347-fc2c045ef36b"><bdi>Homespun: The Apple Venus Volume One Home Demos</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/2699c584-3b5f-380c-bb64-6b853ce5c1e3"><bdi>Apple Venus, Volume 2: Wasp Star</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/62fa9b53-6e2a-3113-ba3d-7613e34071ba"><bdi>Homegrown</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/a8586825-d061-3e92-b1ef-e19dab873e83"><bdi>Instruvenus</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/3886cef3-2d6c-3fa6-a69c-debbced1070a"><bdi>Waspstrumental</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/13e532dc-da37-4a06-8709-ea42582b2d88"><bdi>English Settlement</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/75179384-eb5f-349e-85be-dc2c0794b304"><bdi>Beeswax: Some B-Sides 1977–1982</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/4f7b7cde-d3fd-4615-83af-8968d58da2c8"><bdi>Waxworks / Beeswax</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/249035bc-611a-3ae9-b38c-969a83772e49"><bdi>Waxworks: Some Singles 1977–1982</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/2a75224c-9b4f-32da-90db-eb7806bafa96"><bdi>The Compact XTC: The Singles 1978–85</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/5afc1a89-4191-3485-a706-187397d7c3c1"><bdi>Explode Together: The Dub Experiments 78–80</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/02421405-8483-30de-8679-27269bfbba42"><bdi>Rag &amp; Bone Buffet: Rare Cuts &amp; Leftovers</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/c083fcda-fc33-3c0b-a1ca-981f9fb6b34b"><bdi>Fossil Fuel: The XTC Singles 1977–92</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/739c9710-d8de-3572-8a35-754db6ea6104"><bdi>Upsy Daisy Assortment</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/c7531225-1fac-33c7-baa1-ca7600bf5086"><bdi>Coat of Many Cupboards</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/43c06715-c701-422b-a9be-b0ff410cb573"><bdi>Apple Box</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/fccecfe9-e8f9-4b85-aef5-76d10187a4b6"><bdi>The Complete and Utter Dukes</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a> as <a href="/artist/2d1107b1-0d07-44bb-b12d-75c56342bc00" title="Dukes of Stratosphear, The"><bdi>The Dukes of Stratosphear</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/64ba6689-4d05-3f59-86a4-a2b6151fdd8c"><bdi>Live in Concert</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/8b55b2db-9305-3e4e-9c58-07ff3f2396ab"><bdi>Drums and Wireless: BBC Radio Sessions 1977–1989</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/20706d4b-cab1-3c64-a081-e7d224f0d6f4"><bdi>Transistor Blast: The Best of the BBC Sessions</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/b03dfee3-9c87-4679-803e-7854c54c5850"><bdi>Science Friction</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/c01d3486-3fd8-3eca-bb55-74d467d79cdc"><bdi>Statue of Liberty</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/1a049efe-3560-3f5f-9556-8bbe4f4fc3d7"><bdi>This Is Pop?</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/8aa75356-003e-3a78-931d-09bd32625b26"><bdi>Are You Receiving Me?</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/81541748-8c64-34e5-b10d-5986e8217fa6"><bdi>Life Begins at the Hop</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/5b0c843d-9c02-30a2-a450-d57c3a20b6f7"><bdi>Making Plans for Nigel</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/92c0deb3-e61a-4d70-9852-c3f323454b25"><bdi>Ten Feet Tall</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/e8f80f50-fbb5-377d-b787-60b8e8211497"><bdi>Wait Till Your Boat Goes Down</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/f7be2e31-8ebd-3d9b-b535-7fc15b5e2308"><bdi>Generals and Majors</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/6b26a37b-8e25-3ce1-be24-0d3c243fe238"><bdi>Towers of London</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/a466e2f9-0e61-374e-8474-f25f1a1b0f9e"><bdi>Sgt. Rock (Is Going to Help Me)</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/7074daa0-26af-36c6-b7ec-287196a70583"><bdi>Take This Town</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a> / <a href="/artist/a2f938aa-1aa3-474b-a070-762067274eab" title="Ruts, The"><bdi>The Ruts</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/096e7bc7-dee7-36ec-beaa-cc0aaed17f66"><bdi>Respectable Street</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/6d8bd84e-e118-395a-a333-73722a69b32a"><bdi>Senses Working Overtime</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">19</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/8d9c42d4-c629-4ee8-8284-308f75848937"><bdi>Ball and Chain</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">9</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/7cb19dc3-5629-4359-a972-7e0799937559"><bdi>No Thugs in Our House</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/090c7882-58ef-4d72-84d3-d9c5aa12778e"><bdi>Looking for Footprints</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/81c318a2-9746-4ef9-835c-dfef152f44fe"><bdi>Great Fire</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/b7be4077-7f5c-4670-9775-23a63d54cc4e"><bdi>Love on a Farmboy’s Wages</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/b300d8ec-ffd6-4b05-8833-a81d19f15786"><bdi>Wonderland</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/87ed8e49-79a6-4cc3-81cd-f98ad38a4b61"><bdi>All You Pretty Girls</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/41be689b-0ef3-324e-aede-bfa8915f9553"><bdi>This World Over</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/0ce23704-b76f-47fd-a20d-753fdd044087"><bdi>Wake Up</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/276b5813-a40a-4b70-8db6-e9aaf0e3348f"><bdi>Grass</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/5e64b59f-f1a2-4b2e-a487-c9bfc47f6865"><bdi>Earn Enough for Us</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/c4c8d061-98ab-4a4f-b5e7-34fe3ff33ea3"><bdi>The Meeting Place</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/a8a22eec-b5b5-3f0a-86d9-9180e69330ed"><bdi>Mayor of Simpleton</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/48b9aba0-4060-3598-af17-4af978c0a048"><bdi>King for a Day</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/3a76130b-4728-4d72-8948-fd4754eba076"><bdi>The Loving</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/12d9cd6a-912a-3c61-bf80-ef9c1a2e3288"><bdi>The Diſappointed</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/546ca094-38be-3b99-9e69-8407798e817b"><bdi>The Ballad of Peter Pumpkinhead</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/65e9f363-decf-33d0-9dc2-5e2011a6a2ef"><bdi>Easter Theatre</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/42d9e25e-a5b9-37a5-a0fb-fb58caa30da4"><bdi>I’d Like That</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/d6185a54-615b-3809-876a-63be77cb6bea"><bdi>I’m the Man Who Murdered Love</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/b9365f44-d5a0-38d7-892c-94922c5b62ef"><bdi>3D EP</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/aad3557a-8310-4d49-965b-f0789ae7483f"><bdi>Limelight</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/dfaefc97-1d5b-4845-b27f-1e67e0aa6170"><bdi>5 Senses</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/8477e0b4-467a-30c7-8bdf-84df67b24f56"><bdi>Dear God</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/32113648-d4fe-45b7-b7e5-5cfb1f7b5cae"><bdi>The Disappointed</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/c0110edc-d855-3bea-9d32-08a6d65e336e"><bdi>Apple Bite</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP + Compilation + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/63cfcfdc-3277-4bb0-b8b5-a4d3f4827555"><bdi>Live &amp; More</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/471b2a36-be06-3033-94c5-9c57bba5e69c"><bdi>Demo Tracks</bdi></a></td>
+        
+        <td><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f" title="XTC"><bdi>XTC</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/XTC_bandphoto.jpg/250px-XTC_bandphoto.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:XTC bandphoto.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1976 (40 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/aee482fe-df6b-4f0f-849f-18f2329bab7c"><bdi>Swindon</bdi></a>, <a href="/area/9d5dd675-3cf4-4296-9e39-67865ebee758"><bdi>England</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000115474610">0000 0001 1547 4610    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:95%;">4.75</span>    </span>
+</span>    (<a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/ratings" title="XTC"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/new%20wave"><bdi>new wave</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/classic%20pop%20and%20rock"><bdi>classic pop and rock</bdi></a>, <a href="/tag/england"><bdi>england</bdi></a>, <a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/tags" title="XTC"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.xtcidearecords.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000678339">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/97c86b2c-2765-46a2-aef8-76a7e24c430f">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/15118">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/xtcfans">xtcfans</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/xtc">Rateyourmusic</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1413926">Q1413926</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/XTC">en: XTC</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/97c86b2c-2765-46a2-aef8-76a7e24c430f/relationships" title="XTC"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F97c86b2c-2765-46a2-aef8-76a7e24c430f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-05-28 04:36 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

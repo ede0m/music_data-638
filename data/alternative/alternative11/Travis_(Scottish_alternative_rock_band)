@@ -1,0 +1,896 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Travis - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Scottish alternative rock band, Type: Group, Founded: 1991 in Glasgow, Area: United Kingdom"/><script type="application/ld+json">{"foundingDate":"1991","@context":"http://schema.org","sameAs":["http://en.wikipedia.org/wiki/Travis_(band)","http://musicmoz.org/Bands_and_Artists/T/Travis/","http://rateyourmusic.com/artist/travis","http://viaf.org/viaf/126289111","http://www.allmusic.com/artist/mn0000013508","http://www.bbc.co.uk/music/artists/22a40b75-affc-4e69-8884-266d087e4751","http://www.imdb.com/name/nm1661602/","http://www.last.fm/music/Travis","http://www.secondhandsongs.com/artist/6366","http://www.travisonline.com/","http://www.worldcat.org/identities/lccn-no00038893/","https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","https://www.discogs.com/artist/102983","https://www.wikidata.org/wiki/Q160103"],"groupOrigin":{"name":"Glasgow","@id":"https://musicbrainz.org/area/c279f805-01f8-46f5-99cf-51f165a1adad","containedIn":{"name":"Scotland","@id":"https://musicbrainz.org/area/6fa1c7da-6689-4cec-85f9-680f853e8a08","containedIn":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"@type":"AdministrativeArea"},"@type":"City"},"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","@type":"MusicGroup","album":[{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"name":"Good Feeling","@id":"https://musicbrainz.org/release-group/98bcefa7-18c8-3e9b-afa1-6bdbf49abcc3","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"name":"The Man Who","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/d96bd9ec-329a-3740-9eb5-e65257445afa"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"name":"The Invisible Band","@id":"https://musicbrainz.org/release-group/5c87e1b5-1d55-381f-a648-dce879a59c33","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a50ac4bb-9926-381e-8f13-c9a1c651545c","name":"12 Memories","@type":"MusicAlbum","creditedTo":"Travis"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"name":"The Boy With No Name","@id":"https://musicbrainz.org/release-group/72415430-f41f-397f-9c96-09fce693bb05","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Travis","@type":"MusicAlbum","name":"Ode to J. Smith","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/506ec36d-1454-3157-88b8-8ad6e433d994","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"}},{"name":"Where You Stand","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/ad57d7d3-de7a-4f2a-b412-2618e5771429","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"creditedTo":"Travis","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"name":"Everything at Once","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b066f0c9-52ea-4374-bec2-7c545e8ca3d2"},{"name":"Singles","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5c263ba9-9795-3c35-9628-dcd190f5e481","byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04"},"creditedTo":"Travis","@type":"MusicAlbum"},{"creditedTo":"Travis","@type":"MusicAlbum","name":"Side: Greatest Hits","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/a4959fff-614e-361a-81f9-8b6cfb37b2a6","byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"}},{"creditedTo":"Travis","@type":"MusicAlbum","name":"An Evening With Fran Healy \u0026 Andy Dunlop","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8859bf31-67f5-40bc-b578-ae082b16a566","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"}},{"@id":"https://musicbrainz.org/release-group/18904eb5-e2e5-3bf8-861a-cd8e22442ad1","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"All I Want to Do Is Rock","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"creditedTo":"Travis","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/98e91d7b-f1ea-30a7-9763-f097d0bc2aa8","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"U16 Girls","byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"creditedTo":"Travis","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"name":"Tied to the 90’s","@id":"https://musicbrainz.org/release-group/bdfeaa05-be87-3a0b-82b2-fad7b86386d6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"name":"Happy","@id":"https://musicbrainz.org/release-group/f5c824c7-63dc-3053-9afe-0f3e03c17854","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Travis","@type":"MusicAlbum","name":"More Than Us","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/424941fe-2af4-397b-8d16-d19bb001444d","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"}},{"@id":"https://musicbrainz.org/release-group/9421c893-be24-325f-b17c-193fb0f723e0","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Writing to Reach You","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"creditedTo":"Travis","@type":"MusicAlbum"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/b10825ae-fbec-3e52-bae2-d30c663b36f9","name":"Driftwood","@type":"MusicAlbum","creditedTo":"Travis"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/6d94c273-6826-3162-9bb4-7e206bb85ebb","albumReleaseType":"http://schema.org/SingleRelease","name":"Turn","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"creditedTo":"Travis","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/62943fae-aa9a-3951-bcf2-7564c0b5a7c1","albumReleaseType":"http://schema.org/SingleRelease","name":"Why Does It Always Rain On Me?","@type":"MusicAlbum","creditedTo":"Travis"},{"byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"name":"Coming Around","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/698bfb62-ac86-3e89-8f4e-7fb8fc0271ae","@type":"MusicAlbum","creditedTo":"Travis"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"@id":"https://musicbrainz.org/release-group/0c6a024f-d068-33fd-9219-667855466919","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Sing","@type":"MusicAlbum","creditedTo":"Travis"},{"name":"Side","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/74157da3-f316-388d-9aba-6e3db8266bc7","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"creditedTo":"Travis","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/332335e9-481c-30d6-bc70-c509e053fd68","name":"Flowers in the Window"},{"creditedTo":"Travis","@type":"MusicAlbum","name":"Re-Offender","@id":"https://musicbrainz.org/release-group/2f529e1e-85d5-30d5-bc3b-b7be25db2d6f","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"}},{"creditedTo":"Travis","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8315bd66-7def-3c7d-a7a6-a5578b9e5fea","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"The Beautiful Occupation","byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"}},{"byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04"},"name":"Love Will Come Through","@id":"https://musicbrainz.org/release-group/f8b36709-86a5-3c9a-8242-ff74f0d5b68b","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Travis"},{"creditedTo":"Travis","@type":"MusicAlbum","name":"Walking in the Sun","@id":"https://musicbrainz.org/release-group/9510a028-fd2f-3b8f-a59e-ebee9b09ceef","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"}},{"byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"name":"Closer","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/d2c8e337-05e6-36be-a5df-8a3a0ec3277f","@type":"MusicAlbum","creditedTo":"Travis"},{"creditedTo":"Travis","@type":"MusicAlbum","name":"Say Hello","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/2664bd8b-5d6d-35b2-9b9f-437cf28b1988","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04"}},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/1ee0fc49-3339-35cf-99f7-13154d8e0097","albumReleaseType":"http://schema.org/SingleRelease","name":"Selfish Jean","byArtist":{"@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751"},"creditedTo":"Travis","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/328eff7e-8ae7-434b-bcea-e93029b7beec","name":"My Eyes"},{"byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04"},"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/79e9e574-b3a2-31f8-9d2a-7e3853f3b1c4","name":"Something Anything","@type":"MusicAlbum","creditedTo":"Travis"},{"@type":"MusicAlbum","creditedTo":"Travis","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/b79f06d6-4c4f-4a33-83a2-6d2c68164bd4","name":"Hidden Days"},{"name":"Why Does It Always Rain on Me?","@id":"https://musicbrainz.org/release-group/e35e2443-d5dc-448a-ab6b-07d8879f8b86","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04"},"creditedTo":"Travis","@type":"MusicAlbum"},{"name":"Coming Around","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/327e8fd3-ba87-32a5-8894-77f2fa4e32a6","byArtist":{"name":"Travis","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"creditedTo":"Travis","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis","sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f06bc5ce-021a-4f21-9567-091845e448fe","name":"Closer","@type":"MusicAlbum","creditedTo":"Travis"},{"name":"J. Smith","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/0ce58bb7-5d75-48d0-99a6-8459c5ff44d3","byArtist":{"sameAs":"https://musicbrainz.org/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751","name":"Travis"},"creditedTo":"Travis","@type":"MusicAlbum"}],"alternateName":["Glass Onion"],"member":[{"member":{"@type":["Person","MusicGroup"],"name":"Jason Falkner","@id":"https://musicbrainz.org/artist/54c49b97-22bd-4e0e-998f-60ba4b9d7abf"},"@type":"OrganizationRole","roleName":[]},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5f3c6bc4-97ed-45f9-ac62-be24b0dfaa4f","name":"Andy Dunlop"},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6a72b3d2-7da1-4831-b439-6d8fcf7b4800","name":"Fran Healy"}},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e3434b39-34d7-4ab9-87e5-3598aeb2692e","name":"Dougie Payne"},"@type":"OrganizationRole","roleName":[]},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/ff3cbcd4-e8b4-4d1a-af34-b30392ba8723","name":"Neil Primrose","@type":["Person","MusicGroup"]}}],"location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F22a40b75-affc-4e69-8884-266d087e4751">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F22a40b75-affc-4e69-8884-266d087e4751">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751" title="Travis (Scottish alternative rock band)"><bdi>Travis</bdi></a> <span class="comment">(<bdi>Scottish alternative rock band</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751" title="Travis – Travis (Scottish alternative rock band)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/releases" title="Travis (Scottish alternative rock band)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/recordings" title="Travis (Scottish alternative rock band)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/works" title="Travis (Scottish alternative rock band)"><bdi>Works</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/events" title="Travis (Scottish alternative rock band)"><bdi>Events</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/relationships" title="Travis (Scottish alternative rock band)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/aliases" title="Travis (Scottish alternative rock band)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/tags" title="Travis (Scottish alternative rock band)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/details" title="Travis (Scottish alternative rock band)"><bdi>Details</bdi></a></li>            <li><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/edit" title="Travis (Scottish alternative rock band)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/8c2b27e8-afc0-48a1-96d6-d263b9d11f04" title="Glass Onion"><bdi>Glass Onion</bdi></a></p>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Travis</b> are a Scottish rock band formed in Glasgow in 1990, comprising Fran Healy (lead vocals, rhythm guitar), Dougie Payne (bass guitar, backing vocals), Andy Dunlop (lead guitar, banjo, backing vocals) and Neil Primrose (drums, percussion).</p>
+<p>The band has released eight studio albums: <i>Good Feeling</i> (1997), <i>The Man Who</i> (1999), <i>The Invisible Band</i> (2001), <i>12 Memories</i> (2003), <i>The Boy with No Name</i> (2007), <i>Ode to J. Smith</i> (2008), <i>Where You Stand</i> (2013) and <i>Everything at Once</i> (2016).</p>
+<p>Travis have twice been awarded best band at the BRIT Awards, and are often credited for having paved the way for bands such as Coldplay and Keane. The band named themselves after the Harry Dean Stanton character Travis Henderson from the film <i>Paris, Texas</i>.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Travis_%28band%29">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1064" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/98bcefa7-18c8-3e9b-afa1-6bdbf49abcc3"><bdi>Good Feeling</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/d96bd9ec-329a-3740-9eb5-e65257445afa"><bdi>The Man Who</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/5c87e1b5-1d55-381f-a648-dce879a59c33"><bdi>The Invisible Band</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/a50ac4bb-9926-381e-8f13-c9a1c651545c"><bdi>12 Memories</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/72415430-f41f-397f-9c96-09fce693bb05"><bdi>The Boy With No Name</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/506ec36d-1454-3157-88b8-8ad6e433d994"><bdi>Ode to J. Smith</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/ad57d7d3-de7a-4f2a-b412-2618e5771429"><bdi>Where You Stand</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/b066f0c9-52ea-4374-bec2-7c545e8ca3d2"><bdi>Everything at Once</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/5c263ba9-9795-3c35-9628-dcd190f5e481"><bdi>Singles</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a4959fff-614e-361a-81f9-8b6cfb37b2a6"><bdi>Side: Greatest Hits</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/8859bf31-67f5-40bc-b578-ae082b16a566"><bdi>An Evening With Fran Healy &amp; Andy Dunlop</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/18904eb5-e2e5-3bf8-861a-cd8e22442ad1"><bdi>All I Want to Do Is Rock</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/98e91d7b-f1ea-30a7-9763-f097d0bc2aa8"><bdi>U16 Girls</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/bdfeaa05-be87-3a0b-82b2-fad7b86386d6"><bdi>Tied to the 90’s</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/f5c824c7-63dc-3053-9afe-0f3e03c17854"><bdi>Happy</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/424941fe-2af4-397b-8d16-d19bb001444d"><bdi>More Than Us</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/9421c893-be24-325f-b17c-193fb0f723e0"><bdi>Writing to Reach You</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/b10825ae-fbec-3e52-bae2-d30c663b36f9"><bdi>Driftwood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/6d94c273-6826-3162-9bb4-7e206bb85ebb"><bdi>Turn</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/62943fae-aa9a-3951-bcf2-7564c0b5a7c1"><bdi>Why Does It Always Rain On Me?</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/698bfb62-ac86-3e89-8f4e-7fb8fc0271ae"><bdi>Coming Around</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/0c6a024f-d068-33fd-9219-667855466919"><bdi>Sing</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/74157da3-f316-388d-9aba-6e3db8266bc7"><bdi>Side</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/332335e9-481c-30d6-bc70-c509e053fd68"><bdi>Flowers in the Window</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/2f529e1e-85d5-30d5-bc3b-b7be25db2d6f"><bdi>Re-Offender</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/8315bd66-7def-3c7d-a7a6-a5578b9e5fea"><bdi>The Beautiful Occupation</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f8b36709-86a5-3c9a-8242-ff74f0d5b68b"><bdi>Love Will Come Through</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/9510a028-fd2f-3b8f-a59e-ebee9b09ceef"><bdi>Walking in the Sun</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/d2c8e337-05e6-36be-a5df-8a3a0ec3277f"><bdi>Closer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/2664bd8b-5d6d-35b2-9b9f-437cf28b1988"><bdi>Say Hello</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/1ee0fc49-3339-35cf-99f7-13154d8e0097"><bdi>Selfish Jean</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/328eff7e-8ae7-434b-bcea-e93029b7beec"><bdi>My Eyes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/79e9e574-b3a2-31f8-9d2a-7e3853f3b1c4"><bdi>Something Anything</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/b79f06d6-4c4f-4a33-83a2-6d2c68164bd4"><bdi>Hidden Days</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/e35e2443-d5dc-448a-ab6b-07d8879f8b86"><bdi>Why Does It Always Rain on Me?</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/327e8fd3-ba87-32a5-8894-77f2fa4e32a6"><bdi>Coming Around</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/f06bc5ce-021a-4f21-9567-091845e448fe"><bdi>Closer</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/0ce58bb7-5d75-48d0-99a6-8459c5ff44d3"><bdi>J. Smith</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/22a40b75-affc-4e69-8884-266d087e4751?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Travis_band_zz.jpg/250px-Travis_band_zz.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Travis band zz.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1991 (25 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/c279f805-01f8-46f5-99cf-51f165a1adad"><bdi>Glasgow</bdi></a>, <a href="/area/6fa1c7da-6689-4cec-85f9-680f853e8a08"><bdi>Scotland</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:93%;">4.65</span>    </span>
+</span>    (<a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/ratings" title="Travis (Scottish alternative rock band)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/britpop"><bdi>britpop</bdi></a>, <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/scottish"><bdi>scottish</bdi></a>, <a href="/tag/alternative"><bdi>alternative</bdi></a>, <a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/tags" title="Travis (Scottish alternative rock band)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.travisonline.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000013508">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/22a40b75-affc-4e69-8884-266d087e4751">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/102983">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1661602/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Travis">Travis</a>
+          
+          
+        </li>               <li class="genius-favicon">
+          
+          
+          <a href="http://genius.com/artists/Travis">Genius</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/Travis">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/travis">travis</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/T/Travis/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/travis">Rateyourmusic</a>
+          
+          
+        </li>               <li class="worldcat-favicon">
+          
+          
+          <a href="http://www.worldcat.org/identities/lccn-no00038893/">WorldCat</a>
+          
+          
+        </li>               <li class="secondhandsongs-favicon">
+          
+          
+          <a href="http://www.secondhandsongs.com/artist/6366">SecondHandSongs</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/travisband">@travisband</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/travistheband">travistheband</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/126289111">VIAF: 126289111</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q160103">Q160103</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Travis_(band)">en: Travis (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/travistheband">travistheband</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/22a40b75-affc-4e69-8884-266d087e4751/relationships" title="Travis (Scottish alternative rock band)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F22a40b75-affc-4e69-8884-266d087e4751">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-06-15 22:21 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

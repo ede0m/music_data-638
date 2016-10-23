@@ -1,0 +1,962 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sergiu Celibidache - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1912-06-28 in Roman, Died: 1996-08-14 in La Neuville-sur-Essonne, Area: Romania"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","birthPlace":{"@type":"City","name":"Roman","containedIn":{"@type":"AdministrativeArea","name":"Neamț","containedIn":{"@id":"https://musicbrainz.org/area/61ed84b8-5a10-30a7-8376-ccd51801d6d1","name":"Romania","@type":"Country"},"@id":"https://musicbrainz.org/area/302c12fd-c5fe-4a09-86b1-bec9e68a25b5"},"@id":"https://musicbrainz.org/area/db5bba8b-cf11-4b75-baae-f6b6e05182c4"},"@context":"http://schema.org","sameAs":["http://isni-url.oclc.nl/isni/0000000110845646","http://viaf.org/viaf/113906119","http://www.imdb.com/name/nm1158614/","https://en.wikipedia.org/wiki/Sergiu_Celibidache","https://www.discogs.com/artist/840069","https://www.wikidata.org/wiki/Q165671"],"location":{"@type":"Country","name":"Romania","@id":"https://musicbrainz.org/area/61ed84b8-5a10-30a7-8376-ccd51801d6d1"},"name":"Sergiu Celibidache","birthDate":"1912-06-28","album":[{"creditedTo":"Ludwig van Beethoven; Arturo Benedetti Michelangeli, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/79b1d634-359e-439b-b149-d1ae98f30dac","albumReleaseType":"http://schema.org/AlbumRelease","name":"Concerto no. 5 for piano and orchestra","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Ludwig van Beethoven","@id":"https://musicbrainz.org/artist/1f9df192-a621-4f54-8850-2c5373b7eac9"},{"@id":"https://musicbrainz.org/artist/f0eca52a-cece-4844-9902-46c55f82aa5a","name":"Arturo Benedetti Michelangeli","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}]},{"name":"Symphonies nos. 5 and 6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"name":"Пётр Ильич Чайковский","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","name":"Münchner Philharmoniker","@type":"MusicGroup"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"creditedTo":"Tchaikovsky; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/208c5f3a-0cee-3291-9e36-0deffd5cded8"},{"@id":"https://musicbrainz.org/release-group/5cfaf347-5b6e-3c10-8ed5-2f644407abe4","creditedTo":"Shostakovich; Berliner Philharmoniker, Sergiu Celibidache","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/519dd32e-8f30-4380-8826-7aa99169e1bb","@type":["Person","MusicGroup"],"name":"Дмитрий Дмитриевич Шостакович"},{"@id":"https://musicbrainz.org/artist/dea28aa9-1086-4ffa-8739-0ccc759de1ce","@type":"MusicGroup","name":"Berliner Philharmoniker"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"name":"Symphony No. 7","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/21024737-5342-4ea2-b993-2b95309e9bbe","creditedTo":"Bartók; Celibidache, Münchner Philharmoniker","byArtist":[{"@type":["Person","MusicGroup"],"name":"Béla Bartók","@id":"https://musicbrainz.org/artist/fd14da1b-3c2d-4cc8-9ca6-fc8c62ce6988"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"},{"name":"Münchner Philharmoniker","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Concerto for Orchestra"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"La Mer / Images pour orchestre No. 2 \"Ibéria\"","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/be50643c-0377-4968-b48c-47e06b2e2a3b","@type":["Person","MusicGroup"],"name":"Claude Debussy"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"creditedTo":"Debussy; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/1ee2ffe0-d9c2-41ce-939e-863b33a21f6c"},{"@id":"https://musicbrainz.org/release-group/5b5085df-d2bd-37f9-824e-06fcf2259435","creditedTo":"Modest Mussorgsky, Maurice Ravel; Münchner Philharmoniker, Sergiu Celibidache","@type":"MusicAlbum","byArtist":[{"name":"Модест Петрович Мусоргский","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c1380b12-3909-47d8-a5fd-d20e76123310"},{"name":"Maurice Ravel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Mussorgsky: Pictures at an Exhibition / Ravel: Boléro","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Tchaikovsky; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/0f5cdb94-1824-436d-b4f3-82270c6aa058","name":"Symphonie No. 5","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9","@type":["Person","MusicGroup"],"name":"Пётр Ильич Чайковский"},{"name":"Münchner Philharmoniker","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}]},{"creditedTo":"Franz Schubert; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/8dbc8740-99c1-3728-a886-cde5b8ea47e0","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphony no. 9","byArtist":[{"name":"Franz Schubert","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","name":"Sergiu Celibidache","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Bruckner 4","@type":"MusicAlbum","byArtist":[{"name":"Anton Bruckner","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"creditedTo":"Anton Bruckner; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/b6aee0ec-5e25-357e-8b04-98c7ed3263e3"},{"creditedTo":"Anton Bruckner; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/9b36dbe2-b665-41fe-a659-541361441af8","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphony no. 3","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998","name":"Anton Bruckner","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphonie Nr. 5","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998","name":"Anton Bruckner","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"creditedTo":"Bruckner; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/7126badb-80b2-4b36-b853-9360018d4d33"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphony 6","byArtist":[{"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998","name":"Anton Bruckner","@type":["Person","MusicGroup"]},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","@type":"MusicGroup","name":"Münchner Philharmoniker"}],"@type":"MusicAlbum","creditedTo":"Anton Bruckner; Sergiu Celibidache, Münchner Philharmoniker","@id":"https://musicbrainz.org/release-group/cc635263-7d41-4c7f-9c61-b0be112f854e"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Symphony 9 in concert and rehearsal","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998","@type":["Person","MusicGroup"],"name":"Anton Bruckner"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"},{"name":"Münchner Philharmoniker","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"}],"creditedTo":"Anton Bruckner; Sergiu Celibidache, Münchner Philharmoniker","@id":"https://musicbrainz.org/release-group/30c030df-5f8e-410f-a445-b8e53aa71400"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Daphnis et Chloé / La Valse / Le Tombeau de Couperin","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a","name":"Maurice Ravel","@type":["Person","MusicGroup"]},{"name":"Radio-Sinfonieorchester Stuttgart des SWR","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/09caaa4a-868f-4434-bcc3-4921ac8539df"},{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"@type":"MusicAlbum","creditedTo":"Ravel; Radio-Sinfonieorchester Stuttgart des SWR, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/7c88ac70-1933-3e23-8aa2-c092693ac8a3"},{"@id":"https://musicbrainz.org/release-group/aa2eb255-93c6-3521-9514-cf1044861bbe","creditedTo":"Debussy; Radio-Sinfonieorchester Stuttgart des SWR, Sergiu Celibidache","byArtist":[{"@id":"https://musicbrainz.org/artist/be50643c-0377-4968-b48c-47e06b2e2a3b","name":"Claude Debussy","@type":["Person","MusicGroup"]},{"name":"Radio-Sinfonieorchester Stuttgart des SWR","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/09caaa4a-868f-4434-bcc3-4921ac8539df"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Nocturnes / La Mer","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Requiem in D minor","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@type":["Person","MusicGroup"],"name":"Wolfgang Amadeus Mozart","@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75"},{"name":"Münchner Philharmoniker","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"@type":"MusicAlbum","creditedTo":"Mozart; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/d508202e-7c98-4da2-a3c3-2f067c6c727c"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Requiem","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Giuseppe Verdi","@id":"https://musicbrainz.org/artist/f1bedf1f-4445-4651-9c35-f4a3f3860a13"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"}],"creditedTo":"Verdi; Celibidache, Münchner Philharmoniker","@id":"https://musicbrainz.org/release-group/b1b7e67e-06b4-4d31-a7aa-172c4ce19640"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Shostakovich: Symphonies 1 \u0026 9 / Barber: Adagio","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Дмитрий Дмитриевич Шостакович","@id":"https://musicbrainz.org/artist/519dd32e-8f30-4380-8826-7aa99169e1bb"},{"@type":["Person","MusicGroup"],"name":"Samuel Barber","@id":"https://musicbrainz.org/artist/74ed34ce-ee95-44e9-a87d-4d2d5056c24a"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"creditedTo":"Shostakovich, Barber; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/852207b8-9de2-4a93-b438-94e86d8bb65a"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51","@type":["Person","MusicGroup"],"name":"Johannes Brahms"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Symphony no. 4","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/5d3457fa-23b7-494d-bc53-08aa18e2053a","creditedTo":"Brahms; Sergiu Celibidache"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1","@type":["Person","MusicGroup"],"name":"Сергей Сергеевич Прокофьев"},{"@id":"https://musicbrainz.org/artist/c1380b12-3909-47d8-a5fd-d20e76123310","@type":["Person","MusicGroup"],"name":"Модест Петрович Мусоргский"},{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"name":"Sergei Prokofiev: Symphony No. 5 / Modest Mussorgsky: Pictures at an Exhibition","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/c45b7d74-79b6-4fe0-8fcc-60d8a35bb3e0","creditedTo":"Sergei Prokofiev, Modest Mussorgsky; Sergiu Celibidache"},{"name":"Mass in B minor","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","@type":"MusicGroup","name":"Münchner Philharmoniker"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"@type":"MusicAlbum","creditedTo":"Bach; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/0132f638-6414-3239-bbae-ef70a63f8d97"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Symphony no. 7 in E major","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Anton Bruckner","@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998"},{"@id":"https://musicbrainz.org/artist/dea28aa9-1086-4ffa-8739-0ccc759de1ce","name":"Berliner Philharmoniker","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"creditedTo":"Bruckner; Berliner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/3482eeb9-b37c-3cac-8f1c-1200b9ce40fc"},{"@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Ludwig van Beethoven","@id":"https://musicbrainz.org/artist/1f9df192-a621-4f54-8850-2c5373b7eac9"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Symphony No. 9","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/2be68243-c212-3c03-b302-bee0fc84fccb","creditedTo":"Beethoven; Münchner Philharmoniker, Sergiu Celibidache"},{"@id":"https://musicbrainz.org/release-group/ae3c8978-fad8-3052-85af-082bd63d4655","creditedTo":"Schubert, Tchaikovsky; Orchestra della Svizzera italiana, Sergiu Celibidache","byArtist":[{"name":"Franz Schubert","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed"},{"@id":"https://musicbrainz.org/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9","name":"Пётр Ильич Чайковский","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/41046cb0-bc2c-43e2-8632-fff377b69453","@type":"MusicGroup","name":"Orchestra della Svizzera italiana"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"Schubert: Symphony No. 8 / Tchaikovsky: The Nutcracker","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/6d583066-4a20-3599-b5ed-5e61ba681ed5","creditedTo":"Johannes Brahms; Münchner Philharmoniker, Sergiu Celibidache","@type":"MusicAlbum","byArtist":[{"name":"Johannes Brahms","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","@type":"MusicGroup","name":"Münchner Philharmoniker"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","name":"Sergiu Celibidache","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/CompilationAlbum","name":"Brahms I: German Requiem","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"The Celibidache Edition: The Swedish Radio Recordings","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/691b0e9d-9e57-41cf-932d-a3d21b068e75","@type":["Person","MusicGroup"],"name":"Jean Sibelius"},{"@id":"https://musicbrainz.org/artist/69802473-e361-4e15-bbd8-53fe83cd1587","name":"César Franck","@type":["Person","MusicGroup"]},{"name":"Paul Hindemith","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4068eaba-ca03-4c34-9172-2b709b8050e6"},{"name":"Richard Strauss","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16"},{"@id":"https://musicbrainz.org/artist/519dd32e-8f30-4380-8826-7aa99169e1bb","@type":["Person","MusicGroup"],"name":"Дмитрий Дмитриевич Шостакович"},{"@type":["Person","MusicGroup"],"name":"Jacqueline du Pré","@id":"https://musicbrainz.org/artist/6e26a58f-63e8-4397-8cb7-b9f46aedfd32"},{"@id":"https://musicbrainz.org/artist/b8ae9f1e-cecd-4c20-8f3b-9683944af0eb","@type":"MusicGroup","name":"Sveriges Radios Symfoniorkester"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"@type":"MusicAlbum","creditedTo":"Sibelius, Franck, Hindemith, Richard Strauss, Shostakovich; Jacqueline du Pré, Swedish Radio Symphony Orchestra, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/1c14c7ef-6e5a-3dc4-b562-9d476024e13f"},{"@id":"https://musicbrainz.org/release-group/f0bec925-d55d-43ec-acd3-afc3b23d10b0","creditedTo":"Sergiu Celibidache","byArtist":{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","name":"Sergiu Celibidache","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Great Conductors of the 20th Century: Sergiu Celibidache","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Symphonies nos. 3-5, 7-9","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998","name":"Anton Bruckner","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"@type":"MusicAlbum","creditedTo":"Anton Bruckner; Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/671b5a2f-2689-4935-a75b-61160fcc2c37"},{"@type":"MusicAlbum","byArtist":{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"},"name":"Sergiu Celibidache: 10 CD-Set","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4cfd6820-066a-4c96-9d2a-163d06c06d95","creditedTo":"Sergiu Celibidache"},{"byArtist":[{"name":"Münchner Philharmoniker","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","name":"Sergiu Celibidache","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","name":"Symphonies","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/2d89af97-feef-4ed5-a39b-c69f85088fc0","creditedTo":"Münchner Philharmoniker, Sergiu Celibidache"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","name":"Münchner Philharmoniker","@type":"MusicGroup"}],"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"French and Russian Music","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/6443c3d9-8843-4434-a3a3-740c541adcee","creditedTo":"Sergiu Celibidache, Münchner Philharmoniker"},{"creditedTo":"Haydn; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/466df353-3bd0-4e7b-aa5a-60b9a8482a68","name":"Sinfonien 103 \u0026 104","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/c130b0fb-5dce-449d-9f40-1437f889f7fe","@type":["Person","MusicGroup"],"name":"Joseph Haydn"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","name":"Münchner Philharmoniker","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","name":"Sergiu Celibidache","@type":["Person","MusicGroup"]}]},{"@id":"https://musicbrainz.org/release-group/dbf91afe-9e8c-3f57-b08a-f7876c7da83a","creditedTo":"Brahms; Münchner Philharmoniker, Sergiu Celibidache","@type":"MusicAlbum","byArtist":[{"name":"Johannes Brahms","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","name":"Münchner Philharmoniker","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"albumProductionType":"http://schema.org/LiveAlbum","name":"Symphonies 2 - 4","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Symphonies Nos. 1 \"Classique\", 5","albumProductionType":"http://schema.org/LiveAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1","@type":["Person","MusicGroup"],"name":"Сергей Сергеевич Прокофьев"},{"name":"Münchner Philharmoniker","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"@type":"MusicAlbum","creditedTo":"Prokofiev; Münchner Philharmoniker, Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/efa7f47d-bccf-34a8-8e36-b810485c8a4d"},{"byArtist":[{"name":"Anton Bruckner","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","name":"Münchner Philharmoniker","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"@type":"MusicAlbum","name":"Symphony No. 8 in C minor","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/09017a7f-aa7e-38c3-9aa2-e066ace6436a","creditedTo":"Anton Bruckner; Münchner Philharmoniker, Sergiu Celibidache"},{"@id":"https://musicbrainz.org/release-group/5d5c993a-a63a-34ea-be5d-35017f44e36b","creditedTo":"Wagner; Münchner Philharmoniker, Sergiu Celibidache","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Richard Wagner","@id":"https://musicbrainz.org/artist/eefd7c1e-abcf-4ccc-ba60-0fd435c9061f"},{"name":"Münchner Philharmoniker","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","name":"Sergiu Celibidache","@type":["Person","MusicGroup"]}],"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","name":"Orchestral Music"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/1f9df192-a621-4f54-8850-2c5373b7eac9","name":"Ludwig van Beethoven","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"@type":"MusicAlbum","name":"Symphonies Nos. 4 \u0026 5","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/df4ee9b1-5a6a-31e1-be99-cab5f3a9a1d2","creditedTo":"Beethoven; Münchner Philharmoniker, Sergiu Celibidache"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998","name":"Anton Bruckner","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"name":"Symphony No. 7 / Te Deum","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/86115ccc-a2a2-3ba5-bd04-049dccdd99f2","creditedTo":"Bruckner; Münchner Philharmoniker, Sergiu Celibidache"},{"@id":"https://musicbrainz.org/release-group/77a12a86-6bd1-4be5-8957-7ac1cd79c960","creditedTo":"Mussorgsky, Stravinsky; Radio-Sinfonieorchester Stuttgart des SWR, Sergiu Celibidache","byArtist":[{"@id":"https://musicbrainz.org/artist/c1380b12-3909-47d8-a5fd-d20e76123310","@type":["Person","MusicGroup"],"name":"Модест Петрович Мусоргский"},{"@id":"https://musicbrainz.org/artist/c278de2c-9696-4fdf-a919-0781cd945e2c","@type":["Person","MusicGroup"],"name":"Игорь Фёдорович Стравинский"},{"@type":"MusicGroup","name":"Radio-Sinfonieorchester Stuttgart des SWR","@id":"https://musicbrainz.org/artist/09caaa4a-868f-4434-bcc3-4921ac8539df"},{"@type":["Person","MusicGroup"],"name":"Sergiu Celibidache","@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Mussorgsky: Pictures at an exhibition / Stravinsky: The Fairy's Kiss Suite"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Ein Heldenleben","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16","name":"Richard Strauss","@type":["Person","MusicGroup"]},{"name":"Sergiu Celibidache","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46"}],"creditedTo":"Richard Strauss; Sergiu Celibidache","@id":"https://musicbrainz.org/release-group/7ad415e4-6d09-3795-be0a-dbb596aa6918"},{"@id":"https://musicbrainz.org/release-group/4fa26085-f72d-3c52-8638-9b8cc39719a0","creditedTo":"Berlioz; Sergiu Celibidache","byArtist":[{"@id":"https://musicbrainz.org/artist/274774a7-1cde-486a-bc3d-375ec54d552d","name":"Hector Berlioz","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","name":"Sergiu Celibidache","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","name":"Symphonie Fantastique / Carnaval Romain","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/9debb4c3-dc10-440f-9c96-b777d51ea998","name":"Anton Bruckner","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Radio-Sinfonieorchester Stuttgart des SWR","@id":"https://musicbrainz.org/artist/09caaa4a-868f-4434-bcc3-4921ac8539df"},{"@type":"MusicGroup","name":"Münchner Philharmoniker","@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477"},{"@id":"https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46","@type":["Person","MusicGroup"],"name":"Sergiu Celibidache"}],"name":"Symphony N. 4 / Symphony N. 9 (original version)","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/b30e4ab1-72f8-3453-b361-7e1e3117c2b3","creditedTo":"Anton Bruckner; Stuttgart Radio Symphony Orchestra, Munich Philharmonic Orchestra, Sergiu Celibidache"}],"deathPlace":{"@type":"City","name":"La Neuville-sur-Essonne","containedIn":{"@id":"https://musicbrainz.org/area/2587ad5d-2cfe-4a93-b3c4-8cacc5d3b1e7","@type":"AdministrativeArea","name":"Loiret","containedIn":{"@type":"Country","name":"France","@id":"https://musicbrainz.org/area/08310658-51eb-3801-80de-5a0739207115"}},"@id":"https://musicbrainz.org/area/544a9a78-a910-4955-8108-ba5077f429ab"},"@type":["Person","MusicGroup"],"deathDate":"1996-08-14"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fb143a19b-7161-4d93-a522-cd6771fd5a46">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fb143a19b-7161-4d93-a522-cd6771fd5a46">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Sergiu Celibidache – Celibidache, Sergiu"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/releases" title="Celibidache, Sergiu"><bdi>Releases</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/recordings" title="Celibidache, Sergiu"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/works" title="Celibidache, Sergiu"><bdi>Works</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/events" title="Celibidache, Sergiu"><bdi>Events</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/relationships" title="Celibidache, Sergiu"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/aliases" title="Celibidache, Sergiu"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/tags" title="Celibidache, Sergiu"><bdi>Tags</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/details" title="Celibidache, Sergiu"><bdi>Details</bdi></a></li>            <li><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/edit" title="Celibidache, Sergiu"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=333900" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1977</td>
+        <td><a href="/release-group/79b1d634-359e-439b-b149-d1ae98f30dac"><bdi>Concerto no. 5 for piano and orchestra</bdi></a></td>
+        
+        <td><a href="/artist/1f9df192-a621-4f54-8850-2c5373b7eac9" title="Beethoven, Ludwig van"><bdi>Ludwig van Beethoven</bdi></a>; <a href="/artist/f0eca52a-cece-4844-9902-46c55f82aa5a" title="Michelangeli, Arturo Benedetti"><bdi>Arturo Benedetti Michelangeli</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/208c5f3a-0cee-3291-9e36-0deffd5cded8"><bdi>Symphonies nos. 5 and 6</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9" title="Пётр Ильич Чайковский – Tchaikovsky, Pyotr Ilyich (Russian romantic composer)"><bdi>Tchaikovsky</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/5cfaf347-5b6e-3c10-8ed5-2f644407abe4"><bdi>Symphony No. 7</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/519dd32e-8f30-4380-8826-7aa99169e1bb" title="Дмитрий Дмитриевич Шостакович – Shostakovich, Dmitri Dmitrievich (composer)"><bdi>Shostakovich</bdi></a></span>; <a href="/artist/dea28aa9-1086-4ffa-8739-0ccc759de1ce" title="Berliner Philharmoniker"><bdi>Berliner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/21024737-5342-4ea2-b993-2b95309e9bbe"><bdi>Concerto for Orchestra</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/fd14da1b-3c2d-4cc8-9ca6-fc8c62ce6988" title="Béla Bartók – Bartók, Béla (composer)"><bdi>Bartók</bdi></a></span>; <span class="name-variation"><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Sergiu Celibidache – Celibidache, Sergiu"><bdi>Celibidache</bdi></a></span>, <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/1ee2ffe0-d9c2-41ce-939e-863b33a21f6c"><bdi>La Mer / Images pour orchestre No. 2 &quot;Ibéria&quot;</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/be50643c-0377-4968-b48c-47e06b2e2a3b" title="Claude Debussy – Debussy, Claude"><bdi>Debussy</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/5b5085df-d2bd-37f9-824e-06fcf2259435"><bdi>Mussorgsky: Pictures at an Exhibition / Ravel: Boléro</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/c1380b12-3909-47d8-a5fd-d20e76123310" title="Модест Петрович Мусоргский – Mussorgsky, Modest Petrovich (composer)"><bdi>Modest Mussorgsky</bdi></a></span>, <a href="/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a" title="Ravel, Maurice (classical composer)"><bdi>Maurice Ravel</bdi></a>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/0f5cdb94-1824-436d-b4f3-82270c6aa058"><bdi>Symphonie No. 5</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9" title="Пётр Ильич Чайковский – Tchaikovsky, Pyotr Ilyich (Russian romantic composer)"><bdi>Tchaikovsky</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/8dbc8740-99c1-3728-a886-cde5b8ea47e0"><bdi>Symphony no. 9</bdi></a></td>
+        
+        <td><a href="/artist/f91e3a88-24ee-4563-8963-fab73d2765ed" title="Schubert, Franz (Austrian composer Franz Peter Schubert)"><bdi>Franz Schubert</bdi></a>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/b6aee0ec-5e25-357e-8b04-98c7ed3263e3"><bdi>Bruckner 4</bdi></a></td>
+        
+        <td><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Bruckner, Anton"><bdi>Anton Bruckner</bdi></a>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/9b36dbe2-b665-41fe-a659-541361441af8"><bdi>Symphony no. 3</bdi></a></td>
+        
+        <td><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Bruckner, Anton"><bdi>Anton Bruckner</bdi></a>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/7126badb-80b2-4b36-b853-9360018d4d33"><bdi>Symphonie Nr. 5</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Anton Bruckner – Bruckner, Anton"><bdi>Bruckner</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/cc635263-7d41-4c7f-9c61-b0be112f854e"><bdi>Symphony 6</bdi></a></td>
+        
+        <td><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Bruckner, Anton"><bdi>Anton Bruckner</bdi></a>; <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a>, <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/30c030df-5f8e-410f-a445-b8e53aa71400"><bdi>Symphony 9 in concert and rehearsal</bdi></a></td>
+        
+        <td><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Bruckner, Anton"><bdi>Anton Bruckner</bdi></a>; <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a>, <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/7c88ac70-1933-3e23-8aa2-c092693ac8a3"><bdi>Daphnis et Chloé / La Valse / Le Tombeau de Couperin</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a" title="Maurice Ravel – Ravel, Maurice (classical composer)"><bdi>Ravel</bdi></a></span>; <a href="/artist/09caaa4a-868f-4434-bcc3-4921ac8539df" title="Radio-Sinfonieorchester Stuttgart des SWR"><bdi>Radio-Sinfonieorchester Stuttgart des SWR</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/aa2eb255-93c6-3521-9514-cf1044861bbe"><bdi>Nocturnes / La Mer</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/be50643c-0377-4968-b48c-47e06b2e2a3b" title="Claude Debussy – Debussy, Claude"><bdi>Debussy</bdi></a></span>; <a href="/artist/09caaa4a-868f-4434-bcc3-4921ac8539df" title="Radio-Sinfonieorchester Stuttgart des SWR"><bdi>Radio-Sinfonieorchester Stuttgart des SWR</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/d508202e-7c98-4da2-a3c3-2f067c6c727c"><bdi>Requiem in D minor</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Wolfgang Amadeus Mozart – Mozart, Wolfgang Amadeus (classical composer)"><bdi>Mozart</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/b1b7e67e-06b4-4d31-a7aa-172c4ce19640"><bdi>Requiem</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f1bedf1f-4445-4651-9c35-f4a3f3860a13" title="Giuseppe Verdi – Verdi, Giuseppe (Italian opera composer)"><bdi>Verdi</bdi></a></span>; <span class="name-variation"><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Sergiu Celibidache – Celibidache, Sergiu"><bdi>Celibidache</bdi></a></span>, <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/852207b8-9de2-4a93-b438-94e86d8bb65a"><bdi>Shostakovich: Symphonies 1 &amp; 9 / Barber: Adagio</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/519dd32e-8f30-4380-8826-7aa99169e1bb" title="Дмитрий Дмитриевич Шостакович – Shostakovich, Dmitri Dmitrievich (composer)"><bdi>Shostakovich</bdi></a></span>, <span class="name-variation"><a href="/artist/74ed34ce-ee95-44e9-a87d-4d2d5056c24a" title="Samuel Barber – Barber, Samuel"><bdi>Barber</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/5d3457fa-23b7-494d-bc53-08aa18e2053a"><bdi>Symphony no. 4</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51" title="Johannes Brahms – Brahms, Johannes"><bdi>Brahms</bdi></a></span>; <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/c45b7d74-79b6-4fe0-8fcc-60d8a35bb3e0"><bdi>Sergei Prokofiev: Symphony No. 5 / Modest Mussorgsky: Pictures at an Exhibition</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1" title="Сергей Сергеевич Прокофьев – Prokofiev, Sergei Sergeyevich (Russian composer)"><bdi>Sergei Prokofiev</bdi></a></span>, <span class="name-variation"><a href="/artist/c1380b12-3909-47d8-a5fd-d20e76123310" title="Модест Петрович Мусоргский – Mussorgsky, Modest Petrovich (composer)"><bdi>Modest Mussorgsky</bdi></a></span>; <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/0132f638-6414-3239-bbae-ef70a63f8d97"><bdi>Mass in B minor</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>Bach</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/3482eeb9-b37c-3cac-8f1c-1200b9ce40fc"><bdi>Symphony no. 7 in E major</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Anton Bruckner – Bruckner, Anton"><bdi>Bruckner</bdi></a></span>; <a href="/artist/dea28aa9-1086-4ffa-8739-0ccc759de1ce" title="Berliner Philharmoniker"><bdi>Berliner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/2be68243-c212-3c03-b302-bee0fc84fccb"><bdi>Symphony No. 9</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/1f9df192-a621-4f54-8850-2c5373b7eac9" title="Ludwig van Beethoven – Beethoven, Ludwig van"><bdi>Beethoven</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/ae3c8978-fad8-3052-85af-082bd63d4655"><bdi>Schubert: Symphony No. 8 / Tchaikovsky: The Nutcracker</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f91e3a88-24ee-4563-8963-fab73d2765ed" title="Franz Schubert – Schubert, Franz (Austrian composer Franz Peter Schubert)"><bdi>Schubert</bdi></a></span>, <span class="name-variation"><a href="/artist/9ddd7abc-9e1b-471d-8031-583bc6bc8be9" title="Пётр Ильич Чайковский – Tchaikovsky, Pyotr Ilyich (Russian romantic composer)"><bdi>Tchaikovsky</bdi></a></span>; <a href="/artist/41046cb0-bc2c-43e2-8632-fff377b69453" title="Orchestra della Svizzera italiana (known by this name since 1991)"><bdi>Orchestra della Svizzera italiana</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/6d583066-4a20-3599-b5ed-5e61ba681ed5"><bdi>Brahms I: German Requiem</bdi></a></td>
+        
+        <td><a href="/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51" title="Brahms, Johannes"><bdi>Johannes Brahms</bdi></a>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/1c14c7ef-6e5a-3dc4-b562-9d476024e13f"><bdi>The Celibidache Edition: The Swedish Radio Recordings</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/691b0e9d-9e57-41cf-932d-a3d21b068e75" title="Jean Sibelius – Sibelius, Jean"><bdi>Sibelius</bdi></a></span>, <span class="name-variation"><a href="/artist/69802473-e361-4e15-bbd8-53fe83cd1587" title="César Franck – Franck, César"><bdi>Franck</bdi></a></span>, <span class="name-variation"><a href="/artist/4068eaba-ca03-4c34-9172-2b709b8050e6" title="Paul Hindemith – Hindemith, Paul"><bdi>Hindemith</bdi></a></span>, <a href="/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16" title="Strauss, Richard (German composer)"><bdi>Richard Strauss</bdi></a>, <span class="name-variation"><a href="/artist/519dd32e-8f30-4380-8826-7aa99169e1bb" title="Дмитрий Дмитриевич Шостакович – Shostakovich, Dmitri Dmitrievich (composer)"><bdi>Shostakovich</bdi></a></span>; <a href="/artist/6e26a58f-63e8-4397-8cb7-b9f46aedfd32" title="du Pré, Jacqueline"><bdi>Jacqueline du Pré</bdi></a>, <span class="name-variation"><a href="/artist/b8ae9f1e-cecd-4c20-8f3b-9683944af0eb" title="Sveriges Radios Symfoniorkester – Sveriges Radios Symfoniorkester"><bdi>Swedish Radio Symphony Orchestra</bdi></a></span>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f0bec925-d55d-43ec-acd3-afc3b23d10b0"><bdi>Great Conductors of the 20th Century: Sergiu Celibidache</bdi></a></td>
+        
+        <td><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/671b5a2f-2689-4935-a75b-61160fcc2c37"><bdi>Symphonies nos. 3-5, 7-9</bdi></a></td>
+        
+        <td><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Bruckner, Anton"><bdi>Anton Bruckner</bdi></a>; <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/4cfd6820-066a-4c96-9d2a-163d06c06d95"><bdi>Sergiu Celibidache: 10 CD-Set</bdi></a></td>
+        
+        <td><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/2d89af97-feef-4ed5-a39b-c69f85088fc0"><bdi>Symphonies</bdi></a></td>
+        
+        <td><a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/6443c3d9-8843-4434-a3a3-740c541adcee"><bdi>French and Russian Music</bdi></a></td>
+        
+        <td><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a>, <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/466df353-3bd0-4e7b-aa5a-60b9a8482a68"><bdi>Sinfonien 103 &amp; 104</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/c130b0fb-5dce-449d-9f40-1437f889f7fe" title="Joseph Haydn – Haydn, Joseph"><bdi>Haydn</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/dbf91afe-9e8c-3f57-b08a-f7876c7da83a"><bdi>Symphonies 2 - 4</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/c70d12a2-24fe-4f83-a6e6-57d84f8efb51" title="Johannes Brahms – Brahms, Johannes"><bdi>Brahms</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/efa7f47d-bccf-34a8-8e36-b810485c8a4d"><bdi>Symphonies Nos. 1 &quot;Classique&quot;, 5</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/0e43fe9d-c472-4b62-be9e-55f971a023e1" title="Сергей Сергеевич Прокофьев – Prokofiev, Sergei Sergeyevich (Russian composer)"><bdi>Prokofiev</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/09017a7f-aa7e-38c3-9aa2-e066ace6436a"><bdi>Symphony No. 8 in C minor</bdi></a></td>
+        
+        <td><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Bruckner, Anton"><bdi>Anton Bruckner</bdi></a>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/5d5c993a-a63a-34ea-be5d-35017f44e36b"><bdi>Orchestral Music</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/eefd7c1e-abcf-4ccc-ba60-0fd435c9061f" title="Richard Wagner – Wagner, Richard"><bdi>Wagner</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/df4ee9b1-5a6a-31e1-be99-cab5f3a9a1d2"><bdi>Symphonies Nos. 4 &amp; 5</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/1f9df192-a621-4f54-8850-2c5373b7eac9" title="Ludwig van Beethoven – Beethoven, Ludwig van"><bdi>Beethoven</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/86115ccc-a2a2-3ba5-bd04-049dccdd99f2"><bdi>Symphony No. 7 / Te Deum</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Anton Bruckner – Bruckner, Anton"><bdi>Bruckner</bdi></a></span>; <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/77a12a86-6bd1-4be5-8957-7ac1cd79c960"><bdi>Mussorgsky: Pictures at an exhibition / Stravinsky: The Fairy's Kiss Suite</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/c1380b12-3909-47d8-a5fd-d20e76123310" title="Модест Петрович Мусоргский – Mussorgsky, Modest Petrovich (composer)"><bdi>Mussorgsky</bdi></a></span>, <span class="name-variation"><a href="/artist/c278de2c-9696-4fdf-a919-0781cd945e2c" title="Игорь Фёдорович Стравинский – Stravinsky, Igor Fyodorovitch"><bdi>Stravinsky</bdi></a></span>; <a href="/artist/09caaa4a-868f-4434-bcc3-4921ac8539df" title="Radio-Sinfonieorchester Stuttgart des SWR"><bdi>Radio-Sinfonieorchester Stuttgart des SWR</bdi></a>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/7ad415e4-6d09-3795-be0a-dbb596aa6918"><bdi>Ein Heldenleben</bdi></a></td>
+        
+        <td><a href="/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16" title="Strauss, Richard (German composer)"><bdi>Richard Strauss</bdi></a>; <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/4fa26085-f72d-3c52-8638-9b8cc39719a0"><bdi>Symphonie Fantastique / Carnaval Romain</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/274774a7-1cde-486a-bc3d-375ec54d552d" title="Hector Berlioz – Berlioz, Hector"><bdi>Berlioz</bdi></a></span>; <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/b30e4ab1-72f8-3453-b361-7e1e3117c2b3"><bdi>Symphony N. 4 / Symphony N. 9 (original version)</bdi></a></td>
+        
+        <td><a href="/artist/9debb4c3-dc10-440f-9c96-b777d51ea998" title="Bruckner, Anton"><bdi>Anton Bruckner</bdi></a>; <span class="name-variation"><a href="/artist/09caaa4a-868f-4434-bcc3-4921ac8539df" title="Radio-Sinfonieorchester Stuttgart des SWR – Radio-Sinfonieorchester Stuttgart des SWR"><bdi>Stuttgart Radio Symphony Orchestra</bdi></a></span>, <span class="name-variation"><a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker – Münchner Philharmoniker"><bdi>Munich Philharmonic Orchestra</bdi></a></span>, <a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46" title="Celibidache, Sergiu"><bdi>Sergiu Celibidache</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Celibidache, Sergiu</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1912-06-28</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/db5bba8b-cf11-4b75-baae-f6b6e05182c4"><bdi>Roman</bdi></a>, <a href="/area/302c12fd-c5fe-4a09-86b1-bec9e68a25b5"><bdi>Neamț</bdi></a>, <span class="flag flag-RO"><a href="/area/61ed84b8-5a10-30a7-8376-ccd51801d6d1"><bdi>Romania</bdi></a></span></dd>
+<dt>Died:</dt>
+<dd>1996-08-14 (aged 84)</dd>
+<dt>Died in:</dt>
+<dd class="end_area"><a href="/area/544a9a78-a910-4955-8108-ba5077f429ab"><bdi>La Neuville-sur-Essonne</bdi></a>, <a href="/area/2587ad5d-2cfe-4a93-b3c4-8cacc5d3b1e7"><bdi>Loiret</bdi></a>, <span class="flag flag-FR"><a href="/area/08310658-51eb-3801-80de-5a0739207115"><bdi>France</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-RO"><a href="/area/61ed84b8-5a10-30a7-8376-ccd51801d6d1"><bdi>Romania</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000110845646">0000 0001 1084 5646    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/conductor"><bdi>conductor</bdi></a>, <a href="/tag/classical"><bdi>classical</bdi></a>, <a href="/tag/romanian"><bdi>romanian</bdi></a>, <a href="/tag/romanian%20conductor"><bdi>romanian conductor</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/840069">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1158614/">IMDb</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/113906119">VIAF: 113906119</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q165671">Q165671</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Sergiu_Celibidache">en: Sergiu Celibidache</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/b143a19b-7161-4d93-a522-cd6771fd5a46/relationships" title="Celibidache, Sergiu"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fb143a19b-7161-4d93-a522-cd6771fd5a46">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-01-26 00:08 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

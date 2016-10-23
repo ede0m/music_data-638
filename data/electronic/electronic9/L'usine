@@ -1,0 +1,836 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>L'usine - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Area: United States"/><script type="application/ld+json">{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","album":[{"byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"name":"L'usine","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f9ccd8f9-f887-3258-8139-7714a9c07005","creditedTo":"L'usine","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Lusine ICL","byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"albumProductionType":"http://schema.org/StudioAlbum","name":"A Pseudo Steady State","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e34261b1-5191-3140-899e-46b25f4864df"},{"name":"Iron City","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/0d42fb4a-39fd-3193-8a0d-07dd1b126824","byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731"},"creditedTo":"Lusine ICL","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Lusine ICL","@id":"https://musicbrainz.org/release-group/8f45d589-6d1a-376b-991c-700ec59118c7","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Condensed","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"}},{"byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"]},"name":"Serial Hodgepodge","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/97d8223d-80b5-33ab-952a-2ebce05f9c49","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Lusine","@type":"MusicAlbum"},{"byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"]},"albumProductionType":"http://schema.org/StudioAlbum","name":"Podgelism","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/99b0b591-6e12-33ed-8518-241775cf6563","creditedTo":"Lusine","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Lusine ICL","@id":"https://musicbrainz.org/release-group/1ca9e36a-9881-37ff-beeb-ffd7177f726d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Language Barrier","byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731"}},{"@type":"MusicAlbum","creditedTo":"Lusine","@id":"https://musicbrainz.org/release-group/a8f15cd3-c477-4c70-af40-f697cd54c7ea","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"A Certain Distance","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"}},{"byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"name":"Lucky Numbers: The Ghostly International EPs","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/33b590bc-2e7c-4d34-8d8a-ef84b2f7ee47","creditedTo":"Lusine","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"The Waiting Room","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9aef2010-9cef-4505-bea6-ca39c024e579","byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"creditedTo":"Lusine","@type":"MusicAlbum"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"albumProductionType":"http://schema.org/DJMixAlbum","name":"FACT Mix 84: Lusine","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3fc52e81-f59f-4c71-b4e9-7b4dd1d1eb61","@type":"MusicAlbum","creditedTo":"Lusine"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"albumProductionType":"http://schema.org/LiveAlbum","name":"Coalition 2000","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/914614a3-d569-3228-b17a-288ed96a2612","creditedTo":"Lusine ICL","@type":"MusicAlbum"},{"@type":"MusicAlbum","creditedTo":"Lusine ICL / The Buddy System","byArtist":[{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"]},{"name":"The Buddy System","@id":"https://musicbrainz.org/artist/45d0356b-8c81-4926-963d-35a97bc2ec60","@type":"MusicGroup"}],"albumProductionType":"http://schema.org/StudioAlbum","name":"Lusine ICL / The Buddy System","@id":"https://musicbrainz.org/release-group/e0b47588-ef44-3ccd-8aa7-dc94ed2af459","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","creditedTo":"Lusine feat. Vilja Larjosto","albumProductionType":"http://schema.org/StudioAlbum","name":"Two Dots","@id":"https://musicbrainz.org/release-group/fbf87880-a562-46c7-a36c-d2fb319d4a77","albumReleaseType":"http://schema.org/SingleRelease","byArtist":[{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/feed6dea-5c7a-4280-9958-61b6828d18d1","name":"Vilja Larjosto","@type":["Person","MusicGroup"]}]},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/be03f40e-fb9f-4279-ae25-87b62d08f2da","name":"Another Tomorrow","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"@type":"MusicAlbum","creditedTo":"Lusine"},{"creditedTo":"Lusine","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"@id":"https://musicbrainz.org/release-group/91046f0d-f538-37e0-bfdc-04ab8df0f88a","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/RemixAlbum","name":"Flat Remixes"},{"@type":"MusicAlbum","creditedTo":"Lusine","byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"@id":"https://musicbrainz.org/release-group/db717780-d07a-4a93-ba0c-a6848f9b0c1c","albumReleaseType":"http://schema.org/SingleRelease","name":"Two Dots (Nic Fanciulli remix)","albumProductionType":"http://schema.org/RemixAlbum"},{"creditedTo":"L'usine","@type":"MusicAlbum","name":"Coded EP","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/8ec27567-0a59-3777-af06-0ea9a01c6b64","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Freak","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/294085a8-3a0f-36d7-9e97-b1a8bcf282fb","byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"@type":"MusicAlbum","creditedTo":"Lusine ICL"},{"byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/288801c1-51e4-3805-9732-2e3b92df8756","albumProductionType":"http://schema.org/StudioAlbum","name":"Zealectronic Blue","creditedTo":"Lusine ICL","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/760b053d-1e4c-36b9-b5e1-16869243d785","albumReleaseType":"http://schema.org/EPRelease","name":"Slipthrough","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"@type":"MusicAlbum","creditedTo":"Lusine ICL"},{"name":"Surface EP","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/c27bc76d-eeab-3660-b6a7-1ecb876e8565","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"@type":"MusicAlbum","creditedTo":"L'usine"},{"creditedTo":"Lusine ICL","@type":"MusicAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/982e188b-1b5d-39cb-916e-5fe54e9da579","albumProductionType":"http://schema.org/StudioAlbum","name":"Sustain","byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"}},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Push EP","@id":"https://musicbrainz.org/release-group/fcd3019b-6793-3ad9-9782-2580cb12528d","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"@type":"MusicAlbum","creditedTo":"Lusine"},{"byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"},"name":"Chao EP","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/afea3ddf-99ce-3205-9bb8-2ad915ff32c2","creditedTo":"Lusine ICL","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","name":"Inside/Out EP","@id":"https://musicbrainz.org/release-group/e9889248-bdf7-31ce-9055-fa80d205e856","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine","sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"]},"creditedTo":"Lusine","@type":"MusicAlbum"},{"creditedTo":"Lusine","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/eb257865-42df-3165-a958-1af57dd49a64","albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Emerald EP","byArtist":{"name":"L'usine","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f"}},{"@id":"https://musicbrainz.org/release-group/4ede616d-90b4-42d5-b737-7fd0fc3a67d6","albumReleaseType":"http://schema.org/EPRelease","name":"Twilight EP","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"creditedTo":"Lusine","@type":"MusicAlbum"},{"byArtist":{"@type":["Person","MusicGroup"],"sameAs":"https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","@id":"https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731","name":"L'usine"},"albumProductionType":"http://schema.org/StudioAlbum","name":"Arterial","@id":"https://musicbrainz.org/release-group/b91bee8a-75ed-490d-af30-35cd74d22f41","albumReleaseType":"http://schema.org/EPRelease","creditedTo":"Lusine","@type":"MusicAlbum"}],"alternateName":["Jeff McIlwain"],"@context":"http://schema.org","location":{"@type":"Country","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","name":"United States"},"sameAs":["http://en.wikipedia.org/wiki/Lusine","http://www.lusineweb.com/","http://www.residentadvisor.net/dj/lusine","https://musicbrainz.org/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f","https://musicbrainz.org/artist/2b8dddf3-435c-4b47-bda8-f1da6da52dd6","https://musicbrainz.org/artist/2ceaa36e-c742-4ecd-ac28-7dc80463a7df","https://musicbrainz.org/artist/354aceda-0562-468e-b8fb-3742eff56639","https://musicbrainz.org/artist/39a51614-6eba-4f3f-af43-c5968a804e2b","https://musicbrainz.org/artist/595de349-878d-48b5-8734-3005c62b2a68","https://musicbrainz.org/artist/60c5adf1-f014-4cce-a2f0-aa713e84ce77","https://www.discogs.com/artist/2404","https://www.wikidata.org/wiki/Q1877705"],"@type":["Person","MusicGroup"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F24ee4021-50ac-4285-b76e-860082d0d731">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F24ee4021-50ac-4285-b76e-860082d0d731">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine"><bdi>L'usine</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/releases" title="L'usine"><bdi>Releases</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/recordings" title="L'usine"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/works" title="L'usine"><bdi>Works</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/events" title="L'usine"><bdi>Events</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/relationships" title="L'usine"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/aliases" title="L'usine"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/tags" title="L'usine"><bdi>Tags</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/details" title="L'usine"><bdi>Details</bdi></a></li>            <li><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/edit" title="L'usine"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+<p><strong>Legal name:</strong> <a href="/artist/1435a32d-b2e4-47f0-b28d-f75b85e7717f" title="McIlwain, Jeff"><bdi>Jeff McIlwain</bdi></a></p>
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Lusine</b> (also <b>L'usine</b> and <b>Lusine ICL</b>) is the stage name of <b>Jeff McIlwain</b>, an ambient/IDM musician. Originally a Texas native, McIlwain now resides in Seattle. In 1998, he attended California Institute of the Arts to study 20th century electronic music and sound design for music and film. Soon after, he met Shad Scott and put out a self-titled release with Isophlux.</p>
+<p>According to Andy Kellman of Allmusic,</p>
+<blockquote>
+<p>"While there might be other producers who are more accomplished at making idyllic downtempo, or placid IDM, or abstract hip-hop, or haunting ambient techno, or blipping/skipping minimal house, few—if any—are capable of covering all of that ground with such sharp consistency on one disc."</p>
+</blockquote>
+<p><i>Lusine</i> is Armenian for <i>moon</i>. Lusine is also a common name in Armenia. <i>L'usine</i> is French for <i>the factory</i>.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Lusine">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=254348" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/f9ccd8f9-f887-3258-8139-7714a9c07005"><bdi>L'usine</bdi></a></td>
+        
+        <td><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine"><bdi>L'usine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/e34261b1-5191-3140-899e-46b25f4864df"><bdi>A Pseudo Steady State</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/0d42fb4a-39fd-3193-8a0d-07dd1b126824"><bdi>Iron City</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/8f45d589-6d1a-376b-991c-700ec59118c7"><bdi>Condensed</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/97d8223d-80b5-33ab-952a-2ebce05f9c49"><bdi>Serial Hodgepodge</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/99b0b591-6e12-33ed-8518-241775cf6563"><bdi>Podgelism</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/1ca9e36a-9881-37ff-beeb-ffd7177f726d"><bdi>Language Barrier</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/a8f15cd3-c477-4c70-af40-f697cd54c7ea"><bdi>A Certain Distance</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/33b590bc-2e7c-4d34-8d8a-ef84b2f7ee47"><bdi>Lucky Numbers: The Ghostly International EPs</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/9aef2010-9cef-4505-bea6-ca39c024e579"><bdi>The Waiting Room</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + DJ-mix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/3fc52e81-f59f-4c71-b4e9-7b4dd1d1eb61"><bdi>FACT Mix 84: Lusine</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/914614a3-d569-3228-b17a-288ed96a2612"><bdi>Coalition 2000</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e0b47588-ef44-3ccd-8aa7-dc94ed2af459"><bdi>Lusine ICL / The Buddy System</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span> / <a href="/artist/45d0356b-8c81-4926-963d-35a97bc2ec60" title="Buddy System, The"><bdi>The Buddy System</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/fbf87880-a562-46c7-a36c-d2fb319d4a77"><bdi>Two Dots</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span> feat. <a href="/artist/feed6dea-5c7a-4280-9958-61b6828d18d1" title="Larjosto, Vilja"><bdi>Vilja Larjosto</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/be03f40e-fb9f-4279-ae25-87b62d08f2da"><bdi>Another Tomorrow</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/91046f0d-f538-37e0-bfdc-04ab8df0f88a"><bdi>Flat Remixes</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/db717780-d07a-4a93-ba0c-a6848f9b0c1c"><bdi>Two Dots (Nic Fanciulli remix)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/8ec27567-0a59-3777-af06-0ea9a01c6b64"><bdi>Coded EP</bdi></a></td>
+        
+        <td><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine"><bdi>L'usine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/294085a8-3a0f-36d7-9e97-b1a8bcf282fb"><bdi>Freak</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/288801c1-51e4-3805-9732-2e3b92df8756"><bdi>Zealectronic Blue</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/760b053d-1e4c-36b9-b5e1-16869243d785"><bdi>Slipthrough</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/c27bc76d-eeab-3660-b6a7-1ecb876e8565"><bdi>Surface EP</bdi></a></td>
+        
+        <td><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine"><bdi>L'usine</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/982e188b-1b5d-39cb-916e-5fe54e9da579"><bdi>Sustain</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/fcd3019b-6793-3ad9-9782-2580cb12528d"><bdi>Push EP</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/afea3ddf-99ce-3205-9bb8-2ad915ff32c2"><bdi>Chao EP</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine ICL</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/e9889248-bdf7-31ce-9055-fa80d205e856"><bdi>Inside/Out EP</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/eb257865-42df-3165-a958-1af57dd49a64"><bdi>Emerald EP</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/4ede616d-90b4-42d5-b737-7fd0fc3a67d6"><bdi>Twilight EP</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/b91bee8a-75ed-490d-af30-35cd74d22f41"><bdi>Arterial</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731" title="L'usine – L'usine"><bdi>Lusine</bdi></a></span></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/24ee4021-50ac-4285-b76e-860082d0d731/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/downtempo"><bdi>downtempo</bdi></a>, <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/glitch"><bdi>glitch</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.lusineweb.com/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/2404">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/lusinespace">lusinespace</a>
+          
+          
+        </li>               <li class="residentadvisor-favicon">
+          
+          
+          <a href="http://www.residentadvisor.net/dj/lusine">Resident Advisor</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/lusine.official">lusine.official</a>
+          
+          
+        </li>               <li class="soundcloud-favicon">
+          
+          
+          <a href="https://soundcloud.com/lusine-official">lusine-official</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1877705">Q1877705</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Lusine">en: Lusine</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/24ee4021-50ac-4285-b76e-860082d0d731/relationships" title="L'usine"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F24ee4021-50ac-4285-b76e-860082d0d731">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-04-22 22:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,905 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gang of Four - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1977 in Leeds, Area: United Kingdom"/><script type="application/ld+json">{"foundingDate":"1977","location":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"groupOrigin":{"name":"Leeds","@type":"City","@id":"https://musicbrainz.org/area/116e3eb1-2b14-42c9-91a1-7a2510dcc4b3","containedIn":{"@id":"https://musicbrainz.org/area/400bdd75-a3a0-48e2-a6ae-c4733366aff3","@type":"AdministrativeArea","name":"Leeds","containedIn":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"}}},"album":[{"creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","name":"Gang of Four","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/d0493944-992b-3534-9174-8320c1879837","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Entertainment!"},{"name":"Solid Gold","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8a180426-c263-38ae-bced-c19b9d827b4f","byArtist":{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four"},{"creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"@id":"https://musicbrainz.org/release-group/1d97766f-47c0-3ad9-848a-fdbc4ad2e6b3","name":"Songs of the Free","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/60598475-fa72-3b04-b939-3d74eeee5d26","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"@type":"MusicAlbum","name":"Hard","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/f205dc0b-1232-3e6a-8632-3ebb45f70efa","@type":"MusicAlbum","name":"Mall","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Shrinkwrapped","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"@id":"https://musicbrainz.org/release-group/2dab87c1-1e49-3a5c-88c6-fdaa8a099e11","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four","@type":"MusicAlbum","name":"Return the Gift","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f2ed53f7-140f-376e-8c84-e2a3f64f444b","byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"}},{"name":"Content","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","name":"Gang of Four","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/3dd4791c-44ea-4795-aad4-8c0769af5662","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four","name":"What Happens Next","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"@id":"https://musicbrainz.org/release-group/753f3296-c8ff-426c-88a6-c5d81246d178"},{"creditedTo":"Gang of Four","albumProductionType":"http://schema.org/CompilationAlbum","@id":"https://musicbrainz.org/release-group/4c85734d-e48f-3399-82d4-019e534ff381","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","name":"Gang of Four","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"A Brief History of the Twentieth Century","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Gang of Four","name":"Entertainment! / Yellow EP","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/252e1ba2-96ab-3af6-910d-c474cec1b295","byArtist":{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"}},{"byArtist":{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/79b8dd72-a4de-37d6-97e0-fdb7e25b89d8","@type":"MusicAlbum","name":"Solid Gold / Another Day/Another Dollar","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/dc185d1f-6b07-3129-9c23-c35be0931fa4","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"100 Flowers Bloom","@type":"MusicAlbum","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Hard / Solid Gold","byArtist":{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/21495807-cd13-3419-971b-ce35a8166f99","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Gang of Four"},{"creditedTo":"Gang of Four","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/5cb973fe-2f63-4de2-8059-416efa0d1fbc","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"albumReleaseType":"http://schema.org/AlbumRelease","name":"At the Palace","@type":"MusicAlbum"},{"name":"The Peel Sessions Album","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/6425ad6c-d2af-3b61-9a47-e146fa424976","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Gang of Four"},{"name":"Damaged Goods","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e80c585c-757b-3fa4-b789-e53d02f16f24","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","name":"Gang of Four","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four"},{"byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/1021f5e5-1c9e-40c1-9c16-7b0d7555cf78","name":"At Home He’s a Tourist","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four","albumReleaseType":"http://schema.org/SingleRelease","name":"Outside the Trains Don’t Run on Time","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/b6b5f9e8-1ddf-4b54-ba52-0d1614536b7c","byArtist":{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"}},{"creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/57c69134-e0af-3f74-accc-9431bb6348ec","byArtist":{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"To Hell With Poverty"},{"byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/e6972bbd-4f74-44b3-96e9-719f19e97557","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"What We All Want","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four","@type":"MusicAlbum","name":"Call Me Up","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/66613433-e496-4a2c-a550-92d10b5cb5de"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four","albumReleaseType":"http://schema.org/SingleRelease","name":"I Love a Man in a Uniform","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/cd4cd4e2-102f-44c1-8253-d6571911834a","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","name":"Gang of Four","@type":"MusicGroup"}},{"@type":"MusicAlbum","name":"Lord Make Me a Cowboy / Black Balloons Drop","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/811b96e5-7d9a-4bce-bdd4-d5b73ee622fe","byArtist":[{"name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},{"@type":"MusicGroup","name":"Five or Six","@id":"https://musicbrainz.org/artist/e40ace3a-0fb0-4c50-bb5b-60c447a98f0e"}],"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four / Five or Six"},{"byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/a81cd09f-1118-45bb-817b-60e1d9ef173a","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Is It Love","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/49dae5ec-4cf4-4d89-9462-d1c36772c0e6","albumReleaseType":"http://schema.org/SingleRelease","name":"Money Talks","@type":"MusicAlbum","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/06571d9d-c4fb-349c-80ec-7cdc0908069e","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","name":"Gang of Four","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/SingleRelease","name":"Tattoo","@type":"MusicAlbum","creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Is It Love (live, 1984-05: The Palace, Hollywood, Los Angeles, CA, USA)","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","name":"Gang of Four","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/7f511737-8b4c-4645-a3cb-e11979720839","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Gang of Four"},{"creditedTo":"Gang of Four","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/c8184f8f-1b53-3a93-9d4d-a03383d261bd","@type":"MusicAlbum","name":"Gang of Four","albumReleaseType":"http://schema.org/EPRelease"},{"name":"Another Day/Another Dollar","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/612e17f3-4dcc-34ea-883b-112fc8421527","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four"},{"name":"Free EP","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Gang of Four","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1"},"@id":"https://musicbrainz.org/release-group/456b8498-6246-4e7b-b71a-6bdc25f49b80","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four"},{"name":"Second Life","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/b2517fe8-e196-4e3e-9d4e-787f1a9e1eb8","byArtist":{"@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","@type":"MusicGroup","name":"Gang of Four"},"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Gang of Four"}],"member":[{"@type":"OrganizationRole","roleName":[],"member":{"name":"Sara Lee","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/2ab1734f-72ca-4756-8ad4-f2aeec972168"}},{"roleName":[],"@type":"OrganizationRole","member":{"@id":"https://musicbrainz.org/artist/829dc2aa-99d2-44ad-ad1e-76533b14d512","name":"Dave Allen","@type":["Person","MusicGroup"]}},{"@type":"OrganizationRole","roleName":"drums","member":{"@id":"https://musicbrainz.org/artist/9c965e30-7658-4658-b5f2-08fff1874bd2","@type":["Person","MusicGroup"],"name":"Hugo Burnham"}},{"@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/e2472ddb-f53f-4853-b839-2ed07e2d4064","name":"Jon King","@type":["Person","MusicGroup"]}},{"member":{"@id":"https://musicbrainz.org/artist/eb3f978d-272a-460d-bc3e-a1a82ecb8147","name":"Andy Gill","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":[]}],"@context":"http://schema.org","name":"Gang of Four","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1","sameAs":["http://isni-url.oclc.nl/isni/0000000121705489","http://rateyourmusic.com/artist/gang_of_four","http://www.allmusic.com/artist/mn0000193231","http://www.bbc.co.uk/music/artists/d8661c02-f423-4d72-8044-40ff05daf7a1","http://www.gangoffour.co.uk/","http://www.musik-sammler.de/artist/15792","https://en.wikipedia.org/wiki/Gang_of_Four_(band)","https://www.discogs.com/artist/33929","https://www.wikidata.org/wiki/Q1130624"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd8661c02-f423-4d72-8044-40ff05daf7a1">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fd8661c02-f423-4d72-8044-40ff05daf7a1">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four – Gang of Four"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/releases" title="Gang of Four"><bdi>Releases</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/recordings" title="Gang of Four"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/works" title="Gang of Four"><bdi>Works</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/events" title="Gang of Four"><bdi>Events</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/relationships" title="Gang of Four"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/aliases" title="Gang of Four"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/tags" title="Gang of Four"><bdi>Tags</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/details" title="Gang of Four"><bdi>Details</bdi></a></li>            <li><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/edit" title="Gang of Four"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=10859" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/d0493944-992b-3534-9174-8320c1879837"><bdi>Entertainment!</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/8a180426-c263-38ae-bced-c19b9d827b4f"><bdi>Solid Gold</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/1d97766f-47c0-3ad9-848a-fdbc4ad2e6b3"><bdi>Songs of the Free</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/60598475-fa72-3b04-b939-3d74eeee5d26"><bdi>Hard</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/f205dc0b-1232-3e6a-8632-3ebb45f70efa"><bdi>Mall</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/2dab87c1-1e49-3a5c-88c6-fdaa8a099e11"><bdi>Shrinkwrapped</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/f2ed53f7-140f-376e-8c84-e2a3f64f444b"><bdi>Return the Gift</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/3dd4791c-44ea-4795-aad4-8c0769af5662"><bdi>Content</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/753f3296-c8ff-426c-88a6-c5d81246d178"><bdi>What Happens Next</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/4c85734d-e48f-3399-82d4-019e534ff381"><bdi>A Brief History of the Twentieth Century</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/252e1ba2-96ab-3af6-910d-c474cec1b295"><bdi>Entertainment! / Yellow EP</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/79b8dd72-a4de-37d6-97e0-fdb7e25b89d8"><bdi>Solid Gold / Another Day/Another Dollar</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/dc185d1f-6b07-3129-9c23-c35be0931fa4"><bdi>100 Flowers Bloom</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/21495807-cd13-3419-971b-ce35a8166f99"><bdi>Hard / Solid Gold</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/5cb973fe-2f63-4de2-8059-416efa0d1fbc"><bdi>At the Palace</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/6425ad6c-d2af-3b61-9a47-e146fa424976"><bdi>The Peel Sessions Album</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1978</td>
+        <td><a href="/release-group/e80c585c-757b-3fa4-b789-e53d02f16f24"><bdi>Damaged Goods</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1979</td>
+        <td><a href="/release-group/1021f5e5-1c9e-40c1-9c16-7b0d7555cf78"><bdi>At Home He’s a Tourist</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/b6b5f9e8-1ddf-4b54-ba52-0d1614536b7c"><bdi>Outside the Trains Don’t Run on Time</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/57c69134-e0af-3f74-accc-9431bb6348ec"><bdi>To Hell With Poverty</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/e6972bbd-4f74-44b3-96e9-719f19e97557"><bdi>What We All Want</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/66613433-e496-4a2c-a550-92d10b5cb5de"><bdi>Call Me Up</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/cd4cd4e2-102f-44c1-8253-d6571911834a"><bdi>I Love a Man in a Uniform</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/811b96e5-7d9a-4bce-bdd4-d5b73ee622fe"><bdi>Lord Make Me a Cowboy / Black Balloons Drop</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a> / <a href="/artist/e40ace3a-0fb0-4c50-bb5b-60c447a98f0e" title="Five or Six"><bdi>Five or Six</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/a81cd09f-1118-45bb-817b-60e1d9ef173a"><bdi>Is It Love</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/49dae5ec-4cf4-4d89-9462-d1c36772c0e6"><bdi>Money Talks</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/06571d9d-c4fb-349c-80ec-7cdc0908069e"><bdi>Tattoo</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/7f511737-8b4c-4645-a3cb-e11979720839"><bdi>Is It Love (live, 1984-05: The Palace, Hollywood, Los Angeles, CA, USA)</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/c8184f8f-1b53-3a93-9d4d-a03383d261bd"><bdi>Gang of Four</bdi></a> <span class="comment">(<bdi>&quot;Yellow EP&quot;</bdi>)</span></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/612e17f3-4dcc-34ea-883b-112fc8421527"><bdi>Another Day/Another Dollar</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/456b8498-6246-4e7b-b71a-6bdc25f49b80"><bdi>Free EP</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/b2517fe8-e196-4e3e-9d4e-787f1a9e1eb8"><bdi>Second Life</bdi></a></td>
+        
+        <td><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1" title="Gang of Four"><bdi>Gang of Four</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1977 (39 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/116e3eb1-2b14-42c9-91a1-7a2510dcc4b3"><bdi>Leeds</bdi></a>, <a href="/area/400bdd75-a3a0-48e2-a6ae-c4733366aff3"><bdi>Leeds</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000121705489">0000 0001 2170 5489    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/ratings" title="Gang of Four"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/post-punk"><bdi>post-punk</bdi></a>, <a href="/tag/uk"><bdi>uk</bdi></a>, <a href="/tag/alternative"><bdi>alternative</bdi></a>, <a href="/tag/british"><bdi>british</bdi></a>, <a href="/tag/classic%20pop%20and%20rock"><bdi>classic pop and rock</bdi></a>, <a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/tags" title="Gang of Four"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.gangoffour.co.uk/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000193231">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/d8661c02-f423-4d72-8044-40ff05daf7a1">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/33929">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/gangoffour">gangoffour</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/gang_of_four">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="http://www.musik-sammler.de/artist/15792">Musik-Sammler</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="https://instagram.com/gangoffourofficial/">@gangoffourofficial</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/gangof4official">@gangof4official</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/gangoffourofficial">gangoffourofficial</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1130624">Q1130624</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Gang_of_Four_(band)">en: Gang of Four (band)</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/OfficialGangofFour">OfficialGangofFour</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/d8661c02-f423-4d72-8044-40ff05daf7a1/relationships" title="Gang of Four"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fd8661c02-f423-4d72-8044-40ff05daf7a1">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-02-24 06:02 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,933 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cream - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="British 1960s rock supergroup, Type: Group, Founded: 1966-07 in London, Dissolved: 1968-11, Area: United Kingdom"/><script type="application/ld+json">{"@context":"http://schema.org","@type":"MusicGroup","location":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","sameAs":["http://en.wikipedia.org/wiki/Cream_(band)","http://isni-url.oclc.nl/isni/0000000123245877","http://rateyourmusic.com/artist/cream","http://www.allmusic.com/artist/mn0000112462","http://www.bbc.co.uk/music/artists/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","http://www.last.fm/music/Cream","https://musicbrainz.org/artist/d17350a9-7c30-43de-8707-d98a296c08ba","https://www.discogs.com/artist/229621","https://www.wikidata.org/wiki/Q203736"],"groupOrigin":{"@id":"https://musicbrainz.org/area/f03d09b3-39dc-4083-afd6-159e3f0d462f","name":"London","@type":"City","containedIn":{"containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"@type":"AdministrativeArea","name":"England","@id":"https://musicbrainz.org/area/9d5dd675-3cf4-4296-9e39-67865ebee758"}},"member":[{"endDate":"1968-11","startDate":"1966-07","@type":"OrganizationRole","roleName":[],"member":{"@id":"https://musicbrainz.org/artist/618b6900-0618-4f1e-b835-bccb17f84294","name":"Eric Clapton","@type":["Person","MusicGroup"]}},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/94a24504-3548-4bde-a89b-273d277d194e","name":"Jack Bruce"},"@type":"OrganizationRole","endDate":"1968-11","startDate":"1966-07"},{"roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e01d1aff-9cc2-4606-83d7-56445515c6e6","name":"Ginger Baker"},"@type":"OrganizationRole","startDate":"1966-07","endDate":"1968-11"}],"foundingDate":"1966-07","name":"Cream","album":[{"name":"Fresh Cream","@id":"https://musicbrainz.org/release-group/38d65202-a589-38ad-bf19-6161193340ee","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cream","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"}},{"name":"Disraeli Gears","@id":"https://musicbrainz.org/release-group/bbd66e31-ac27-3432-81a7-0d4b4b4c5de5","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d4cd45f8-9a77-3449-a23c-0167e181fb5e","name":"Wheels of Fire"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ebd3f09d-cb3a-45f7-bab5-5a23eaf95e7e","name":"Wheels of Fire: In the Studio","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"}},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cream","byArtist":{"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream","@type":"MusicGroup"},"name":"Goodbye","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/40c4e2e3-e256-3b59-94b3-778d9ae2c759"},{"name":"Best of Cream","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/862ff167-1596-3fcc-9fd5-0172e6f6ad8c","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"},"name":"Heavy Cream","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ea777997-90ec-4232-8f8a-2fb80460e474"},{"name":"I Feel Free","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6b757802-6486-3ee0-8ab9-51cbe5628c16","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"}},{"@id":"https://musicbrainz.org/release-group/188013e3-12b8-32ee-9510-3c65ec67caea","albumReleaseType":"http://schema.org/AlbumRelease","name":"Strange Brew: The Very Best of Cream","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"},"creditedTo":"Cream","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"creditedTo":"Cream","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8d2c60cb-5223-44f3-b5a0-f50ca9d26394","name":"Cream"},{"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream","@type":"MusicGroup"},"name":"White Room - Best","@id":"https://musicbrainz.org/release-group/cdddb2bc-4303-40de-b500-db7500bbc6a3","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream","@type":"MusicGroup"},"creditedTo":"Cream","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","name":"Creme de la Cream","@id":"https://musicbrainz.org/release-group/109e8045-cfbf-31d4-bd90-d56f70db7d46","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"The Very Best of Cream","@id":"https://musicbrainz.org/release-group/735208de-820b-3689-971d-e00746682b19","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"creditedTo":"Cream","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream","@type":"MusicGroup"},"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/5b46618e-8b7d-36a4-9f92-9daf0a7d5e94","name":"Those Were the Days"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ddee9e57-1ee8-325a-bd0d-32a80b97efcb","name":"20th Century Masters: The Millennium Collection: The Best of Cream","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum"},{"creditedTo":"Cream","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","name":"I Feel Free: Ultimate Cream","@id":"https://musicbrainz.org/release-group/511352b5-ff5c-3d53-827b-8e0b82ac7b71","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Cream Gold","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e7dd2b86-7f21-3856-942c-0aa1630634f2","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream"},{"@id":"https://musicbrainz.org/release-group/2970dc3e-09b8-4674-ba8e-e2ca571a0775","albumReleaseType":"http://schema.org/AlbumRelease","name":"Icon","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"creditedTo":"Cream"},{"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream","@id":"https://musicbrainz.org/release-group/5de2eeb9-275a-4604-b82d-78dae864c65f","albumReleaseType":"http://schema.org/AlbumRelease","name":"Icon 2"},{"@id":"https://musicbrainz.org/release-group/baa7dfde-bde8-3c19-b048-5f8496cff48c","albumReleaseType":"http://schema.org/AlbumRelease","name":"Best Of","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"}},{"creditedTo":"Cream","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","name":"Cream","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/caf1e72b-e5f3-31be-a031-84df5ec47b23"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9955bf52-d6c3-3bc8-9628-8698b99c8516","name":"Fresh Outtakes","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"}},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/96b843c8-c5d9-3312-8f41-9ed06bbb2acd","name":"The Best of Cream","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream","@type":"MusicAlbum","albumProductionType":["http://schema.org/CompilationAlbum","http://schema.org/LiveAlbum"],"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ff5d8c17-f83d-4477-a24f-73f5e0b2848e","name":"Live Cream \u0026 Live Cream, Volume II"},{"name":"Live Cream","@id":"https://musicbrainz.org/release-group/4161f8df-101f-379f-bd66-e7da11041c8a","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"},"creditedTo":"Cream"},{"name":"Live Cream, Volume 2","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/d6075e4f-85f1-3d1a-be32-ec591cbad125","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Cream","byArtist":{"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream","@type":"MusicGroup"}},{"creditedTo":"Cream","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/63684036-41c7-30b6-bba6-fc73630fc919","albumReleaseType":"http://schema.org/AlbumRelease","name":"BBC Sessions"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream","@type":"MusicGroup"},"creditedTo":"Cream","@id":"https://musicbrainz.org/release-group/14f5dfd7-2097-3dc4-8a94-d1ca13697f4d","albumReleaseType":"http://schema.org/AlbumRelease","name":"Royal Albert Hall: London May 2-3-5-6 2005"},{"name":"Their Fully Authorised Story in a 2 Disc Deluxe Set","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/9308462e-ffb8-4aea-8aaf-21f7949e1840","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"creditedTo":"Cream","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"creditedTo":"Cream","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","name":"The First Farewell","@id":"https://musicbrainz.org/release-group/51b542ff-269a-3d3b-ab00-bf53da6a8560","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/fe8d983a-6beb-4057-8958-189126e7afe3","albumReleaseType":"http://schema.org/SingleRelease","name":"Wrapping Paper / Cat's Squirrel"},{"@id":"https://musicbrainz.org/release-group/db0078b2-dc2c-4855-bd3a-474c03bcdd52","albumReleaseType":"http://schema.org/SingleRelease","name":"I Feel Free","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/6c8ef585-7d20-4e35-ae9e-5d78b3c48e08","name":"Anyone for Tennis (The Savage Seven Theme)","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","@type":"MusicGroup"},"creditedTo":"Cream"},{"creditedTo":"Cream","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/c627b90c-5a8f-4a93-9565-57c401ee1376","name":"Badge"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"creditedTo":"Cream","name":"Sunshine of Your Love","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/bad514db-88ca-398b-996b-f31cce289a51"},{"name":"White Room","@id":"https://musicbrainz.org/release-group/0a9489a6-b70a-4f3c-9963-34e1440dbbeb","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"}},{"name":"The Best of Yesteryear","@id":"https://musicbrainz.org/release-group/1c62cc10-b9da-4bf4-943d-412f716c292f","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Cream","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f"},"creditedTo":"Cream","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"Acid - The Lost Cream Tapes","@id":"https://musicbrainz.org/release-group/18e0c0a3-f886-495c-a05e-771d8cfa2e25"},{"@id":"https://musicbrainz.org/release-group/b30b7a08-ad46-44e2-906e-88d020f841f6","name":"Macrocosm","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"}},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"Cream","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream"},"@id":"https://musicbrainz.org/release-group/779ec6fa-10a0-42fa-996d-d55a92709ab6","name":"The Cream Remasters 8 - Back Bay Theatre/Winterland Outtakes"},{"byArtist":{"@id":"https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f","name":"Cream","@type":"MusicGroup"},"creditedTo":"Cream","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/43e7e21a-4419-4aee-a7de-91b27ec7fb1b","name":"Cream Remasters - East Coast"}],"dissolutionDate":"1968-11"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F04cd0cfd-bfd1-4c36-bc38-95c35e2c045f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F04cd0cfd-bfd1-4c36-bc38-95c35e2c045f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f" title="Cream (British 1960s rock supergroup)"><bdi>Cream</bdi></a> <span class="comment">(<bdi>British 1960s rock supergroup</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f" title="Cream – Cream (British 1960s rock supergroup)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/releases" title="Cream (British 1960s rock supergroup)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/recordings" title="Cream (British 1960s rock supergroup)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/works" title="Cream (British 1960s rock supergroup)"><bdi>Works</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/events" title="Cream (British 1960s rock supergroup)"><bdi>Events</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/relationships" title="Cream (British 1960s rock supergroup)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/aliases" title="Cream (British 1960s rock supergroup)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/tags" title="Cream (British 1960s rock supergroup)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/details" title="Cream (British 1960s rock supergroup)"><bdi>Details</bdi></a></li>            <li><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/edit" title="Cream (British 1960s rock supergroup)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1435" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/38d65202-a589-38ad-bf19-6161193340ee"><bdi>Fresh Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:88%;">4.4</span>    </span>
+</span></td><td class="c">14</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1967</td>
+        <td><a href="/release-group/bbd66e31-ac27-3432-81a7-0d4b4b4c5de5"><bdi>Disraeli Gears</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">18</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1968</td>
+        <td><a href="/release-group/d4cd45f8-9a77-3449-a23c-0167e181fb5e"><bdi>Wheels of Fire</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:92%;">4.6</span>    </span>
+</span></td><td class="c">19</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1968</td>
+        <td><a href="/release-group/ebd3f09d-cb3a-45f7-bab5-5a23eaf95e7e"><bdi>Wheels of Fire: In the Studio</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/40c4e2e3-e256-3b59-94b3-778d9ae2c759"><bdi>Goodbye</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/862ff167-1596-3fcc-9fd5-0172e6f6ad8c"><bdi>Best of Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/ea777997-90ec-4232-8f8a-2fb80460e474"><bdi>Heavy Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/6b757802-6486-3ee0-8ab9-51cbe5628c16"><bdi>I Feel Free</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/188013e3-12b8-32ee-9510-3c65ec67caea"><bdi>Strange Brew: The Very Best of Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/8d2c60cb-5223-44f3-b5a0-f50ca9d26394"><bdi>Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/cdddb2bc-4303-40de-b500-db7500bbc6a3"><bdi>White Room - Best</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/109e8045-cfbf-31d4-bd90-d56f70db7d46"><bdi>Creme de la Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/735208de-820b-3689-971d-e00746682b19"><bdi>The Very Best of Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/5b46618e-8b7d-36a4-9f92-9daf0a7d5e94"><bdi>Those Were the Days</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ddee9e57-1ee8-325a-bd0d-32a80b97efcb"><bdi>20th Century Masters: The Millennium Collection: The Best of Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/511352b5-ff5c-3d53-827b-8e0b82ac7b71"><bdi>I Feel Free: Ultimate Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/e7dd2b86-7f21-3856-942c-0aa1630634f2"><bdi>Cream Gold</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/2970dc3e-09b8-4674-ba8e-e2ca571a0775"><bdi>Icon</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/5de2eeb9-275a-4604-b82d-78dae864c65f"><bdi>Icon 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/baa7dfde-bde8-3c19-b048-5f8496cff48c"><bdi>Best Of</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/caf1e72b-e5f3-31be-a031-84df5ec47b23"><bdi>Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/9955bf52-d6c3-3bc8-9628-8698b99c8516"><bdi>Fresh Outtakes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/96b843c8-c5d9-3312-8f41-9ed06bbb2acd"><bdi>The Best of Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/ff5d8c17-f83d-4477-a24f-73f5e0b2848e"><bdi>Live Cream &amp; Live Cream, Volume II</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1970</td>
+        <td><a href="/release-group/4161f8df-101f-379f-bd66-e7da11041c8a"><bdi>Live Cream</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1972</td>
+        <td><a href="/release-group/d6075e4f-85f1-3d1a-be32-ec591cbad125"><bdi>Live Cream, Volume 2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/63684036-41c7-30b6-bba6-fc73630fc919"><bdi>BBC Sessions</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/14f5dfd7-2097-3dc4-8a94-d1ca13697f4d"><bdi>Royal Albert Hall: London May 2-3-5-6 2005</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/9308462e-ffb8-4aea-8aaf-21f7949e1840"><bdi>Their Fully Authorised Story in a 2 Disc Deluxe Set</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/51b542ff-269a-3d3b-ab00-bf53da6a8560"><bdi>The First Farewell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/fe8d983a-6beb-4057-8958-189126e7afe3"><bdi>Wrapping Paper / Cat's Squirrel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1966</td>
+        <td><a href="/release-group/db0078b2-dc2c-4855-bd3a-474c03bcdd52"><bdi>I Feel Free</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1968</td>
+        <td><a href="/release-group/6c8ef585-7d20-4e35-ae9e-5d78b3c48e08"><bdi>Anyone for Tennis (The Savage Seven Theme)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1969</td>
+        <td><a href="/release-group/c627b90c-5a8f-4a93-9565-57c401ee1376"><bdi>Badge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/bad514db-88ca-398b-996b-f31cce289a51"><bdi>Sunshine of Your Love</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/0a9489a6-b70a-4f3c-9963-34e1440dbbeb"><bdi>White Room</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Other + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/1c62cc10-b9da-4bf4-943d-412f716c292f"><bdi>The Best of Yesteryear</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/18e0c0a3-f886-495c-a05e-771d8cfa2e25"><bdi>Acid - The Lost Cream Tapes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/b30b7a08-ad46-44e2-906e-88d020f841f6"><bdi>Macrocosm</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/779ec6fa-10a0-42fa-996d-d55a92709ab6"><bdi>The Cream Remasters 8 - Back Bay Theatre/Winterland Outtakes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/43e7e21a-4419-4aee-a7de-91b27ec7fb1b"><bdi>Cream Remasters - East Coast</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1966-07</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/f03d09b3-39dc-4083-afd6-159e3f0d462f"><bdi>London</bdi></a>, <a href="/area/9d5dd675-3cf4-4296-9e39-67865ebee758"><bdi>England</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>1968-11 (2 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000123245877">0000 0001 2324 5877    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:96%;">4.8</span>    </span>
+</span>    (<a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/ratings" title="Cream (British 1960s rock supergroup)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/blues%20rock"><bdi>blues rock</bdi></a>, <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/psychedelic%20rock"><bdi>psychedelic rock</bdi></a>, <a href="/tag/acid%20rock"><bdi>acid rock</bdi></a>, <a href="/tag/jam%20band"><bdi>jam band</bdi></a>, <a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/tags" title="Cream (British 1960s rock supergroup)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000112462">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/229621">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/Cream">Cream</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="http://rateyourmusic.com/artist/cream">Rateyourmusic</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q203736">Q203736</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Cream_(band)">en: Cream (band)</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f/relationships" title="Cream (British 1960s rock supergroup)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F04cd0cfd-bfd1-4c36-bc38-95c35e2c045f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-12-07 06:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

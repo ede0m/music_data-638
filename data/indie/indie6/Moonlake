@@ -1,0 +1,351 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Moonlake - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content=""/><script type="application/ld+json">{"name":"Moonlake","@id":"https://musicbrainz.org/artist/fb5d0628-6172-411c-b78b-68f51fed8b85","@type":"MusicGroup","@context":"http://schema.org","album":{"@type":"MusicAlbum","creditedTo":"Moonlake","byArtist":{"name":"Moonlake","@id":"https://musicbrainz.org/artist/fb5d0628-6172-411c-b78b-68f51fed8b85","@type":"MusicGroup"},"name":"Oscillating Headcom.","@id":"https://musicbrainz.org/release-group/211c174c-7e68-32e8-8678-ab2858c57e90","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ffb5d0628-6172-411c-b78b-68f51fed8b85">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Ffb5d0628-6172-411c-b78b-68f51fed8b85">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85" title="Moonlake"><bdi>Moonlake</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Artist
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85" title="Moonlake – Moonlake"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/releases" title="Moonlake"><bdi>Releases</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/recordings" title="Moonlake"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/works" title="Moonlake"><bdi>Works</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/events" title="Moonlake"><bdi>Events</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/relationships" title="Moonlake"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/aliases" title="Moonlake"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/tags" title="Moonlake"><bdi>Tags</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/details" title="Moonlake"><bdi>Details</bdi></a></li>            <li><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/edit" title="Moonlake"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+    <h2 class="annotation">Annotation</h2>
+    <div class="annotation">
+        <div class="annotation-body annotation-collapse">
+                <p>Since the end of 2004, the original web-site of Moonlake went off-line. It was symbolic, the 5 musicians did not go on to release their third studio album. This facebook page gives a little round-up of what Moonlake was about, showing pictures, videos (soon to come), biography and discography. We hope that you'll like it.</p>
+<p>The history of Moonlake starts in 1998. Going down the hard way on music business-lane. Moonlake was one of the most particular new bands from Belgium to hit pop music. 'Hippotraffic' was their first studio album, recorded in Amsterdam (The Netherlands) and released by a small independent record company. The band (started as 'Orange-i', but a little later turning into 'Moonlake'), was the first band Sally Forth Records signed. Distributed by Sony Records in The Netherlands, this debut album made the band tour through The Netherlands, Poland, Sweden, Germany and Belgium. At one of those concerts, Moonlake was spotted by SONY-BMG, the biggest major existing. In 2001, Moonlake started recording their remarkable second studio album, called 'Oscillating Headcom.'. This album is all about groping one's way through fluctuating thoughts. Music journalists spoke of "an album featuring twelve new songs, the album is a blend of swinging temper - a compelling collection of original songs arisen <br />
+from the band's gifted musical talent and experience in the underground pop music scene in Europe".</p>
+<p>EUROPE UNDERGROUND<br />
+Moonlake started to gain an established underground status which made them tour throughout The Netherlands, Germany, Poland and Sweden. "There was this three-day-festival in Poland where we were asked to perform the opening-act on the first day. We arrived just on time on the spot and were immediately pushed on stage to do our thing. The crowd went crazy and the manager of this band called Rainforest was so impressed that he convinced the festival organisers to put us back on stage the third day, which we did of course!". "In that period some fans were following us around. No matter where we played in Germany or The Netherlands, these people were there".</p>
+<p>HARSH IDIOM<br />
+Though consisting of a traditional line-up, they never thought of using their talent as such. "From our first day together as a band, we didn't feel like existing as a regular pop band," explains Mon Prez (guitar). "The instrumental line-up with drums, bass and two guitars was immediately wrapped up in exciting floating rifs, one on top of the other, making it really hard for Steven to sing to". But quite rapidly Steven's voice added sensitive poetry, creating tense music. </p>
+<p>Always, the band worked hard to develop as artists, not just as bold musicians. But Moonlake's singular talent - that of entertaining through pop music in an essentially harsh idiom - defied easy classification and baffled many professionals. "I remember one of our first gigs, when we were at the take-off of our own musical style. The venue was packed with people dabbling in our soundscape. No one could believe we were a Belgian band. Our music just didn't fit in the local scene, which made us decide to go out on tour, outside our own country," says Steven.</p>
+<p>OSCILLATING HEADCOM.<br />
+When SONY-BMG spotted us, they were really interested in helping us out on new recordings after they got hold of our pre-production tapes. One phone call was enough to get the collaboration started. The idea for Oscillating Headcom was born". At that time, Moonlake had some 25 songs ready for their second album. They started to look for a producer and went to London, where they got in touch with several producers. "We decided we wanted Zed, because he understands the most what our music is about. His resume contains several successful albums, like 'Isola' and 'Hagnesta Hill' from Kent and 'Vapor Trails' from Autopulver. We finally met in Brussels to arrange recording dates". "Recording Oscillating Headcom., was actually really hard work. We had very strong ideas on where we wanted to go with this record," Steven continues, "and that meant that all of us had to pull out the very best of our own approach". </p>
+<p>The idea behind the title came directly from the songs and the lyrics. It refers to the feeling we all recognise as doubt. "It's like being tackled by your in-head communication. A struggle between yes and no, a struggle between good and evil. It embraces the thoughts making your decisions dodgy, yet thriving".</p>
+<p>ON TOUR (NOT JUST YET)<br />
+The music business is such a small world, that by the time we were still in London (UK) to finish the mastering of the album in Metropolis studios, <br />
+a lot of people started asking us when and where they could see us live. But that's when the major label turned out not to be faithful. The new management decided to drop the complete sub-label, forcing Moonlake (and many other bands) to leave. Moonlake switched to the independent Deadline Music with Zomba distribution. Eventually in 2003, the album was released. The first single 'Feedback nr. 1' was immediately a radio hit in Belgium. Followed by 2 other superb singles, the album brought Moonlake for the first time in their own country, to the main stage of several festivals.</p>
+<p>After playing live for almost one year, Moonlake started recordings for their third album ('Grand Hotel Krasnapolski') early 2004. But after a while, recordings paused, because they really needed a break. Eventually, the recordings were never resumed and thus the album was never released. </p>
+<p>Earnest Wailing. © 2008.</p>
+
+        </div>
+
+        <div class="annotation-details">
+            
+                Annotation last modified on 2011-08-19 16:22 UTC.
+            
+        </div>
+    </div>
+    
+  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=154859" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/211c174c-7e68-32e8-8678-ab2858c57e90"><bdi>Oscillating Headcom.</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/fb5d0628-6172-411c-b78b-68f51fed8b85?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/fb5d0628-6172-411c-b78b-68f51fed8b85?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/indie"><bdi>indie</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/pages/Moonlake/30845914399">Moonlake</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/fb5d0628-6172-411c-b78b-68f51fed8b85/relationships" title="Moonlake"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Ffb5d0628-6172-411c-b78b-68f51fed8b85">Log in to edit</a></li></ul>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

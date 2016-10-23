@@ -1,0 +1,829 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Andrew Manze - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1965-01-14 in England, Area: United Kingdom"/><script type="application/ld+json">{"location":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"birthDate":"1965-01-14","sameAs":["http://isni-url.oclc.nl/isni/0000000116245051","http://viaf.org/viaf/39361206","https://en.wikipedia.org/wiki/Andrew_Manze","https://www.discogs.com/artist/837036","https://www.wikidata.org/wiki/Q506167"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze","@context":"http://schema.org","birthPlace":{"containedIn":{"@type":"Country","name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"},"@id":"https://musicbrainz.org/area/9d5dd675-3cf4-4296-9e39-67865ebee758","@type":"AdministrativeArea","name":"England"},"album":[{"creditedTo":"Antonio Vivaldi; Amsterdam Baroque Orchestra, Andrew Manze, Ton Koopman","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/8ab6abe1-9272-4915-b3c3-97498f072d4a","byArtist":[{"@type":["Person","MusicGroup"],"name":"Antonio Vivaldi","@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@id":"https://musicbrainz.org/artist/fed3aea9-0069-4970-9344-522066f0b0c1","name":"Amsterdam Baroque Orchestra","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"@id":"https://musicbrainz.org/artist/448da1b1-43a3-4239-b2c1-f7e46463439e","name":"Ton Koopman","@type":["Person","MusicGroup"]}],"@type":"MusicAlbum","name":"Le Quattro Stagioni (The Four Seasons)","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Johann Sebastian Bach; Academy of Ancient Music, Andrew Manze, Rachel Podger","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"name":"Johann Sebastian Bach","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0","name":"Academy of Ancient Music","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"},{"@id":"https://musicbrainz.org/artist/a11b6112-9a07-4fc9-b0a6-a7487275bb2b","@type":["Person","MusicGroup"],"name":"Rachel Podger"}],"@id":"https://musicbrainz.org/release-group/481272f4-a733-35f8-a5a0-dd0f3da28c2d","albumReleaseType":"http://schema.org/AlbumRelease","name":"Solo \u0026 Double Violin Concertos","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Handel; Academy of Ancient Music, Andrew Manze","name":"Concerti Grossi, op. 6","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc","@type":["Person","MusicGroup"],"name":"George Frideric Handel"},{"name":"Academy of Ancient Music","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/68937ded-b8a1-4179-8326-6805b63b5aab"},{"albumReleaseType":"http://schema.org/AlbumRelease","name":"Concert for the Prince of Poland","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/2932495f-2451-3225-8fd6-df0ef13ab6a4","byArtist":[{"@type":["Person","MusicGroup"],"name":"Antonio Vivaldi","@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"@type":"MusicGroup","name":"Academy of Ancient Music","@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]}],"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Vivaldi; The Academy of Ancient Music, Andrew Manze"},{"@id":"https://musicbrainz.org/release-group/47e375f4-e5ee-39dd-b341-55179de3d09a","byArtist":[{"name":"Giuseppe Tartini","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/90c8118e-b5cc-4df8-80d3-8079879c9cef"},{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"}],"name":"The Devil’s Sonata and Other Works","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Giuseppe Tartini; Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"JS Bach; Andrew Manze, Richard Egarr, Jaap ter Linden","albumReleaseType":"http://schema.org/AlbumRelease","name":"BBC Music, Volume 8, Number 5: Four Violin Sonatas, Toccata and Fugue, BWV 565","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach"},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","@type":["Person","MusicGroup"],"name":"Richard Egarr"},{"@type":["Person","MusicGroup"],"name":"Jaap ter Linden","@id":"https://musicbrainz.org/artist/37a1af14-ee52-48ca-bdbb-71214a102873"}],"@id":"https://musicbrainz.org/release-group/00d84d83-6868-3d83-ad29-74a4b3e023d8"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Albinoni; Andrew Manze, Frank de Bruine, Alfredo Bernardini, The Academy of Ancient Music, Christopher Hogwood","albumReleaseType":"http://schema.org/AlbumRelease","name":"12 Concertos, op. 9","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/8712d0de-9090-3ca3-81df-7eb63a2e50e0","byArtist":[{"@id":"https://musicbrainz.org/artist/83903121-f611-4875-984c-673ae7173e56","@type":["Person","MusicGroup"],"name":"Tomaso Giovanni Albinoni"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/1fbb1d0e-6512-44a8-8b18-8dc98e1220e2","@type":["Person","MusicGroup"],"name":"Frank de Bruine"},{"@id":"https://musicbrainz.org/artist/b2d66616-7613-45b5-b595-5e5007e60c88","@type":["Person","MusicGroup"],"name":"Alfredo Bernardini"},{"@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0","name":"Academy of Ancient Music","@type":"MusicGroup"},{"@type":["Person","MusicGroup"],"name":"Christopher Hogwood","@id":"https://musicbrainz.org/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97"}]},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach","@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c"},{"@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0","@type":"MusicGroup","name":"Academy of Ancient Music"},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","@type":["Person","MusicGroup"],"name":"Richard Egarr"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"}],"@id":"https://musicbrainz.org/release-group/79378569-cbf7-41d0-90ca-be683c3fe540","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Harpsichord Concertos / Triple Concerto BWV 1044","creditedTo":"Bach; Academy of Ancient Music, Richard Egarr, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Violin Sonatas","@id":"https://musicbrainz.org/release-group/f689d30d-9970-302a-8802-fada00dbd1c4","byArtist":[{"@id":"https://musicbrainz.org/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c","@type":["Person","MusicGroup"],"name":"Johann Sebastian Bach"},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","@type":["Person","MusicGroup"],"name":"Richard Egarr"},{"@id":"https://musicbrainz.org/artist/37a1af14-ee52-48ca-bdbb-71214a102873","@type":["Person","MusicGroup"],"name":"Jaap ter Linden"}],"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Johann Sebastian Bach; Andrew Manze, Richard Egarr, Jaap ter Linden"},{"@id":"https://musicbrainz.org/release-group/ad0ea4f0-da79-498a-89fd-7de4a3d82565","byArtist":[{"name":"Antonio Vivaldi","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"name":"Academy of Ancient Music","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0"},{"@id":"https://musicbrainz.org/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97","name":"Christopher Hogwood","@type":["Person","MusicGroup"]},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Violin Concertos op. 6 / \"The Cuckoo\"","@type":"MusicAlbum","creditedTo":"Antonio Vivaldi; The Academy of Ancient Music, Christopher Hogwood, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Handel; Andrew Manze, Richard Egarr","@type":"MusicAlbum","name":"Complete Violin Sonatas","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f533bcfa-408f-39d8-b78d-5305f34657c2","byArtist":[{"@type":["Person","MusicGroup"],"name":"George Frideric Handel","@id":"https://musicbrainz.org/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc"},{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"@type":["Person","MusicGroup"],"name":"Richard Egarr","@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4"}]},{"@type":"MusicAlbum","name":"Violin Sonatas, op. 5","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/770963e7-4bd2-3c17-ace0-8bfc4c95780b","byArtist":[{"@id":"https://musicbrainz.org/artist/a3546087-fe59-47d3-a3a8-42d58e2573c7","name":"Arcangelo Corelli","@type":["Person","MusicGroup"]},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","@type":["Person","MusicGroup"],"name":"Richard Egarr"}],"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Corelli; Andrew Manze, Richard Egarr"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Wolfgang Amadeus Mozart; Andrew Manze, The English Concert","name":"BBC Music, Volume 12, Number 1: Eine Kleine Nachtmusik","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/e709bdd6-f396-49cf-b829-689f00e6aace","byArtist":[{"@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75","name":"Wolfgang Amadeus Mozart","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c","@type":"MusicGroup","name":"The English Concert"}]},{"creditedTo":"Wolfgang Amadeus Mozart; The English Concert, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75","name":"Wolfgang Amadeus Mozart","@type":["Person","MusicGroup"]},{"name":"The English Concert","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c"},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"}],"@id":"https://musicbrainz.org/release-group/bd15cf96-91e3-44f9-9018-35e430ff0826","name":"Night Music","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/e49cda1e-f565-4e62-a841-f3872e4558fa","byArtist":[{"@type":["Person","MusicGroup"],"name":"Antonio Vivaldi","@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c"},{"name":"Romanesca","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/595c78c7-7505-40cd-a205-c57611e3b8b5"},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"name":"Nigel North","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/39cd4e82-eca2-446a-a4a1-02a9ca4ceea5"},{"@id":"https://musicbrainz.org/artist/a51f20ca-6f51-49b3-a33c-71a7843b9c44","@type":["Person","MusicGroup"],"name":"John Toll"}],"@type":"MusicAlbum","name":"\"Manchester\" Sonatas","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Vivaldi; Romanesca, Andrew Manze, Nigel North, John Toll","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/cb07edf5-ac2e-3693-919b-e20ebe713f38","byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","@type":["Person","MusicGroup"],"name":"Antonio Vivaldi"},{"name":"The English Concert","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]}],"albumReleaseType":"http://schema.org/AlbumRelease","name":"Concertos for the Emperor","@type":"MusicAlbum","creditedTo":"Antonio Vivaldi; The English Concert, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Rosary Sonatas","byArtist":[{"@id":"https://musicbrainz.org/artist/66197dbc-c16b-4c95-9e1b-cc617783cb8c","@type":["Person","MusicGroup"],"name":"Heinrich Ignaz Franz Biber von Bibern"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]},{"name":"Richard Egarr","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4"}],"@id":"https://musicbrainz.org/release-group/99d574cb-18b5-3b7c-b5f7-824f57b9cbc5","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Biber; Andrew Manze, Richard Egarr"},{"@id":"https://musicbrainz.org/release-group/1b47372f-d05d-37d8-8d13-8c58007dfc2d","byArtist":[{"@type":["Person","MusicGroup"],"name":"Heinrich Ignaz Franz Biber von Bibern","@id":"https://musicbrainz.org/artist/66197dbc-c16b-4c95-9e1b-cc617783cb8c"},{"@type":"MusicGroup","name":"The English Concert","@id":"https://musicbrainz.org/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]}],"name":"Missa Christi resurgentis","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","creditedTo":"Biber; The English Concert, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Mozart; Andrew Manze, Richard Egarr","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75","@type":["Person","MusicGroup"],"name":"Wolfgang Amadeus Mozart"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","@type":["Person","MusicGroup"],"name":"Richard Egarr"}],"@id":"https://musicbrainz.org/release-group/dcef0764-e0fe-4fa0-ad58-a1b7923e7041","albumReleaseType":"http://schema.org/AlbumRelease","name":"Violin Sonatas, 1781","@type":"MusicAlbum"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75","name":"Wolfgang Amadeus Mozart","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","@type":["Person","MusicGroup"],"name":"Richard Egarr"}],"@id":"https://musicbrainz.org/release-group/35fd0599-af32-4b68-ac97-3d12c8f8a235","@type":"MusicAlbum","name":"Violin Sonatas, 1781","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Wolfgang Amadeus Mozart; Andrew Manze, Richard Egarr","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Mozart; The English Concert, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Wolfgang Amadeus Mozart","@id":"https://musicbrainz.org/artist/b972f589-fb0e-474e-b64a-803b0364fa75"},{"@id":"https://musicbrainz.org/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c","name":"The English Concert","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/03eb886f-9061-4900-b7cb-1a46ee569d5f","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"3 Violin Concertos"},{"name":"Symphonies 1 - 4 / Cello Concerto in A major","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/d9ae3ce7-5613-36cf-adc4-3caefd92ede6","byArtist":[{"@type":["Person","MusicGroup"],"name":"Carl Philipp Emanuel Bach","@id":"https://musicbrainz.org/artist/f6486fc7-90ef-48ad-8ca3-905af1354afe"},{"name":"The English Concert","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c"},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"name":"Alison McGillivray","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ecb55ea8-429d-43ed-82cd-f2fe839d883b"}],"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"C.P.E. Bach; The English Concert, Andrew Manze, Alison McGillivray"},{"@type":"MusicAlbum","name":"Sonatas for Violin \u0026 Piano","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":[{"name":"Franz Schubert","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/f91e3a88-24ee-4563-8963-fab73d2765ed"},{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","name":"Richard Egarr","@type":["Person","MusicGroup"]}],"@id":"https://musicbrainz.org/release-group/af5dfbb4-7c63-3b63-adbe-7ecf0f2ecc69","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Schubert; Andrew Manze, Richard Egarr"},{"byArtist":[{"@type":["Person","MusicGroup"],"name":"Francesco Geminiani","@id":"https://musicbrainz.org/artist/8cb0e5cc-fdad-4836-8214-1a84566f75fc"},{"@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0","@type":"MusicGroup","name":"Academy of Ancient Music"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"}],"@id":"https://musicbrainz.org/release-group/7acd3269-01eb-3e44-81bc-8476d0eeafc0","albumReleaseType":"http://schema.org/AlbumRelease","name":"Concerti Grossi (after Corelli, op. 5)","@type":"MusicAlbum","creditedTo":"Geminiani; The Academy of Ancient Music, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Geminiani; The Academy of Ancient Music, Andrew Manze","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Concerti Grossi VII-XII (after Corelli, op. 5)","@id":"https://musicbrainz.org/release-group/a8187c13-919b-4467-a23c-9583bb60e70e","byArtist":[{"@id":"https://musicbrainz.org/artist/8cb0e5cc-fdad-4836-8214-1a84566f75fc","name":"Francesco Geminiani","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"Academy of Ancient Music","@id":"https://musicbrainz.org/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"}]},{"byArtist":[{"@id":"https://musicbrainz.org/artist/46b1d2da-98a4-4ee2-9f21-17a9ca202cd1","name":"Wilhelm Stenhammar","@type":["Person","MusicGroup"]},{"name":"Helsingborgs Symfoniorkester","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/64aa0c8f-998d-4c27-9710-536794454a6b"},{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},{"name":"Seta Tanyel","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/ef4a6236-381d-4945-96e0-14b6f5679976"}],"@id":"https://musicbrainz.org/release-group/f71ecded-2abb-4eff-9cc3-01685f7f1551","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Romantic Piano Concerto, Volume 49: Concerto no. 1, op. 1 / Concerto no. 2, op. 23","@type":"MusicAlbum","creditedTo":"Wilhelm Stenhammar; Helsingborg Symphony Orchestra, Andrew Manze, Seta Tanyel","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Johan Helmich Roman; Helsingborgs Symfoniorkester, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/993802a2-64e3-46be-99d1-3a8e566d3124","name":"Johan Helmich Roman","@type":["Person","MusicGroup"]},{"name":"Helsingborgs Symfoniorkester","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/64aa0c8f-998d-4c27-9710-536794454a6b"},{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"}],"@id":"https://musicbrainz.org/release-group/4c69a5ae-6134-428c-bc6d-9bb56a3b4eda","@type":"MusicAlbum","name":"Drottningholmsmusiken: Music for a Royal Wedding","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"The Romantic Cello Concerto, Volume 3: The Complete Works for Cello and Orchestra","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/ce0b4047-834e-4554-9bb6-e334f26fb30c","@type":["Person","MusicGroup"],"name":"Sir Charles Villiers Stanford"},{"@type":"MusicGroup","name":"BBC Scottish Symphony Orchestra","@id":"https://musicbrainz.org/artist/7edb9f26-0068-4319-8fee-ab70ec2ee37b"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"},{"@type":["Person","MusicGroup"],"name":"Gemma Rosefield","@id":"https://musicbrainz.org/artist/b985f87a-146e-4ee8-989d-02a50883f9e1"}],"@id":"https://musicbrainz.org/release-group/7abb4479-7bce-4687-8842-5946affa915f","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Sir Charles Villiers Stanford; BBC Scottish Symphony Orchestra, Andrew Manze, Gemma Rosefield"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Adolf Wiklund; Helsingborg Symphony Orchestra, Andrew Manze, Martin Sturfält","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Romantic Piano Concerto, Volume 57: Piano Concerto no. 1, op. 10 / Piano Concerto no. 2, op. 17 / Konsertstycke, op. 1","byArtist":[{"name":"Adolf Wiklund","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/a275be89-7bd2-418a-8a85-2f48b6e1a1b7"},{"name":"Helsingborgs Symfoniorkester","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/64aa0c8f-998d-4c27-9710-536794454a6b"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"},{"@type":["Person","MusicGroup"],"name":"Martin Sturfält","@id":"https://musicbrainz.org/artist/da351408-74d3-4cae-bd94-4ffa99628069"}],"@id":"https://musicbrainz.org/release-group/f5cf00b7-c570-455f-9e48-8c0a859e6de7"},{"byArtist":[{"@id":"https://musicbrainz.org/artist/d1591eff-428d-44ed-b7f0-f9936f1ab656","@type":["Person","MusicGroup"],"name":"Théodore Dubois"},{"@id":"https://musicbrainz.org/artist/7edb9f26-0068-4319-8fee-ab70ec2ee37b","name":"BBC Scottish Symphony Orchestra","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"},{"@type":["Person","MusicGroup"],"name":"Cédric Tiberghien","@id":"https://musicbrainz.org/artist/004cf556-547f-4d56-ae8c-7ed6a27a6c41"}],"@id":"https://musicbrainz.org/release-group/88244537-00ea-4acb-8358-3cd86db30aff","@type":"MusicAlbum","name":"The Romantic Piano Concerto, Volume 60: Concerto-capriccioso / Concerto no. 2 / Suite for Piano \u0026 String Orchestra","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"Théodore Dubois; BBC Scottish Symphony Orchestra, Andrew Manze, Cédric Tiberghien","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Duda, Williams, Szentpáli; Andreas Martin Hofmeir, Münchner Philharmoniker, Andrew Manze","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/81115f41-985d-4f9b-9758-65935e3a0169","byArtist":[{"name":"Jörg Duda","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/9295795b-9e5e-4ff7-bc8f-7812c0575f87"},{"@id":"https://musicbrainz.org/artist/53b106e7-0cc6-42cc-ac95-ed8d30a3a98e","name":"John Williams","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/a07f79c7-3e1c-425c-8004-71f3ee9f218e","@type":["Person","MusicGroup"],"name":"Roland Szentpáli"},{"@type":["Person","MusicGroup"],"name":"Andreas Martin Hofmeir","@id":"https://musicbrainz.org/artist/b324ef94-ce7f-4e03-83f8-29775c2a5fb4"},{"@id":"https://musicbrainz.org/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477","@type":"MusicGroup","name":"Münchner Philharmoniker"},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"}],"@type":"MusicAlbum","name":"On the Way: Works for Tuba by Duda, Williams, Szentpali","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Saint‐Saëns; Natalie Clein, BBC Scottish Symphony Orchestra, Andrew Manze","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Romantic Cello Concerto, Volume 5","@type":"MusicAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Camille Saint‐Saëns","@id":"https://musicbrainz.org/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8"},{"@type":["Person","MusicGroup"],"name":"Natalie Clein","@id":"https://musicbrainz.org/artist/889850b7-7b67-41d3-a1ea-4616af15b934"},{"name":"BBC Scottish Symphony Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7edb9f26-0068-4319-8fee-ab70ec2ee37b"},{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"}],"@id":"https://musicbrainz.org/release-group/0678ce85-e664-42c4-a342-99d7013402d1"},{"creditedTo":"Ralph Vaughan Williams; Andrew Manze, Royal Liverpool Philharmonic Orchestra","albumProductionType":"http://schema.org/StudioAlbum","byArtist":[{"@type":["Person","MusicGroup"],"name":"Ralph Vaughan Williams","@id":"https://musicbrainz.org/artist/4f3b96ed-f1f1-4a68-be73-0e0657837096"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"},{"name":"Royal Liverpool Philharmonic Orchestra","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/887b4dfd-269c-46a8-a42d-32560b417760"}],"@id":"https://musicbrainz.org/release-group/7b306938-1fce-463c-bcde-2392120b1458","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"A London Symphony; Symphony No. 8"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Giovanni Antonio Pandolfi Mealli; Andrew Manze, Richard Egarr","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Complete Violin Sonatas","@id":"https://musicbrainz.org/release-group/a062ff1a-bf28-3c7b-9270-723302ef9c68","byArtist":[{"@id":"https://musicbrainz.org/artist/b753095f-f99d-46a3-b577-a5d332142cb9","@type":["Person","MusicGroup"],"name":"Giovanni Antonio Pandolfi Mealli"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","name":"Andrew Manze","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4","@type":["Person","MusicGroup"],"name":"Richard Egarr"}]},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Georg Philipp Telemann; La Stravaganza Köln, Andrew Manze","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Concerti per molti instrumenti","byArtist":[{"@id":"https://musicbrainz.org/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3","name":"Georg Philipp Telemann","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/4ae98c9b-3e70-4266-86a2-fbb9a09e3eb9","@type":"MusicGroup","name":"La Stravaganza Köln"},{"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea","@type":["Person","MusicGroup"],"name":"Andrew Manze"}],"@id":"https://musicbrainz.org/release-group/5116924e-262f-499a-a89e-e11b4ce463d8"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Andrew Manze","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Portrait","byArtist":{"@type":["Person","MusicGroup"],"name":"Andrew Manze","@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"},"@id":"https://musicbrainz.org/release-group/2383d0a3-8c9b-499c-b613-341f8c834ea6"},{"name":"Four Seasons / La Stravaganza","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/50b0d879-fe68-47a0-ad58-8972dc81852e","byArtist":[{"@id":"https://musicbrainz.org/artist/ad79836d-9849-44df-8789-180bbc823f3c","name":"Antonio Vivaldi","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/64c537f4-fea4-477f-b360-ce81552f7ad6","@type":"MusicGroup","name":"Taverner Players"},{"@id":"https://musicbrainz.org/artist/22220b44-8346-4931-88ea-3360a540db2e","name":"Andrew Parrott","@type":["Person","MusicGroup"]},{"@type":"MusicGroup","name":"La Stravaganza Köln","@id":"https://musicbrainz.org/artist/4ae98c9b-3e70-4266-86a2-fbb9a09e3eb9"},{"name":"Andrew Manze","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea"}],"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Vivaldi; Taverner Players, Andrew Parrott, La Stravaganza Köln, Andrew Manze"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5003e23c-52eb-4924-929f-6c4c67347fea">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F5003e23c-52eb-4924-929f-6c4c67347fea">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Andrew Manze – Manze, Andrew"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/releases" title="Manze, Andrew"><bdi>Releases</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/recordings" title="Manze, Andrew"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/works" title="Manze, Andrew"><bdi>Works</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/events" title="Manze, Andrew"><bdi>Events</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/relationships" title="Manze, Andrew"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/aliases" title="Manze, Andrew"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/tags" title="Manze, Andrew"><bdi>Tags</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/details" title="Manze, Andrew"><bdi>Details</bdi></a></li>            <li><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/edit" title="Manze, Andrew"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=348033" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/8ab6abe1-9272-4915-b3c3-97498f072d4a"><bdi>Le Quattro Stagioni (The Four Seasons)</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/fed3aea9-0069-4970-9344-522066f0b0c1" title="Amsterdam Baroque Orchestra"><bdi>Amsterdam Baroque Orchestra</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/448da1b1-43a3-4239-b2c1-f7e46463439e" title="Koopman, Ton"><bdi>Ton Koopman</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1997</td>
+        <td><a href="/release-group/481272f4-a733-35f8-a5a0-dd0f3da28c2d"><bdi>Solo &amp; Double Violin Concertos</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music"><bdi>Academy of Ancient Music</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/a11b6112-9a07-4fc9-b0a6-a7487275bb2b" title="Podger, Rachel"><bdi>Rachel Podger</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/68937ded-b8a1-4179-8326-6805b63b5aab"><bdi>Concerti Grossi, op. 6</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc" title="George Frideric Handel – Handel, George Frideric (German‐British baroque composer)"><bdi>Handel</bdi></a></span>; <a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music"><bdi>Academy of Ancient Music</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/2932495f-2451-3225-8fd6-df0ef13ab6a4"><bdi>Concert for the Prince of Poland</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>; <span class="name-variation"><a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music – Academy of Ancient Music"><bdi>The Academy of Ancient Music</bdi></a></span>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1998</td>
+        <td><a href="/release-group/47e375f4-e5ee-39dd-b341-55179de3d09a"><bdi>The Devil’s Sonata and Other Works</bdi></a></td>
+        
+        <td><a href="/artist/90c8118e-b5cc-4df8-80d3-8079879c9cef" title="Tartini, Giuseppe"><bdi>Giuseppe Tartini</bdi></a>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/00d84d83-6868-3d83-ad29-74a4b3e023d8"><bdi>BBC Music, Volume 8, Number 5: Four Violin Sonatas, Toccata and Fugue, BWV 565</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>JS Bach</bdi></a></span>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a>, <a href="/artist/37a1af14-ee52-48ca-bdbb-71214a102873" title="Linden, ter, Jaap"><bdi>Jaap ter Linden</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/8712d0de-9090-3ca3-81df-7eb63a2e50e0"><bdi>12 Concertos, op. 9</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/83903121-f611-4875-984c-673ae7173e56" title="Tomaso Giovanni Albinoni – Albinoni, Tomaso Giovanni"><bdi>Albinoni</bdi></a></span>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/1fbb1d0e-6512-44a8-8b18-8dc98e1220e2" title="Bruine, de, Frank"><bdi>Frank de Bruine</bdi></a>, <a href="/artist/b2d66616-7613-45b5-b595-5e5007e60c88" title="Bernardini, Alfredo"><bdi>Alfredo Bernardini</bdi></a>, <span class="name-variation"><a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music – Academy of Ancient Music"><bdi>The Academy of Ancient Music</bdi></a></span>, <a href="/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97" title="Hogwood, Christopher"><bdi>Christopher Hogwood</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/79378569-cbf7-41d0-90ca-be683c3fe540"><bdi>Harpsichord Concertos / Triple Concerto BWV 1044</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Johann Sebastian Bach – Bach, Johann Sebastian"><bdi>Bach</bdi></a></span>; <a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music"><bdi>Academy of Ancient Music</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/f689d30d-9970-302a-8802-fada00dbd1c4"><bdi>Violin Sonatas</bdi></a></td>
+        
+        <td><a href="/artist/24f1766e-9635-4d58-a4d4-9413f9f98a4c" title="Bach, Johann Sebastian"><bdi>Johann Sebastian Bach</bdi></a>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a>, <a href="/artist/37a1af14-ee52-48ca-bdbb-71214a102873" title="Linden, ter, Jaap"><bdi>Jaap ter Linden</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/ad0ea4f0-da79-498a-89fd-7de4a3d82565"><bdi>Violin Concertos op. 6 / &quot;The Cuckoo&quot;</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <span class="name-variation"><a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music – Academy of Ancient Music"><bdi>The Academy of Ancient Music</bdi></a></span>, <a href="/artist/00db6f13-4ec4-4ff9-ab10-07340b511e97" title="Hogwood, Christopher"><bdi>Christopher Hogwood</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/f533bcfa-408f-39d8-b78d-5305f34657c2"><bdi>Complete Violin Sonatas</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/27870d47-bb98-42d1-bf2b-c7e972e6befc" title="George Frideric Handel – Handel, George Frideric (German‐British baroque composer)"><bdi>Handel</bdi></a></span>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/770963e7-4bd2-3c17-ace0-8bfc4c95780b"><bdi>Violin Sonatas, op. 5</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/a3546087-fe59-47d3-a3a8-42d58e2573c7" title="Arcangelo Corelli – Corelli, Arcangelo"><bdi>Corelli</bdi></a></span>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/e709bdd6-f396-49cf-b829-689f00e6aace"><bdi>BBC Music, Volume 12, Number 1: Eine Kleine Nachtmusik</bdi></a></td>
+        
+        <td><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Mozart, Wolfgang Amadeus (classical composer)"><bdi>Wolfgang Amadeus Mozart</bdi></a>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c" title="English Concert, The"><bdi>The English Concert</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/bd15cf96-91e3-44f9-9018-35e430ff0826"><bdi>Night Music</bdi></a></td>
+        
+        <td><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Mozart, Wolfgang Amadeus (classical composer)"><bdi>Wolfgang Amadeus Mozart</bdi></a>; <a href="/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c" title="English Concert, The"><bdi>The English Concert</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/e49cda1e-f565-4e62-a841-f3872e4558fa"><bdi>&quot;Manchester&quot; Sonatas</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>; <a href="/artist/595c78c7-7505-40cd-a205-c57611e3b8b5" title="Romanesca (ensemble)"><bdi>Romanesca</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/39cd4e82-eca2-446a-a4a1-02a9ca4ceea5" title="North, Nigel"><bdi>Nigel North</bdi></a>, <a href="/artist/a51f20ca-6f51-49b3-a33c-71a7843b9c44" title="Toll, John"><bdi>John Toll</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/cb07edf5-ac2e-3693-919b-e20ebe713f38"><bdi>Concertos for the Emperor</bdi></a></td>
+        
+        <td><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Vivaldi, Antonio"><bdi>Antonio Vivaldi</bdi></a>; <a href="/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c" title="English Concert, The"><bdi>The English Concert</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/99d574cb-18b5-3b7c-b5f7-824f57b9cbc5"><bdi>The Rosary Sonatas</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/66197dbc-c16b-4c95-9e1b-cc617783cb8c" title="Heinrich Ignaz Franz Biber von Bibern – Bibern, Heinrich Ignaz Franz Biber von"><bdi>Biber</bdi></a></span>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/1b47372f-d05d-37d8-8d13-8c58007dfc2d"><bdi>Missa Christi resurgentis</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/66197dbc-c16b-4c95-9e1b-cc617783cb8c" title="Heinrich Ignaz Franz Biber von Bibern – Bibern, Heinrich Ignaz Franz Biber von"><bdi>Biber</bdi></a></span>; <a href="/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c" title="English Concert, The"><bdi>The English Concert</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/dcef0764-e0fe-4fa0-ad58-a1b7923e7041"><bdi>Violin Sonatas, 1781</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Wolfgang Amadeus Mozart – Mozart, Wolfgang Amadeus (classical composer)"><bdi>Mozart</bdi></a></span>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/35fd0599-af32-4b68-ac97-3d12c8f8a235"><bdi>Violin Sonatas, 1781</bdi></a></td>
+        
+        <td><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Mozart, Wolfgang Amadeus (classical composer)"><bdi>Wolfgang Amadeus Mozart</bdi></a>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/03eb886f-9061-4900-b7cb-1a46ee569d5f"><bdi>3 Violin Concertos</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/b972f589-fb0e-474e-b64a-803b0364fa75" title="Wolfgang Amadeus Mozart – Mozart, Wolfgang Amadeus (classical composer)"><bdi>Mozart</bdi></a></span>; <a href="/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c" title="English Concert, The"><bdi>The English Concert</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/d9ae3ce7-5613-36cf-adc4-3caefd92ede6"><bdi>Symphonies 1 - 4 / Cello Concerto in A major</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f6486fc7-90ef-48ad-8ca3-905af1354afe" title="Carl Philipp Emanuel Bach – Bach, Carl Philipp Emanuel"><bdi>C.P.E. Bach</bdi></a></span>; <a href="/artist/8af55e27-c6ad-44f3-a6d2-53df5462798c" title="English Concert, The"><bdi>The English Concert</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/ecb55ea8-429d-43ed-82cd-f2fe839d883b" title="McGillivray, Alison"><bdi>Alison McGillivray</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/af5dfbb4-7c63-3b63-adbe-7ecf0f2ecc69"><bdi>Sonatas for Violin &amp; Piano</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/f91e3a88-24ee-4563-8963-fab73d2765ed" title="Franz Schubert – Schubert, Franz (Austrian composer Franz Peter Schubert)"><bdi>Schubert</bdi></a></span>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/7acd3269-01eb-3e44-81bc-8476d0eeafc0"><bdi>Concerti Grossi (after Corelli, op. 5)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8cb0e5cc-fdad-4836-8214-1a84566f75fc" title="Francesco Geminiani – Geminiani, Francesco"><bdi>Geminiani</bdi></a></span>; <span class="name-variation"><a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music – Academy of Ancient Music"><bdi>The Academy of Ancient Music</bdi></a></span>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/a8187c13-919b-4467-a23c-9583bb60e70e"><bdi>Concerti Grossi VII-XII (after Corelli, op. 5)</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/8cb0e5cc-fdad-4836-8214-1a84566f75fc" title="Francesco Geminiani – Geminiani, Francesco"><bdi>Geminiani</bdi></a></span>; <span class="name-variation"><a href="/artist/5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0" title="Academy of Ancient Music – Academy of Ancient Music"><bdi>The Academy of Ancient Music</bdi></a></span>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/f71ecded-2abb-4eff-9cc3-01685f7f1551"><bdi>The Romantic Piano Concerto, Volume 49: Concerto no. 1, op. 1 / Concerto no. 2, op. 23</bdi></a></td>
+        
+        <td><a href="/artist/46b1d2da-98a4-4ee2-9f21-17a9ca202cd1" title="Stenhammar, Wilhelm"><bdi>Wilhelm Stenhammar</bdi></a>; <span class="name-variation"><a href="/artist/64aa0c8f-998d-4c27-9710-536794454a6b" title="Helsingborgs Symfoniorkester – Helsingborgs Symfoniorkester"><bdi>Helsingborg Symphony Orchestra</bdi></a></span>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/ef4a6236-381d-4945-96e0-14b6f5679976" title="Tanyel, Seta"><bdi>Seta Tanyel</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/4c69a5ae-6134-428c-bc6d-9bb56a3b4eda"><bdi>Drottningholmsmusiken: Music for a Royal Wedding</bdi></a></td>
+        
+        <td><a href="/artist/993802a2-64e3-46be-99d1-3a8e566d3124" title="Roman, Johan Helmich"><bdi>Johan Helmich Roman</bdi></a>; <a href="/artist/64aa0c8f-998d-4c27-9710-536794454a6b" title="Helsingborgs Symfoniorkester"><bdi>Helsingborgs Symfoniorkester</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/7abb4479-7bce-4687-8842-5946affa915f"><bdi>The Romantic Cello Concerto, Volume 3: The Complete Works for Cello and Orchestra</bdi></a></td>
+        
+        <td><a href="/artist/ce0b4047-834e-4554-9bb6-e334f26fb30c" title="Stanford, Charles Villiers, Sir"><bdi>Sir Charles Villiers Stanford</bdi></a>; <a href="/artist/7edb9f26-0068-4319-8fee-ab70ec2ee37b" title="BBC Scottish Symphony Orchestra"><bdi>BBC Scottish Symphony Orchestra</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/b985f87a-146e-4ee8-989d-02a50883f9e1" title="Rosefield, Gemma"><bdi>Gemma Rosefield</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/f5cf00b7-c570-455f-9e48-8c0a859e6de7"><bdi>The Romantic Piano Concerto, Volume 57: Piano Concerto no. 1, op. 10 / Piano Concerto no. 2, op. 17 / Konsertstycke, op. 1</bdi></a></td>
+        
+        <td><a href="/artist/a275be89-7bd2-418a-8a85-2f48b6e1a1b7" title="Wiklund, Adolf"><bdi>Adolf Wiklund</bdi></a>; <span class="name-variation"><a href="/artist/64aa0c8f-998d-4c27-9710-536794454a6b" title="Helsingborgs Symfoniorkester – Helsingborgs Symfoniorkester"><bdi>Helsingborg Symphony Orchestra</bdi></a></span>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/da351408-74d3-4cae-bd94-4ffa99628069" title="Sturfält, Martin"><bdi>Martin Sturfält</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/88244537-00ea-4acb-8358-3cd86db30aff"><bdi>The Romantic Piano Concerto, Volume 60: Concerto-capriccioso / Concerto no. 2 / Suite for Piano &amp; String Orchestra</bdi></a></td>
+        
+        <td><a href="/artist/d1591eff-428d-44ed-b7f0-f9936f1ab656" title="Dubois, Théodore"><bdi>Théodore Dubois</bdi></a>; <a href="/artist/7edb9f26-0068-4319-8fee-ab70ec2ee37b" title="BBC Scottish Symphony Orchestra"><bdi>BBC Scottish Symphony Orchestra</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/004cf556-547f-4d56-ae8c-7ed6a27a6c41" title="Tiberghien, Cédric"><bdi>Cédric Tiberghien</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/81115f41-985d-4f9b-9758-65935e3a0169"><bdi>On the Way: Works for Tuba by Duda, Williams, Szentpali</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/9295795b-9e5e-4ff7-bc8f-7812c0575f87" title="Jörg Duda – Duda, Jörg"><bdi>Duda</bdi></a></span>, <span class="name-variation"><a href="/artist/53b106e7-0cc6-42cc-ac95-ed8d30a3a98e" title="John Williams – Williams, John (soundtrack composer &amp; conductor)"><bdi>Williams</bdi></a></span>, <span class="name-variation"><a href="/artist/a07f79c7-3e1c-425c-8004-71f3ee9f218e" title="Roland Szentpáli – Szentpáli, Roland"><bdi>Szentpáli</bdi></a></span>; <a href="/artist/b324ef94-ce7f-4e03-83f8-29775c2a5fb4" title="Hofmeir, Andreas Martin"><bdi>Andreas Martin Hofmeir</bdi></a>, <a href="/artist/daa4b4a7-0bcc-4f3b-a243-41cd97dd8477" title="Münchner Philharmoniker"><bdi>Münchner Philharmoniker</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/0678ce85-e664-42c4-a342-99d7013402d1"><bdi>The Romantic Cello Concerto, Volume 5</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/4137c070-15b2-4d00-a9f0-3517d02a9ba8" title="Camille Saint‐Saëns – Saint‐Saëns, Camille"><bdi>Saint‐Saëns</bdi></a></span>; <a href="/artist/889850b7-7b67-41d3-a1ea-4616af15b934" title="Clein, Natalie"><bdi>Natalie Clein</bdi></a>, <a href="/artist/7edb9f26-0068-4319-8fee-ab70ec2ee37b" title="BBC Scottish Symphony Orchestra"><bdi>BBC Scottish Symphony Orchestra</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/7b306938-1fce-463c-bcde-2392120b1458"><bdi>A London Symphony; Symphony No. 8</bdi></a></td>
+        
+        <td><a href="/artist/4f3b96ed-f1f1-4a68-be73-0e0657837096" title="Vaughan Williams, Ralph"><bdi>Ralph Vaughan Williams</bdi></a>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/887b4dfd-269c-46a8-a42d-32560b417760" title="Royal Liverpool Philharmonic Orchestra"><bdi>Royal Liverpool Philharmonic Orchestra</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/a062ff1a-bf28-3c7b-9270-723302ef9c68"><bdi>Complete Violin Sonatas</bdi></a></td>
+        
+        <td><a href="/artist/b753095f-f99d-46a3-b577-a5d332142cb9" title="Pandolfi Mealli, Giovanni Antonio"><bdi>Giovanni Antonio Pandolfi Mealli</bdi></a>; <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a>, <a href="/artist/e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4" title="Egarr, Richard"><bdi>Richard Egarr</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/5116924e-262f-499a-a89e-e11b4ce463d8"><bdi>Concerti per molti instrumenti</bdi></a></td>
+        
+        <td><a href="/artist/8f831f50-e409-47c3-8598-71a61bc8cfb3" title="Telemann, Georg Philipp"><bdi>Georg Philipp Telemann</bdi></a>; <a href="/artist/4ae98c9b-3e70-4266-86a2-fbb9a09e3eb9" title="Stravaganza Köln, La"><bdi>La Stravaganza Köln</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/2383d0a3-8c9b-499c-b613-341f8c834ea6"><bdi>Portrait</bdi></a></td>
+        
+        <td><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/50b0d879-fe68-47a0-ad58-8972dc81852e"><bdi>Four Seasons / La Stravaganza</bdi></a></td>
+        
+        <td><span class="name-variation"><a href="/artist/ad79836d-9849-44df-8789-180bbc823f3c" title="Antonio Vivaldi – Vivaldi, Antonio"><bdi>Vivaldi</bdi></a></span>; <a href="/artist/64c537f4-fea4-477f-b360-ce81552f7ad6" title="Taverner Players"><bdi>Taverner Players</bdi></a>, <a href="/artist/22220b44-8346-4931-88ea-3360a540db2e" title="Parrott, Andrew"><bdi>Andrew Parrott</bdi></a>, <a href="/artist/4ae98c9b-3e70-4266-86a2-fbb9a09e3eb9" title="Stravaganza Köln, La"><bdi>La Stravaganza Köln</bdi></a>, <a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea" title="Manze, Andrew"><bdi>Andrew Manze</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/5003e23c-52eb-4924-929f-6c4c67347fea/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Manze, Andrew</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1965-01-14 (51 years ago)</dd>
+<dt>Born in:</dt>
+<dd class="begin_area"><a href="/area/9d5dd675-3cf4-4296-9e39-67865ebee758"><bdi>England</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000116245051">0000 0001 1624 5051    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/classical"><bdi>classical</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/837036">Discogs</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr">Stream at Spotify</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/39361206">VIAF: 39361206</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q506167">Q506167</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Andrew_Manze">en: Andrew Manze</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/5003e23c-52eb-4924-929f-6c4c67347fea/relationships" title="Manze, Andrew"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F5003e23c-52eb-4924-929f-6c4c67347fea">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2013-08-27 16:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

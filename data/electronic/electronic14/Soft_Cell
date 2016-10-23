@@ -1,0 +1,941 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Soft Cell - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1980 in Leeds, Dissolved: 1984, Area: United Kingdom"/><script type="application/ld+json">{"groupOrigin":{"@type":"City","@id":"https://musicbrainz.org/area/116e3eb1-2b14-42c9-91a1-7a2510dcc4b3","containedIn":{"@type":"AdministrativeArea","name":"Leeds","containedIn":{"@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","@type":"Country"},"@id":"https://musicbrainz.org/area/400bdd75-a3a0-48e2-a6ae-c4733366aff3"},"name":"Leeds"},"location":{"name":"United Kingdom","@id":"https://musicbrainz.org/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed","@type":"Country"},"dissolutionDate":"1984","foundingDate":"1980","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@context":"http://schema.org","sameAs":["http://en.wikipedia.org/wiki/Soft_Cell","http://isni-url.oclc.nl/isni/000000012291088X","http://musicmoz.org/Bands_and_Artists/S/Soft_Cell/","http://www.allmusic.com/artist/mn0000038579","http://www.bbc.co.uk/music/artists/7fb50287-029d-47cc-825a-235ca28024b2","https://musicbrainz.org/artist/419f6fb8-3ede-4feb-ab99-f25816ec6f78","https://rateyourmusic.com/artist/soft_cell","https://www.discogs.com/artist/12196","https://www.wikidata.org/wiki/Q1329303"],"album":[{"name":"Non-Stop Erotic Cabaret","@id":"https://musicbrainz.org/release-group/e5bc1607-7947-3044-8558-6b4eae334c51","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"}},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell","@type":"MusicGroup"},"creditedTo":"Soft Cell","name":"The Art of Falling Apart","@id":"https://musicbrainz.org/release-group/c27e9077-55ce-3d54-b01f-79d0ca99fe7d","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/59f67eb2-786e-35e6-a823-d2b52b5bd138","name":"This Last Night in Sodom","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},"creditedTo":"Soft Cell"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","name":"Cruelty Without Beauty","@id":"https://musicbrainz.org/release-group/4c08b393-e29a-3347-8c5b-2f46cba87815","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"creditedTo":"Soft Cell","@id":"https://musicbrainz.org/release-group/9e75e067-dc67-357d-96a8-e0a17270b259","name":"The Singles","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/9370f406-61ad-3b87-ae27-2ab478b1a40e","name":"Memorabilia: The Singles","byArtist":[{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},{"@id":"https://musicbrainz.org/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1","name":"Marc Almond","@type":["Person","MusicGroup"]}],"creditedTo":"Soft Cell / Marc Almond","albumProductionType":"http://schema.org/CompilationAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"The Twelve Inch Singles","@id":"https://musicbrainz.org/release-group/22ae4b79-d3a8-35f9-ba6e-5ea62980e8e6","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"name":"Down in the Subway","@id":"https://musicbrainz.org/release-group/bd52750b-c12d-35ef-9596-f304780ce465","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell","@type":"MusicGroup"},"creditedTo":"Soft Cell","@id":"https://musicbrainz.org/release-group/f2f6e4ab-5b10-3f5c-a5fa-880683ad901a","name":"Say Hello to Soft Cell","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"name":"The Very Best of Soft Cell","@id":"https://musicbrainz.org/release-group/2ae91572-e787-3cb1-bd18-fc7274720484","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Soft Cell","byArtist":{"@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell","@type":"MusicGroup"},"name":"The Bedsit Tapes","@id":"https://musicbrainz.org/release-group/0d6726af-6c22-38d5-9c82-49a8a31b1063","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/4ecae6c6-4660-47d1-a850-b5975894f60c","name":"The Best of Soft Cell","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},"albumProductionType":"http://schema.org/CompilationAlbum"},{"@id":"https://musicbrainz.org/release-group/60391200-7b48-460c-89d3-f8a510d68996","name":"The Hits","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"}},{"creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/938eef4a-dfe7-4677-974a-84eeb828a1d3","name":"Demo Non Stop"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/3b856989-f6ba-3106-905f-a54448095280","name":"12inch Mixes","creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"albumProductionType":"http://schema.org/CompilationAlbum"},{"byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/c1f6bbaa-221d-358e-80a4-cfe3c479669e","name":"Science Fiction Stories"},{"albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"name":"The Twelve Inch Singles Collection","@id":"https://musicbrainz.org/release-group/792e5375-584f-34bb-9baa-3ae41ecef496","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},"name":"Say Hello, Wave Goodbye: Live","@id":"https://musicbrainz.org/release-group/a5f13757-b2e5-333d-b2a4-67f22a433580","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/LiveAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},"creditedTo":"Soft Cell","name":"At the BBC","@id":"https://musicbrainz.org/release-group/b8e6ecc8-267b-3e94-9c5b-18a1fd160d2b","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/RemixAlbum","creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"@id":"https://musicbrainz.org/release-group/555e158d-383f-3317-9c23-29e3c592fe6e","name":"Non Stop Ecstatic Dancing","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/RemixAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/a0859c70-ca30-3a15-a72a-318990c4fc28","name":"Heat: The Remixes"},{"name":"Tainted Love (Re-Recorded / Remastered) - The Remixes","@id":"https://musicbrainz.org/release-group/fe3a06d1-928e-4acc-b56a-99749a14d8fd","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/RemixAlbum","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"creditedTo":"Soft Cell"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell","@type":"MusicGroup"},"creditedTo":"Soft Cell","name":"Tainted Love","@id":"https://musicbrainz.org/release-group/086eb917-ca60-31b1-8011-22b0a4fdba7b","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"byArtist":{"@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell","@type":"MusicGroup"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Bedsitter","@id":"https://musicbrainz.org/release-group/98834053-3a9f-3466-82b2-6678987740f3"},{"byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","@id":"https://musicbrainz.org/release-group/a9916728-d557-3ef3-b2b8-4dad8d1b4c2f","name":"Memorabilia"},{"@id":"https://musicbrainz.org/release-group/ff5168b3-923c-38d6-9d9c-b4eb21b20a5f","name":"Tainted Love / Where Did Our Love Go?","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"}},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Torch","@id":"https://musicbrainz.org/release-group/61bf23e5-72c0-3056-9522-0836e6e495ac","creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Soul Inside","@id":"https://musicbrainz.org/release-group/e83dfd1d-37d1-310d-95fa-4d6fd152ea4d"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"},"name":"Heat","@id":"https://musicbrainz.org/release-group/4abadcc9-bce4-4130-8325-f18e3eaabe98","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"creditedTo":"Soft Cell","@id":"https://musicbrainz.org/release-group/f0e81d56-240e-34b0-98e0-fbe2d0fb80cf","name":"Down in the Subway","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell","byArtist":{"@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell","@type":"MusicGroup"},"name":"What!","@id":"https://musicbrainz.org/release-group/83258525-03c0-4445-92ef-38b0bb160eaa","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell / Marc Almond","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},{"@type":["Person","MusicGroup"],"name":"Marc Almond","@id":"https://musicbrainz.org/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1"}],"name":"Say Hello, Wave Goodbye '91","@id":"https://musicbrainz.org/release-group/b62d43fb-c051-3fe6-a1d2-b732014d8f64","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"Soft Cell vs. Club 69","byArtist":[{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/46e56e03-4e23-4e40-a781-2eefd8880e38","name":"Club 69"}],"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","name":"Tainted Love","@id":"https://musicbrainz.org/release-group/af827207-10f4-38c1-bb4b-37ecb216b846"},{"albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"creditedTo":"Soft Cell","name":"Monoculture","@id":"https://musicbrainz.org/release-group/8d9abd23-4bae-4767-bf16-ecb6927f6d3b","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum"},{"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Numbers","@id":"https://musicbrainz.org/release-group/f370c7ed-7764-3325-8c54-8e1f7d32fe52","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"creditedTo":"Soft Cell","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","name":"Soft Cell"},"@id":"https://musicbrainz.org/release-group/43a91c0a-6b57-3f1d-a8b8-5e4d9a8188f4","name":"Say Hello Wave Goodbye","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/be15994f-9938-3c3b-98a4-59bc793cce12","name":"Where the Heart Is","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell","byArtist":{"name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2","@type":"MusicGroup"}},{"albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"Soft Cell","byArtist":{"@type":"MusicGroup","name":"Soft Cell","@id":"https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2"},"@id":"https://musicbrainz.org/release-group/b5c65ec0-37e2-3c2a-ba8f-8f77b80e2443","name":"Mutant Moments EP","albumReleaseType":"http://schema.org/EPRelease","@type":"MusicAlbum"}],"member":[{"member":{"name":"Dave Ball","@id":"https://musicbrainz.org/artist/8e1b3b24-8a87-4a00-ab02-aad300d5895d","@type":["Person","MusicGroup"]},"roleName":[],"@type":"OrganizationRole"},{"@type":"OrganizationRole","roleName":[],"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1","name":"Marc Almond"}}],"@type":"MusicGroup","name":"Soft Cell"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7fb50287-029d-47cc-825a-235ca28024b2">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F7fb50287-029d-47cc-825a-235ca28024b2">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell – Soft Cell"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/releases" title="Soft Cell"><bdi>Releases</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/recordings" title="Soft Cell"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/works" title="Soft Cell"><bdi>Works</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/events" title="Soft Cell"><bdi>Events</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/relationships" title="Soft Cell"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/aliases" title="Soft Cell"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/tags" title="Soft Cell"><bdi>Tags</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/details" title="Soft Cell"><bdi>Details</bdi></a></li>            <li><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/edit" title="Soft Cell"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Soft Cell</b> are an English synthpop duo who came to prominence in the early 1980s, consisting of vocalist Marc Almond and instrumentalist David Ball. The duo are principally known for their 1981 hit version of "Tainted Love" (#8 US) and 1981 debut album entitled <i>Non-Stop Erotic Cabaret</i>.</p>
+<p>In the United Kingdom, they had ten Top 40 hits including "Tainted Love" (#1 UK), "Torch" (#2 UK), "Say Hello, Wave Goodbye" (#3 UK), "What!" (#3 UK), and "Bedsitter" (#4 UK), and also had four Top 20 albums between 1981 and 1984. In 1984, the duo split but reformed in 2001 to tour and record new material, releasing their fifth studio album, <i>Cruelty Without Beauty</i> in 2002.</p>
+<p>Soft Cell's songs have been covered by various artists including Nine Inch Nails, David Gray, Nouvelle Vague, and A-ha. Their track, "Memorabilia", earned recognition for the band as pioneers of the synth-oriented techno genre. The duo have sold 10 million records worldwide.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Soft_Cell">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=1324" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/e5bc1607-7947-3044-8558-6b4eae334c51"><bdi>Non-Stop Erotic Cabaret</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/c27e9077-55ce-3d54-b01f-79d0ca99fe7d"><bdi>The Art of Falling Apart</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/59f67eb2-786e-35e6-a823-d2b52b5bd138"><bdi>This Last Night in Sodom</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/4c08b393-e29a-3347-8c5b-2f46cba87815"><bdi>Cruelty Without Beauty</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/9e75e067-dc67-357d-96a8-e0a17270b259"><bdi>The Singles</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/9370f406-61ad-3b87-ae27-2ab478b1a40e"><bdi>Memorabilia: The Singles</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a> / <a href="/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1" title="Almond, Marc (UK musician)"><bdi>Marc Almond</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/22ae4b79-d3a8-35f9-ba6e-5ea62980e8e6"><bdi>The Twelve Inch Singles</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/bd52750b-c12d-35ef-9596-f304780ce465"><bdi>Down in the Subway</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/f2f6e4ab-5b10-3f5c-a5fa-880683ad901a"><bdi>Say Hello to Soft Cell</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/2ae91572-e787-3cb1-bd18-fc7274720484"><bdi>The Very Best of Soft Cell</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/0d6726af-6c22-38d5-9c82-49a8a31b1063"><bdi>The Bedsit Tapes</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/4ecae6c6-4660-47d1-a850-b5975894f60c"><bdi>The Best of Soft Cell</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/60391200-7b48-460c-89d3-f8a510d68996"><bdi>The Hits</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/938eef4a-dfe7-4677-974a-84eeb828a1d3"><bdi>Demo Non Stop</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/3b856989-f6ba-3106-905f-a54448095280"><bdi>12inch Mixes</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/c1f6bbaa-221d-358e-80a4-cfe3c479669e"><bdi>Science Fiction Stories</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/792e5375-584f-34bb-9baa-3ae41ecef496"><bdi>The Twelve Inch Singles Collection</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/a5f13757-b2e5-333d-b2a4-67f22a433580"><bdi>Say Hello, Wave Goodbye: Live</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/b8e6ecc8-267b-3e94-9c5b-18a1fd160d2b"><bdi>At the BBC</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/555e158d-383f-3317-9c23-29e3c592fe6e"><bdi>Non Stop Ecstatic Dancing</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/a0859c70-ca30-3a15-a72a-318990c4fc28"><bdi>Heat: The Remixes</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/fe3a06d1-928e-4acc-b56a-99749a14d8fd"><bdi>Tainted Love (Re-Recorded / Remastered) - The Remixes</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/086eb917-ca60-31b1-8011-22b0a4fdba7b"><bdi>Tainted Love</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">7</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/98834053-3a9f-3466-82b2-6678987740f3"><bdi>Bedsitter</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/a9916728-d557-3ef3-b2b8-4dad8d1b4c2f"><bdi>Memorabilia</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1981</td>
+        <td><a href="/release-group/ff5168b3-923c-38d6-9d9c-b4eb21b20a5f"><bdi>Tainted Love / Where Did Our Love Go?</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1982</td>
+        <td><a href="/release-group/61bf23e5-72c0-3056-9522-0836e6e495ac"><bdi>Torch</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/e83dfd1d-37d1-310d-95fa-4d6fd152ea4d"><bdi>Soul Inside</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/4abadcc9-bce4-4130-8325-f18e3eaabe98"><bdi>Heat</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1984</td>
+        <td><a href="/release-group/f0e81d56-240e-34b0-98e0-fbe2d0fb80cf"><bdi>Down in the Subway</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1990</td>
+        <td><a href="/release-group/83258525-03c0-4445-92ef-38b0bb160eaa"><bdi>What!</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/b62d43fb-c051-3fe6-a1d2-b732014d8f64"><bdi>Say Hello, Wave Goodbye '91</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a> / <a href="/artist/d67e6b0a-d2c6-4e4a-ba30-7834701535a1" title="Almond, Marc (UK musician)"><bdi>Marc Almond</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/af827207-10f4-38c1-bb4b-37ecb216b846"><bdi>Tainted Love</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a> vs. <a href="/artist/46e56e03-4e23-4e40-a781-2eefd8880e38" title="Club 69"><bdi>Club 69</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/8d9abd23-4bae-4767-bf16-ecb6927f6d3b"><bdi>Monoculture</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/f370c7ed-7764-3325-8c54-8e1f7d32fe52"><bdi>Numbers</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/43a91c0a-6b57-3f1d-a8b8-5e4d9a8188f4"><bdi>Say Hello Wave Goodbye</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">&#x2014;</td>
+        <td><a href="/release-group/be15994f-9938-3c3b-98a4-59bc793cce12"><bdi>Where the Heart Is</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/b5c65ec0-37e2-3c2a-ba8f-8f77b80e2443"><bdi>Mutant Moments EP</bdi></a></td>
+        
+        <td><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2" title="Soft Cell"><bdi>Soft Cell</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/7fb50287-029d-47cc-825a-235ca28024b2/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1980</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/116e3eb1-2b14-42c9-91a1-7a2510dcc4b3"><bdi>Leeds</bdi></a>, <a href="/area/400bdd75-a3a0-48e2-a6ae-c4733366aff3"><bdi>Leeds</bdi></a>, <span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>1984 (4 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-GB"><a href="/area/8a754a16-0027-3a29-b6d7-2b40ea0481ed"><bdi>United Kingdom</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/000000012291088X">0000 0001 2291 088X    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/electronic"><bdi>electronic</bdi></a>, <a href="/tag/minimal%20synth"><bdi>minimal synth</bdi></a>, <a href="/tag/new%20wave"><bdi>new wave</bdi></a>, <a href="/tag/synthpop"><bdi>synthpop</bdi></a>, <a href="/tag/british"><bdi>british</bdi></a>, <a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/tags" title="Soft Cell"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000038579">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/7fb50287-029d-47cc-825a-235ca28024b2">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/12196">Discogs</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://musicmoz.org/Bands_and_Artists/S/Soft_Cell/">MusicMoz</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/soft_cell">Rateyourmusic</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q1329303">Q1329303</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Soft_Cell">en: Soft Cell</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/7fb50287-029d-47cc-825a-235ca28024b2/relationships" title="Soft Cell"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F7fb50287-029d-47cc-825a-235ca28024b2">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-04-13 12:03 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

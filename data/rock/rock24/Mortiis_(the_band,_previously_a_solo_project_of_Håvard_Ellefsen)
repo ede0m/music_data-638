@@ -1,0 +1,677 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mortiis - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="the band, previously a solo project of Håvard Ellefsen, Type: Group, Founded: 1993 in Notodden, Area: Norway"/><script type="application/ld+json">{"groupOrigin":{"@id":"https://musicbrainz.org/area/d2300005-2c25-4e81-aef4-300c05350265","containedIn":{"name":"Telemark","@type":"AdministrativeArea","containedIn":{"name":"Norway","@type":"Country","@id":"https://musicbrainz.org/area/6743d351-6f37-3049-9724-5041161fff4d"},"@id":"https://musicbrainz.org/area/e7125d46-63c1-4b14-95c1-e0e6e4b312ec"},"name":"Notodden","@type":"AdministrativeArea"},"foundingDate":"1993","sameAs":["http://en.wikipedia.org/wiki/Mortiis","http://mortiis.bandcamp.com/","http://www.allmusic.com/artist/mn0000595445","http://www.metal-archives.com/bands/Mortiis/81","http://www.mortiis.com/","https://rateyourmusic.com/artist/mortiis","https://www.discogs.com/artist/49656"],"album":[{"@id":"https://musicbrainz.org/release-group/1539458e-126e-3ff6-b284-600e528225bb","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","@type":"MusicGroup","name":"Mortiis"},"name":"Født til å herske","creditedTo":"Mortiis"},{"@id":"https://musicbrainz.org/release-group/22010e40-3995-3242-8d4f-d016557b8809","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","name":"Mortiis","@type":"MusicGroup"},"name":"The Song of a Long Forgotten Ghost","creditedTo":"Mortiis"},{"creditedTo":"Mortiis","byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","name":"Mortiis","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Ånden som gjorde opprør","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e21901ca-0f9b-306b-b6aa-699a273ff6d5"},{"creditedTo":"Mortiis","name":"Keiser av en dimensjon ukjent","byArtist":{"name":"Mortiis","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/ed7c3ef5-09f3-3659-838b-869efca287d1"},{"@id":"https://musicbrainz.org/release-group/46fd0ff4-9280-35dd-b9ff-b09ebc55237a","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Crypt of the Wizard","byArtist":{"@type":"MusicGroup","name":"Mortiis","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"@type":"MusicAlbum","creditedTo":"Mortiis"},{"creditedTo":"Mortiis","byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","@type":"MusicGroup","name":"Mortiis"},"name":"The Stargate","@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/00a671c4-d672-3128-afbe-cc9bfde4f85e"},{"byArtist":{"name":"Mortiis","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"name":"The Smell of Rain","@type":"MusicAlbum","creditedTo":"Mortiis","@id":"https://musicbrainz.org/release-group/e94ea200-7d8f-376b-815d-17ec5c9a1a18","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f43d47a6-5029-3a15-990c-6244b7574fdb","creditedTo":"Mortiis","byArtist":{"@type":"MusicGroup","name":"Mortiis","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"@type":"MusicAlbum","name":"The Grudge"},{"byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","@type":"MusicGroup","name":"Mortiis"},"name":"Perfectly Defect","@type":"MusicAlbum","creditedTo":"Mortiis","@id":"https://musicbrainz.org/release-group/913d0bb6-1099-430e-a404-069b9e7006ab","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/b2712baf-e682-4a2b-89ad-4f8b6f9be872","creditedTo":"Mortiis","name":"The Great Deceiver","byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","name":"Mortiis","@type":"MusicGroup"},"@type":"MusicAlbum"},{"creditedTo":"Mortiis","name":"Soul in a Hole: Live in London","byArtist":{"name":"Mortiis","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum","@id":"https://musicbrainz.org/release-group/5fc63de1-a849-3a1e-9e4a-ad29763f19bb"},{"@id":"https://musicbrainz.org/release-group/be10a92b-2668-3806-84b7-7aef8bdb8bd4","albumProductionType":"http://schema.org/RemixAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"name":"Mortiis","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"name":"Some Kind of Heroin: The Grudge Remixes","creditedTo":"Mortiis"},{"creditedTo":"Mortiis","name":"The Grudge","byArtist":{"name":"Mortiis","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/6407f69c-74dd-30b6-8347-1654de075f67"},{"@id":"https://musicbrainz.org/release-group/63dc57a1-084a-3fbf-9e19-9c5125dd0879","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Decadent \u0026 Desperate","byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","@type":"MusicGroup","name":"Mortiis"},"@type":"MusicAlbum","creditedTo":"Mortiis"},{"byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","@type":"MusicGroup","name":"Mortiis"},"name":"Doppelganger","@type":"MusicAlbum","creditedTo":"Mortiis","@id":"https://musicbrainz.org/release-group/de417e3c-67cb-4a96-9189-9b23297e34e6","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/4356dd14-25a5-4475-9e03-acc4e36e3432","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"Mortiis","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"name":"The Shining Lamp of God","@type":"MusicAlbum","creditedTo":"Mortiis"},{"@id":"https://musicbrainz.org/release-group/7d872880-d2e3-3ee4-9562-8917e4dc075e","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","@type":"MusicGroup","name":"Mortiis"},"@type":"MusicAlbum","name":"Blood and Thunder","creditedTo":"Mortiis"},{"albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/240eed17-e8c8-4488-af1e-c4834390a938","creditedTo":"Mortiis","@type":"MusicAlbum","byArtist":{"name":"Mortiis","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a"},"name":"Geisteskrank"}],"@context":"http://schema.org","@id":"https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a","member":[{"@type":"OrganizationRole","roleName":[],"startDate":"2001","member":{"@id":"https://musicbrainz.org/artist/09a0b938-fead-4102-8574-fcf2f2c86b80","name":"Håvard Ellefsen","@type":["Person","MusicGroup"]}},{"startDate":"2005","member":{"name":"Ogee","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/1f785b81-c3c0-47c8-be51-1c77267b18db"},"@type":"OrganizationRole","roleName":[]},{"member":{"@type":["Person","MusicGroup"],"name":"Levi Gawron","@id":"https://musicbrainz.org/artist/6670269d-bd36-4471-b73a-6730629f3b7f"},"startDate":"2002","roleName":[],"@type":"OrganizationRole"},{"member":{"@id":"https://musicbrainz.org/artist/8eb1651a-824f-4978-adc5-27e5fb13365d","@type":["Person","MusicGroup"],"name":"Chris Kling"},"startDate":"2009","roleName":[],"@type":"OrganizationRole"}],"@type":"MusicGroup","name":"Mortiis","location":{"@type":"Country","name":"Norway","@id":"https://musicbrainz.org/area/6743d351-6f37-3049-9724-5041161fff4d"}}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Mortiis</bdi></a> <span class="comment">(<bdi>the band, previously a solo project of Håvard Ellefsen</bdi>)</span></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a" title="Mortiis – Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/releases" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Releases</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/recordings" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/works" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Works</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/events" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Events</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/relationships" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/aliases" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/tags" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Tags</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/details" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Details</bdi></a></li>            <li><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/edit" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>Mortiis</b> is a band from Notodden, Norway fronted by Håvard Ellefsen, who is also known as the namesake of the band. The name is a misspelling of the word 'mortis', which is the pronunciation used by the band. Mortiis started as the solo project of Ellefsen as a means to convey a story. This aspect was lost over time and Mortiis slowly formed into a band.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/Mortiis">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=8539" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/1539458e-126e-3ff6-b284-600e528225bb"><bdi>Født til å herske</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/22010e40-3995-3242-8d4f-d016557b8809"><bdi>The Song of a Long Forgotten Ghost</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/e21901ca-0f9b-306b-b6aa-699a273ff6d5"><bdi>Ånden som gjorde opprør</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/ed7c3ef5-09f3-3659-838b-869efca287d1"><bdi>Keiser av en dimensjon ukjent</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/46fd0ff4-9280-35dd-b9ff-b09ebc55237a"><bdi>Crypt of the Wizard</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/00a671c4-d672-3128-afbe-cc9bfde4f85e"><bdi>The Stargate</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/e94ea200-7d8f-376b-815d-17ec5c9a1a18"><bdi>The Smell of Rain</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">6</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/f43d47a6-5029-3a15-990c-6244b7574fdb"><bdi>The Grudge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/913d0bb6-1099-430e-a404-069b9e7006ab"><bdi>Perfectly Defect</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/b2712baf-e682-4a2b-89ad-4f8b6f9be872"><bdi>The Great Deceiver</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/5fc63de1-a849-3a1e-9e4a-ad29763f19bb"><bdi>Soul in a Hole: Live in London</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Remix</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/be10a92b-2668-3806-84b7-7aef8bdb8bd4"><bdi>Some Kind of Heroin: The Grudge Remixes</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/6407f69c-74dd-30b6-8347-1654de075f67"><bdi>The Grudge</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/63dc57a1-084a-3fbf-9e19-9c5125dd0879"><bdi>Decadent &amp; Desperate</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2015</td>
+        <td><a href="/release-group/de417e3c-67cb-4a96-9189-9b23297e34e6"><bdi>Doppelganger</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:40%;">2</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/4356dd14-25a5-4475-9e03-acc4e36e3432"><bdi>The Shining Lamp of God</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1995</td>
+        <td><a href="/release-group/7d872880-d2e3-3ee4-9562-8917e4dc075e"><bdi>Blood and Thunder</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Unspecified type</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/240eed17-e8c8-4488-af1e-c4834390a938"><bdi>Geisteskrank</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1993 (23 years ago)</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/d2300005-2c25-4e81-aef4-300c05350265"><bdi>Notodden</bdi></a>, <a href="/area/e7125d46-63c1-4b14-95c1-e0e6e4b312ec"><bdi>Telemark</bdi></a>, <span class="flag flag-NO"><a href="/area/6743d351-6f37-3049-9724-5041161fff4d"><bdi>Norway</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-NO"><a href="/area/6743d351-6f37-3049-9724-5041161fff4d"><bdi>Norway</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/ratings" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/ambient"><bdi>ambient</bdi></a>, <a href="/tag/black%20ambient"><bdi>black ambient</bdi></a>, <a href="/tag/dark%20wave"><bdi>dark wave</bdi></a>, <a href="/tag/electropop"><bdi>electropop</bdi></a>, <a href="/tag/gothic%20rock"><bdi>gothic rock</bdi></a>, <a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/tags" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.mortiis.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000595445">AllMusic</a>
+          
+          
+        </li>               <li class="bandcamp-favicon">
+          
+          
+          <a href="//mortiis.bandcamp.com/">Bandcamp</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/49656">Discogs</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/mortiis1">mortiis1</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/mortiis">Rateyourmusic</a>
+          
+          
+        </li>               <li class="metalarchives-favicon">
+          
+          
+          <a href="http://www.metal-archives.com/bands/Mortiis/81">Metal Archives</a>
+          
+          
+        </li>               <li class="instagram-favicon">
+          
+          
+          <a href="http://instagram.com/mortiisofficial">@mortiisofficial</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/mortiis">@mortiis</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/officialmortiis">officialmortiis</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Mortiis">en: Mortiis</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/officialmortiis">officialmortiis</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a/relationships" title="Mortiis (the band, previously a solo project of Håvard Ellefsen)"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F98087dc1-ca0a-44cc-9d3a-94c8e67a2e1a">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2014-11-06 01:32 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

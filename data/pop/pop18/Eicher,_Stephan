@@ -1,0 +1,963 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Stephan Eicher - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Person, Gender: Male, Born: 1960-08-17, Area: Switzerland"/><script type="application/ld+json">{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@context":"http://schema.org","name":"Stephan Eicher","@type":["Person","MusicGroup"],"location":{"name":"Switzerland","@type":"Country","@id":"https://musicbrainz.org/area/1333ff06-8e3d-3c8e-9f3a-13a2a38b41df"},"birthDate":"1960-08-17","sameAs":["http://en.wikipedia.org/wiki/Stephan_Eicher","http://viaf.org/viaf/66651597","http://www.encyclopedisque.fr/artiste/1628.html","http://www.imdb.com/name/nm0251503/","http://www.stephaneicher.com/","https://www.discogs.com/artist/164282","https://www.wikidata.org/wiki/Q51010"],"album":[{"creditedTo":"Stephan Eicher","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"name":"Les Chansons bleues","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/63dd1264-37c7-4f0b-9ce2-4dc5207c941f"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/4259a0f6-13ec-3e05-8332-f6de72ed3daf","creditedTo":"Stephan Eicher","name":"I Tell This Night","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"@type":"MusicAlbum"},{"creditedTo":"Stephan Eicher","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"name":"Silence","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/7a28b3a3-8e5a-316c-8ab8-aea64e429c10"},{"@id":"https://musicbrainz.org/release-group/21d14261-2a19-3890-93e4-1d40beeaecce","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"name":"Les Chansons bleues / Souvenir / Noise Boys","creditedTo":"Stephan Eicher"},{"creditedTo":"Stephan Eicher","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"name":"My Place","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8f1949da-8455-3613-baa4-caaf9fa7b6dd"},{"creditedTo":"Stephan Eicher","name":"Engelberg","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/3452bef5-e4be-3916-a9b0-01f8029fc035"},{"name":"Carcassonne","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/e84c8561-4326-3970-89b4-6e9a9426ad7d","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/79b18a0a-d1f4-3d26-b91b-480601b1dbb8","creditedTo":"Stephan Eicher","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"name":"1000 Vies","@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"name":"Louanges","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/53e123ca-0e30-38e5-92df-5bba813fd3c4","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"Tinu Heiniger feat. Stephan Eicher","byArtist":[{"@id":"https://musicbrainz.org/artist/9587fdac-55fd-4651-976f-92416a4d122c","name":"Tinu Heiniger","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"}],"@type":"MusicAlbum","name":"Heimatland!","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4fbcdb1e-281d-4685-9ae1-5612b7e6cb60"},{"byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","name":"Taxi Europa","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/ce6083e7-1b42-3fc9-ae84-4fbe2e0601c8","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/85ce46e6-9c4c-34fc-b8dd-2d33a8836002","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Stephan Eicher","@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","name":"Eldorado","creditedTo":"Stephan Eicher"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4e6b9919-5810-4781-908b-65f37fa58930","creditedTo":"Stephan Eicher","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"@type":"MusicAlbum","name":"Spielt Noise Boys"},{"byArtist":{"@type":["Person","MusicGroup"],"name":"Stephan Eicher","@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","name":"L’Envolée","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/a8873336-991d-4b63-8297-a33897d34b0f","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"creditedTo":"Stephan Eicher","name":"Hotel*s: Stephan Eicher's Favourites","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/17a8a3bf-1a5f-3a7c-a78b-cbad1422ae94"},{"creditedTo":"Stephan Eicher","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","name":"Traces","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7928038a-d40f-4893-811a-bef01fe7251c"},{"@id":"https://musicbrainz.org/release-group/62685a08-945a-497d-a06f-b09304217add","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"name":"Master Serie","@type":"MusicAlbum","creditedTo":"Stephan Eicher"},{"@id":"https://musicbrainz.org/release-group/e002fe61-c33e-304f-8af4-e9e440b7570b","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":["Person","MusicGroup"],"name":"Stephan Eicher","@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","name":"Non ci badar, guarda e passa","creditedTo":"Stephan Eicher"},{"@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"name":"Tour Taxi Europa","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/b626f3e8-f66b-3e40-90c1-2ee69c8cf570","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum"},{"@id":"https://musicbrainz.org/release-group/ced547f7-bd9e-4360-bf95-b8a92a8d8736","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","name":"Eldorado Trio Live","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"@type":"MusicAlbum","creditedTo":"Stephan Eicher"},{"byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"@type":"MusicAlbum","name":"Monsieur N.","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/77dca914-bea3-30ba-bd1d-bd1c34acb4a0","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/SoundtrackAlbum"},{"creditedTo":"Stephan Eicher","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"name":"La Chanson bleue","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9b35024e-edb7-4712-a766-35d664ff5ce2"},{"@id":"https://musicbrainz.org/release-group/1e18572f-3971-4d16-9feb-aa938d9257e6","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Two People in a Room","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","creditedTo":"Stephan Eicher"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e82f4aae-c169-4221-a613-1f8445aa3ffc","creditedTo":"Stephan Eicher","byArtist":{"@type":["Person","MusicGroup"],"name":"Stephan Eicher","@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"name":"I Tell This Night","@type":"MusicAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"name":"Combien de temps","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/35a2dc1d-f3c0-42ff-a331-4d790551c724","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/781c95e0-c90c-45ea-b5d5-a69ab67955e0","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"name":"Tomorrow Will Be Your Day","@type":"MusicAlbum","creditedTo":"Stephan Eicher"},{"byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","name":"Sois patiente avec moi","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/613c272d-a6a6-4f60-998a-53ffddc79fbf","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/933cc516-29bb-4f05-8e65-1500dc892af9","creditedTo":"Stephan Eicher","byArtist":{"@type":["Person","MusicGroup"],"name":"Stephan Eicher","@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"name":"Déjeuner en paix","@type":"MusicAlbum"},{"creditedTo":"Stephan Eicher","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"name":"Pas d'ami (comme toi)","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/db07c030-0ac3-40e8-854d-6d867b4594a7"},{"creditedTo":"Stephan Eicher","name":"Tu ne me dois rien","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/7082b9f0-f9f6-47fa-9d42-803b00e2d610"},{"@id":"https://musicbrainz.org/release-group/8d53ffdf-fa88-443a-beb1-d30d0dafb585","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Hemmige","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","creditedTo":"Stephan Eicher"},{"creditedTo":"Stephan Eicher","name":"Des hauts, des bas","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/033187fe-648d-464e-9571-b27d7cea34ce"},{"@id":"https://musicbrainz.org/release-group/5f57e9a6-7bde-43de-932b-82924ac1b1f7","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"name":"Ni remords, ni regrets","@type":"MusicAlbum","creditedTo":"Stephan Eicher"},{"creditedTo":"Stephan Eicher","name":"Rivière","byArtist":{"@type":["Person","MusicGroup"],"name":"Stephan Eicher","@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9ba64685-75f1-4d52-8cac-a30cfcf7a19b"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/904d5a88-03ae-44a9-ba86-6198fdc30cc8","creditedTo":"Stephan Eicher","@type":"MusicAlbum","byArtist":{"name":"Stephan Eicher","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127"},"name":"Manteau de gloire"},{"@id":"https://musicbrainz.org/release-group/480dccfb-af22-4130-b6f9-bb5ec6faf993","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","name":"Der Rand der Welt","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","name":"Stephan Eicher","@type":["Person","MusicGroup"]},"@type":"MusicAlbum","creditedTo":"Stephan Eicher"},{"byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"@type":"MusicAlbum","name":"Oh ironie","creditedTo":"Stephan Eicher","@id":"https://musicbrainz.org/release-group/312fe206-15d3-3cf5-9ea9-67c61c09a45a","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/13d2afeb-d997-4509-81ad-b332b0dfa994","creditedTo":"Arno \u0026 Stephan Eicher","@type":"MusicAlbum","byArtist":[{"@id":"https://musicbrainz.org/artist/03a82b66-d021-4754-aca2-399d51ee6199","name":"Arno","@type":["Person","MusicGroup"]},{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"}],"name":"Ils ont changé ma chanson"},{"creditedTo":"Stephan Eicher","byArtist":{"@id":"https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127","@type":["Person","MusicGroup"],"name":"Stephan Eicher"},"name":"Spielt Noise Boys","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/9394a026-61e4-4e5a-a394-45a73cbba6b9"}]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F34101668-3a6e-4fb7-8a8e-8f6130cb9127">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2F34101668-3a6e-4fb7-8a8e-8f6130cb9127">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Person
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Stephan Eicher – Eicher, Stephan"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/releases" title="Eicher, Stephan"><bdi>Releases</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/recordings" title="Eicher, Stephan"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/works" title="Eicher, Stephan"><bdi>Works</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/events" title="Eicher, Stephan"><bdi>Events</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/relationships" title="Eicher, Stephan"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/aliases" title="Eicher, Stephan"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/tags" title="Eicher, Stephan"><bdi>Tags</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/details" title="Eicher, Stephan"><bdi>Details</bdi></a></li>            <li><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/edit" title="Eicher, Stephan"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=23938" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1983</td>
+        <td><a href="/release-group/63dd1264-37c7-4f0b-9ce2-4dc5207c941f"><bdi>Les Chansons bleues</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/4259a0f6-13ec-3e05-8332-f6de72ed3daf"><bdi>I Tell This Night</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/7a28b3a3-8e5a-316c-8ab8-aea64e429c10"><bdi>Silence</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1988</td>
+        <td><a href="/release-group/21d14261-2a19-3890-93e4-1d40beeaecce"><bdi>Les Chansons bleues / Souvenir / Noise Boys</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/8f1949da-8455-3613-baa4-caaf9fa7b6dd"><bdi>My Place</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/3452bef5-e4be-3916-a9b0-01f8029fc035"><bdi>Engelberg</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/e84c8561-4326-3970-89b4-6e9a9426ad7d"><bdi>Carcassonne</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/79b18a0a-d1f4-3d26-b91b-480601b1dbb8"><bdi>1000 Vies</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1999</td>
+        <td><a href="/release-group/53e123ca-0e30-38e5-92df-5bba813fd3c4"><bdi>Louanges</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/4fbcdb1e-281d-4685-9ae1-5612b7e6cb60"><bdi>Heimatland!</bdi></a></td>
+        
+        <td><a href="/artist/9587fdac-55fd-4651-976f-92416a4d122c" title="Heiniger, Tinu"><bdi>Tinu Heiniger</bdi></a> feat. <a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/ce6083e7-1b42-3fc9-ae84-4fbe2e0601c8"><bdi>Taxi Europa</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/85ce46e6-9c4c-34fc-b8dd-2d33a8836002"><bdi>Eldorado</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/4e6b9919-5810-4781-908b-65f37fa58930"><bdi>Spielt Noise Boys</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/a8873336-991d-4b63-8297-a33897d34b0f"><bdi>L’Envolée</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:20%;">1</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/17a8a3bf-1a5f-3a7c-a78b-cbad1422ae94"><bdi>Hotel*s: Stephan Eicher's Favourites</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/7928038a-d40f-4893-811a-bef01fe7251c"><bdi>Traces</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/62685a08-945a-497d-a06f-b09304217add"><bdi>Master Serie</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/e002fe61-c33e-304f-8af4-e9e440b7570b"><bdi>Non ci badar, guarda e passa</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/b626f3e8-f66b-3e40-90c1-2ee69c8cf570"><bdi>Tour Taxi Europa</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/ced547f7-bd9e-4360-bf95-b8a92a8d8736"><bdi>Eldorado Trio Live</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Soundtrack</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/77dca914-bea3-30ba-bd1d-bd1c34acb4a0"><bdi>Monsieur N.</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/9b35024e-edb7-4712-a766-35d664ff5ce2"><bdi>La Chanson bleue</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1985</td>
+        <td><a href="/release-group/1e18572f-3971-4d16-9feb-aa938d9257e6"><bdi>Two People in a Room</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1986</td>
+        <td><a href="/release-group/e82f4aae-c169-4221-a613-1f8445aa3ffc"><bdi>I Tell This Night</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/35a2dc1d-f3c0-42ff-a331-4d790551c724"><bdi>Combien de temps</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1987</td>
+        <td><a href="/release-group/781c95e0-c90c-45ea-b5d5-a69ab67955e0"><bdi>Tomorrow Will Be Your Day</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1989</td>
+        <td><a href="/release-group/613c272d-a6a6-4f60-998a-53ffddc79fbf"><bdi>Sois patiente avec moi</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/933cc516-29bb-4f05-8e65-1500dc892af9"><bdi>Déjeuner en paix</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/db07c030-0ac3-40e8-854d-6d867b4594a7"><bdi>Pas d'ami (comme toi)</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1991</td>
+        <td><a href="/release-group/7082b9f0-f9f6-47fa-9d42-803b00e2d610"><bdi>Tu ne me dois rien</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1992</td>
+        <td><a href="/release-group/8d53ffdf-fa88-443a-beb1-d30d0dafb585"><bdi>Hemmige</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/033187fe-648d-464e-9571-b27d7cea34ce"><bdi>Des hauts, des bas</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/5f57e9a6-7bde-43de-932b-82924ac1b1f7"><bdi>Ni remords, ni regrets</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1993</td>
+        <td><a href="/release-group/9ba64685-75f1-4d52-8cac-a30cfcf7a19b"><bdi>Rivière</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1994</td>
+        <td><a href="/release-group/904d5a88-03ae-44a9-ba86-6198fdc30cc8"><bdi>Manteau de gloire</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/480dccfb-af22-4130-b6f9-bb5ec6faf993"><bdi>Der Rand der Welt</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1996</td>
+        <td><a href="/release-group/312fe206-15d3-3cf5-9ea9-67c61c09a45a"><bdi>Oh ironie</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/13d2afeb-d997-4509-81ad-b332b0dfa994"><bdi>Ils ont changé ma chanson</bdi></a></td>
+        
+        <td><a href="/artist/03a82b66-d021-4754-aca2-399d51ee6199" title="Arno (Belgian rock vocalist Arno Hintjens)"><bdi>Arno</bdi></a> &amp; <a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">1980</td>
+        <td><a href="/release-group/9394a026-61e4-4e5a-a394-45a73cbba6b9"><bdi>Spielt Noise Boys</bdi></a></td>
+        
+        <td><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127" title="Eicher, Stephan"><bdi>Stephan Eicher</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Eicher_Bardentreffen_15_0837.jpg/250px-Eicher_Bardentreffen_15_0837.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Eicher Bardentreffen 15 0837.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Sort name:</dt>
+<dd class="sort-name">Eicher, Stephan</dd>
+<dt>Type:</dt>
+<dd class="type">Person</dd>
+<dt>Gender:</dt>
+<dd class="gender">Male</dd>
+<dt>Born:</dt>
+<dd>1960-08-17 (56 years ago)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-CH"><a href="/area/1333ff06-8e3d-3c8e-9f3a-13a2a38b41df"><bdi>Switzerland</bdi></a></span></dd>
+<dt>IPI code:</dt>
+<dd class="ipi-code">00048525176</dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:70%;">3.5</span>    </span>
+</span>    (<a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/ratings" title="Eicher, Stephan"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/pop"><bdi>pop</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.stephaneicher.com/">Official homepage</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/164282">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm0251503/">IMDb</a>
+          
+          
+        </li>               <li class="encyclopedisque-favicon">
+          
+          
+          <a href="http://www.encyclopedisque.fr/artiste/1628.html">Encyclopédisque</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/stephaneicher">stephaneicher</a>
+          
+          
+        </li>               <li class="viaf-favicon">
+          
+          
+          <a href="http://viaf.org/viaf/66651597">VIAF: 66651597</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q51010">Q51010</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/Stephan_Eicher">en: Stephan Eicher</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/eicherofficiel">eicherofficiel</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/34101668-3a6e-4fb7-8a8e-8f6130cb9127/relationships" title="Eicher, Stephan"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2F34101668-3a6e-4fb7-8a8e-8f6130cb9127">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2015-02-04 21:02 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

@@ -1,0 +1,979 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>My Chemical Romance - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 2001 in Newark, Dissolved: 2013-03-22, Area: United States"/><script type="application/ld+json">{"@type":"MusicGroup","location":{"@type":"Country","name":"United States","@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98"},"name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","member":[{"roleName":"bass","@type":"OrganizationRole","startDate":"2001","member":{"@id":"https://musicbrainz.org/artist/146c09f6-acfb-4a2b-9de6-fbff103927be","@type":["Person","MusicGroup"],"name":"Mikey Way"}},{"member":{"@type":["Person","MusicGroup"],"name":"James Dewees","@id":"https://musicbrainz.org/artist/24ff2fe2-c61c-4002-b717-444ffa811515"},"startDate":"2007-01","roleName":"keyboard","@type":"OrganizationRole"},{"roleName":"drums","@type":"OrganizationRole","endDate":"2004-08","member":{"@id":"https://musicbrainz.org/artist/30ae223b-926b-418c-80a1-d82407a4f05c","@type":["Person","MusicGroup"],"name":"Matt Pelissier"}},{"startDate":"2002","member":{"@type":["Person","MusicGroup"],"name":"Frank Iero","@id":"https://musicbrainz.org/artist/358db9a2-3c78-4afb-93b5-d18b34b86eab"},"roleName":[],"@type":"OrganizationRole"},{"member":{"name":"Gerard Way","@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/53dc88bd-cdcb-440d-81aa-51a40ef07848"},"@type":"OrganizationRole","roleName":"lead vocals"},{"startDate":"2001-01-01","member":{"@id":"https://musicbrainz.org/artist/5438228e-9eb8-4564-9b05-b86aa3e5519d","name":"Ray Toro","@type":["Person","MusicGroup"]},"@type":"OrganizationRole","roleName":"background vocals"}],"@context":"http://schema.org","performsAs":{"@type":"MusicGroup","name":"The Mad Gear and Missile Kid","@id":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"album":[{"@type":"MusicAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","@type":"MusicGroup","name":"My Chemical Romance"},"name":"I Brought You My Bullets, You Brought Me Your Love","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/e8923ffe-6ea0-3a65-b6e4-90bca0a6d3a8","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Three Cheers for Sweet Revenge","@type":"MusicAlbum","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/1d563513-87dc-308f-8bac-418fab4054cf","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"My Chemical Romance","name":"The Black Parade","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/bcba43e7-2f72-3b60-b234-577e77fd2d9e"},{"albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a1bbdaa1-fb64-4db3-a6cd-4a37cd2ffa3e","creditedTo":"My Chemical Romance","name":"Danger Days: The True Lives of the Fabulous Killjoys","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"@type":"MusicAlbum"},{"byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"@type":"MusicAlbum","name":"Conventional Weapons","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/98e3a74a-0ccb-4a2c-a59f-c7cdba306a85","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@id":"https://musicbrainz.org/release-group/a92606d1-2b98-4633-adfd-119b8b01f16f","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","@type":"MusicGroup","name":"My Chemical Romance"},"name":"May Death Never Stop You","@type":"MusicAlbum","creditedTo":"My Chemical Romance"},{"byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"},"@type":"MusicAlbum","name":"The Black Parade / Living with Ghosts","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/eb5eb6ea-1aa0-463f-bb09-3d16c299e203","albumProductionType":"http://schema.org/CompilationAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"name":"Life on the Murder Scene","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"@type":"MusicAlbum","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/1b9e4fc2-ee6c-32d0-a1d9-04826de0448e","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease"},{"@type":"MusicAlbum","byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","@type":"MusicGroup","name":"My Chemical Romance"},"name":"The Black Parade Is Dead!","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/c9f8241d-621d-3751-9461-7384deec5152","albumReleaseType":"http://schema.org/AlbumRelease","albumProductionType":"http://schema.org/LiveAlbum"},{"creditedTo":"My Chemical Romance","@type":"MusicAlbum","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"iTunes Festival: London 2011","albumProductionType":"http://schema.org/LiveAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/883227e0-47c1-479c-98c9-d05e06014986"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","name":"My Chemical Romance","@type":"MusicGroup"},"name":"Vampires Will Never Hurt You","@type":"MusicAlbum","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/242d863f-7296-4488-9f82-0282fc4764a2","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Honey, This Mirror Isn't Big Enough for the Two of Us","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/da25736c-75eb-4fa6-9cdb-f0c1037c7ac2","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Headfirst for Halos","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/77f614e7-1248-3f97-b32c-6727af4a191c","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"},"name":"I’m Not Okay (I Promise)","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/474e77e9-c36e-3e37-a465-b4923d554eee","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"byArtist":[{"@type":"MusicGroup","name":"The Used","@id":"https://musicbrainz.org/artist/8262d8e4-9137-4bb3-a787-3caabbbc13e9"},{"@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@type":"MusicGroup","name":"My Chemical Romance"}],"@type":"MusicAlbum","name":"Under Pressure","creditedTo":"The Used \u0026 My Chemical Romance","@id":"https://musicbrainz.org/release-group/e06c6a2b-ec8c-34ce-95bf-839dee84a77c","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","name":"My Chemical Romance","@type":"MusicGroup"},"@type":"MusicAlbum","name":"Helena","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/8fe7ecd1-c19a-3eb5-a7d7-f4fd2fa285c9","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"The Ghost of You","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/3107d4fa-af74-3426-a2e2-4d155bbc6876","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"@id":"https://musicbrainz.org/release-group/f1dee607-535a-31db-9b97-c7dc91ab6ab1","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","name":"Welcome to the Black Parade","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"},"@type":"MusicAlbum","creditedTo":"My Chemical Romance"},{"@id":"https://musicbrainz.org/release-group/81f60ffc-60d9-3a99-a407-c1e7e62c1272","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","name":"My Chemical Romance","@type":"MusicGroup"},"name":"Famous Last Words","@type":"MusicAlbum","creditedTo":"My Chemical Romance"},{"byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"},"@type":"MusicAlbum","name":"I Don't Love You","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/4e7f77da-98d9-35b5-b2ce-f291a168684a","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease"},{"creditedTo":"My Chemical Romance","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@type":"MusicGroup","name":"My Chemical Romance"},"name":"Teenagers","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/e1892657-586b-4a35-ba9c-01031408f592"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/928817c7-c80f-3237-b1e0-e2d96fe4fd05","creditedTo":"My Chemical Romance","byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","name":"My Chemical Romance","@type":"MusicGroup"},"name":"Desolation Row","@type":"MusicAlbum"},{"@id":"https://musicbrainz.org/release-group/7f30b05b-d58c-4cd8-920d-29b93ef25262","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Na Na Na (Na Na Na Na Na Na Na Na Na)","creditedTo":"My Chemical Romance"},{"albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/f81c3191-3b76-4f9f-8aac-b7d9a3ce4724","creditedTo":"My Chemical Romance","byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","name":"My Chemical Romance","@type":"MusicGroup"},"@type":"MusicAlbum","name":"The Only Hope for Me Is You"},{"@id":"https://musicbrainz.org/release-group/b454ea0e-cca9-4a35-b6f5-a6bd42edcca5","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"SING","@type":"MusicAlbum","creditedTo":"My Chemical Romance"},{"@id":"https://musicbrainz.org/release-group/6031c491-7c59-473c-b6ce-7cde13595196","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Planetary (Go!)","@type":"MusicAlbum","creditedTo":"My Chemical Romance"},{"@id":"https://musicbrainz.org/release-group/3eff7c7f-7027-4d6b-9808-423173baae28","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"},"name":"The Kids From Yesterday","creditedTo":"My Chemical Romance"},{"creditedTo":"My Chemical Romance","@type":"MusicAlbum","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Number One","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/9a298836-d7cf-49b7-9eaa-5d729bf7f4de"},{"@id":"https://musicbrainz.org/release-group/6787f1ea-e976-49c8-8b3d-7951f8ceed6c","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"},"name":"Number Two","creditedTo":"My Chemical Romance"},{"@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Number Three","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/fc8fdc50-5f95-489e-a26f-197f5ee18171","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum"},{"creditedTo":"My Chemical Romance","@type":"MusicAlbum","byArtist":{"name":"My Chemical Romance","@type":"MusicGroup","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Number Four","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/1f17e46a-4701-49ca-86e3-5e8fcf5e0fde"},{"creditedTo":"My Chemical Romance","byArtist":{"@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","name":"My Chemical Romance","@type":"MusicGroup"},"name":"Number Five","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/ede351ac-840e-402f-89aa-a8ed6ed29029"},{"albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/e805c61c-cec6-4d9e-a9b8-8396bb2aa7f7","creditedTo":"My Chemical Romance","byArtist":{"sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","@type":"MusicGroup","name":"My Chemical Romance"},"name":"Fake Your Death","@type":"MusicAlbum"},{"creditedTo":"My Chemical Romance","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Like Phantoms, Forever","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","@id":"https://musicbrainz.org/release-group/76e64c99-5efb-414b-bb42-530240e1298c"},{"byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"Live \u0026 Rare","@type":"MusicAlbum","creditedTo":"My Chemical Romance","@id":"https://musicbrainz.org/release-group/282998cb-bd43-39ab-a839-c1e80b167d06","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease"},{"albumReleaseType":"http://schema.org/EPRelease","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/78d2d45c-6d3e-4b5a-98fc-0ac2beaabbd0","creditedTo":"My Chemical Romance","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"My Chemical Romance","@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7"},"name":"The Black Parade: The B-Sides"},{"@id":"https://musicbrainz.org/release-group/64bec487-7719-4f1d-9920-c1140405a168","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/EPRelease","byArtist":{"@id":"https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13","sameAs":"https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","name":"My Chemical Romance","@type":"MusicGroup"},"name":"The Mad Gear and Missile Kid","@type":"MusicAlbum","creditedTo":"My Chemical Romance"}],"sameAs":["http://en.wikipedia.org/wiki/My_Chemical_Romance","http://isni-url.oclc.nl/isni/0000000121614579","http://www.allmusic.com/artist/mn0000520545","http://www.bbc.co.uk/music/artists/c07f0676-9143-4217-8a9f-4c26bd636f13","http://www.imdb.com/name/nm1987178/","http://www.last.fm/music/My\u002bChemical\u002bRomance","http://www.mychemicalromance.com/","http://www.whosampled.com/My-Chemical-Romance/","https://musicbrainz.org/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7","https://rateyourmusic.com/artist/my_chemical_romance","https://www.discogs.com/artist/319406","https://www.musik-sammler.de/artist/my-chemical-romance/","https://www.wikidata.org/wiki/Q483285"],"dissolutionDate":"2013-03-22","alternateName":["The Mad Gear and Missile Kid"],"groupOrigin":{"containedIn":{"@id":"https://musicbrainz.org/area/a36544c1-cb40-4f44-9e0e-7a5a69e403a8","containedIn":{"@id":"https://musicbrainz.org/area/489ce91b-6658-3307-9877-795b68554c98","@type":"Country","name":"United States"},"@type":"AdministrativeArea","name":"New Jersey"},"@id":"https://musicbrainz.org/area/85c7cd5f-6fe2-4195-a44d-69fa390bd6ec","name":"Newark","@type":"City"},"foundingDate":"2001"}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc07f0676-9143-4217-8a9f-4c26bd636f13">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fc07f0676-9143-4217-8a9f-4c26bd636f13">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance – My Chemical Romance"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/releases" title="My Chemical Romance"><bdi>Releases</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/recordings" title="My Chemical Romance"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/works" title="My Chemical Romance"><bdi>Works</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/events" title="My Chemical Romance"><bdi>Events</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/relationships" title="My Chemical Romance"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/aliases" title="My Chemical Romance"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/tags" title="My Chemical Romance"><bdi>Tags</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/details" title="My Chemical Romance"><bdi>Details</bdi></a></li>            <li><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/edit" title="My Chemical Romance"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    <p><strong>Also performs as:</strong> <a href="/artist/394039c7-2b58-47c1-b4fb-9580aa8846f7" title="Mad Gear, The and Missile Kid (My Chemical Romance alter-ego)"><bdi>The Mad Gear and Missile Kid</bdi></a> <span class="comment">(<bdi>My Chemical Romance alter-ego</bdi>)</span></p>
+<h2 class="wikipedia">Wikipedia</h2>
+<div class="wikipedia-extract-body wikipedia-extract-collapse"><p><b>My Chemical Romance</b> (often abbreviated as <b>MCR</b>) was an American rock band from New Jersey, active from 2001 to 2013. The band's best-known lineup consisted of lead vocalist Gerard Way, guitarists Ray Toro and Frank Iero, bassist Mikey Way and drummer Bob Bryar. Founded by Gerard, Mikey, Toro, Matt Pelissier, and later joined by Iero, the band signed to Eyeball Records and released their debut album <i>I Brought You My Bullets, You Brought Me Your Love</i> in 2002. They signed with Reprise Records the next year and released their major label debut <i>Three Cheers for Sweet Revenge</i> in 2004. Shortly after the album's release, Pelissier was replaced by Bob Bryar. A commercial success, the album was awarded platinum status over a year later.</p>
+<p>The band eclipsed their previous success with their 2006 concept album, <i>The Black Parade</i>, which gained generally favorable reviews among music critics and was certified double platinum in the United Kingdom, the band's first and only double platinum. After the departure of long-time drummer Bob Bryar in March 2010, the band released their fourth studio album, <i>Danger Days: The True Lives of the Fabulous Killjoys</i>, in November that same year, to positive reviews. After the addition of touring keyboardist James Dewees in 2012 and the release of <i>Conventional Weapons</i>, a series of singles recorded in 2009, released over the course of five months, the band announced its break-up on March 22, 2013, one month after the final release in the <i>Conventional Weapons</i> series. After the band's split, a greatest hits album entitled <i>May Death Never Stop You</i> was released in March 2014. A tenth anniversary reissue of <i>The Black Parade</i> was released in September 2016 titled <i>The Black Parade/Living with Ghosts</i>.</p>
+<p></p></div>
+<a href="https://en.wikipedia.org/wiki/My_Chemical_Romance">Continue reading at Wikipedia...</a>
+<small>Wikipedia content provided under the terms of the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA license</a></small>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=48734" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/e8923ffe-6ea0-3a65-b6e4-90bca0a6d3a8"><bdi>I Brought You My Bullets, You Brought Me Your Love</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/1d563513-87dc-308f-8bac-418fab4054cf"><bdi>Three Cheers for Sweet Revenge</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:47%;">2.35</span>    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bcba43e7-2f72-3b60-b234-577e77fd2d9e"><bdi>The Black Parade</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:60%;">3</span>    </span>
+</span></td><td class="c">8</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/a1bbdaa1-fb64-4db3-a6cd-4a37cd2ffa3e"><bdi>Danger Days: The True Lives of the Fabulous Killjoys</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">10</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/98e3a74a-0ccb-4a2c-a59f-c7cdba306a85"><bdi>Conventional Weapons</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/a92606d1-2b98-4633-adfd-119b8b01f16f"><bdi>May Death Never Stop You</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2016</td>
+        <td><a href="/release-group/eb5eb6ea-1aa0-463f-bb09-3d16c299e203"><bdi>The Black Parade / Living with Ghosts</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/1b9e4fc2-ee6c-32d0-a1d9-04826de0448e"><bdi>Life on the Murder Scene</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/c9f8241d-621d-3751-9461-7384deec5152"><bdi>The Black Parade Is Dead!</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/883227e0-47c1-479c-98c9-d05e06014986"><bdi>iTunes Festival: London 2011</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/242d863f-7296-4488-9f82-0282fc4764a2"><bdi>Vampires Will Never Hurt You</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/da25736c-75eb-4fa6-9cdb-f0c1037c7ac2"><bdi>Honey, This Mirror Isn't Big Enough for the Two of Us</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/77f614e7-1248-3f97-b32c-6727af4a191c"><bdi>Headfirst for Halos</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/474e77e9-c36e-3e37-a465-b4923d554eee"><bdi>I’m Not Okay (I Promise)</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/e06c6a2b-ec8c-34ce-95bf-839dee84a77c"><bdi>Under Pressure</bdi></a></td>
+        
+        <td><a href="/artist/8262d8e4-9137-4bb3-a787-3caabbbc13e9" title="Used, The"><bdi>The Used</bdi></a> &amp; <a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/8fe7ecd1-c19a-3eb5-a7d7-f4fd2fa285c9"><bdi>Helena</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/3107d4fa-af74-3426-a2e2-4d155bbc6876"><bdi>The Ghost of You</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/f1dee607-535a-31db-9b97-c7dc91ab6ab1"><bdi>Welcome to the Black Parade</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/81f60ffc-60d9-3a99-a407-c1e7e62c1272"><bdi>Famous Last Words</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/4e7f77da-98d9-35b5-b2ce-f291a168684a"><bdi>I Don't Love You</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/e1892657-586b-4a35-ba9c-01031408f592"><bdi>Teenagers</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/928817c7-c80f-3237-b1e0-e2d96fe4fd05"><bdi>Desolation Row</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/7f30b05b-d58c-4cd8-920d-29b93ef25262"><bdi>Na Na Na (Na Na Na Na Na Na Na Na Na)</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/f81c3191-3b76-4f9f-8aac-b7d9a3ce4724"><bdi>The Only Hope for Me Is You</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/b454ea0e-cca9-4a35-b6f5-a6bd42edcca5"><bdi>SING</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2011</td>
+        <td><a href="/release-group/6031c491-7c59-473c-b6ce-7cde13595196"><bdi>Planetary (Go!)</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/3eff7c7f-7027-4d6b-9808-423173baae28"><bdi>The Kids From Yesterday</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/9a298836-d7cf-49b7-9eaa-5d729bf7f4de"><bdi>Number One</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/6787f1ea-e976-49c8-8b3d-7951f8ceed6c"><bdi>Number Two</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/fc8fdc50-5f95-489e-a26f-197f5ee18171"><bdi>Number Three</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/1f17e46a-4701-49ca-86e3-5e8fcf5e0fde"><bdi>Number Four</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2013</td>
+        <td><a href="/release-group/ede351ac-840e-402f-89aa-a8ed6ed29029"><bdi>Number Five</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2014</td>
+        <td><a href="/release-group/e805c61c-cec6-4d9e-a9b8-8396bb2aa7f7"><bdi>Fake Your Death</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>EP</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="artist">Artist</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/76e64c99-5efb-414b-bb42-530240e1298c"><bdi>Like Phantoms, Forever</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/282998cb-bd43-39ab-a839-c1e80b167d06"><bdi>Live &amp; Rare</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/78d2d45c-6d3e-4b5a-98fc-0ac2beaabbd0"><bdi>The Black Parade: The B-Sides</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/64bec487-7719-4f1d-9920-c1140405a168"><bdi>The Mad Gear and Missile Kid</bdi></a></td>
+        
+        <td><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13" title="My Chemical Romance"><bdi>My Chemical Romance</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+        <div class="picture">
+    <img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wikimcrnotts.jpg/250px-Wikimcrnotts.jpg"/><br/>
+    <span class="picture-note"><a href="https://commons.wikimedia.org/wiki/File:Wikimcrnotts.jpg">Image from Wikimedia Commons</a></span>
+</div><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>2001</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/85c7cd5f-6fe2-4195-a44d-69fa390bd6ec"><bdi>Newark</bdi></a>, <a href="/area/a36544c1-cb40-4f44-9e0e-7a5a69e403a8"><bdi>New Jersey</bdi></a>, <span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2013-03-22 (12 years)</dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-US"><a href="/area/489ce91b-6658-3307-9877-795b68554c98"><bdi>United States</bdi></a></span></dd>
+<dt>ISNI code:</dt>
+<dd class="isni-code">    <a href="http://isni-url.oclc.nl/isni/0000000121614579">0000 0001 2161 4579    </a></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:84%;">4.2</span>    </span>
+</span>    (<a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/ratings" title="My Chemical Romance"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/alternative"><bdi>alternative</bdi></a>, <a href="/tag/alternative%20rock"><bdi>alternative rock</bdi></a>, <a href="/tag/hard%20rock"><bdi>hard rock</bdi></a>, <a href="/tag/pop%20and%20chart"><bdi>pop and chart</bdi></a>, <a href="/tag/pop%20punk"><bdi>pop punk</bdi></a>, <a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/tags" title="My Chemical Romance"><bdi>more...</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.mychemicalromance.com/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000520545">AllMusic</a>
+          
+          
+        </li>               <li class="bbcmusic-favicon">
+          
+          
+          <a href="http://www.bbc.co.uk/music/artists/c07f0676-9143-4217-8a9f-4c26bd636f13">BBC Music</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/319406">Discogs</a>
+          
+          
+        </li>               <li class="imdb-favicon">
+          
+          
+          <a href="http://www.imdb.com/name/nm1987178/">IMDb</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/My+Chemical+Romance">My Chemical Romance</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/wiki/My_Chemical_Romance">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/mychemicalromance">mychemicalromance</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/my_chemical_romance">Rateyourmusic</a>
+          
+          
+        </li>               <li class="musiksammler-favicon">
+          
+          
+          <a href="https://www.musik-sammler.de/artist/my-chemical-romance/">Musik-Sammler</a>
+          
+          
+        </li>               <li class="whosampled-favicon">
+          
+          
+          <a href="http://www.whosampled.com/My-Chemical-Romance/">WhoSampled</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/artist/id14748659">iTunes</a>
+          
+          
+        </li>               <li class="amazon-favicon">
+          
+          
+          <a href="//www.amazon.com/-/e/B000APSDZY?tag=musicbrainz0d-20">US: B000APSDZY</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="http://www.purevolume.com/mychemicalromance">PureVolume</a>
+          
+          
+        </li>               <li class="twitter-favicon">
+          
+          
+          <a href="https://twitter.com/mcrofficial">@mcrofficial</a>
+          
+          
+        </li>               <li class="facebook-favicon">
+          
+          
+          <a href="https://www.facebook.com/MyChemicalRomance">MyChemicalRomance</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q483285">Q483285</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/My_Chemical_Romance">en: My Chemical Romance</a>
+          
+          
+        </li>               <li class="youtube-favicon">
+          
+          
+          <a href="//www.youtube.com/user/mychemicalromance">mychemicalromance</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/c07f0676-9143-4217-8a9f-4c26bd636f13/relationships" title="My Chemical Romance"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fc07f0676-9143-4217-8a9f-4c26bd636f13">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-10-06 11:00 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+

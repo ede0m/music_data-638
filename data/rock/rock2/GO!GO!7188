@@ -1,0 +1,803 @@
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GO!GO!7188 - MusicBrainz</title><link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/common-f5854ae6ee.css" />
+    <link rel="stylesheet" type="text/css" href="https://musicbrainz.org/static/build/icons-d29d519ce3.css" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Artist" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_artist.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Label" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_label.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Release" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_release.xml" />
+    <link rel="search" type="application/opensearchdescription+xml" title="MusicBrainz: Track" href="https://musicbrainz.org/static/search_plugins/opensearch/musicbrainz_track.xml" />
+    <noscript>
+        <style type="text/css">
+          .header > .right > .bottom > .menu > li:focus > ul {
+            left: auto;
+          }
+        </style>
+    </noscript><script src="https://musicbrainz.org/static/build/jed-en-55a349d345.js"></script><script src="https://musicbrainz.org/static/build/common-8afa17c1ee.js"></script><meta name="description" content="Type: Group, Founded: 1998-06 in Kagoshima, Dissolved: 2012-02-10 in Tokyo, Area: Japan"/><script type="application/ld+json">{"groupOrigin":{"name":"Kagoshima","@id":"https://musicbrainz.org/area/8c660e01-1898-4440-868d-36635c483d82","containedIn":{"containedIn":{"@type":"Country","@id":"https://musicbrainz.org/area/2db42837-c832-3c27-b4a3-08198f75693c","name":"Japan"},"@type":"AdministrativeArea","name":"Kagoshima","@id":"https://musicbrainz.org/area/09ebc145-5447-43d5-8cfd-5b4a5576061d"},"@type":"City"},"member":[{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/39506c74-c751-4c60-b1f1-12ff499a9a82","name":"ゆう"},"roleName":[],"@type":"OrganizationRole"},{"member":{"@type":["Person","MusicGroup"],"@id":"https://musicbrainz.org/artist/c6c1a847-c78f-41fa-b3a0-7f873db00e45","name":"浜田亜紀子"},"roleName":[],"@type":"OrganizationRole"}],"name":"GO!GO!7188","foundingDate":"1998-06","album":[{"creditedTo":"GO!GO!7188","byArtist":{"@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188","@type":"MusicGroup"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/398ffea0-5511-3b49-923a-bb2c2dc79abd","name":"蛇足歩行"},{"@id":"https://musicbrainz.org/release-group/7b9832d6-7cb4-3406-80f8-89ca5bad01ff","albumReleaseType":"http://schema.org/AlbumRelease","name":"魚磔","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"},"creditedTo":"GO!GO!7188"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/eaf59c3e-3e6e-3b2d-9eb4-53b52c1bff12","name":"虎の穴","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188","@type":"MusicGroup"},"creditedTo":"GO!GO!7188"},{"name":"鬣","@id":"https://musicbrainz.org/release-group/7b03c0af-790c-331a-a040-fad1dec5f087","albumReleaseType":"http://schema.org/AlbumRelease","creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"竜舌蘭","@id":"https://musicbrainz.org/release-group/3643b2fd-e9d2-3c12-aef0-56d4ec6a6b0b","albumReleaseType":"http://schema.org/AlbumRelease","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"creditedTo":"GO!GO!7188","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"パレード","@id":"https://musicbrainz.org/release-group/bb2d1f45-a76e-312e-9fa9-1b7e9d1a50dc","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/e6b34ee1-a25d-3100-b05f-58f1578b3aa8","name":"569","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188","@type":"MusicGroup"},"creditedTo":"GO!GO!7188"},{"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"@id":"https://musicbrainz.org/release-group/11661fc7-e0fc-38d8-ba4a-42d2f9906d14","albumReleaseType":"http://schema.org/AlbumRelease","name":"虎の穴2"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/f785ac82-32bf-333c-b8a4-2e913f35ff57","name":"アンテナ","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"creditedTo":"GO!GO!7188","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"name":"Go!!GO!GO!Go!!","@id":"https://musicbrainz.org/release-group/636fe2d6-c3dd-487b-804f-7a119e3f89f1","albumReleaseType":"http://schema.org/AlbumRelease","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"},"creditedTo":"GO!GO!7188"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"creditedTo":"GO!GO!7188","@id":"https://musicbrainz.org/release-group/c8dcd50c-d373-3e58-a1c7-dfc5ba2a9d08","albumReleaseType":"http://schema.org/AlbumRelease","name":"ベスト オブ ゴー！ゴー！"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/183578b9-a328-4928-a274-1e446065202c","name":"アコースティック大作戦!! アコースティック・ライブ・ベスト","albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"}},{"albumProductionType":"http://schema.org/CompilationAlbum","@type":"MusicAlbum","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"},"creditedTo":"GO!GO!7188","name":"レア コレクション オブ ゴー！ ゴー！","@id":"https://musicbrainz.org/release-group/e76f2684-2312-4fc7-8e08-6f6c8f1f25f7","albumReleaseType":"http://schema.org/AlbumRelease"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/8d06f61f-b197-402e-ba5f-2970fe8bbd26","name":"カップリング ベスト オブ ゴー! ゴー!","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"creditedTo":"GO!GO!7188","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum"},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/4e245154-5bfd-4b38-9705-10ad57fa7a7c","name":"ベリー ベスト オブ ゴー!ゴー!","@type":"MusicAlbum","albumProductionType":"http://schema.org/CompilationAlbum","creditedTo":"GO!GO!7188","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"}},{"albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/6ae4ec2f-9f6a-3485-a497-0258c0eb12bb","name":"九・二一事件","albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"creditedTo":"GO!GO!7188"},{"@id":"https://musicbrainz.org/release-group/ac54a66d-1845-33b4-bc16-44d399c9a347","albumReleaseType":"http://schema.org/AlbumRelease","name":"GO!GO!7188 ごんぶとツアー 日本武道館 (完全版)","@type":"MusicAlbum","albumProductionType":"http://schema.org/LiveAlbum","creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"}},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"},"creditedTo":"GO!GO!7188","albumReleaseType":"http://schema.org/AlbumRelease","@id":"https://musicbrainz.org/release-group/7f834831-3661-344b-9a70-d58b11445088","name":"2マンTour徹子のHair \u002b Open Night Family ～夜明けの家族～"},{"albumProductionType":"http://schema.org/LiveAlbum","@type":"MusicAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188","@type":"MusicGroup"},"creditedTo":"GO!GO!7188","@id":"https://musicbrainz.org/release-group/0b423729-8b62-4df8-85fd-d019959fafea","albumReleaseType":"http://schema.org/AlbumRelease","name":"ラストライブ オブ ゴー!ゴー!〜\"Go!!GO!GO!Go!!Tour\"Live 8.7.2010 Tokyo〜"},{"creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"太陽","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/eb2e64fd-660f-346c-8896-7bf5265618c2"},{"creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","@id":"https://musicbrainz.org/release-group/a532d42a-b0c4-381f-a9dc-ddfcfca7318f","albumReleaseType":"http://schema.org/SingleRelease","name":"ジェットにんぢん"},{"name":"こいのうた","@id":"https://musicbrainz.org/release-group/e8b9d347-f514-388a-99fb-1d2cca4aac30","albumReleaseType":"http://schema.org/SingleRelease","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"GO!GO!7188","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"}},{"creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","name":"むし'98","@id":"https://musicbrainz.org/release-group/6cde8dad-78e3-3910-af8d-13d57621b2b2","albumReleaseType":"http://schema.org/SingleRelease"},{"byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"},"creditedTo":"GO!GO!7188","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/917f9899-aea0-3853-b71f-417dac1ac118","name":"ドタン場でキャンセル"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"creditedTo":"GO!GO!7188","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/61d373d2-928a-37a3-92bb-8d21aa447263","name":"あぁ青春"},{"@id":"https://musicbrainz.org/release-group/5579a89b-5e9d-3426-bb97-64c1fc28fd39","albumReleaseType":"http://schema.org/SingleRelease","name":"C7","creditedTo":"GO!GO!7188","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"},"albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/40418ab5-8f61-325a-a33f-859d5c51c1a2","name":"浮舟","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"},"creditedTo":"GO!GO!7188"},{"name":"種","albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/99a5da92-4852-3635-a48a-273a8cf85502","albumProductionType":"http://schema.org/StudioAlbum","@type":"MusicAlbum","creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"}},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/165c87a2-aed0-3d48-b15f-f34982adcbab","name":"瑠璃色","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"},"creditedTo":"GO!GO!7188","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"GO!GO!7188","byArtist":{"name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","@type":"MusicGroup"},"name":"青い亀裂","@id":"https://musicbrainz.org/release-group/81298be4-3436-3c7d-b8f9-c8c161c62337","albumReleaseType":"http://schema.org/SingleRelease"},{"@id":"https://musicbrainz.org/release-group/ce37adb9-dbf2-3353-a260-8f6fefeda4b4","albumReleaseType":"http://schema.org/SingleRelease","name":"近距離恋愛","creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum"},{"albumReleaseType":"http://schema.org/SingleRelease","@id":"https://musicbrainz.org/release-group/11fad6d3-3712-3418-95ab-14fdf011d613","name":"真夏のダンスホール","@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","byArtist":{"@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188","@type":"MusicGroup"},"creditedTo":"GO!GO!7188"},{"creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","name":"GO!GO!7188"},"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","name":"片思いファイター","@id":"https://musicbrainz.org/release-group/1ab94f3c-b3c8-3d7d-a99b-6f046880cd68","albumReleaseType":"http://schema.org/SingleRelease"},{"@type":"MusicAlbum","albumProductionType":"http://schema.org/StudioAlbum","creditedTo":"GO!GO!7188","byArtist":{"@type":"MusicGroup","name":"GO!GO!7188","@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f"},"name":"ふたしかたしか","@id":"https://musicbrainz.org/release-group/5400731a-bcd8-344a-a905-18387fe1275a","albumReleaseType":"http://schema.org/SingleRelease"}],"dissolutionDate":"2012-02-10","@context":"http://schema.org","@type":"MusicGroup","location":{"@type":"Country","name":"Japan","@id":"https://musicbrainz.org/area/2db42837-c832-3c27-b4a3-08198f75693c"},"@id":"https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f","sameAs":["http://en.wikipedia.org/wiki/GO!GO!7188","http://www.allmusic.com/artist/mn0000855833","http://www.generasia.com/wiki/GO!GO!7188","http://www.gogo7188.jp/","http://www.last.fm/music/GO!GO!7188","https://rateyourmusic.com/artist/go_go_7188","https://www.discogs.com/artist/840881","https://www.wikidata.org/wiki/Q742651"]}</script>      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30883270-1']);
+        _gaq.push(['_setCustomVar', 1, 'User is logged in', 'No', 2]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script></head>
+    <body><div class="header">
+            <a href="/" title="MusicBrainz"><img src="/static/images/layout/header-logo.svg" class="logo" /></a>
+            <div class="right">
+                <div class="top"><div class="links-container">
+    <ul class="menu">        <li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fb87963a8-451b-4b19-b200-e6e91113bd0f">Log In</a></li>
+        <li><a href="https://musicbrainz.org/register?uri=%2Fartist%2Fb87963a8-451b-4b19-b200-e6e91113bd0f">Create Account</a></li>    </ul>
+</div>
+
+<div class="search-container">
+    <form action="https://musicbrainz.org/search" method="get">
+        <input class="" id="headerid-query" name="query" placeholder="Search" required="required" type="text" value="" />
+        <select id="headerid-type" name="type"><option value="artist">Artist</option><option value="release_group">Release Group</option><option value="release">Release</option><option value="recording">Recording</option><option value="work">Work</option><option value="label">Label</option><option value="area">Area</option><option value="place">Place</option><option value="annotation">Annotation</option><option value="cdstub">CD Stub</option><option value="editor">Editor</option><option value="freedb">FreeDB</option><option value="tag">Tag</option><option value="instrument">Instrument</option><option value="series">Series</option><option value="event">Event</option><option value="doc">Documentation</option></select>
+        <input class="" id="headerid-method" name="method" type="hidden" value="indexed" />
+        <button type="submit">
+            <img src="/static/images/icons/search.svg" />
+        </button>
+    </form>
+</div>
+                </div>
+                <div class="bottom">
+<ul class="menu">
+    <li class="about" tabindex="-1">
+        <span class="menu-header">About Us&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/About">About MusicBrainz</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/sponsors">Sponsors</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/team">Team</a>
+            </li>
+            <li>
+                <a href="https://metabrainz.org/contact">Contact Us</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/About/Data_License">Data Licenses</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Social_Contract">Social Contract</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Code_of_Conduct">Code of Conduct</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/About/Privacy_Policy">Privacy Policy</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/elections">Auto-editor Elections</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/privileged">Privileged User Accounts</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics">Statistics</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/statistics/timeline">Timeline Graph</a>
+            </li>
+        </ul>
+    </li>
+    <li class="products" tabindex="-1">
+        <span class="menu-header">Products&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="//picard.musicbrainz.org">MusicBrainz Picard</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Magic_MP3_Tagger">Magic MP3 Tagger</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Yate_Music_Tagger">Yate Music Tagger</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_for_Android">MusicBrainz for Android</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Server">MusicBrainz Server</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Database">MusicBrainz Database</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Developer_Resources">Developer Resources</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/XML_Web_Service">XML Web Service</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Live_Data_Feed">Live Data Feed</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/FreeDB_Gateway">FreeDB Gateway</a>
+            </li>
+        </ul>
+    </li>
+    <li class="search" tabindex="-1">
+        <span class="menu-header">Search&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/search">Search Entities</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/tags">Tags</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/cdstub/browse">Top CD Stubs</a>
+            </li>
+        </ul>
+    </li>    <li class="documentation" tabindex="-1">
+        <span class="menu-header">Documentation&#xA0;&#x25BE;</span>
+        <ul>
+            <li>
+                <a href="https://musicbrainz.org/doc/Beginners_Guide">Beginners Guide</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Style">Style Guidelines</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/How_To">How Tos</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/Frequently_Asked_Questions">FAQs</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/doc/MusicBrainz_Documentation">Documentation Index</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Edit_Types">Edit Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/relationships">Relationship Types</a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/instruments">Instrument List</a>
+            </li>
+            <li class="separator">
+                <a href="https://musicbrainz.org/doc/Development">Development</a>
+            </li>
+        </ul>
+    </li>
+
+        <li class="language-selector" tabindex="-1">
+                    <span class="menu-header">English&#xA0;&#x25BE;            </span>
+        <ul>
+            <li>    <a href="https://musicbrainz.org/set-language/de">Deutsch    </a>
+            </li>
+            <li><strong>    <a href="https://musicbrainz.org/set-language/en">English    </a></strong>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/fr">Français    </a>
+            </li>
+            <li>    <a href="https://musicbrainz.org/set-language/nl">Nederlands    </a>
+            </li>
+            <li>
+                <a href="https://musicbrainz.org/set-language/unset">(reset language)</a>
+            </li>
+            <li class="separator">
+                <a href="https://www.transifex.com/musicbrainz/musicbrainz/">
+                    Help Translate
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+            
+        
+
+        
+
+        <div id="page"><div id="content"><div class="artistheader">
+    <h1><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f" title="GO!GO!7188"><bdi>GO!GO!7188</bdi></a></h1>
+    <p class="subheader">
+        <span class="prefix">~</span> Group
+    </p>
+</div><div class="tabs">
+    <ul class="tabs">            <li class="sel"><span class="name-variation"><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f" title="GO!GO!7188 – GO!GO!7188"><bdi>Overview</bdi></a></span></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/releases" title="GO!GO!7188"><bdi>Releases</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/recordings" title="GO!GO!7188"><bdi>Recordings</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/works" title="GO!GO!7188"><bdi>Works</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/events" title="GO!GO!7188"><bdi>Events</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/relationships" title="GO!GO!7188"><bdi>Relationships</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/aliases" title="GO!GO!7188"><bdi>Aliases</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/tags" title="GO!GO!7188"><bdi>Tags</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/details" title="GO!GO!7188"><bdi>Details</bdi></a></li>            <li><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/edit" title="GO!GO!7188"><bdi>Edit</bdi></a></li>    </ul>
+</div>
+
+    
+
+    
+        <span style="display:none" id="wikipedia-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/wikipedia-extract',
+                  function (data) {
+                      $('#wikipedia-insertion-point').replaceWith(data);
+                      MB.makeCollapsible('wikipedia-extract');
+                  },
+                  'html');
+        //]]></script>  <div style="float:right;margin-top:1.5em;"><a class="filter-button"><img src="https://musicbrainz.org/static/images/icons/filter.png" alt="" /></a> <a class="filter-button" href="#">Filter</a></div>    <h2 class="discography">Discography</h2>
+<div id="filter">
+    <form method="get">
+    
+    <input type="hidden" id="filter_ajax_form_url" disabled="disabled" value="https://musicbrainz.org/ajax/filter_artist_release_groups_form?artist_id=167662" />
+    </form>
+</div>
+      <form action="https://musicbrainz.org/release_group/merge_queue" method="post">
+        
+
+
+
+    
+    
+        
+        <h3>Album</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/398ffea0-5511-3b49-923a-bb2c2dc79abd"><bdi>蛇足歩行</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/7b9832d6-7cb4-3406-80f8-89ca5bad01ff"><bdi>魚磔</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/eaf59c3e-3e6e-3b2d-9eb4-53b52c1bff12"><bdi>虎の穴</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/7b03c0af-790c-331a-a040-fad1dec5f087"><bdi>鬣</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/3643b2fd-e9d2-3c12-aef0-56d4ec6a6b0b"><bdi>竜舌蘭</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/bb2d1f45-a76e-312e-9fa9-1b7e9d1a50dc"><bdi>パレード</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">4</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/e6b34ee1-a25d-3100-b05f-58f1578b3aa8"><bdi>569</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:80%;">4</span>    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/11661fc7-e0fc-38d8-ba4a-42d2f9906d14"><bdi>虎の穴2</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/f785ac82-32bf-333c-b8a4-2e913f35ff57"><bdi>アンテナ</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/636fe2d6-c3dd-487b-804f-7a119e3f89f1"><bdi>Go!!GO!GO!Go!!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Compilation</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/c8dcd50c-d373-3e58-a1c7-dfc5ba2a9d08"><bdi>ベスト オブ ゴー！ゴー！</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">5</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2010</td>
+        <td><a href="/release-group/183578b9-a328-4928-a274-1e446065202c"><bdi>アコースティック大作戦!! アコースティック・ライブ・ベスト</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/e76f2684-2312-4fc7-8e08-6f6c8f1f25f7"><bdi>レア コレクション オブ ゴー！ ゴー！</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/8d06f61f-b197-402e-ba5f-2970fe8bbd26"><bdi>カップリング ベスト オブ ゴー! ゴー!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/4e245154-5bfd-4b38-9705-10ad57fa7a7c"><bdi>ベリー ベスト オブ ゴー!ゴー!</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Album + Live</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/6ae4ec2f-9f6a-3485-a497-0258c0eb12bb"><bdi>九・二一事件</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2005</td>
+        <td><a href="/release-group/ac54a66d-1845-33b4-bc16-44d399c9a347"><bdi>GO!GO!7188 ごんぶとツアー 日本武道館 (完全版)</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/7f834831-3661-344b-9a70-d58b11445088"><bdi>2マンTour徹子のHair + Open Night Family ～夜明けの家族～</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2012</td>
+        <td><a href="/release-group/0b423729-8b62-4df8-85fd-d019959fafea"><bdi>ラストライブ オブ ゴー!ゴー!〜&quot;Go!!GO!GO!Go!!Tour&quot;Live 8.7.2010 Tokyo〜</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+        
+            </tbody>
+        </table>
+        
+        <h3>Single</h3>
+        <table class="tbl release-group-list">
+            
+  <thead>
+    <tr>
+      
+      
+      <th class="year c">Year</th>
+      <th>Title</th>
+      
+      <th class="rating c">Rating</th><th class="count c">Releases</th>
+    </tr>
+  </thead>
+
+            <tbody>
+        
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/eb2e64fd-660f-346c-8896-7bf5265618c2"><bdi>太陽</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/a532d42a-b0c4-381f-a9dc-ddfcfca7318f"><bdi>ジェットにんぢん</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/e8b9d347-f514-388a-99fb-1d2cca4aac30"><bdi>こいのうた</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2000</td>
+        <td><a href="/release-group/6cde8dad-78e3-3910-af8d-13d57621b2b2"><bdi>むし'98</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/917f9899-aea0-3853-b71f-417dac1ac118"><bdi>ドタン場でキャンセル</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/61d373d2-928a-37a3-92bb-8d21aa447263"><bdi>あぁ青春</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2001</td>
+        <td><a href="/release-group/5579a89b-5e9d-3426-bb97-64c1fc28fd39"><bdi>C7</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2002</td>
+        <td><a href="/release-group/40418ab5-8f61-325a-a33f-859d5c51c1a2"><bdi>浮舟</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/99a5da92-4852-3635-a48a-273a8cf85502"><bdi>種</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2003</td>
+        <td><a href="/release-group/165c87a2-aed0-3d48-b15f-f34982adcbab"><bdi>瑠璃色</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2004</td>
+        <td><a href="/release-group/81298be4-3436-3c7d-b8f9-c8c161c62337"><bdi>青い亀裂</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2006</td>
+        <td><a href="/release-group/ce37adb9-dbf2-3353-a260-8f6fefeda4b4"><bdi>近距離恋愛</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2007</td>
+        <td><a href="/release-group/11fad6d3-3712-3418-95ab-14fdf011d613"><bdi>真夏のダンスホール</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">2</td>
+    </tr>    
+    
+    <tr class="odd">
+        
+        
+        <td class="c">2008</td>
+        <td><a href="/release-group/1ab94f3c-b3c8-3d7d-a99b-6f046880cd68"><bdi>片思いファイター</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">3</td>
+    </tr>    
+    
+    <tr class="even">
+        
+        
+        <td class="c">2009</td>
+        <td><a href="/release-group/5400731a-bcd8-344a-a905-18387fe1275a"><bdi>ふたしかたしか</bdi></a></td>
+        <td class="c"><span class="inline-rating">
+    <span class="star-rating">    </span>
+</span></td><td class="c">1</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+        
+      </form>
+    <p>Showing official release groups by this artist. <a href="https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f?all=1">Show all release groups instead</a>, or <a href="https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f?va=1">show various artists release groups</a>.</p>
+</div>
+    <div id="sidebar">
+                <span style="display:none" id="image-insertion-point"></span>
+        <script type="text/javascript">//<![CDATA[
+            $.get('https://musicbrainz.org/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/commons-image',
+                  function (data) {
+                      $('#image-insertion-point').replaceWith(data);
+                  },
+                  'html');
+        //]]></script><h2 class="artist-information">Artist information</h2><dl class="properties ">
+    <dt>Type:</dt>
+<dd class="type">Group</dd>
+<dt>Founded:</dt>
+<dd>1998-06</dd>
+<dt>Founded in:</dt>
+<dd class="begin_area"><a href="/area/8c660e01-1898-4440-868d-36635c483d82"><bdi>Kagoshima</bdi></a>, <a href="/area/09ebc145-5447-43d5-8cfd-5b4a5576061d"><bdi>Kagoshima</bdi></a>, <span class="flag flag-JP"><a href="/area/2db42837-c832-3c27-b4a3-08198f75693c"><bdi>Japan</bdi></a></span></dd>
+<dt>Dissolved:</dt>
+<dd>2012-02-10 (13 years)</dd>
+<dt>Dissolved in:</dt>
+<dd class="end_area"><a href="/area/8dc97297-ac95-4d33-82bc-e07fab26fb5f"><bdi>Tokyo</bdi></a>, <span class="flag flag-JP"><a href="/area/2db42837-c832-3c27-b4a3-08198f75693c"><bdi>Japan</bdi></a></span></dd>
+<dt>Area:</dt>
+<dd class="area"><span class="flag flag-JP"><a href="/area/2db42837-c832-3c27-b4a3-08198f75693c"><bdi>Japan</bdi></a></span></dd>
+
+</dl>
+<h2 class="rating">Rating</h2>
+<p>
+    <span class="inline-rating">
+    <span class="star-rating">        <span class="current-rating" style="width:100%;">5</span>    </span>
+</span>    (<a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/ratings" title="GO!GO!7188"><bdi>see all ratings</bdi></a>)</p>
+
+<h2>Tags</h2>
+
+<div id="sidebar-tags">
+  <p>
+    <a href="/tag/rock"><bdi>rock</bdi></a>, <a href="/tag/japanese"><bdi>japanese</bdi></a>, <a href="/tag/fixme%20label%20mess"><bdi>fixme label mess</bdi></a>, <a href="/tag/likedis%20auto"><bdi>likedis auto</bdi></a>
+  </p>
+</div>
+<h2 class="external-links">External links</h2>
+<ul class="external_links">               <li class="home-favicon">
+          
+          
+          <a href="http://www.gogo7188.jp/">Official homepage</a>
+          
+          
+        </li>               <li class="allmusic-favicon">
+          
+          
+          <a href="http://www.allmusic.com/artist/mn0000855833">AllMusic</a>
+          
+          
+        </li>               <li class="discogs-favicon">
+          
+          
+          <a href="https://www.discogs.com/artist/840881">Discogs</a>
+          
+          
+        </li>               <li class="lastfm-favicon">
+          
+          
+          <a href="http://www.last.fm/music/GO!GO!7188">GO!GO!7188</a>
+          
+          
+        </li>               <li class="no-favicon">
+          
+          
+          <a href="//lyrics.wikia.com/GO!GO!7188">LyricWiki</a>
+          
+          
+        </li>               <li class="myspace-favicon">
+          
+          
+          <a href="https://myspace.com/gogo7188">gogo7188</a>
+          
+          
+        </li>               <li class="rateyourmusic-favicon">
+          
+          
+          <a href="https://rateyourmusic.com/artist/go_go_7188">Rateyourmusic</a>
+          
+          
+        </li>               <li class="generasia-favicon">
+          
+          
+          <a href="http://www.generasia.com/wiki/GO!GO!7188">generasia</a>
+          
+          
+        </li>               <li class="itunes-favicon">
+          
+          
+          <a href="https://itunes.apple.com/jp/artist/id74586405">iTunes</a>
+          
+          
+        </li>               <li class="spotify-favicon">
+          
+          
+          <a href="http://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu">Stream at Spotify</a>
+          
+          
+        </li>               <li class="wikidata-favicon">
+          
+          
+          <a href="//www.wikidata.org/wiki/Q742651">Q742651</a>
+          
+          
+        </li>               <li class="wikipedia-favicon">
+          
+          
+          <a href="//en.wikipedia.org/wiki/GO!GO!7188">en: GO!GO!7188</a>
+          
+          
+        </li>        <li class="all-relationships"><a href="/artist/b87963a8-451b-4b19-b200-e6e91113bd0f/relationships" title="GO!GO!7188"><bdi>View all relationships</bdi></a></li></ul><h2 class="editing">Editing</h2>
+    <ul class="links"><li><a href="https://musicbrainz.org/login?uri=%2Fartist%2Fb87963a8-451b-4b19-b200-e6e91113bd0f">Log in to edit</a></li></ul><p class="lastupdate">Last updated on 2016-02-21 16:51 UTC</p>
+    </div>
+
+            <div style="clear: both"></div>
+        </div>
+
+        <div id="footer">
+            <p class="left">
+                <a href="https://metabrainz.org/donate" class="internal">Donate</a> |
+                <a href="//wiki.musicbrainz.org/" class="internal">Wiki</a> |
+                <a href="https://community.metabrainz.org/" class="internal">Forums</a> |
+                <a href="http://tickets.musicbrainz.org/" class="internal">Bug Tracker</a> |
+                <a href="https://twitter.com/MusicBrainz" class="internal">Twitter</a> |
+                <a href="https://musicbrainz.org/set-beta-preference" class="internal">Use beta site</a>                            </p>
+
+            <p class="right">
+                Brought to you by <a href="https://metabrainz.org/">MetaBrainz Foundation</a> and our <a href="https://metabrainz.org/sponsors">sponsors</a> and <a href="https://metabrainz.org/supporters">supporters</a>. Cover Art provided by the <a href="//coverartarchive.org/">Cover Art Archive</a>.
+            </p>
+        </div>
+    </body>
+</html>
+
