@@ -29,12 +29,11 @@
       </header>
       <section>
         <h3>
-<a id="stage-1" class="anchor" href="#stage-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Stage 1</h3>
+<a id="data-acquisition" class="anchor" href="#data-acquisition" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Acquisition</h3>
 
 <hr>
 
-<p>Data acquisition: Used <em>scrapy</em> to extract music data from <a href="https://musicbrainz.org/">https://musicbrainz.org/</a>. For this site we focused on song<br>
-attributes including <strong>genre</strong>, <strong>title</strong> and <strong>artist</strong>. </p>
+<p>Used <em>scrapy</em> to extract music data from <a href="https://musicbrainz.org/">https://musicbrainz.org/</a>. For this site we focused on song attributes including <strong>genre</strong>, <strong>title</strong> and <strong>artist</strong>. </p>
 
 <ul>
 <li>
@@ -42,17 +41,6 @@ attributes including <strong>genre</strong>, <strong>title</strong> and <strong>
 </li>
 <li><a href="https://github.com/Garritt/music_data-638/tree/master/data">html data</a></li>
 </ul>
-
-<h3>
-<a id="stage-2" class="anchor" href="#stage-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Stage 2</h3>
-
-<hr>
-
-<p>Empty values and non-ascii characters were removed from musicbrainz data.  </p>
-
-<p>removed <strong>912</strong> examples because of character encoding and malformed data<br>
-  removed <strong>12690</strong> examples because of missing data<br>
-  traversed <strong>33144</strong> examples total  </p>
 
 <p>Data was acquired from <a href="http://labrosa.ee.columbia.edu/millionsong/">http://labrosa.ee.columbia.edu/millionsong/</a><br>
 focusing on attributes <strong>tempo</strong> <strong>duration</strong> and <strong>key</strong></p>
@@ -62,11 +50,22 @@ focusing on attributes <strong>tempo</strong> <strong>duration</strong> and <str
 </ul>
 
 <h3>
+<a id="cleaning" class="anchor" href="#cleaning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Cleaning</h3>
+
+<hr>
+
+<p>Empty values and non-ascii characters were removed from musicbrainz data.  </p>
+
+<p>removed <em>912</em> examples because of character encoding and malformed data<br>
+  removed <em>12690</em> examples because of missing data<br>
+  traversed <em>33144</em> examples total  </p>
+
+<h3>
 <a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributors</h3>
 
-<p>Garritt Moede -- <a href="mailto:gmoede@wisc.edu">gmoede@wisc.edu</a><br>
-  Cormick Hnilicka -- <a href="mailto:cvhnilicka@wisc.edu">cvhnilicka@wisc.edu</a><br>
-  Evan Kivolowitz  </p>
+<p>Evan Kivolowitz<br>
+  Garritt Moede -- <a href="mailto:gmoede@wisc.edu">gmoede@wisc.edu</a><br>
+  Cormick Hnilicka -- <a href="mailto:cvhnilicka@wisc.edu">cvhnilicka@wisc.edu</a>  </p>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/Garritt">Garritt</a></p>
