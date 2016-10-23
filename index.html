@@ -36,17 +36,30 @@
 <p>Data acquisition: Used <em>scrapy</em> to extract music data from <a href="https://musicbrainz.org/">https://musicbrainz.org/</a>. For this site we focused on song<br>
 attributes including <strong>genre</strong>, <strong>title</strong> and <strong>artist</strong>. </p>
 
-<hr>
-
-<p><a href="usable_data.csv">musicbrainz_scrape.csv</a><br>
-  <a href="data/">html data</a></p>
+<ul>
+<li>
+<a href="https://github.com/Garritt/music_data-638/blob/master/csv/usable_data.csv">musicbrainz_scrape.csv</a><br>
+</li>
+<li><a href="https://github.com/Garritt/music_data-638/tree/master/data">html data</a></li>
+</ul>
 
 <h3>
 <a id="stage-2" class="anchor" href="#stage-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Stage 2</h3>
 
 <hr>
 
-<p>Empty values and non-ascii characters were removed from musicbrainz data.</p>
+<p>Empty values and non-ascii characters were removed from musicbrainz data.  </p>
+
+<p>removed <strong>912</strong> examples because of character encoding and malformed data<br>
+  removed <strong>12690</strong> examples because of missing data<br>
+  traversed <strong>33144</strong> examples total  </p>
+
+<p>Data was acquired from <a href="http://labrosa.ee.columbia.edu/millionsong/">http://labrosa.ee.columbia.edu/millionsong/</a><br>
+focusing on attributes <strong>tempo</strong> <strong>duration</strong> and <strong>key</strong></p>
+
+<ul>
+<li><a href="https://github.com/Garritt/music_data-638/tree/master/csv/MSD">dump</a></li>
+</ul>
 
 <h3>
 <a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributors</h3>
