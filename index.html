@@ -7,8 +7,7 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -16,22 +15,21 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header">- Music_Data Set  -</h1>
-        <p class="header">UW Madison CS638</p>
+        <h1>- Music_Data Set  -</h1>
+        <p>UW Madison CS638</p>
+
+        <p class="view"><a href="https://github.com/Garritt/music_data-638">View the Project on GitHub <small>Garritt/music_data-638</small></a></p>
+
 
         <ul>
-          <li class="download"><a class="buttons" href="https://github.com/Garritt/music_data-638/zipball/master">Download ZIP</a></li>
-          <li class="download"><a class="buttons" href="https://github.com/Garritt/music_data-638/tarball/master">Download TAR</a></li>
-          <li><a class="buttons github" href="https://github.com/Garritt/music_data-638">View On GitHub</a></li>
+          <li><a href="https://github.com/Garritt/music_data-638/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/Garritt/music_data-638/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/Garritt/music_data-638">View On <strong>GitHub</strong></a></li>
         </ul>
-
-        <p class="header">This project is maintained by <a class="header name" href="https://github.com/Garritt">Garritt</a></p>
-
-
       </header>
       <section>
-        <h3>
-<a id="data-acquisition" class="anchor" href="#data-acquisition" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Acquisition</h3>
+        <h2>
+<a id="data-acquisition" class="anchor" href="#data-acquisition" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Acquisition</h2>
 
 <hr>
 
@@ -51,8 +49,8 @@ focusing on attributes <strong>artist</strong>, <strong>song_title</strong>, <st
 <li><a href="https://github.com/Garritt/music_data-638/tree/master/csv/MSD">dump</a></li>
 </ul>
 
-<h3>
-<a id="cleaning" class="anchor" href="#cleaning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Cleaning</h3>
+<h2>
+<a id="cleaning" class="anchor" href="#cleaning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Cleaning</h2>
 
 <hr>
 
@@ -62,20 +60,20 @@ focusing on attributes <strong>artist</strong>, <strong>song_title</strong>, <st
   removed <em>12690</em> examples because of missing data<br>
   traversed <em>33144</em> examples total  </p>
 
-<h3>
-<a id="transformation" class="anchor" href="#transformation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Transformation</h3>
+<h2>
+<a id="transformation" class="anchor" href="#transformation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Transformation</h2>
 
 <hr>
 
 <p>Examples from both musicbrainz data and dump data were matched according to song_title and artist.<br>
-Select attributes <strong>tempo</strong> and <strong>duration</strong> were added to examples that matched from musicbrainz data to form new tables.  </p>
+Select attributes <strong>tempo</strong> and <strong>duration</strong> were added to examples that matched from musicbrainz data to form transformed tables.  </p>
 
 <ul>
 <li><a href="https://github.com/Garritt/music_data-638/tree/master/csv/tables">transformed_tables</a></li>
 </ul>
 
-<h3>
-<a id="exploration" class="anchor" href="#exploration" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Exploration</h3>
+<h2>
+<a id="exploration" class="anchor" href="#exploration" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Exploration</h2>
 
 <hr>
 
@@ -83,17 +81,21 @@ Select attributes <strong>tempo</strong> and <strong>duration</strong> were adde
 <em>AVG_TITLE_LEN, AVG_ARTIST_LEN, AVG_TEMPO, AVG_DURATION, MX_TITLE_LEN, MX_ARTIST_LEN, MX_TEMPO, MX_DURATION, GENRE_COUNT, MISSING_GENRES</em></p>
 
 <h3>
-<a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributors</h3>
+<a id="aggregated-statistics" class="anchor" href="#aggregated-statistics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Aggregated Statistics</h3>
+
+<h2>
+<a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributors</h2>
 
 <p>Evan Kivolowitz<br>
   Garritt Moede -- <a href="mailto:gmoede@wisc.edu">gmoede@wisc.edu</a><br>
   Cormick Hnilicka -- <a href="mailto:cvhnilicka@wisc.edu">cvhnilicka@wisc.edu</a>  </p>
       </section>
       <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+        <p>This project is maintained by <a href="https://github.com/Garritt">Garritt</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-		
+    <script src="javascripts/scale.fix.js"></script>
+    
   </body>
 </html>
