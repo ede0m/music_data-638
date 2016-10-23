@@ -133,18 +133,28 @@ print("Q3 Title Length: ", quartile3Title)
 print("\nQ1 Artist Length: ", quartile1Artist)
 print("Q3 Artist Length: ", quartile3Artist)
 
-# BINS_Title = list(range(0,40))
 
+#Uncomment each one you want to show. If you uncomment multiple the code hangs until
+#you close the tkinter window.
+
+# BINS_Title = list(range(0,40))
 # plt.hist(len_title_array,bins = BINS_Title)
 # plt.xlabel("Song Title Length in Characters")
 # plt.ylabel("Instances")
 # plt.title("Histogram Song Title Length")
 # plt.show()
 
-BINS_Artist = list(range(0,55))
 
-plt.hist(len_artist_array, bins = BINS_Artist)
-plt.xlabel("Artist Length in Characters")
-plt.ylabel("Instances")
-plt.title("Histogram Artist Length")
+# BINS_Artist = list(range(0,55))
+# plt.hist(len_artist_array, bins = BINS_Artist)
+# plt.xlabel("Artist Length in Characters")
+# plt.ylabel("Instances")
+# plt.title("Histogram Artist Length")
+# plt.show()
+
+plt.bar(range(len(count_dict)), count_dict.values(), align='center')
+plt.xticks(range(len(count_dict)), count_dict.keys())
+plt.title("Bar Chart of Genres")
+plt.xlabel("Genre")
+plt.ylabel("Instance of Genre")
 plt.show()
