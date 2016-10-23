@@ -1,0 +1,6 @@
+{
+  "name": "- Music_Data Set  -",
+  "tagline": "UW Madison CS638",
+  "body": "\r\n### Stage 1\r\n-----------------\r\nData acquisition: Used _scrapy_ to extract music data from [https://musicbrainz.org/](https://musicbrainz.org/). For this site we focused on song  \r\nattributes including **genre**, **title** and **artist**. \r\n\r\n------------------------------------------------------------------------------\r\n\r\n  [musicbrainz_scrape.csv](usable_data.csv)  \r\n  [html data](data/)\r\n\r\n\r\n\r\n### Stage 2\r\n------------------------------------------------------------\r\nEmpty values and non-ascii characters were removed from musicbrainz data.\r\n \r\n### Contributors  \r\n    \r\n  Garritt Moede -- gmoede@wisc.edu  \r\n  Cormick Hnilicka -- cvhnilicka@wisc.edu  \r\n  Evan Kivolowitz  ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
