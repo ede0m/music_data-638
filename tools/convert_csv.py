@@ -6,7 +6,7 @@ usable_data = open("../csv/usable_data.csv", 'w')
 empty = 0
 bad_char = 0 
 
-with open('data_merge.json', encoding='utf-8') as dfile:
+with open('../json/data_merge.json', encoding='utf-8') as dfile:
 	data = json.load(dfile)
 
 usable_data.write("ID, Artist, Song, Genre\n")
