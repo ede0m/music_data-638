@@ -9,7 +9,7 @@
 
 import os
 
-data_file_path = "../csv/tables/table_.csv"
+data_file_path = "../csv/tables/table_merge.csv"
 fp = os.path.relpath(data_file_path, os.curdir)
 
 av_len_artist = 0
@@ -44,11 +44,11 @@ with open(fp,'r') as data_file:
 	for i,info in enumerate(itr):
 		data = info.split(',')
 
-		artist = data[1]
-		title = data[2]
-		genre = data[3]
-		tempo = float(data[4])
-		duration = float(data[5])
+		artist = data[0]
+		title = data[1]
+		genre = data[2]
+		tempo = float(data[3])
+		duration = float(data[4])
 
 		artist_len = len(artist)
 		av_len_artist = av_len_artist + artist_len

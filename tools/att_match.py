@@ -13,8 +13,8 @@
 import os
 
 
-#data_file_path_1 = "../csv/dump_CSV_sample.csv"
-data_file_path_1 = "../csv/MSD/msd_3.csv"
+data_file_path_1 = "../csv/dump_CSV_sample.csv"
+#data_file_path_1 = "../csv/MSD/msd_2.csv"
 fp = os.path.relpath(data_file_path_1, os.curdir)
 
 data_file_path_2 = "../csv/usable_data.csv"
@@ -22,8 +22,8 @@ fp2 = os.path.relpath(data_file_path_2, os.curdir)
 
 matches = 0
 usable_data = []
-table_A = open("../csv/tables/table_3.csv", 'w')
-table_A.write("ID, Artist, Song, Genre, Tempo, Duration\n")
+table_A = open("../csv/tables/table_sample.csv", 'w')
+table_A.write("Artist, Song, Genre, Tempo, Duration\n")
 
 with open(fp2,'r') as data_file:
 	for i,info in enumerate(data_file):
@@ -55,7 +55,7 @@ with open(fp,'r') as data_file:
 				genre = item[1].replace("\n","")
 				string = str(matches)+",  "+artist+",  "+title+",  "+genre+",  "+tempo+",  "+duration+"\n"
 				print(string)
-				table_A.write(str(matches)+","+artist+","+title+","+genre+","+tempo+","+duration+"\n")
+				table_A.write(artist+","+title+","+genre+","+tempo+","+duration+"\n")
 				break
 
 
