@@ -1,6 +1,7 @@
 ##############################################################
 #
 #	Simple script for stats on CSV music table. 
+#   Change data_file_path to point to csv table to analyze 
 #
 #		Garritt Moede
 #
@@ -8,7 +9,7 @@
 
 import os
 
-data_file_path = "../csv/table_.csv"
+data_file_path = "../csv/tables/table_.csv"
 fp = os.path.relpath(data_file_path, os.curdir)
 
 av_len_artist = 0

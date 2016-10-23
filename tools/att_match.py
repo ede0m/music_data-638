@@ -14,7 +14,7 @@ import os
 
 
 #data_file_path_1 = "../csv/dump_CSV_sample.csv"
-data_file_path_1 = "../csv/MDS_3.csv"
+data_file_path_1 = "../csv/MSD/msd_3.csv"
 fp = os.path.relpath(data_file_path_1, os.curdir)
 
 data_file_path_2 = "../csv/usable_data.csv"
@@ -22,7 +22,7 @@ fp2 = os.path.relpath(data_file_path_2, os.curdir)
 
 matches = 0
 usable_data = []
-table_A = open("../csv/table_3.csv", 'w')
+table_A = open("../csv/tables/table_3.csv", 'w')
 table_A.write("ID, Artist, Song, Genre, Tempo, Duration\n")
 
 with open(fp2,'r') as data_file:
@@ -36,6 +36,7 @@ with open(fp2,'r') as data_file:
 
 with open(fp,'r') as data_file:
 	for i,info in enumerate(data_file):
+
 		data = info.split(',')
 		title = data[8]
 		title = title.replace("b","")
