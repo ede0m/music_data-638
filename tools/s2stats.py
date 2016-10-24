@@ -181,20 +181,20 @@ print('Q3 DURATION:  ', q3Duration)
 # plt.show()
 
 #Tempo Histogram
-TEMPO_BINS = list(range(0,int(mx_tmpo)))
-plt.hist(tempos, bins=TEMPO_BINS)
-plt.title('Histogram Tempo per Song')
-plt.xlabel('Tempo (Beats Per Minute)')
-plt.ylabel('Instances')
-plt.show()
+# TEMPO_BINS = list(range(0,int(mx_tmpo)))
+# plt.hist(tempos, bins=TEMPO_BINS)
+# plt.title('Histogram Tempo per Song')
+# plt.xlabel('Tempo (Beats Per Minute)')
+# plt.ylabel('Instances')
+# plt.show()
 
-#Duration Histogram
-DURATION_BINS = list(range(0,int(mx_dur)))
-plt.hist(durations, bins= DURATION_BINS)
-plt.title("Durations Of Songs")
-plt.xlabel("Duration (in seconds)")
-plt.ylabel("Instances")
-plt.show()
+# #Duration Histogram
+# DURATION_BINS = list(range(0,int(mx_dur)))
+# plt.hist(durations, bins= DURATION_BINS)
+# plt.title("Durations Of Songs")
+# plt.xlabel("Duration (in seconds)")
+# plt.ylabel("Instances")
+# plt.show()
 #Genre bar chart
 # plt.bar(range(len(count_dict)), count_dict.values(), align='center')
 # plt.xticks(range(len(count_dict)), count_dict.keys())
