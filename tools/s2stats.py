@@ -8,6 +8,7 @@
 #
 import matplotlib.pyplot as plt
 import os
+from collections import Counter
 
 data_file_path = "../csv/tables/table_merge.csv"
 fp = os.path.relpath(data_file_path, os.curdir)
@@ -226,6 +227,11 @@ print('Q3 DURATION:  ', q3Duration)
 for genre, bpm in bpm_dict.items():
 	plt.figure()
 	bpm.sort()
+
+	#converts all items to an int
+	bpm = list(map(int, bpm))
+	mode = Counter(bpm)
+	print("Genre: " + str(genre) + " MODE IS: " + str(mode.most_common(1)))
 	BINS = list(range(0,int(bpm[-1])))
 	plt.hist(bpm, bins = BINS)
 	plt.title("BPM for " + str(genre))
