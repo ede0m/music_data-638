@@ -45,6 +45,21 @@ count_dict = {
 	"folk":0
 }
 
+bpm_dict = {
+	"pop":[],
+	"rock":[],
+	"country":[],
+	"electronic":[],
+	"indie":[],
+	"blues":[],
+	"classical":[],
+	"hip-hop":[],
+	"jazz":[],
+	"alternative":[],
+	"folk":[]	
+}
+
+
 genre_miss = 0
 
 with open(fp,'r') as data_file:
@@ -64,6 +79,7 @@ with open(fp,'r') as data_file:
 		len_artist_array.append(artist_len)
 		tempos.append(tempo)
 		durations.append(duration)
+
 
 
 		av_len_artist = av_len_artist + artist_len
@@ -95,6 +111,9 @@ with open(fp,'r') as data_file:
 			mn_dur = duration
 		try:
 			count_dict[genre] += 1
+			temp_list = bpm_dict[genre]
+			temp_list.append(tempo)
+			bpm_dict[genre] = temp_list
 		except KeyError:
 			genre_miss+= 1
 
@@ -203,3 +222,12 @@ print('Q3 DURATION:  ', q3Duration)
 # plt.ylabel("Instance of Genre")
 # plt.show()
 
+#BPM by Genre
+# for genre, bpm in bpm_dict.items():
+# 	bpm.sort()
+# 	BINS = list(range(0,int(bpm[-1])))
+# 	plt.hist(bpm, bins = BINS)
+# 	plt.title("BPM for " + str(genre))
+# 	plt.xlabel("BPM")
+# 	plt.ylabel("Instances")
+# 	plt.savefig('../visual/GenreBPM/' + str(genre) + "bpm.png")
