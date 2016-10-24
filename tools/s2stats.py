@@ -223,11 +223,12 @@ print('Q3 DURATION:  ', q3Duration)
 # plt.show()
 
 #BPM by Genre
-# for genre, bpm in bpm_dict.items():
-# 	bpm.sort()
-# 	BINS = list(range(0,int(bpm[-1])))
-# 	plt.hist(bpm, bins = BINS)
-# 	plt.title("BPM for " + str(genre))
-# 	plt.xlabel("BPM")
-# 	plt.ylabel("Instances")
-# 	plt.savefig('../visual/GenreBPM/' + str(genre) + "bpm.png")
+for genre, bpm in bpm_dict.items():
+	plt.figure()
+	bpm.sort()
+	BINS = list(range(0,int(bpm[-1])))
+	plt.hist(bpm, bins = BINS)
+	plt.title("BPM for " + str(genre))
+	plt.xlabel("BPM")
+	plt.ylabel("Instances")
+	plt.savefig('../visual/GenreBPM/' + str(genre) + "bpm.png")
