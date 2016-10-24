@@ -184,21 +184,25 @@ print('Q3 DURATION:  ', q3Duration)
 #Uncomment each one you want to show. If you uncomment multiple the code hangs until
 #you close the tkinter window.
 
-#Song title length hist
-# BINS_Title = list(range(0,int(mx_len_title)))
-# plt.hist(len_title_array,bins = BINS_Title)
-# plt.xlabel("Song Title Length in Characters")
-# plt.ylabel("Instances")
-# plt.title("Histogram Song Title Length")
+# #Song title length hist
+BINS_Title = list(range(0,int(mx_len_title)))
+plt.hist(len_title_array,bins = BINS_Title)
+plt.xlabel("Song Title Length in Characters")
+plt.ylabel("Instances")
+plt.title("Histogram Song Title Length")
+plt.savefig('../visual/title_len.png')
 # plt.show()
 
-#Artist Len histogram
-# BINS_Artist = list(range(0,int(mx_len_artist)))
-# plt.hist(len_artist_array, bins = BINS_Artist)
-# plt.xlabel("Artist Length in Characters")
-# plt.ylabel("Instances")
-# plt.title("Histogram Artist Length")
-# plt.show()
+# #Artist Len histogram
+BINS_Artist = list(range(0,int(mx_len_artist)))
+plt.hist(len_artist_array, bins = BINS_Artist)
+axes = plt.gca()
+axes.set_xlim([0,80])
+plt.xlabel("Artist Length in Characters")
+plt.ylabel("Instances")
+plt.title("Histogram Artist Length")
+plt.savefig('../visual/artist_len.png')
+#plt.show()
 
 #Tempo Histogram
 # TEMPO_BINS = list(range(0,int(mx_tmpo)))
@@ -206,21 +210,25 @@ print('Q3 DURATION:  ', q3Duration)
 # plt.title('Histogram Tempo per Song')
 # plt.xlabel('Tempo (Beats Per Minute)')
 # plt.ylabel('Instances')
-# plt.show()
+# plt.savefig('../visual/tempo.png')
+# # plt.show()
 
-# #Duration Histogram
+#Duration Histogram
 # DURATION_BINS = list(range(0,int(mx_dur)))
 # plt.hist(durations, bins= DURATION_BINS)
 # plt.title("Durations Of Songs")
 # plt.xlabel("Duration (in seconds)")
 # plt.ylabel("Instances")
-# plt.show()
-#Genre bar chart
-# plt.bar(range(len(count_dict)), count_dict.values(), align='center')
-# plt.xticks(range(len(count_dict)), count_dict.keys())
-# plt.title("Bar Chart of Genres")
-# plt.xlabel("Genre")
-# plt.ylabel("Instance of Genre")
+# plt.savefig('../visual/durations.png')
+#plt.show()
+
+# #Genre bar chart
+plt.bar(range(len(count_dict)), count_dict.values(), align='center')
+plt.xticks(range(len(count_dict)), count_dict.keys())
+plt.title("Bar Chart of Genres")
+plt.xlabel("Genre")
+plt.ylabel("Instance of Genre")
+plt.savefig('../visual/genres.png')
 # plt.show()
 
 #BPM by Genre
