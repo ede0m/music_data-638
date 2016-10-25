@@ -21,7 +21,7 @@ data_file_path_2 = "../csv/usable_data.csv"
 fp2 = os.path.relpath(data_file_path_2, os.curdir)
 
 matches = 0
-usable_data = []
+usable_data = {}
 table_A = open("../csv/tables/table_6.csv", 'w')
 table_A.write("Artist, Song, Genre, Tempo, Duration\n")
 
@@ -30,11 +30,13 @@ with open(fp2,'r') as data_file:
 		data = info.split(',')
 		title = data[2]
 		genre = data[3]
-		hold = (title, genre)
-		usable_data.append(hold)
+		usable_data[title] = genre
 
+
+## TY FOR NOT HITTING WORST CASE, WHY IS THIS AS FAST AS IT IS?
 
 with open(fp,'r') as data_file:
+
 	for i,info in enumerate(data_file):
 
 		data = info.split(',')
@@ -42,20 +44,19 @@ with open(fp,'r') as data_file:
 		title = title.replace("b","")
 		title = title.replace("\"", "")
 		title = title.replace("\'","")
+		
+		genre = usable_data.get(title)
 
-		for item in usable_data:		
-			if item[0] == title:
-				matches = matches + 1
-				artist = data[2].replace("b","")
-				artist = artist.replace("\"", "")
-				artist = artist.replace("\'", "")
-				artist = artist.split("/")[0]
-				duration = data[4]
-				tempo = data[6]
-				genre = item[1].replace("\n","")
-				string = str(matches)+",  "+artist+",  "+title+",  "+genre+",  "+tempo+",  "+duration+"\n"
-				print(string)
-				table_A.write(artist+","+title+","+genre+","+tempo+","+duration+"\n")
-				break
-
+		if genre != None:
+			matches = matches + 1
+			artist = data[2].replace("b","")
+			artist = artist.replace("\"", "")
+			artist = artist.replace("\'", "")
+			artist = artist.split("/")[0]
+			duration = data[4]
+			tempo = data[6]
+			genre = genre.replace("\n","")
+			string = str(matches)+",  "+artist+",  "+title+",  "+genre+",  "+tempo+",  "+duration+"\n"
+			print(string)
+			table_A.write(artist+","+title+","+genre+","+tempo+","+duration+"\n")
 
