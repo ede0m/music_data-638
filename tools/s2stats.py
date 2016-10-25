@@ -116,6 +116,7 @@ with open(fp,'r') as data_file:
 			temp_list.append(tempo)
 			bpm_dict[genre] = temp_list
 		except KeyError:
+			print(data)
 			genre_miss+= 1
 
 
@@ -186,57 +187,58 @@ print('Q3 DURATION:  ', q3Duration)
 
 # #Song title length hist
 BINS_Title = list(range(0,int(mx_len_title)))
+plt.figure()
 plt.hist(len_title_array,bins = BINS_Title)
 plt.xlabel("Song Title Length in Characters")
 plt.ylabel("Instances")
 plt.title("Histogram Song Title Length")
-plt.savefig('../visual/title_len.png')
-# plt.show()
+plt.savefig('../visual/title_len1.png')
 
 # #Artist Len histogram
 BINS_Artist = list(range(0,int(mx_len_artist)))
+plt.figure()
 plt.hist(len_artist_array, bins = BINS_Artist)
 axes = plt.gca()
 axes.set_xlim([0,80])
 plt.xlabel("Artist Length in Characters")
 plt.ylabel("Instances")
 plt.title("Histogram Artist Length")
-plt.savefig('../visual/artist_len.png')
-#plt.show()
+plt.savefig('../visual/artist_len1.png')
+
 
 #Tempo Histogram
-# TEMPO_BINS = list(range(0,int(mx_tmpo)))
-# plt.hist(tempos, bins=TEMPO_BINS)
-# plt.title('Histogram Tempo per Song')
-# plt.xlabel('Tempo (Beats Per Minute)')
-# plt.ylabel('Instances')
-# plt.savefig('../visual/tempo.png')
-# # plt.show()
+TEMPO_BINS = list(range(0,int(mx_tmpo)))
+plt.figure()
+plt.hist(tempos, bins=TEMPO_BINS)
+plt.title('Histogram Tempo per Song')
+plt.xlabel('Tempo (Beats Per Minute)')
+plt.ylabel('Instances')
+plt.savefig('../visual/tempo1.png')
+# plt.show()
 
 #Duration Histogram
-# DURATION_BINS = list(range(0,int(mx_dur)))
-# plt.hist(durations, bins= DURATION_BINS)
-# plt.title("Durations Of Songs")
-# plt.xlabel("Duration (in seconds)")
-# plt.ylabel("Instances")
-# plt.savefig('../visual/durations.png')
-#plt.show()
+DURATION_BINS = list(range(0,int(mx_dur)))
+plt.figure()
+plt.hist(durations, bins= DURATION_BINS)
+plt.title("Durations Of Songs")
+plt.xlabel("Duration (in seconds)")
+plt.ylabel("Instances")
+plt.savefig('../visual/durations1.png')
 
 # #Genre bar chart
+plt.figure()
 plt.bar(range(len(count_dict)), count_dict.values(), align='center')
 plt.xticks(range(len(count_dict)), count_dict.keys())
 plt.title("Bar Chart of Genres")
 plt.xlabel("Genre")
 plt.ylabel("Instance of Genre")
-plt.savefig('../visual/genres.png')
-# plt.show()
-
+plt.savefig('../visual/genres1.png')
 #BPM by Genre
 for genre, bpm in bpm_dict.items():
 	plt.figure()
 	bpm.sort()
 
-	#converts all items to an int
+# 	#converts all items to an int
 	bpm = list(map(int, bpm))
 	mode = Counter(bpm)
 	print("Genre: " + str(genre) + " MODE IS: " + str(mode.most_common(1)))
@@ -245,4 +247,4 @@ for genre, bpm in bpm_dict.items():
 	plt.title("BPM for " + str(genre))
 	plt.xlabel("BPM")
 	plt.ylabel("Instances")
-	plt.savefig('../visual/GenreBPM/' + str(genre) + "bpm.png")
+	plt.savefig('../visual/GenreBPM/' + str(genre) + "bpm1.png")
