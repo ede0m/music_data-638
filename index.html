@@ -29,11 +29,12 @@
       </header>
       <section>
         <h1>
-<a id="stage-2-deliverable" class="anchor" href="#stage-2-deliverable" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>STAGE 2 DELIVERABLE:</h1>
+<a id="stage-3-deliverable" class="anchor" href="#stage-3-deliverable" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>STAGE 3 DELIVERABLE:</h1>
 
-<p><a href="https://docs.google.com/document/d/1-pyUWX5PMmMWNSUJGMkX99jSjMrQAVmxDR1VWrqX6i8/edit?usp=sharing">(っ◕‿◕)っ</a>  </p>
+<p><a href="https://github.com/Garritt/music_data-638/blob/master/visual_other/blocking-explanation.pdf">(っ◕‿◕)っ **** <em>P_D_F</em> </a>  </p>
 
-<hr>
+<p><a href="https://raw.githubusercontent.com/Garritt/music_data-638/master/csv/candidate_set.csv">candiate set</a><br>
+<a href="https://github.com/Garritt/music_data-638/tree/master/tools/.ipynb_checkpoints">jupyter-workflow</a>  </p>
 
 <hr>
 
@@ -73,7 +74,8 @@ focusing on attributes <strong>artist</strong>, <strong>song_title</strong>, <st
 <ul>
 <li>removed <em>912</em> examples for character encoding and malformed data<br>
 </li>
-<li>removed <em>12690</em> examples for missing data<br>
+<li>removed <em>12690</em> examples for missing data</li>
+<li>removed <em>390</em> examples because of extra attributes (songs contained ",")<br>
 </li>
 <li>traversed <em>33144</em> examples total<br>
 </li>
@@ -83,19 +85,6 @@ focusing on attributes <strong>artist</strong>, <strong>song_title</strong>, <st
 
 <ul>
 <li>specifically removed <em>"'b</em> characters </li>
-</ul>
-
-<h2>
-<a id="transformation" class="anchor" href="#transformation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Transformation</h2>
-
-<hr>
-
-<p>Examples from both musicbrainz data and dump data were matched according to song_title and artist.  </p>
-
-<p>Select attributes <strong>tempo</strong> and <strong>duration</strong> were added to examples that matched from musicbrainz data to form transformed tables.  </p>
-
-<ul>
-<li><a href="https://github.com/Garritt/music_data-638/tree/master/csv/tables">transformed_tables</a></li>
 </ul>
 
 <h2>
@@ -142,6 +131,15 @@ MX DURATION:   2569.01179<br>
 MN DURATION:   0.60036<br>
 Q1 DURATION:   193.98485<br>
 Q3 DURATION:   297.40363  </p>
+
+<h2>
+<a id="blocking" class="anchor" href="#blocking" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Blocking</h2>
+
+<hr>
+
+<p>We reduced the number of candidates from a massive <strong>6,651,032,474</strong> possible matches to <strong>50,109</strong> possible matches.</p>
+
+<p>We explored a few different blocking techniques, but ultimately followed our best measure as a Jaccard Score with 3 gram tokenization across song TITLE and a threshold of (.7). This resulted in our <a href="https://raw.githubusercontent.com/Garritt/music_data-638/master/csv/candidate_set.csv">candidate set</a>.</p>
 
 <h2>
 <a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributors</h2>
