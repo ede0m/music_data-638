@@ -10,6 +10,7 @@ import scrapy
 
 class WebCrawlerItem(scrapy.Item):
 	# define the fields for your item here like:
+	song_year = scrapy.Field()
 	artist_name = scrapy.Field()
 	song_name = scrapy.Field()
 	genre = scrapy.Field()

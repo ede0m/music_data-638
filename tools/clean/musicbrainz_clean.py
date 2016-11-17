@@ -3,23 +3,24 @@ import sys
 import re
 
 ### OUTPUT FILE SPECIFICATION ############
-usable_data = open("../csv/musicbrainz_data.csv", 'w')
+usable_data = open("../../csv/musicbrainz_data_plusyear.csv", 'w')
 ##########################################
 
 empty = 0
 bad_char = 0 
 
 ##### INPUT FILE SPECIFICATION ############
-with open('../json/data_merge.json', encoding='utf-8') as dfile:
+with open('../../json/data_plus_year.json', encoding='utf-8') as dfile:
 ###########################################
 	data = json.load(dfile)
 
-usable_data.write("ID, Artist, Song, Genre\n")
+usable_data.write("ID, Artist, Song, Genre, Year\n")
 
 for i, item in enumerate(data):
 	artist = data[i]['artist_name']
 	song = data[i]['song_name']
 	genre = data[i]['genre']
+	year = data[i]['song_year']
 
 	if(artist == "" or song == ""):
 		empty = empty + 1
@@ -48,7 +49,7 @@ for i, item in enumerate(data):
 		elif re.findall(u"[\U0002b740-\U0002b81f]+", song) or re.findall(u"[\U0002b740-\U0002b81f]+", artist):
 			bad_char = bad_char + 1
 		else:
-			usable_data.write("a"+str(i) + "," + str(artist) + "," + str(song) + "," + str(genre)+"\n")
+			usable_data.write("a"+str(i) + "," + str(artist) + "," + str(song) + "," + str(genre)+ "," + str(year)+"\n" )
 
 print('\nRemoved ', bad_char, ' examples because of characters\n')
 print('Removed ', empty, ' empty examples\n')

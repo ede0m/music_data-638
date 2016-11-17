@@ -46,7 +46,7 @@ with open(fp,'r') as data_file:
 			duration = data[4]
 			tempo = data[6]
 			genre = genre.replace("\n","")
-			string = str(matches)+",  "+artist+",  "+title+",  " + genre+",  "+tempo+",  "+duration+"\n"
+			string = str(matches)+",  "+artist+",  "+title+", " + genre+",  "+tempo+",  "+duration+"\n"
 			print(string)
 			table_A.write(artist+","+title+","+genre+","+tempo+","+duration+"\n")
 

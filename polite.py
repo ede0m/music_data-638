@@ -31,6 +31,8 @@ class Polite(object):
 
 			# Directory creation
 			if not os.path.exists("data/"+string+"/"+string+st_cnt+'/'):
+				print("data/"+string+"/"+string+st_cnt+'/')
+				print(string)
 				os.makedirs("data/"+string+"/"+string+st_cnt+'/')
 			wd = os.path.dirname(os.path.abspath(__file__))
 			fn = wd+"/data/"+string+"/"+string+st_cnt+'/'+string+st_cnt
