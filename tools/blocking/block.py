@@ -1,52 +1,32 @@
-##############################################################
-#	
-#   Script for merging matches from scraped csv table 
-#   and data_dump csv. The merged table combines valuable  
-# 	attributes from both tables to form
-#
-#	This script also takes some stats on table data
-#   
-#   Garritt Moede
-#
-
-
 import os
+import pprint
 
-data_file_path_1 = "../csv/msd_final.csv"
-fp = os.path.relpath(data_file_path_1, os.curdir)
+path_msd = os.path.join(os.getcwd(), "../../csv/msd_final.csv" )
+path_musicbrainz = path_b = os.path.join(os.getcwd(), "../../csv/musicbrainz_final.csv")
+invert_idx = {}
 
-data_file_path_2 = "../csv/musicbrainz_final.csv"
-fp2 = os.path.relpath(data_file_path_2, os.curdir)
+# Construct inverted index. String Tokens
+with open(path_msd, 'r') as data_file:
+    itr = iter(data_file)
+    next(itr)
+    for i, line in enumerate(itr):
+        data = line.split(",")
+        ID = data[0]
+        artist = data[2]
+        prefix = artist[:2]
+        if invert_idx.get(prefix) == None:
+            invert_idx[prefix] = {}
+            invert_idx[prefix][ID] = artist
+        else:
+            invert_idx[prefix][ID] = artist
 
-matches = 0
-usable_data = {}
-table_A = open("../csv/tables/candidate.csv", 'w')
-table_A.write("ID, Artist, Song, Genre, Tempo, Duration\n")
+pprint.pprint(invert_idx)
 
-with open(fp2,'r') as data_file:
-	for i,info in enumerate(data_file):
-		data = info.split(',')
-		title = data[2]
-		genre = data[3]
-		usable_data[title] = genre
+#with open(path_musicbrainz, 'r') as data_file:
+#	itr = iter(data_file)
+#	next(itr)
+#	for i, line in enumerate(itr)
+#		data = line.split(",")
 
 
-with open(fp,'r') as data_file:
-
-	for i,info in enumerate(data_file):
-
-		data = info.split(',')
-		title = data[8]
-		
-		genre = usable_data.get(title)
-
-		if genre != None:
-			matches = matches + 1
-			artist = artist.split("/")[0]
-			duration = data[4]
-			tempo = data[6]
-			genre = genre.replace("\n","")
-			string = str(matches)+",  "+artist+",  "+title+", " + genre+",  "+tempo+",  "+duration+"\n"
-			print(string)
-			table_A.write(artist+","+title+","+genre+","+tempo+","+duration+"\n")
 
