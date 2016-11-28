@@ -20,13 +20,18 @@ with open(path_msd, 'r') as data_file:
         else:
             invert_idx[prefix][ID] = artist
 
-pprint.pprint(invert_idx)
+#pprint.pprint(invert_idx)
 
-#with open(path_musicbrainz, 'r') as data_file:
-#	itr = iter(data_file)
-#	next(itr)
-#	for i, line in enumerate(itr)
-#		data = line.split(",")
+with open(path_musicbrainz, 'r') as data_file:
+	itr = iter(data_file)
+	next(itr)
+	for i, line in enumerate(itr)
+		data = line.split(",")
+		ID = data[0]
+		artist = data[1]
+		prefix = artist[:2]
+		if invert_idx.get(prefix) != None:
+
 
 
 
