@@ -36,8 +36,8 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 
 			sim_artist = jac.get_raw_score(gram3.tokenize(l_artist), gram3.tokenize(r_artist))
 			sim_title = jac.get_raw_score(gram3.tokenize(l_title), gram3.tokenize(r_title))
-			sim_artist = ("%.3f" % sim_artist)
-			sim_title = ("%.3f" % sim_title)
+			sim_artist = ("%.4f" % sim_artist)
+			sim_title = ("%.4f" % sim_title)
 			
 			#print(row_data)
 
@@ -60,7 +60,9 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 feature_vectors.close()
 
 fv = pd.read_csv('../../csv/feature_vectors.csv')
+
 dev_set = fv.sample(n=264, random_state=303, replace=False)
+print(dev_set)
 eval_set = fv.sample(n=132, random_state=303, replace=False)
 
 dev_set.to_csv('../../csv/training/dev_set.csv')

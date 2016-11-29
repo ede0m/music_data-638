@@ -6,7 +6,7 @@ from sklearn.tree import DecisionTreeClassifier
 
 
 #Dev set to set up tree.
-df = DataFrame.from_csv("training/dev_set.csv")
+df = DataFrame.from_csv("../../training/dev_set.csv")
 
 
 #Sets the columns of the vectors we use for ML. Does not include ID column.
@@ -24,7 +24,7 @@ tree = dt.fit(df[features], df['match'])
 
 
 #Model was learned above, now apply to unknown data.
-dTestFrame = DataFrame.from_csv("training/eval_set.csv")
+dTestFrame = DataFrame.from_csv("../../csv/training/eval_set.csv")
 output = (tree.predict(dTestFrame[features]))
 
 
