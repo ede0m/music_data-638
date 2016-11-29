@@ -1,7 +1,7 @@
 ## Feature Generation for learning based entity matching ## 
 
 import py_stringmatching as sm
-#import pandas as pd
+import pandas as pd
 import os, sys
 
 #sample = pd.read_csv('../../csv/sample_label/303/sample.csv')
@@ -11,7 +11,7 @@ feature_vectors = open('../../csv/feature_vectors.csv', 'w')
 
 gram3 = sm.QgramTokenizer(qval=3, return_set=True)
 jac = sm.Jaccard()
-feature_vectors.write('id,sim_title,sim_artist,dif_year,match\n')
+feature_vectors.write('atable_id,btable_id,sim_title,sim_artist,dif_year,match\n')
 ID = 0
 empty = "-"
 
@@ -25,6 +25,8 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 
 		if row_data[10] != "-":	
 			
+			b_t = row_data[2][1:]
+			a_t = row_data[3][1:]
 			l_artist = row_data[5] #row['ltable_artist']
 			r_artist = row_data[8] #row['rtable_aritst']
 			l_title = row_data[4] #row['ltable_title']
@@ -49,8 +51,19 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 			else:
 				year_distance = -1
 		
-			feature_vectors.write(str(ID)+','+str(sim_title)+','+str(sim_artist)+','+str(year_distance)+','+str(row_data[10]))
+			feature_vectors.write(a_t+","+b_t+","+str(sim_title)+','+str(sim_artist)+','+str(year_distance)+','+str(row_data[10]))
 			ID+=1
 		
 		else:
 			print("- disregarded row -")
+
+feature_vectors.close()
+
+fv = pd.read_csv('../../csv/feature_vectors.csv')
+dev_set = fv.sample(n=264, random_state=303, replace=False)
+eval_set = fv.sample(n=132, random_state=303, replace=False)
+
+dev_set.to_csv('../../csv/training/dev_set.csv')
+eval_set.to_csv('../../csv/training/eval_set.csv')
+
+
