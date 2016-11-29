@@ -16,8 +16,8 @@ df = DataFrame.from_csv("training/dev_set.csv")
 features = list(df.columns[2:5])
 
 
-#I don't know what the min_samples_split, random_state are, I just googled it and picked arbitrary numbers.
-dt = DecisionTreeClassifier(min_samples_split=100, random_state=99)
+#Build the tree. min_samples_split takes 20 vectors per sample. Seed for random num gen is 99
+dt = DecisionTreeClassifier(min_samples_split=20, random_state=99)
 
 #Per vector, learn from the features | the match value of that vector.
 tree = dt.fit(df[features], df['match'])
