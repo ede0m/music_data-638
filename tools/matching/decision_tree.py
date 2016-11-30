@@ -6,7 +6,7 @@ from sklearn import metrics, cross_validation
 
 
 #Dev set to set up tree.
-df = DataFrame.from_csv("../../csv/training/dev_set.csv")
+df = DataFrame.from_csv("../../csv/training/dev_set2.csv")
 
 
 #Sets the columns of the vectors we use for ML. Does not include ID column.
@@ -27,7 +27,7 @@ cv_pred = cross_validation.cross_val_predict(t, df[features], df['match'], cv=10
 print("\n\n", metrics.accuracy_score(df['match'], cv_pred))
 print("\n\n", metrics.classification_report(df['match'], cv_pred))
 
-tree.export_graphviz(dt,out_file='../../csv/training/tree.dot')
+tree.export_graphviz(dt,out_file='../../csv/training/tree2.dot',feature_names=features)
 
 
 #Model was learned above, now apply to unknown data.

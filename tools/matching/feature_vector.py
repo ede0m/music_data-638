@@ -7,15 +7,15 @@ import os, sys
 #sample = pd.read_csv('../../csv/sample_label/303/sample.csv')
 
 feature_vectors = open('../../csv/feature_vectors.csv', 'w')
-
+#feature_vectors = open('../../csv/feature_vectors2.csv', 'w')
 
 gram3 = sm.QgramTokenizer(qval=3, return_set=True)
 jac = sm.Jaccard()
 feature_vectors.write('atable_id,btable_id,sim_title,sim_artist,dif_year,match\n')
 ID = 0
-empty = "-"
 
 with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors='ignore') as data_file:
+#with open('../../csv/sample_label/200/sample2.csv', 'r', encoding='utf-8', errors='ignore') as data_file:
 	itr = iter(data_file)
 	next(itr)
 	
@@ -23,7 +23,7 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 		
 		row_data = row.split(',')
 
-		if row_data[10] != "-":	
+		if row_data[10] != "-\n":	
 			
 			b_t = row_data[2][1:]
 			a_t = row_data[3][1:]
@@ -33,13 +33,10 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 			r_title = row_data[7] #row['rtable_title']
 			l_year = row_data[6] #row['ltable_year']
 			r_year = row_data[9] #row['rtable_year']
-
 			sim_artist = jac.get_raw_score(gram3.tokenize(l_artist), gram3.tokenize(r_artist))
 			sim_title = jac.get_raw_score(gram3.tokenize(l_title), gram3.tokenize(r_title))
 			sim_artist = ("%.4f" % sim_artist)
 			sim_title = ("%.4f" % sim_title)
-			
-			#print(row_data)
 
 			if r_year == "-":
 				print("- converted right table year -")
@@ -60,12 +57,13 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 feature_vectors.close()
 
 fv = pd.read_csv('../../csv/feature_vectors.csv')
+#fv = pd.read_csv('../../csv/feature_vectors2.csv')
 
 dev_set = fv.sample(n=264, random_state=303, replace=False)
-print(dev_set)
 eval_set = fv.sample(n=132, random_state=303, replace=False)
 
 dev_set.to_csv('../../csv/training/dev_set.csv')
 eval_set.to_csv('../../csv/training/eval_set.csv')
-
+#dev_set.to_csv('../../csv/training/dev_set2.csv')
+#eval_set.to_csv('../../csv/training/eval_set2.csv')
 
