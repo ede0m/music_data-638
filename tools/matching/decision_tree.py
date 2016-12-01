@@ -31,24 +31,27 @@ tree.export_graphviz(dt,out_file='../../csv/training/tree2.dot',feature_names=fe
 
 
 #Model was learned above, now apply to unknown data.
-#dTestFrame = DataFrame.from_csv("../../csv/training/eval_set.csv")
-#output = (tree.predict(dTestFrame[features]))
+dTestFrame = DataFrame.from_csv("../../csv/training/eval_set2.csv")
+#print(dTestFrame)
+output = (t.predict(dTestFrame[features]))
+#print("output: ",output)
+# Check golden labels 
+g_labels = []
+with open("../../csv/training/eval_set2.csv", 'r') as f:
+	for line in f:
+		g_labels.append(line.split(",")[-1])
+for i, val in enumerate(g_labels):
+	g_labels[i] = val.replace("\n", "")
+g_labels = g_labels[1:]
 
-#Evaluating the results. 
-#eval_results = []
-#with open("training/eval_set.csv", 'r') as f:
-#	for line in f:
-#		eval_results.append(line.split(",")[-1])
-#for i, val in enumerate(eval_results):
-#	eval_results[i] = val.replace("\n", "")
-#eval_results = eval_results[1:]
+correct = 0
+# Evaluate predictions
+total = len(g_labels)
+for i, val in enumerate(output):
+	pred = int(val)
+	true = int(g_labels[i])
+	if pred is true:
+		correct = correct + 1
 
-
-
-#correct = 0
-#incorrect = len(eval_results)
-#for i, val in enumerate(output):
-#	if(val == eval_results[i]):
-#		correct = correct + 1
-#print("Correct: " + str(correct))
-#print("Accuracy: " + str(correct / incorrect))
+print("Correct: " + str(correct))
+print("N_accuracy: " + str(correct / total))
