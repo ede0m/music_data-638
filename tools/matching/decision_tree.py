@@ -1,4 +1,6 @@
+from sklearn.model_selection import cross_val_score
 from pandas import DataFrame
+import numpy
 import os
 import subprocess
 from sklearn import tree
@@ -14,7 +16,6 @@ df = DataFrame.from_csv("../../csv/training/dev_set.csv")
 #ID is ignored because DataFram.from_csv defaults to having the first column as the ID column. 
 #atable_id, btable_id ignored in the following line. Match ignored in the following line because the 2:5 is inclusive:exclusive
 features = list(df.columns[2:5])
-
 
 #Build the tree. min_samples_split takes 20 vectors per sample. Seed for random num gen is 99
 dt = tree.DecisionTreeClassifier(min_samples_split=20, random_state=99)
@@ -35,22 +36,28 @@ output = (t.predict(dTestFrame[features]))
 #print("output: ",output)
 # Check golden labels 
 g_labels = []
+true_lines = []
 with open("../../csv/training/eval_set.csv", 'r') as f:
 	for line in f:
+		true_lines.append(line)
 		g_labels.append(line.split(",")[-1])
 for i, val in enumerate(g_labels):
 	g_labels[i] = val.replace("\n", "")
-g_labels = g_labels[1:]
+g_labels_n = g_labels[1:]
 
 correct = 0
 # Evaluate predictions
-total = len(g_labels)
+total = len(g_labels_n)
 for i, val in enumerate(output):
 	pred = int(val)
-	true = int(g_labels[i])
+	true = int(g_labels_n[i])
+	#print(pred, " ", true)
 	if pred is true:
 		correct = correct + 1
-
+	else:
+		pass
+		#print(pred," ", true)
+		#print(true_lines[i])
 print("Correct: " + str(correct))
 print("N_accuracy: " + str(correct / total))
 

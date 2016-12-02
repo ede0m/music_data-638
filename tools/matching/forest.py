@@ -30,6 +30,7 @@ with open("../../csv/training/eval_set.csv", 'r') as f:
 		g_labels.append(line.split(",")[-1])
 for i, val in enumerate(g_labels):
 	g_labels[i] = val.replace("\n", "")
+	print(g_labels)
 g_labels = g_labels[1:]
 
 correct = 0
@@ -38,8 +39,12 @@ total = len(g_labels)
 for i, val in enumerate(output):
 	pred = int(val)
 	true = int(g_labels[i])
+	#print(pred, " ", true)
 	if pred is true:
 		correct = correct + 1
+	else:
+		print(pred, " ", true)
+		print()
 
 print("Correct: " + str(correct))
 print("N_accuracy: " + str(correct / total))

@@ -40,10 +40,11 @@ total = len(g_labels)
 for i, val in enumerate(output):
 	pred = int(val)
 	true = int(g_labels[i])
+	#print(pred, " ", true)
 	if pred is true:
 		correct = correct + 1
 
-print("TRAINED ON ENTIRE SAMPLE\n")
+print("Evaluation on eval_set")
 print("Correct: " + str(correct))
 print("N_accuracy: " + str(correct / total))
 
