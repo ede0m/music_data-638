@@ -6,7 +6,7 @@ from sklearn import metrics, cross_validation
 
 
 #Dev set to set up tree.
-df = DataFrame.from_csv("../../csv/training/dev_set2.csv")
+df = DataFrame.from_csv("../../csv/training/dev_set.csv")
 
 
 #Sets the columns of the vectors we use for ML. Does not include ID column.
@@ -27,17 +27,17 @@ cv_pred = cross_validation.cross_val_predict(t, df[features], df['match'], cv=10
 print("\n\n", metrics.accuracy_score(df['match'], cv_pred))
 print("\n\n", metrics.classification_report(df['match'], cv_pred))
 
-tree.export_graphviz(dt,out_file='../../csv/training/tree2.dot',feature_names=features)
+tree.export_graphviz(dt,out_file='../../csv/training/tree.dot',feature_names=features)
 
 
 #Model was learned above, now apply to unknown data.
-dTestFrame = DataFrame.from_csv("../../csv/training/eval_set2.csv")
+dTestFrame = DataFrame.from_csv("../../csv/training/eval_set.csv")
 #print(dTestFrame)
 output = (t.predict(dTestFrame[features]))
 #print("output: ",output)
 # Check golden labels 
 g_labels = []
-with open("../../csv/training/eval_set2.csv", 'r') as f:
+with open("../../csv/training/eval_set.csv", 'r') as f:
 	for line in f:
 		g_labels.append(line.split(",")[-1])
 for i, val in enumerate(g_labels):
@@ -55,3 +55,6 @@ for i, val in enumerate(output):
 
 print("Correct: " + str(correct))
 print("N_accuracy: " + str(correct / total))
+cv_pred = cross_validation.correct_val_predict(t, dTestFrame[features], df['match'], cv=10)
+
+
