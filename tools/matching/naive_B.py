@@ -19,15 +19,11 @@ print("\n\n", metrics.classification_report(targets, cv_pred))
 
 ###############################################################################
 
-# train on whole feature vector sample set
-df = pd.DataFrame.from_csv("../../csv/feature_vectors.csv")
-t = nb.fit(df[features], df['match'])
-
 
 #Model was learned above, now apply to unknown data.
 dTestFrame = pd.DataFrame.from_csv("../../csv/training/eval_set.csv")
 #print(dTestFrame)
-output = (t.predict(dTestFrame[features]))
+output = (nb.predict(dTestFrame[features]))
 #print("output: ",output)
 # Check golden labels 
 g_labels = []
@@ -51,7 +47,7 @@ print("TRAINED ON ENTIRE SAMPLE\n")
 print("Correct: " + str(correct))
 print("N_accuracy: " + str(correct / total))
 
-cv_pred_eval = cross_validation.cross_val_predict(t, dTestFrame[features], dTestFrame['match'], cv=10)
+cv_pred_eval = cross_validation.cross_val_predict(nb, dTestFrame[features], dTestFrame['match'], cv=10)
 print("\n\n", metrics.accuracy_score(dTestFrame['match'], cv_pred_eval))
 print("\n\n", metrics.classification_report(dTestFrame['match'], cv_pred_eval))
 

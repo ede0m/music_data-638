@@ -28,11 +28,6 @@ print("\n\n", metrics.classification_report(df['match'], cv_pred))
 tree.export_graphviz(dt,out_file='../../csv/training/tree.dot',feature_names=features)
 
 
-# train on whole feature vector sample set
-df = DataFrame.from_csv("../../csv/feature_vectors.csv")
-t = dt.fit(df[features], df['match'])
-
-
 #Model was learned above, now apply to unknown data.
 dTestFrame = DataFrame.from_csv("../../csv/training/eval_set.csv")
 #print(dTestFrame)
