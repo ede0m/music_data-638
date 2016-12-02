@@ -21,13 +21,16 @@ dt = tree.DecisionTreeClassifier(min_samples_split=20, random_state=99)
 
 #Per vector, learn from the features | the match value of that vector.
 t = dt.fit(df[features], df['match'])
-
+# Cross validation 10 folds 
 cv_pred = cross_validation.cross_val_predict(t, df[features], df['match'], cv=10)
-
 print("\n\n", metrics.accuracy_score(df['match'], cv_pred))
 print("\n\n", metrics.classification_report(df['match'], cv_pred))
-
 tree.export_graphviz(dt,out_file='../../csv/training/tree.dot',feature_names=features)
+
+
+# train on whole feature vector sample set
+df = DataFrame.from_csv("../../csv/feature_vectors.csv")
+t = dt.fit(df[features], df['match'])
 
 
 #Model was learned above, now apply to unknown data.
@@ -55,6 +58,10 @@ for i, val in enumerate(output):
 
 print("Correct: " + str(correct))
 print("N_accuracy: " + str(correct / total))
-cv_pred = cross_validation.correct_val_predict(t, dTestFrame[features], df['match'], cv=10)
+
+cv_pred_eval = cross_validation.cross_val_predict(t, dTestFrame[features], dTestFrame['match'], cv=10)
+print("\n\n", metrics.accuracy_score(dTestFrame['match'], cv_pred_eval))
+print("\n\n", metrics.classification_report(dTestFrame['match'], cv_pred_eval))
+
 
 
