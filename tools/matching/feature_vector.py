@@ -1,12 +1,11 @@
 ## Feature Generation for learning based entity matching ## 
-
 import py_stringmatching as sm
 import pandas as pd
 import os, sys
 
 #sample = pd.read_csv('../../csv/sample_label/303/sample.csv')
 
-feature_vectors = open('../../csv/feature_vectors.csv', 'w')
+feature_vectors = open('../../csv/sample_label/feature_vectors.csv', 'w')
 #feature_vectors = open('../../csv/feature_vectors2.csv', 'w')
 
 gram3 = sm.QgramTokenizer(qval=3, return_set=True)
@@ -56,14 +55,15 @@ with open('../../csv/sample_label/303/sample.csv', 'r', encoding='utf-8', errors
 
 feature_vectors.close()
 
-fv = pd.read_csv('../../csv/feature_vectors.csv')
+#fv = pd.read_csv('../../csv/feature_vectors.csv')
 #fv = pd.read_csv('../../csv/feature_vectors2.csv')
 
-dev_set = fv.sample(n=264, random_state=303, replace=False)
-eval_set = fv.sample(n=132, random_state=303, replace=False)
 
-dev_set.to_csv('../../csv/training/dev_set.csv')
-eval_set.to_csv('../../csv/training/eval_set.csv')
+#### DEV SET AND EVAL SET IF NEEDED ########### 
+#dev_set = fv.sample(n=264, random_state=303, replace=False)
+#eval_set = fv.sample(n=132, random_state=303, replace=False)
+#dev_set.to_csv('../../csv/training/dev_set.csv')
+#eval_set.to_csv('../../csv/training/eval_set.csv')
 #dev_set.to_csv('../../csv/training/dev_set2.csv')
 #eval_set.to_csv('../../csv/training/eval_set2.csv')
 

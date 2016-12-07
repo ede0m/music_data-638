@@ -6,6 +6,7 @@ import subprocess
 from sklearn import tree
 from sklearn import metrics, cross_validation
 
+print("-- D Tree --")
 
 #Dev set to set up tree.
 df = DataFrame.from_csv("../../csv/training/dev_set.csv")
@@ -30,45 +31,15 @@ print("\n\nTRAIN cvs: ",numpy.mean(score))
 #print( metrics.classification_report(df['match'], cv_pred))
 tree.export_graphviz(dt,out_file='../../csv/training/tree.dot',feature_names=features)
 
-
 ################### EVAL ###########################
 #Model was learned above, now apply to unknown data.
 dTestFrame = DataFrame.from_csv("../../csv/training/eval_set.csv")
 #print(dTestFrame)
 output = (t.predict(dTestFrame[features]))
 
-#print("output: ",output)
-# # Check golden labels 
-# g_labels = []
-# true_lines = []
-# with open("../../csv/training/eval_set.csv", 'r') as f:
-# 	for line in f:
-# 		true_lines.append(line)
-# 		g_labels.append(line.split(",")[-1])
-# for i, val in enumerate(g_labels):
-# 	g_labels[i] = val.replace("\n", "")
-# g_labels_n = g_labels[1:]
-
-# correct = 0
-# # Evaluate predictions
-# total = len(g_labels_n)
-# for i, val in enumerate(output):
-# 	pred = int(val)
-# 	true = int(g_labels_n[i])
-# 	#print(pred, " ", true)
-# 	if pred is true:
-# 		correct = correct + 1
-# 	else:
-# 		pass
-# 		#print(pred," ", true)
-# 		#print(true_lines[i])
-# print("Correct: " + str(correct))
-# print("N_accuracy: " + str(correct / total))
-
 cv_eval = cross_validation.cross_val_score(t, dTestFrame[features], dTestFrame['match'], cv=10)
 print("\nEVAL: cvs: ",numpy.mean(score),"\n\n")
-#print("\n\n", metrics.accuracy_score(dTestFrame['match'], cv_pred_eval))
-#print("\n\n", metrics.classification_report(dTestFrame['match'], cv_pred_eval))
+
 
 
 
