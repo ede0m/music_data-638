@@ -58,11 +58,11 @@ for index, row in matches.iterrows():
  	timesignature = ser_b[6]
 
  	## Construct Golden Dataframe of Matches
- 	series = [index, title, artist, genre, duration, tempo, timesignature, keysignature, year]
+ 	series = [title, artist, genre, duration, tempo, timesignature, keysignature, year]
  	golden_tups.append(series)
 
 
-golden = pd.DataFrame(golden_tups, columns = ["id", "title", "artist", "genre", "duration", "tempo", "timesignature", "keysignature", "year"])
+golden = pd.DataFrame(golden_tups, columns = ["title", "artist", "genre", "duration", "tempo", "timesignature", "keysignature", "year"])
 golden.to_csv("../../csv/golden.csv")
 
 
