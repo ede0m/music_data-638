@@ -18,7 +18,8 @@ drop_genre = sample.drop('genre', 1)
 
 ## Feature Vectors --- BARE rn
 #features1 = list(drop_genre.columns[3:5])
-#features2 = list(drop_genre.columns[6:])
+
+features2 = list(drop_genre.columns[6:])
 #features = features1 + features2
 print(list(drop_genre.columns[:]))
 features = list(drop_genre.columns[3:4])
